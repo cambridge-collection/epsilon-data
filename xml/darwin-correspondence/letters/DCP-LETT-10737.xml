@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10737">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From George Rolleston   29 December 1876</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">10570</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10737 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10737.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10737.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp, encl 2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 176: 213</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>176: 213</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4069.xml">Rolleston, George</persName>
+                <placeName>Oxford</placeName>
+                <date when="1876-12-29">29 Dec 1876</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Studying anatomy of the Irish pig.</p> 
+<p>Emil Bessels’ paper is in <hi rend="italic">Archiv für Anthropologie</hi> 8 (1875): 107. He connects a band of poor Eskimos encountered at Smith’s Sound with glacial man.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">pig, Irish</term>
+                <term type="geology" ref="#">glacial period</term>
+                <term type="human_group" ref="#">Eskimos</term>
+                <term type="it" ref="#">Archiv fur Anthropologie</term>
+                <term type="places" ref="#">Smith’s Sound</term>
+                <term type="rx" ref="#">Bessels, Emil 1875</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

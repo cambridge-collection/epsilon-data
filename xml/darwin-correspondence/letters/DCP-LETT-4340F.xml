@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4340F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Edward Sabine to John Phillips   12 November 1863</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21122</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4340F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4340F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4340F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 11: 668–70 </bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">American Philosophical Society (Misc. MS collection: Mss.Ms.Coll.200)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_13.xml">APS</repository>
+                    <collection>Misc. MS collection</collection>
+                    <idno>Mss.Ms.Coll.200</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4140.xml">Sabine, Edward</persName>
+                <placeName>Royal Society, Burlington House, London W.</placeName>
+                <date when="1863-11-12">12 Nov 1863</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3773.xml">Phillips, John</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Preparation for his address with particular concern that JP approve the part relating to [Adam] Sedgwick. Urges JP to sit at dinner with him as a sign of approval of the award [of the Copley Medal].</p> 
+<p>Admits his own dismay regarding the efforts of the younger geologists and zoologists to obtain the Copley Medal for CD on the grounds of the <hi rend="italic">Origin</hi> and his anxiety about the next year’s award.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Origin</term>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="people" ref="#">geologists, younger</term>
+                <term type="people" ref="#subject_4276">Sedgwick, Adam</term>
+                <term type="people" ref="#">zoologists, younger</term>
+                <term type="rx" ref="#">Sabine, Edward 1863</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Copley Medal</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

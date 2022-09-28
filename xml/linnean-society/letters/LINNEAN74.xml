@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN74">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Marsham, 50 Baker Street, Portman Squre, [London], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64447/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/ADD/60, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Marsham, Thomas">Thomas Marsham</persName>
+                    <placeName>London</placeName>
+                    <date when="1796-12-24">24 Dec 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Directions for Smith to obtain box expected for him from Calcutta, before going through Customs House; Smith still has a friend at Court, Mr Dominicus, brother-in-law to [William] Kirby and Mrs Sutton. He is making two cabinets, one for insects and one for shells. [Jonas] Dryander presided [at Linnean Society] but was very ill "with the Piles". [Aylmer Bourke] Lambert also ill.</p><p>Papers for "Linnean Transactions" vol 3 plentiful, including ones by [John] Latham on "The Trachea of Birds" and [Bracy] Clark's paper. Sorry to hear that ideas have started for removing Smith from his Chair; reassures Smith he does not think so and thinks the best solution for Smith's absence is a "steady &amp; active substitute", which [Jonas] Dryander is to undertake.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

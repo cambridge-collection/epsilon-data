@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1359">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Blackheath, [Kent], to William Roscoe, Alleton Hall, near Liverpool, [Lancashire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63282/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/51, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Blackheath, Kent</placeName>
+                    <date when="1807-05-14">14 May 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Staying with his cousins [the Kindersleys]. Roscoe's address [announcing withdrawal from Liverpool election] is admired by all, and Sir Joseph Banks told [Jonas] Dryander it was "the best he had ever seen", though all are convinced he should not withdraw, especially as William Smith has just been reelected. "Astonished &amp; indignant beyond measure" at Roscoe's countrymen._x000D_</p><p>His health is good and lung iunflammation cleared following a "good dose or two of James's powder"; comments on "noise &amp; dirt" in Covent Garden now. Roscoe not put into Linnean Society council as he is too far from London, though finds everyone at the Society is disposed to his wishes anyway. [Richard] Salisbury is "quarelling" with everyone, and whilst breakfasting at the Banks' on Sunday they had an awkward, accidental meeting, which passed with "distant civility", and was the first time they have met outside of the Linnean Society._x000D_</p><p>[Thomas] Johnes has lost his election and [James] Brodie likely to lose his, "a great loss to me as a franker", but not to the country as he was a "mere Melville tool".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-382">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. S. Henslow   14 October [1837]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">5245</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-382 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-382.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-382.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 145: 49</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Darwin and Henslow</hi>: 138;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 1: 285</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 2: 50</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Royal Botanic Gardens, Kew (Henslow letters: 42 DAR/1/1/42)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_213.xml">Kew</repository>
+                    <idno>Henslow letters: 42 DAR/1/1/42</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Shrewsbury</placeName>
+                <date when="1837-10-14">14 Oct [1837]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2235.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>CD’s reasons for his reluctance to take the Secretaryship of the Geological Society.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">secretaryship of Geological Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

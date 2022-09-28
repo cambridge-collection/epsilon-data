@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1628">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Rome, [Italy], to James Smith, Market Place, Norwich, [Norfolk], Inghilterra</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63570/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/51, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Rome, Italy</placeName>
+                    <date when="1787-04-11">11 Apr 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His last letter was of 26 March 1787, and recently received his father's of 4 January 1787. Religious liberty in Europe: has felt perfectly at ease in both Marseilles and Rome, and thinks people here "more liberal &amp; less persecuting" than the Scottish; an impudent friend. Fears he has only made useful commercial connections for his father in Montpelier. Concerned for Miss Donne. His letters to Sir Joseph Banks. Does not enjoy Italian bread. Concerned for parcel of books he sent via [Nicholas] Gwyn. Account of his [and William Younge's] activities in Rome, including trip to the palace Borghese, list of artworks seen, criticism; visit to St Peter's, description of interiors and opinion of the Pope. Distinguished foreign visitors. Fireworks at St Angelo.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

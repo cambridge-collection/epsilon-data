@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7387F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To P. L. Sclater   5 December 1870</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21142</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7387F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7387F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7387F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Dr W. N. Livingstone (private collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_243.xml">Livingstone, Dr W. N.</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1870-12-05">5 Dec 1870</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4251.xml">Sclater, P. L.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Is sending by this post three sheets and will send another tomorrow thus almost completing the part on birds. His congratulations and thanks for PLS’s labours with them.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">birds</term>
+                <term type="it" ref="#">Descent</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

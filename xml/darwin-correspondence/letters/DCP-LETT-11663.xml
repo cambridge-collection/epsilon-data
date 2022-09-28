@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11663">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To G. H. Darwin   17 [August 1878]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7504</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11663 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11663.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11663.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 210.1: 73</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>210.1: 73</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Barlaston</placeName>
+                <date when="1878-08-17">17 [Aug 1878]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1224.xml">Darwin, G. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>He and Emma rejoice that GHD’s mathematical troubles are at an end. It is miraculous that he unconsciously followed the right course – like composing a sonata by a fluke.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1218">Darwin, Emma</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00233_files/8/0_0.jpg" width="4570px" height="3548px"/>
+        <graphic decls="#preview-tile-zoomed" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00233_files/11/1_1.jpg" width="4570px" height="3548px"/>
+        <surface n="73:1r" xml:id="i233">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00233.jpg" width="4570px" height="3548px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00233_files/8/0_0.jpg" width="4570px" height="3548px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00233.dzi" width="4570px" height="3548px"/>
+        </surface>
+        <surface n="73:1v" xml:id="i234">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00234.jpg" width="4570px" height="3548px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00234_files/8/0_0.jpg" width="4570px" height="3548px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00234.dzi" width="4570px" height="3548px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1728">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Francis Hamilton, Leny, [Stirling], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61614/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/140, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hamilton, Francis">Francis Hamilton</persName>
+                    <placeName>Leny, Stirling</placeName>
+                    <date when="1819-07-18">18 Jul 1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 10 June. Intends to come to London as soon as his leg has recovered, hopes to see Smith. Thinks Smith will find [Nathaniel] Wallich an excellent correspondent. Mentions an accident happening to boxes Smith sent to Edinburgh. Has seen little of Rees's "Encyclopedia" but hopes Smith will persist in publishing a Mantissa, urges Smith to use his collections in the East India Company's library, has no intention of using it for himself. Has had difficulties in publishing his work on fish and is disillusioned with dealers and booksellers. Also publishing his tables of the "Hindu Genealogies", hopes it will lead to a "much greater extent of historical knowledge than was thought to exist". Attempting to acclimatise foreign plants in a wooded glen near his house, asks Smith to send any seeds or roots that might be suited to such conditions, especially English orchids.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

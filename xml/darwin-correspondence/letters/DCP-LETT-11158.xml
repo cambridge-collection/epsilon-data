@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11158">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Sara Sedgwick   29 September [1877]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20210</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11158 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11158.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11158.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="25">25</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">photocopy</note>
+            <note type="physdesc" n="ALS">3pp</note>
+            <relatedItem type="publication">
+                <bibl>Emma Darwin 2: 229</bibl>
+            </relatedItem>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 249: 90</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The British Library (Surrogate RP 9524)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <idno>RP 9524</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1877-09-29">29 Sept [1877]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1240.xml">Sedgwick, Sara</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Rejoices that SS has accepted his son [William]. Judging from his own experience "life would be a most dreary blank without a dear wife to love with all one’s soul".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1245">Darwin, W. E.</term>
+                <term type="people" ref="#subject_1240">Sedgwick, Sara</term>
+                <term type="social" ref="#">Darwin family</term>
+                <term type="social" ref="#">engagement</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

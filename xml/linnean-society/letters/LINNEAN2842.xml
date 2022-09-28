@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2842">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Hawkins, Sunbury[-on-Thames, Surrey], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61884/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/34, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hawkins, John">John Hawkins</persName>
+                    <placeName>Sunbury-on-Thames, Surrey</placeName>
+                    <date when="1800-02-13">13 Feb [1800]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Unknown">Unknown</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Details of [John] Sibthorp's journeys and collections. Convinced the specimens Smith believes are missing are merely mislaid as duplicates of every uncommon species were collected, one of each being given to Sir Joseph Banks. Recommends contacting [Ferdinand Lucas] Bauer [(1760-1826) botanical artist] for information on plants from first tour in 1787. Details of methodology of Sibthorp's journals and provenance of Dacian, Olympian and Cretan collections. The last tour's collection was given to Dr Wenman although uncertain whether he rearranged or almagamated any of it, in addition to this also collections of plants from Zante and Maina, as well as collections of insects, fish, birds, shells, quadrupeds, and seeds. Smith should have two large and distinct collections of Greek plants from the two tours. Believes if Bauer cannot execute "Flora Graeca" on his own terms he will decline it, citing in part the "sacrafice of liberty in so tedious a work" and the problem of finding good assistants. If he did take on the work would take girls to be his assistants "who are more manageable", reminds him of George Forster's plan to translate English works into German "with the assistance of females".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

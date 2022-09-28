@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN971">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall, Orbe, [Switzerland], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62949/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/65, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                    <date when="1793-12-06">6 Dec 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Hopes Smith received parcel sent on 13 October via Mr Sympson containing two letters for Smith and three parcels of seed including 'Minuartia campestris', 'Androsace lactea', and 'Lavatera punctata'.</p><p>Transcribes, in French, conversation with and letter from [Jacob] Wyttenbach about a Berne fireworks display which cost more than Haller's collections which the Berne authorities had refused to buy; laments that Haller's herbarium is not available for consultation in Berne. Unable to forward Smith's parcel to [Jacques] Dorthes in Montpellier as communications between there and Geneva have ceased.</p><p>Lists reasons for delays with his book: ill-health, lack of space, greater temptation of the "delightful verdure of the country", bad winter light, expanding his herbarium, caring for his garden, his wife's ill health , death of their first child, and family matters. As foreseen by Smith he was too communicative about his plans and Haller's son has taken advantage: after sending him specimens and observations received a manuscript titled "Tentamen additament" or "ad Hist. Stirp. Helv." to be printed in a German magazine in Berne containing articles Haller had no idea of before their "imprudent communications". Infant son in good health.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

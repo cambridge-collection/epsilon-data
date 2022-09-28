@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1381">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roscoe to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63302/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/71, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    
+                    <date when="1810-06-18">18 Jun 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends sketch of his paper on "natural &amp; artificial arrangements of plants" to Smith [see RelatedMaterial below]; comments and remarks on contents.</p><p>Sends the 'Cryptogamous' plant found by Henry Shepherd, brother of John Shepherd [(c 1764-1836, curator Liverpool Botanic Garden] for Smith's opinion. Shepherd thanks Smith for parcel of seeds. Allerton undergoing great changes including completion of modern elevation and sweeping away of old gardens. Anxious to see Smith's "Tour to Hafod". Asks for details of plan, extent, and price of "Flora Graeca". Still regrets cessation of "Exotic botany"; urges Smith to consider an edition of the works of Linnaeus, of which Smith is the only possible editor. Mr Martin [Smith's brother-in-law] making little progress in his recovery.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3974">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Camille Dareste<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   8 February 1863</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16663</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3974 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3974.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3974.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp (French)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 162: 42</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>162: 42</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1196.xml">Dareste, G. M. C.</persName>
+                <placeName>Lille</placeName>
+                <date when="1863-02-08">8 Feb 1863</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Has read <hi rend="italic">Origin</hi> with satisfaction. He had long ago come to consider the fixity of species as contrary to the facts, but could see no suitable alternative. The <hi rend="italic">Origin</hi> has brought the light to guide him.</p>  
+<p>Sends CD a copy of his latest work ["Mémoire sur la production artificielle des monstruosités", <hi rend="italic">Ann. Sci. Nat. (Zool.)</hi> 4th ser. 18 (1862): 243–76]. Hopes to explain a great number of anomalies by his experimental work on artificially produced monstrosities.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Ann. Sci. Nat. (Zool.)</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="rx" ref="#">Dareste, G. M. C. 1862</term>
+                <term type="scientific_terms" ref="#">breeding (artificial)</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">monstrosity</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

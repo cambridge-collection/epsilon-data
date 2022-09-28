@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10093">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From A. M. Lane Fox to E. F. Lubbock   25 July [1875]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16885</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10093 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10093.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10093.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †† (by CD)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 164: 170</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>164: 170</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_7551.xml" resp="high">Lane Fox, A. M.</persName>
+                <placeName>Guildford</placeName>
+                <date when="1875-07-25">25 July [1875]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3021.xml" resp="high">Lubbock, E. F.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Recounts the removal and regrowth of her son’s extra digit; her grandfather showed the same condition.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#">Fox Pitt, A. L.’s grandfather</term>
+                <term type="people" ref="#">Fox Pitt, A. L.’s son</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">monstrosity</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00727_files/8/0_0.jpg" width="2998px" height="5282px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00727_files/11/1_1.jpg" width="2998px" height="5282px"/>
+        <surface n="170:1r" xml:id="i727">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00727.jpg" width="2998px" height="5282px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00727_files/8/0_0.jpg" width="2998px" height="5282px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00727.dzi" width="2998px" height="5282px"/>
+        </surface>
+        <surface n="170:1v" xml:id="i728">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00728.jpg" width="2998px" height="5282px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00728_files/8/0_0.jpg" width="2998px" height="5282px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00728.dzi" width="2998px" height="5282px"/>
+        </surface>
+        <surface n="170:2r" xml:id="i729">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00729.jpg" width="2998px" height="5282px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00729_files/8/0_0.jpg" width="2998px" height="5282px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00729.dzi" width="2998px" height="5282px"/>
+        </surface>
+        <surface n="170:2v" xml:id="i730">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00730.jpg" width="2998px" height="5282px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00730_files/8/0_0.jpg" width="2998px" height="5282px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00730.dzi" width="2998px" height="5282px"/>
+        </surface>
+        <surface n="170:1v-2r" xml:id="i731">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00731.jpg" width="5581px" height="5135px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00731_files/8/0_0.jpg" width="5581px" height="5135px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00731.dzi" width="5581px" height="5135px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

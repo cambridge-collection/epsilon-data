@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1584">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Pleasance Smith, Lowestoft, [Suffolk], to Sir James Edward Smith, Edward Forster's Esq, Hale End, Walthamstow, [Middlesex]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63653/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/134, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                    <date when="1826-06-05">5 Jun 1826</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Walthamstow, Middlesex</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Change in the weather; "extraordinary phenomena" of a "yellowish substance" observed on surface of rain water cisterns which on burning proved to be sulphur; Mr Dalton the chemist says it has not been observed since the execution of Charles I and Cromwell's usurpation, as mentioned by Baker, unable to find this in his "Chronicles"; other opinions on the cause, including being swept up from volcanic mountains. Discussion of Norwich election with Bishop of Norwich [Henry Bathurst (1744-1837)]. A grebe taken on a ship's deck; sent to be stuffed. A very bad mackerel voyage, causing the pedlars to make trouble. Dined at the Lockwood's; a picture of Mrs Lockwood's great aunt by Sir Thomas Lawrence.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

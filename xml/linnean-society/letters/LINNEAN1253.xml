@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1253">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Hafod, [Cardiganshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63212/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/97, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Hafod, Cardiganshire</placeName>
+                    <date when="1813-10-03">3 Oct 1813</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letter of 22 September and basket of plants, they have the 'Corchorus' which is "very beautiful" and thrives well outside. Recently visited Weymouth, [Dorset], where they now intend to annually spend the spring months, the only unpleasant ones at Hafod. Regrets never having accepted [Thomas William] Coke and Smith's invitations to Norfolk. Expects his journeys to London to become less frequent in future.</p><p>Nothing can be done in Parliament, and the "late disgraceful business of the Princess [Charlotte] of Wales [(1796-1817)] has shown all parties in base colours"; thinks it is the fault of the "two great leaders" being taken away, dreads a "general crash".</p><p>Ill-use by his relations has left him anxious to dispose of the reversion of Hafod to some "rich man of taste". He has made so many improvements that Smith would not know the place.</p><p>[Note in pencil states that Johnes was 66 years old on 2 September 1813]</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

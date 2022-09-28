@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2249">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Asa Gray   [before 3 April 1858]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6510</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2249 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2249.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2249.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="inc">†</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 165: 103</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>165: 103</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+                <placeName>unstated</placeName>
+                <date notBefore="1809-01-01" notAfter="1858-04-02">[before 3 Apr 1858]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>List of close species taken from AG’s <hi rend="italic">Manual of botany</hi> [1848].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Manual of botany</term>
+                <term type="rx" ref="#">Gray, Asa 1848</term>
+                <term type="scientific_terms" ref="#">close species</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00468_files/8/0_0.jpg" width="3367px" height="5768px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00468_files/11/1_1.jpg" width="3367px" height="5768px"/>
+        <surface n="103:1r" xml:id="i468">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00468.jpg" width="3367px" height="5768px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00468_files/8/0_0.jpg" width="3367px" height="5768px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00468.dzi" width="3367px" height="5768px"/>
+        </surface>
+        <surface n="103:1v" xml:id="i469">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00469.jpg" width="3367px" height="5768px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00469_files/8/0_0.jpg" width="3367px" height="5768px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00469.dzi" width="3367px" height="5768px"/>
+        </surface>
+        <surface n="103:2r" xml:id="i470">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00470.jpg" width="3367px" height="5768px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00470_files/8/0_0.jpg" width="3367px" height="5768px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00470.dzi" width="3367px" height="5768px"/>
+        </surface>
+        <surface n="103:2v" xml:id="i471">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00471.jpg" width="3418px" height="5768px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00471_files/8/0_0.jpg" width="3418px" height="5768px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00471.dzi" width="3418px" height="5768px"/>
+        </surface>
+        <surface n="103:1v-2r" xml:id="i472">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00472.jpg" width="6428px" height="5701px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00472_files/8/0_0.jpg" width="6428px" height="5701px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00472.dzi" width="6428px" height="5701px"/>
+        </surface>
+        <surface n="103:3r" xml:id="i473">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00481.jpg" width="6246px" height="5639px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00481_files/8/0_0.jpg" width="6246px" height="5639px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00481.dzi" width="6246px" height="5639px"/>
+        </surface>
+        <surface n="103:3v" xml:id="i474">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00473.jpg" width="3476px" height="5742px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00473_files/8/0_0.jpg" width="3476px" height="5742px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00473.dzi" width="3476px" height="5742px"/>
+        </surface>
+        <surface n="104:1r" xml:id="i475">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00474.jpg" width="3448px" height="5742px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00474_files/8/0_0.jpg" width="3448px" height="5742px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00474.dzi" width="3448px" height="5742px"/>
+        </surface>
+        <surface n="104:1v" xml:id="i476">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00475.jpg" width="3323px" height="5716px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00475_files/8/0_0.jpg" width="3323px" height="5716px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00475.dzi" width="3323px" height="5716px"/>
+        </surface>
+        <surface n="104:2r" xml:id="i477">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00476.jpg" width="3323px" height="5716px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00476_files/8/0_0.jpg" width="3323px" height="5716px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00476.dzi" width="3323px" height="5716px"/>
+        </surface>
+        <surface n="104:2v" xml:id="i478">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00477.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00477_files/8/0_0.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00477.dzi" width="3287px" height="5716px"/>
+        </surface>
+        <surface n="104:3r" xml:id="i479">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00478.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00478_files/8/0_0.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00478.dzi" width="3287px" height="5716px"/>
+        </surface>
+        <surface n="104:3v" xml:id="i480">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00479.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00479_files/8/0_0.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00479.dzi" width="3287px" height="5716px"/>
+        </surface>
+        <surface n="104:2v-3r" xml:id="i481">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00480.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00480_files/8/0_0.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00480.dzi" width="3287px" height="5716px"/>
+        </surface>
+        <surface n="105:1r" xml:id="i482">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00482.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00482_files/8/0_0.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00482.dzi" width="3287px" height="5716px"/>
+        </surface>
+        <surface n="105:1v" xml:id="i483">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00483.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00483_files/8/0_0.jpg" width="3287px" height="5716px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00483.dzi" width="3287px" height="5716px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

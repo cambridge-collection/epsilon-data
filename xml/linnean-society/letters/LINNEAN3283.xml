@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3283">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Constantine Samuel Rafinesque, Palermo, [Sicily], to James Edward Smith, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62348/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/9/21, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Rafinesque, Constantine Samuel">Constantine Samuel Rafinesque</persName>
+                    <placeName>Palermo, Sicily</placeName>
+                    <date when="1810-06-20">20 Jun 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has not received the letter or package Smith sent last year. Sending copy of his recently published book with Ortolani, "Statistica generale di Sicilia", and will send his "Indice d'ittiologia siciliana" once it is published. Corrects errors in the plants he sent with a previous letter: his 'Saxifraga tenella' appears to be 'Saxifraga hederacea' L.; his 'Orabanche rubia' perhaps a variety of 'O. fetida' Desf.; his 'Arum autumnalis' variety of 'Arum augustifolium' L.; his 'Hippocrepis biflora' variety of 'Hippocrepis [multisiliquosa]' L.; his 'Scabiosa sessiliflora' same as 'Scabiosa dichotoma' of Bernardino D'Ucria and 'Scabiosa parviflora' of [René Louiche] Desfontaines. Query on stigma of 'Cistus'.</p><p>Asks for the botanical news since 1805 and whether [Carl Ludwig] Willdenow's "Species Plantarum", [Christiaan Hendrik] Persoon's "Synopsis", and "L'Encyclopedie Methodique" are complete and available in England, following interruption of Sicily's communications with the rest of Europe. Requests copy of Smith's "Prodromus flora Graeca". Requests characters of all new plant genera described since 1805, lists the genera he knows only by name and gives an example of the format he would like them in [Smith has annotated in margin: "sent my paper from ann. of Bot."]. The genera are for his "great work", the aim of which is to apply a simple and uniform method to all plant genera in a similar manner as the classfifcation of animals in zoology.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

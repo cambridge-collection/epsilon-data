@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5635">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Lubbock   28 September [1867]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6850</idno>
+            <date when="2006">2006</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5635 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5635.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5635.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="15">15</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 170: 58</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>170: 58</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3026.xml">Lubbock, John</persName>
+                <placeName>High Elms</placeName>
+                <date when="1867-09-28">28 Sept [1867]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Returns R. G. Haliburton’s paper ["The unity of the human race proved by the universality of certain superstitions connected with sneezing", reprinted in <hi rend="italic">New materials for the history of man</hi> (1863)] and sends one of his own partly in answer to it ["The early condition of man", <hi rend="italic">Anthropol. Rev.</hi> 6 (1868): 1–14].</p> 
+            <p>Capital BAAS meeting at Dundee.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">New materials for the history of man</term>
+                <term type="places" ref="#">Dundee</term>
+                <term type="rx" ref="#">Haliburton, R. G. 1863</term>
+                <term type="scientific_terms" ref="#">historical time</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">mind, cognitive behaviour</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">meeting</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">BAAS</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

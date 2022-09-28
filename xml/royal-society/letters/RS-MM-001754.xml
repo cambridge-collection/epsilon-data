@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001754">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas P Walton, Alla Casa di Conrade Martens &amp; Co., Santa Maria Nova, Venice, to Edward Bancroft, France's Street, Upper Gower Street, London</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 4p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/23/10, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/23/10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Thomas P Walton, Alla Casa di Conrade Martens &amp; Co., Santa Maria Nova">Thomas P Walton, Alla Casa di Conrade Martens &amp; Co., Santa Maria Nova</persName>
+               <date when="1792-07-05">5 July 1792</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Edward Bancroft, France's Street, Upper Gower Street">Edward Bancroft, France's Street, Upper Gower Street</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

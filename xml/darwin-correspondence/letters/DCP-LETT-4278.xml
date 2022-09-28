@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4278">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Goodsir   27 August [1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16981</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4278 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4278.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4278.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp damaged</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 165: 74</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>165: 74</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1916.xml">Goodsir, John</persName>
+                <placeName>Edinburgh</placeName>
+                <date when="1863-08-27">27 Aug [1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Has found no <hi rend="italic">Sarcina</hi> on the slides of fluid [see <hi rend="doubleUnderline">4272</hi>] and nothing referable to the food. Will repeat examination if vomiting recurs.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">4272</term>
+                <term type="animals" ref="#">Sarcina</term>
+                <term type="health" ref="#">Darwin himself, bad or deteriorating</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00358_files/8/0_0.jpg" width="3389px" height="5960px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00358_files/11/1_1.jpg" width="3389px" height="5960px"/>
+        <surface n="74:1r" xml:id="i358">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00358.jpg" width="3389px" height="5960px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00358_files/8/0_0.jpg" width="3389px" height="5960px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00358.dzi" width="3389px" height="5960px"/>
+        </surface>
+        <surface n="74:1v" xml:id="i359">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00359.jpg" width="3360px" height="5810px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00359_files/8/0_0.jpg" width="3360px" height="5810px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00359.dzi" width="3360px" height="5810px"/>
+        </surface>
+        <surface n="74:2r" xml:id="i360">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00360.jpg" width="3389px" height="5960px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00360_files/8/0_0.jpg" width="3389px" height="5960px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00360.dzi" width="3389px" height="5960px"/>
+        </surface>
+        <surface n="74:2v" xml:id="i361">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00361.jpg" width="3263px" height="5810px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00361_files/8/0_0.jpg" width="3263px" height="5810px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00361.dzi" width="3263px" height="5810px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

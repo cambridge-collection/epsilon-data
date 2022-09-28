@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1047">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Frankland, Thirkleby Park, near York, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62991/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/15, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Frankland, Sir Thomas">Sir Thomas Frankland</persName>
+                    <placeName>Thirkleby, Yorkshire</placeName>
+                    <date when="1800-12-05">5 Dec 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Forwarded Mr Harriman's letter. Glad his 'Bromus' correct. Approves name 'Ulva alcicornis' and thinks Dawson Turner "very dextrous in his names" compared to those previously stating names. Will bring 'Ulva diaphara' and 'U. flavescens' to London for Smith to see what [William] Hudson named the latter.</p><p>Sorry Smith was an invalid this summer and hopes London was clear of its "detestable fogs" when he was there. His own health good since adopting rigid temperance plan of limiting himself to eight ounces of wine a day and no fermented liquor at supper, though cannot resist his own beer, brewed by itself 10 bushels to 3 hogsheads and matured for 12 to 18 months. Lady Frankland surprisingly well considering her anxiety over her three daughters. Recently made some "metallic tractors" for a Durham physician; in a recent number of the "Medical Journal" there is a complete "quizzing" of them by Dr Alderson of Hull, several patients in the infirmary received so much benefit that they returned their thanks in church for their cures, these tracters were made of wood and coated with sealing wax.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

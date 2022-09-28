@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN755">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, Carlisle, [Cumberland], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62722/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/69, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1821-09-28">28 Sep 1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Numerous accidents and illnesses having befallen his servants, including typhus fever, has thrown his household into confusion. Received a pot of 'Gloxinia speciosa' from Lady [Anne] Melville [(d 1841), wife of Robert Dundas, 2nd Viscount Melville]; at first sight the flower is similar to 'Digitalis'. Experienced a very favourable summer but their "greedy" farmers have been working on Sundays as if it were a perilous time. Goodenough reports that on the death of the Queen [Caroline (1768-1821), wife of George IV, died 7 August 1821] some initially put on deep mourning but stopped after finding the many did not; believes the Queen's trial was just used for party politics. Visited by family of the wife of his son, Edmund [the Cockerells]. Goodenough thinks the King [George IV (1762-1830)] is "enjoying himself finely" and that "the Irish were half out of their wits" [the King paid a state visit to Ireland in 1821]. Does not agree with the treatment prescribed for his granddaughter's bad back.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

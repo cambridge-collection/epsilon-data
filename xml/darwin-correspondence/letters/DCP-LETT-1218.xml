@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1218">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. J. Hooker   [<hi rend="italic">c</hi>. February 1849]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19629</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1218 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1218.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1218.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 746</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Royal Botanic Gardens, Kew (Directors’ Correspondence English letters A–J 1849, 27: 155)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_213.xml">Kew</repository>
+                    <collection>Directors’ Correspondence</collection>
+                    <idno>English letters A-J 1849, 27: 155</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1849-02-01" notAfter="1849-02-28">[c. Feb 1849]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2367.xml">Hooker, W. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks WJH for information on J. D. Hooker’s progress.</p>
+            <p>J. D. Hooker promised a copy of his Galapagos paper. Can WJH forward one to the Athenaeum?</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Athenaum</term>
+                <term type="people" ref="#subject_2357">Hooker, J. D.</term>
+                <term type="places" ref="#">Galapagos</term>
+                <term type="rx" ref="#">Hooker, J. D. 1845a</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

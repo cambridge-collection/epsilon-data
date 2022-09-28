@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-188">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Caroline Darwin   24 October – 24 November [1832]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">5051</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-188 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-188.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-188.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="inc"/>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 154: 36</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Voyage</hi>: 75</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 1: 276</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">AL incomplete</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>223: 15</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Montevideo</placeName>
+                <date when="1832-10-24">24 Oct &amp; 24 Nov [1832] </date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1208.xml">Darwin, C. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>During the past two months CD has been lucky with fossil bones, and he is also finding new specimens of living animals.</p>
+            <p>He describes an ostrich hunt.</p>
+            <p>Has received several letters from home.</p>
+            <p>He enjoys Buenos Aires and admires the señoritas. Tierra del Fuego is next.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Beagle</term>
+                <term type="people" ref="#">senoritas</term>
+                <term type="places" ref="#">Buenos Aires</term>
+                <term type="places" ref="#">Shrewsbury</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fossils</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">ostrich hunt</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2976">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert, Boyton House, [Wiltshire], to James Edward Smith, Messrs Martin's &amp; Thornley's, Liverpool, [Lancashire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62019/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/44, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    <placeName>Boyton, Wiltshire</placeName>
+                    <date when="1805-08-01">1 Aug 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has been excavating tumuli near Stonehenge with Sir Richard Hoare, research for Hoare's "History of Ancient Wiltshire". His "Girald Cambren" ["Giraldus de Barri"] to be published next winter. Hoare's is "the largest private library" he ever saw, including an unnamed book with an excellent figure of papyrus growing in Sicily. Unsurprised by Smith's comments on [Richard] Salisbury, has "long thought him to belong to the tribe of Ishmael". Pleased with [William George] Maton's work but disappointed he does not mention the Linnaean collections or present state of botany ["A general view of the writings of Linnaeus"]. Will send Smith a list of his herbarium. Wants [William Fitt] Drake to see if there are many duplicate specimens of 'Fosteria' in Forster's herbarium. Arrival of [William] Roxburgh who has brought seed collections. Received live plants and seeds from Dr [Thomas] Dancer [(c 1750-1811) island botanist of Jamaica] including 'Cinchona caribaea', believes this to be first raised in England. States that his 'Ochroma' are now one of "the most magnificent botanical sites in the kingdom". Disappointed Smith is not visiting this summer.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

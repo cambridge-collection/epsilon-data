@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2673">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To T. H. Huxley   [26 January 1860]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3255</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2673 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2673.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2673.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 145: 197</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Imperial College of Science, Technology and Medicine Archives (Huxley 5: 119)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_192.xml">Imperial College</repository>
+                    <idno>Huxley 5: 119</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1860-01-26">[26 Jan 1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2486.xml">Huxley, T. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Has arranged with Baily the poulterer for pigeons for THH to exhibit at Royal Institution lecture.</p> 
+<p>E. A. Darwin will subscribe to H. Spencer’s book [<hi rend="italic">First principles: a system of philosophy</hi> (1862)].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin family</term>
+                <term type="animals" ref="#">pigeons</term>
+                <term type="it" ref="#">First principles: a system of philosophy</term>
+                <term type="people" ref="#subject_236">Baily, John</term>
+                <term type="people" ref="#subject_1211">Darwin, E. A.</term>
+                <term type="people" ref="#">poulterer</term>
+                <term type="rx" ref="#">Huxley, T. H. 1860b</term>
+                <term type="rx" ref="#">Spencer, Herbert 1860–1862</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Royal Institution</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

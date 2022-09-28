@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN286">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Norwich, [Norfolk], to Alexander Macleay</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64570/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/67, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1811-12-17">17 Dec 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Just returned from 10 days at [Thomas William] Coke's at Holkham [Hall, Norfolk]; unable will send a paper for tonight's Linnean Society meeting but will do for the next. Recovered from his illness since August but caught a cold on way to Holkham. The Prince Regent [later George IV (1762-1830)] wishes to become the Society's patron but the matter is stationary until he is free from restrictions on his involvement with chartered bodies; Lord [Edward Smith-]Stanley, "our zealous friend, is on the watch for the completion of the business". Had not heard of plan for a Linnean Dining Club, but "supposes it will be a good plan, as nothing is done in London without eating &amp; drinking"; offers his assistance in removing anyone's reluctance.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

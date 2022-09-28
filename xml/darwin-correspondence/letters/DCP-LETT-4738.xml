@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4738">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To T. H. Huxley   4 January [1865]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3294</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4738 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4738.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4738.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Imperial College of Science, Technology and Medicine Archives (Huxley 5: 211)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_192.xml">Imperial College</repository>
+                    <idno>Huxley 5: 211</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1865-01-04">4 Jan [1865]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2486.xml">Huxley, T. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks for photograph, charmed by Mrs Huxley’s letter.</p>
+            <p>Regrets THH cannot do the popular work on zoology.</p> 
+<p>Has heard THH wrote leading article in last <hi rend="italic">Reader</hi> ["Science and ""church policy"" ", 4 (1864): 821].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Reader</term>
+                <term type="rx" ref="#">Huxley, T. H. 1864</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="societal" ref="#">church</term>
+                
+                <term type="tag" ref="#darwin_and_belief">Darwin’s Religious Beliefs</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

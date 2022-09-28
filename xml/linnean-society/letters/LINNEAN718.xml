@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN718">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, [Carlisle, Cumberland], to Sir James Edward Smith, Norwich</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62688/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/35, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1817-10-05">5 Oct 1817</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Does not see a connection between the birthing and the death of one of Dr [Edward] Rigby's [(1747-1821)] quadruplets. Surprised that it took Smith so long to find 'Thlaspi arvense'; recalls finding it in abundance in the turnip and corn fields of Brompton, Oxfordshire, from whence he sent it to [William] Curtis for "Flora Londinensis" and supplied the London cultivators with seeds.</p><p>Glorious weather for the last six weeks but sharp frosts at night, heralded by the arrival of the Barnacle goose 'Anas erythropus'. Discusses Linnaeus' naming of two species under 'erythropus', his own being the male, and [John] Latham's 'albifrons' being the female. Thinks [Dawson] Turner undertook too much with his "Fucus". Ashamed by [Thomas] Marsham's behaviour [repeated delays in repaying money owed to Linnean Society]. Has not seen any of [John] Stackhouse's work but never had any opinion of his "skill or candour". Surprised that Sir Joseph Banks is to make his Lincolnshire journey, and admires the Bishop of Durham's [Shute Barrington] activity at the age of 85 and a half. [Elizabeth] Hill [(c 1760-1850), algologist] in distressed circumstances and contemplating teaching marine botany.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

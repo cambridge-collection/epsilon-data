@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3447">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Botanic Garden, Forfar, [Forfarshire], to James Edward Smith, Old Hummums, Covent Garden, [London]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64875/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/80, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Forfar, Forfarshire</placeName>
+                    <date when="1813-05-28">28 May 1813</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Numbered observations on enclosed specimens [some extant]: 1. a more mature specimen of the 'Juncus' sent in his last letter; 2. the 'Draba' sent in his last letter, with seeds; 3. the 'Cochlearia' sent in his last letter, with spotted leaves, proposes name 'C. maculata'; 4. a 'Poa' discovered last year; 5. a beautiful dwarf 'Geum' from Clova mountains; 6. 'Lotus alpinus; thinks the 'Eriophorum' sent in his last letter is still distinct; 7. a 'Carex' separate from 'C. caespitosa' and 'C. panacea'; 8. a 'Juncus' distinct from 'J. pilosus' and 'J. forsterii'; 9. possible 'Holcus odoratus' of Linnaeus; 10. a truly beautiful 'Viola', constantly blue; 11. another 'Viola' with crumpled leaves; 12. a new 'Lamium' formerly called 'L. intermedium' but nearer Smith's 'L. palmatum'; 13. another 'Lamium', thinks Smith's 'L. moschatum'; 14. a 'Saxifraga' Smith concluded to be 'S. pedatifida', differences; 15. 'Saxifraga angustifolia' of [James] Donn [(1758-1813), curator of Cambridge Botanic Garden]; 16. a 'Saxifraga' between 'S. granulata'; 17. a 'Saxifraga' near no.15 but smoother and more blanched; 18. very rare and elegant 'Saxifraga'.</p><p>Five specimens.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

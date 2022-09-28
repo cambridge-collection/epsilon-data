@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1910">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Jane Barrington, Mongewell, [Oxfordshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63716/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/20/61, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Barrington, Jane">Jane Barrington</persName>
+                    <placeName>Mongewell, Oxfordshire</placeName>
+                    <date when="1793-07-07">7 Jul [1793]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Her hot-house and conservatory in "great prosperity"; she must leave without seeing 'Blackaea trinerva', 'Eugenia jambos', and "more curious things" flower. Her gardener, Muns, will send Smith anything he desires. Received 'Geranium tricolar' from the Queen [Charlotte of Mecklenburg-Strelitz (1744-1818)]. Sorry to hear of Smith's loss from Sierra Leone but glad the colony goes on well [Adam Afzelius was stationed there as botanist to the Sierra Leone Company]. Fears [Richard] Salisbury has forgotten his promise to give her a plant of 'Sterculia balanghus'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

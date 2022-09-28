@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1121">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To the <hi rend="italic">Scotsman</hi>   [after 20 September 1847]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1913</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1121 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1121.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1121.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc">ADraftS 11pp</note>
+            <relatedItem type="publication">
+                <bibl>Barrett (1973): 24</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 4: 76</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 50: B1–9</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>50: B1–9</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>unstated</placeName>
+                <date notBefore="1847-09-21" notAfter="1847-09-30">[after 20 Sept 1847]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4253.xml"><hi rend="italic">Scotsman</hi></persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Comments on article by David Milne ["On the parallel roads of Lochaber" (1847), <hi rend="italic">Trans. R. Soc. Edinburgh</hi> 16 (1849): 395–418]. Refers to his paper on Glen Roy [<hi rend="italic">Collected papers</hi> 1: 87–137]. Comments on Louis Agassiz’s article ["The glacial theory and its recent progress", <hi rend="italic">Edinburgh New Philos. J.</hi> 33 (1842): 217–83]. Cites his own observations on glaciers in N. Wales. Discusses possibility of ice barrier creating lake. Notes objections to theory of an ice barrier. Defends his own theory that the roads are sea-beaches. Suggests questions for further investigation.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">parallel roads</term>
+                <term type="it" ref="#">Trans. R. Soc. Edinburgh</term>
+                <term type="rx" ref="#">Milne-Home, David 1849</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">ice, ice-action, icebergs, glaciers</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

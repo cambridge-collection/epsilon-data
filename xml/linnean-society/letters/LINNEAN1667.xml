@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1667">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Pleasance Smith, Lowestoft, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63606/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/87, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1811-04-29">29 Apr 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Account of the dinner at Somerset House [home of the Royal Academy] at which the Prince Regent [George IV (1762-1830)] was present and made a speech in which he pledged himself to support the arts, and in which he praised the exhibition and artists, including [Benjamin] West [(1738-1820), painter and president of the Royal Academy 1806-1820]; West's speech kept them in "agony".</p><p>His first two lectures "more splendidly &amp; fully attended" than any he ever had; they are held on Mondays and Tuesdays. London meetings. Consulted by Mrs J Lane about an abridgement of Gibbon she has in hand. Wearing mourning for T Smith; surprise at suddenness of Leyson Cooper's death. [William] Roscoe may be coming to the Installation and to Holkham, [Norfolk]. Bishop of Durham [Shute Barrington] to become Honorary Member of the Linnean Society.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

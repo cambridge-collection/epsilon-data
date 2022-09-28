@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9124">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Gerard Krefft   1 November 1873</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">17831</idno>
+            <date when="2014">2014</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9124 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9124.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9124.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="21">21</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">12pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 169: 121</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>169: 121</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2760.xml">Krefft, J. L. G.</persName>
+                <placeName>Australian Museum, Sydney</placeName>
+                <date when="1873-11-01">1 Nov 1873</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Many insects visit <hi rend="italic">Eucalyptus</hi> flowers as long as there is pollen to be seen. Asking his colleague, George Masters, to gather insects and flowers at Long Bay for CD.</p> 
+            <p>Observations on wild New Guinea pig in captivity.</p>
+            <p>Will take CD’s advice to write a book.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">insects</term>
+                <term type="animals" ref="#">pig</term>
+                <term type="plants" ref="#">Eucalyptus</term>
+                <term type="people" ref="#subject_3216">Masters, George</term>
+                <term type="places" ref="#">Long Bay</term>
+                <term type="places" ref="#">New Guinea</term>
+                <term type="scientific_terms" ref="#">confinement, captivity</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">pollen</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2308">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Swale<ref target="#foot.f1"/>   13 July 1858</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14592</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2308 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2308.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2308.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp damaged †, CD note</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Gard. Chron.</hi> (1858): 829</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 134</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 177: 323 (fragile), DAR 205.4: 79</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>177: 323 (fragile),</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>205.4: 79</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4635.xml">Swale, William</persName>
+                <placeName>Christchurch</placeName>
+                <date when="1858-07-13">13 July 1858</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Discusses the absence of a native bee in New Zealand and the insects which probably performed its fertilising function [see "Agency of bees in fertilization", <hi rend="italic">Collected papers</hi> 2: 21]. Describes the success of the naturalised hive-bee and also the rapid spread of introduced members of the Fabaceae.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bee</term>
+                <term type="animals" ref="#">insects</term>
+                <term type="places" ref="#">New Zealand</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">introduced forms</term>
+                <term type="scientific_terms" ref="#">naturalisation</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">time and age (‘organic’ time)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

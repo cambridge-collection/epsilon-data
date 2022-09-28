@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10179">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From W. M. Canby   1 October 1875</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16245</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10179 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10179.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10179.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 86: B5–B5a</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>86: B5–B5a</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_810.xml">Canby, W. M.</persName>
+                <placeName>Wilmington, Del.</placeName>
+                <date when="1875-10-01">1 Oct 1875</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Acknowledges copy of <hi rend="italic">Insectivorous plants</hi>; has observed <hi rend="italic">Drosera filiformis</hi> leaves closing around prey.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Drosera filiformis</term>
+                <term type="it" ref="#">Insectivorous plants</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">food</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">predators</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00219_files/8/0_0.jpg" width="3719px" height="7068px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00219_files/11/1_1.jpg" width="3719px" height="7068px"/>
+        <surface xml:id="i1" n="B5r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00219.jpg" rend="portrait" width="3719px" height="7068px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00219_files/8/0_0.jpg" width="3719px" height="7068px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00219.dzi" width="3719px" height="7068px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="B5v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00220.jpg" rend="portrait" width="3548px" height="6997px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00220_files/8/0_0.jpg" width="3548px" height="6997px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00220.dzi" width="3548px" height="6997px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="B5ar">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00221.jpg" rend="portrait" width="3736px" height="7127px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00221_files/8/0_0.jpg" width="3736px" height="7127px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00221.dzi" width="3736px" height="7127px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="B5av">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00222.jpg" rend="portrait" width="3548px" height="6997px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00222_files/8/0_0.jpg" width="3548px" height="6997px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00222.dzi" width="3548px" height="6997px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

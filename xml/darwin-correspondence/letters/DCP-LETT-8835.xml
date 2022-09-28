@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8835">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Samuel Butler   1 April [1873]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7492</idno>
+            <date when="2014">2014</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8835 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8835.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8835.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="21">21</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 143: 192</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>H. F. Jones (1919) 1: 186–7</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The British Library (Add MS 34486 D: 60–1)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <collection>Add MS 34486 D</collection>
+                    <idno>60–1</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Montague St, 16</placeName>
+                <date when="1873-04-01">1 Apr [1873]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_774.xml">Butler, Samuel (b)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Comments on SB’s book [<hi rend="italic">The fair haven</hi> (1873)]. CD is struck by SB’s dramatic power – thinks he could write "a really good novel". Surprised at strength of case SB makes that Jesus did not die on the cross. SB’s identity will soon be universally known: Leslie Stephen knows he is the author.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">The fair haven</term>
+                <term type="people" ref="#subject_543">Jesus Christ</term>
+                <term type="people" ref="#subject_4545">Stephen, Leslie</term>
+                <term type="rx" ref="#">Butler, Samuel (b) 1873</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

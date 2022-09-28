@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7407">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Anderson   [after 24 February 1871?]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6309</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7407 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7407.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7407.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 159: 72</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>159: 72</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_109.xml">Anderson, James (c)</persName>
+                <placeName>London, Alfred St, 36</placeName>
+                <date notBefore="1871-02-25" notAfter="1882-12-31">[after 24 Feb 1871?]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends two books detailing a new medical method that will produce "a state of health &amp; vigour on every occasion &amp; in every instance" and is applicable to "the entire circle of animated nature" [William Hibbert, <hi rend="italic">Important discovery. Hibbert’s new theory and practice of medicine</hi> (1870) and <hi rend="italic">The new theory and practice of medicine</hi> (1870)]. The volumes apply to animals and man. Subsequent books will detail the method for insects and plants.</p> 
+            <p>[Letter erroneously addressed to E. A. Darwin, and forwarded by EAD to CD.]</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="health" ref="#">Other people</term>
+                <term type="it" ref="#">Important discovery. Hibbert’s new theory and practice of medicine</term>
+                <term type="people" ref="#subject_1211">Darwin, E. A.</term>
+                <term type="rx" ref="#">Hibbert, William 1870</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="social" ref="#">Darwin family</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00441_files/8/0_0.jpg" width="3033px" height="5278px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00441_files/11/1_1.jpg" width="3033px" height="5278px"/>
+        <surface n="72:1r" xml:id="i441">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00441.jpg" width="3033px" height="5278px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00441_files/8/0_0.jpg" width="3033px" height="5278px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00441.dzi" width="3033px" height="5278px"/>
+        </surface>
+        <surface n="72:1v" xml:id="i442">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00442.jpg" width="3088px" height="5278px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00442_files/8/0_0.jpg" width="3088px" height="5278px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00442.dzi" width="3088px" height="5278px"/>
+        </surface>
+        <surface n="72:2r" xml:id="i443">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00443.jpg" width="5835px" height="5156px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00443_files/8/0_0.jpg" width="5835px" height="5156px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00443.dzi" width="5835px" height="5156px"/>
+        </surface>
+        <surface n="72:2v" xml:id="i444">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00444.jpg" width="3010px" height="5170px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00444_files/8/0_0.jpg" width="3010px" height="5170px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00444.dzi" width="3010px" height="5170px"/>
+        </surface>
+        <surface n="72:1v-2r" xml:id="i445">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00445.jpg" width="3010px" height="5170px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00445_files/8/0_0.jpg" width="3010px" height="5170px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00445.dzi" width="3010px" height="5170px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

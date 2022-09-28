@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN506">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Walter Vaughan, Rochester, Kent, to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62472/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/42, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Vaughan, Walter">Walter Vaughan</persName>
+                    <placeName>Rochester, Kent</placeName>
+                    <date when="1789-03-11">11 Mar 1789</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>A case of a woman, Ann Sidley, with functional supernumerary nipples. Encloses the particulars and a drawing, written up by Mr Conquest, a surgeon of Chatham, for possible inclusion in "Philosophical Transactions of the Royal Society" [not extant, nor does the account appear to have been published by the Royal Society]. Having examined the woman himself, makes his own observations by comparison to a similar case described in [Thomas] Bartholin's [(1616-1680)] "Anatomia Reformata". The curiosity only discovered when she began breastfeeding. Theorises on formation and connection of the "lactiferous tubes", illustrated with a small diagram.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

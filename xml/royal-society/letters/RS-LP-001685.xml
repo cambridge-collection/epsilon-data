@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001685">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Latitudes and longitudes of several places in Denmark, calculated from the trigonometrical operations' from Thomas Bugge to unknown recipient</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2020">2020</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 5p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/10/68/1, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/10/68/1</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA2768" key="../nameregs/NA2768.xml">Thomas Bugge</persName>
+               <date when="1793-06-14">14 June 1793</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="unknown recipient">unknown recipient</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

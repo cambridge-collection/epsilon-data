@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6786">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Thomas Russell to George Cupples   18 June 1869</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16224</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6786 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6786.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6786.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp † (by CD)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 86: 56–7</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>86: A56–7</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5325.xml">Russell, Thomas</persName>
+                <placeName>Pitbladdo</placeName>
+                <date when="1869-06-18">18 June 1869</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1163.xml">Cupples, George</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>On the proportion of sexes in lambs.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">lambs</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">sex</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00127_files/8/0_0.jpg" width="2844px" height="5404px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00127_files/11/1_1.jpg" width="2844px" height="5404px"/>
+        <surface xml:id="i1" n="A56r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00127.jpg" rend="portrait" width="2844px" height="5404px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00127_files/8/0_0.jpg" width="2844px" height="5404px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00127.dzi" width="2844px" height="5404px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="A56v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00128.jpg" rend="portrait" width="2745px" height="5427px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00128_files/8/0_0.jpg" width="2745px" height="5427px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00128.dzi" width="2745px" height="5427px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="A57r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00129.jpg" rend="portrait" width="2775px" height="5372px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00129_files/8/0_0.jpg" width="2775px" height="5372px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00129.dzi" width="2775px" height="5372px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="A57v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00130.jpg" rend="portrait" width="2757px" height="5331px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00130_files/8/0_0.jpg" width="2757px" height="5331px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00130.dzi" width="2757px" height="5331px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

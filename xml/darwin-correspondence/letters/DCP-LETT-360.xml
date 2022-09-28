@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-360">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Caroline Darwin   [19 May – 16 June 1837]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1872</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-360 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-360.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-360.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="C">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 154: 52</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>154: 52</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Gt Marlborough St, 36</placeName>
+                <date notBefore="1837-05-19" notAfter="1837-06-16">[19 May – 16 June 1837] </date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1208.xml">Darwin, C. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends a number of questions (to put to his father), mainly concerned with transmission of diseases, between Europeans and natives, "people packed together", etc.</p> 
+<p>Is investigating how to get Government support [for <hi rend="italic">Zoology</hi>].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="human_group" ref="#">Europeans</term>
+                <term type="human_group" ref="#">natives</term>
+                <term type="it" ref="#">Zoology</term>
+                <term type="people" ref="#subject_1234">Darwin, R. W.</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">Government</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

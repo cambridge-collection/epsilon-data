@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3146">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Henry Muhlenberg, Lancaster, [Pennsylvania], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62190/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/92, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Muhlenberg, Gotthilf Heinrich Ernst">Gotthilf Heinrich Ernst Muhlenberg</persName>
+                    <placeName>Lancaster, Pennsylvania</placeName>
+                    <date when="1798-06-28">28 Jun 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has not heard from Smith since 1796, uncertain if this is due to the turbulent times or if Smith is even alive. Receives curious plants from his botanic correspondents, believes many are unknown in Europe. His attempts at describing them hindered by inability to determine the trivial names without the Linnaean herbarium. Asks for Smith's observations on plants he has previously sent and asks permission to send more. Struggles with complexities of 'Carex', 'Asclepias', 'Vaccinium', 'Aster', 'Solidago', 'Viola', 'Salix', and 'Hedysarum'. Gives brief descriptions of local species of 'Vaccinium' he has already sent to help Smith determine the trivial name.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

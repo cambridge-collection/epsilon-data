@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001766">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Albert Einstein, Haberlandstrasse 5, Berlin,  to Mr [Myer] and Mrs [Esther Polianowsky] Salaman</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2008">2008</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 1p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/24/11, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/24/11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8213" key="../nameregs/NA8213.xml">Albert Einstein</persName>
+               <date when="1928-05-10">10 May 1928</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Mr [Myer] and Mrs [Esther Polianowsky] Salaman">Mr [Myer] and Mrs [Esther Polianowsky] Salaman</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

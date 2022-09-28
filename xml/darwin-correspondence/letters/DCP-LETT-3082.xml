@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3082">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Gideon Lincecum   4 March 1861</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19673</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3082 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3082.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3082.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp † (by ?)</note>
+            <relatedItem type="publication">
+                <bibl>Burkhalter (1965): 212</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 9: 45</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Linnean Society (MS S.P. 604A)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_238.xml">Linnean Society</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2926.xml">Lincecum, Gideon</persName>
+                <placeName>Long Point, Texas</placeName>
+                <date when="1861-03-04">4 Mar 1861</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Reports on the habits of the cutting ant of Texas, particularly its habit of planting shade trees to protect its mound from sun.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">ant, cutting</term>
+                <term type="plants" ref="#">trees</term>
+                <term type="places" ref="#">Texas</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">nesting and other home-making or web-making behaviour</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">wind and weather</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

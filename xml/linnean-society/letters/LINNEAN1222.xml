@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1222">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Hafod, [Cardiganshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63184/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/69, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Hafod, Cardiganshire</placeName>
+                    <date when="1802-07-27">27 Jul 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sorry to hear Smith has been so ill. Re-elected member of Parliament, as was Mr Vaughan, so preventing "even a possibility of any disturbance in the county". Lists visitors to his house over summer.</p><p>Though Smith has let [William] Windham [(1750-1810), politician] know his sentiments "pretty clearly" does not approve of [William] Smith whom Smith exchanged for him, as he is "too much the opposite". Has no opinion of those politicians who under "pretence of patriotism or alarm would sacrifice every thing to their faction". Laments loss of friendship between himself and Windham since their school days. His wife and daughter [Mariamne Johnes] well and the latter grown so stout Smith would not know her, though "this sad weather" much against his "invalids".</p><p>Expects Dyke shortly to view the estate he intends to sell, which if sold near his expectations shall be a "made man". Asks how fearnoughts [thick woollen cloth for overcoats] are selling this year as if not too dear shall want some for his poor people.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

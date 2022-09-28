@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN203">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Alexander Macleay, Queen Square, Westminster, to Sir James Edward Smith, Lowestoft, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64661/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/158, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>Westminster</placeName>
+                    <date when="1822-08-30">30 Aug 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letter of 20 [August 1822], happy to hear of his recovery from cholera attack. His summer plans disrupted, hopes to see Smith in London before he can go to Norwich. Sent Smith's letter for "Linnean Transactions" to the printer but uncertain what title to give it.</p><p>Fate of Lord Londonderry [Robert Stewart, 2nd Marquess of Londonderry (1769-1822), statesman, committed suicide] "has indeed been a sad one", feels he has lost a friend. Did not realise Mrs [Charlotte] Lynn's [daughter of Samuel Goodenough] death was sudden, Mrs Macleay's sister also died suddenly.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

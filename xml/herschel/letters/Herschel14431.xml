@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Herschel14431">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Edward Sabine   [27 April 1860]</title>
+                <respStmt xml:id="calendarPrint">
+                    <resp>Record created for the <hi rend="italic">Calendar of the Correspondence of Sir John Herschel</hi> (CUP: Cambridge), 1998 by</resp>
+                    <name>Michael J. Crowe ed., David R. Dyck and James J. Kevin assoc. eds</name>
+                </respStmt>
+                <respStmt xml:id="calendarOnline">
+                    <resp>Digital record created by</resp>
+                    <name>Dr Marvin Bolt and Steven Lucy at the Webster Institute of the Adler Planetarium</name>
+                </respStmt>
+                <respStmt xml:id="convertedToTEI">
+                    <resp>Converted to TEI by</resp>
+                    <name>Michael Hawkins, Epsilon Project, Cambridge University Library</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>John Herschel Project</authority>
+                <availability status="restricted">
+                    <p>Michael J. Crowe (editor), David R. Dyck and James J. Kevin (associate editors), Calendar of the Correspondence of Sir John Herschel (Cambridge, England: Cambridge Univ. Press, 1998), viii + 828 pp. Converted into web usable data in May 2009 by Dr. Marvin Bolt and Steven Lucy, working at the Webster Institute of the Adler Planetarium.</p>
+                </availability>
+                <date when="2018-07-23">23 July 2018</date>
+            </publicationStmt>
+            <notesStmt><note type="physdesc">ALS 12pp</note></notesStmt>
+            <sourceDesc>
+                <bibl type="provenance">TxU:H/M-0527.1; Reel 1093</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Sabine, Edward">Edward Sabine</persName>
+                    <placeName>13 Ashley Place</placeName>
+                    <date when="1860-04-27">[27 April 1860]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Herschel, Sir John">Sir John Herschel</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Sent proof for vol. 2 of St. Helena observations to JH. JH's promised article in Edinburgh Review on progress in science of terrestrial magnetism. Embarrassing delay by government in responding to Prince Albert's request for five-year magnetic survey is resulting in loss of interest among prospective directors. Proposal by Americans to assume leadership of survey in North America. Dutch observatory in Java and Jesuit observatory in Cuba.</p> 
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

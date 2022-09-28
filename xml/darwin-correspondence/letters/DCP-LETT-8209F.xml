@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8209F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To [M. R. Pryor?]   [after 21 January 1871?]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21586</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8209F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8209F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8209F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete</note>
+            <note type="physdesc" n="inc"/>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Sotheby’s (dealers) (15 December 2011)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_395.xml">Sotheby’s</repository>
+                    <collection>15 Dec 2011</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <date notBefore="1871-01-23" notAfter="1871-01-30">[after 21 Jan 1871?]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3879.xml">Pryor, M. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Suggests Mivart should have read account of Niata Cattle.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Giraffe</term>
+                <term type="animals" ref="#">Niata cattle</term>
+                <term type="scientific_terms" ref="#">Journal of Researches</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

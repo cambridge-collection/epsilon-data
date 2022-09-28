@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-166">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Caroline Darwin    25–6 April [1832]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">5046</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-166 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-166.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-166.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">5pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 154: 34</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Voyage</hi>: 64</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 1: 225</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 223: 11</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>223: 11</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Botofogo Bay</placeName>
+                <date notBefore="1832-04-25" notAfter="1832-04-26">25–6 Apr [1832]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1208.xml">Darwin, C. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>His trip to the interior was full of interest, but exhausting physically. Expects to stay at least a fortnight at Botofogo, because the <hi rend="italic">Beagle</hi> returns to Bahia to correct a difference in the longitude measurements. Writes of his companions, of FitzRoy, and of his journal – which he has sent home.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="places" ref="#">Brazilian interior</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

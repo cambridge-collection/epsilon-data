@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1238">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Castle Hill, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63198/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/83, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Castle Hill</placeName>
+                    <date when="1808-02-28">28 Feb 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letters of 8 and 24 [February], gave his daughter [Mariamne Johnes] the packet of seeds. Believes lawyers and liars are "one and the same". Has not read Mrs [Anna Letitia] Barbauld's [(1743-1825), poet and essayist] book yet. Second volume of his [Enguerrand de] Monstrelet [(1400-1453), French chronicler] translation printed up to second volume but other frustrations have delayed publication. Pleased with the books he recently acquired, including five Caxtons. Shall forward Smith's letter to Ireland.</p><p>Admires [William] Roscoe's pamphlet and thinks [William] Cobbett's [(1763-1835), political writer and farmer] answer "clumsy". Considering a high relief of a Phoenix and Cicero motto in restoration of his burnt down library. Visiting Hanbury Williams in Bath before going on to London, who informs him that his brother is about to marry Miss Cuyler, daughter of the late general; he will have £3000 in hand and as much in money on death of Mr Knight, whose name he will take. Requests seeds of the "single tree peony" from Lady [Amelia] Hume.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

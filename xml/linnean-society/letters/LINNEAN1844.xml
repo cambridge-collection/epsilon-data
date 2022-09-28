@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1844">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Francis Boott, Derby, [Derbyshire], to Sir James Edward Smith, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63766/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/20/111, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Boott, Francis">Francis Boott</persName>
+                    <placeName>Derby, Derbyshire</placeName>
+                    <date when="1817-01-16">16 Jan 1817</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's interest in [Jacob] Bigelow joining Linnean Society as FMLS; concerns over the 23 guineas required for his subscription. Examined plants from mountains around Boston, [Massachusetts], with Sir Joseph Banks and [Robert] Brown, notes on their conclusions, including: 'Scirpus bracteatus', 'Epipactis convallarioides', 'Matonia inflata', 'Hylas assyllus', 'Potomogeton tenellum', 'Orchis bracteata', 'Lycopodium lucidulum', and 'Halcus monticula'.</p><p>As yet has been unable to examine his plants with any standard herbarium, something he is keen to do to expand USA's natural history, understands [Aylmer Bourke] Lambert has Pursh's herbarium.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

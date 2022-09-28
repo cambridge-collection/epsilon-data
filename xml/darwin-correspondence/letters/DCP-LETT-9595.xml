@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9595">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Francis and Amy Darwin   8 August [1874]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9763</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9595 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9595.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9595.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 58.1: 139–40</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>58.1: 139–40</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent" subtype="personGrp">
+                <persName key="../nameregs/nameregs_1222.xml" resp="high">Darwin, Francis</persName>
+                <persName key="../nameregs/nameregs_1205.xml" resp="high">Darwin, Amy Richenda</persName>
+                <placeName>Mürren</placeName>
+                <date when="1874-08-08">8 Aug [1874]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Describe the <hi rend="italic">Pinguicula</hi> species found at Mürren. Have found seeds on some. Their large roots seem to indicate that they do not get much animal food.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Pinguicula</term>
+                <term type="places" ref="#">Murren</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">food</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">predators</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00307_files/8/0_0.jpg" width="3246px" height="5661px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00307_files/11/1_1.jpg" width="3246px" height="5661px"/>
+        <surface xml:id="i1" n="139r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00307.jpg" rend="portrait" width="3246px" height="5661px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00307_files/8/0_0.jpg" width="3246px" height="5661px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00307.dzi" width="3246px" height="5661px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="139v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00308.jpg" rend="portrait" width="3246px" height="5661px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00308_files/8/0_0.jpg" width="3246px" height="5661px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00308.dzi" width="3246px" height="5661px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="140r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00309.jpg" rend="portrait" width="3323px" height="5761px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00309_files/8/0_0.jpg" width="3323px" height="5761px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00309.dzi" width="3323px" height="5761px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="140v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00310.jpg" rend="portrait" width="3323px" height="5761px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00310_files/8/0_0.jpg" width="3323px" height="5761px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00058-00001-000-00310.dzi" width="3323px" height="5761px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

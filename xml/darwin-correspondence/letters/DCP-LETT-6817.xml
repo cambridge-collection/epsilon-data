@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6817">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Louis Agassiz   6 July 1869</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6259</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6817 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6817.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6817.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 159: 10</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>159: 10</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_43.xml">Agassiz, J. L. R.</persName>
+                <placeName>Museum of Comparative Zoology, Harvard</placeName>
+                <date when="1869-07-06">6 July 1869</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Introduces his son Alexander; believes CD will find him "more tractable" on certain questions than LA himself is.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_41">Agassiz, Alexander</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">introducing</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00039_files/8/0_0.jpg" width="3342px" height="5797px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00039_files/11/1_1.jpg" width="3342px" height="5797px"/>
+        <surface n="10:1r" xml:id="i39">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00039.jpg" width="3342px" height="5797px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00039_files/8/0_0.jpg" width="3342px" height="5797px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00039.dzi" width="3342px" height="5797px"/>
+        </surface>
+        <surface n="10:1v" xml:id="i40">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00040.jpg" width="3342px" height="5797px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00040_files/8/0_0.jpg" width="3342px" height="5797px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00040.dzi" width="3342px" height="5797px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

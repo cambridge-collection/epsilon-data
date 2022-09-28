@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11383">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To James Torbitt   [28 February 1878]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">13715</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11383 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11383.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11383.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy</note>
+            <note type="physdesc" n="C">2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 148: 97</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>148: 97</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Bryanston St, 4</placeName>
+                <date when="1878-02-28">[28 Feb 1878]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4777.xml">Torbitt, James</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>T. H. Farrer will consider which department of Government to apply to [for funds for potato experiments]. Government will probably ask Hooker for advice, so CD has written to him. How much money does JT need?</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Other people</term>
+                <term type="plants" ref="#">potato</term>
+                <term type="people" ref="#subject_1599">Farrer, T. H.</term>
+                <term type="people" ref="#subject_2357">Hooker, J. D.</term>
+                <term type="scientific_terms" ref="#">adaptation</term>
+                <term type="scientific_terms" ref="#">breeding (artificial)</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">Government grant</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2973">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62016/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/41, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    
+                    <date when="1805-01-28">28 Jan 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has just returned from Lewis [Lewes], Sussex, surprised to find herbarium of [Peter Simon] Pallas in possession of [John Marten] Cripps [(1780-1853) traveller and antiquary]. It contains all the plants of "Flora Rossica", Gmelin's "Flora Sibirica", and Pallas' "Travels". Also complete collection of Forster's plants, and several of Sir Joseph Banks' South Sea plants, Pallas being the only person Banks sent any to. Pleased with Smith's "Exotic Botany". A "curious conversation" at Soho Square, asks Smith if he [Lambert] ever signed Dr T's certificate [Robert John Thornton (1768-1837) physician and writer on botany, angered several botanists in pursuit of completing his work "New Illustration of the Sexual System of Linnaeus"].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

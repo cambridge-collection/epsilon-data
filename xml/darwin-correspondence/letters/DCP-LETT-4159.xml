@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4159">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Richard Kippist   13 May [1863 or 1868]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3150</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4159 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4159.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4159.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Harold B. Lee Library, Brigham Young University (Vault MSS 2, Box 12, Darwin)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_63.xml">Brigham Young</repository>
+                    <idno>Vault MSS 2, Box 12, Darwin</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                
+            <date xml:id="date1" when="1863-05-13" exclude="#date2">13 May 1863</date>
+            <date xml:id="date2" when="1868-05-13" exclude="#date1">13 May 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2705.xml">Kippist, Richard</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Asks to borrow J. J. Audubon [<hi rend="italic">Ornithological biography</hi> (1831–9)].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Ornithological biography</term>
+                <term type="rx" ref="#">Audubon, J. J. L. F. 1831–1839</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

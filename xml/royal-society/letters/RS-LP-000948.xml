@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-000948">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Of experiments on absorption of air in burning' from Comte de Saluces to Henry Baker</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 7p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/4/118, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/4/118</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date when="1761-07-01">1 July 1761</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA6218" key="../nameregs/NA6218.xml">Henry Baker</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

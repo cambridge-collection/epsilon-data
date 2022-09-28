@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1695">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Butt, Arley, [Worcestershire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61584/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/110, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Butt, Thomas">Thomas Butt</persName>
+                    <placeName>Arley, Worcestershire</placeName>
+                    <date when="1804-05-08">8 May 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Detailed description of a 'Carex' he is unable to identify, requests Smith's opinion. List of plants growing in Worcestershire and not yet figured in "English Botany", offers to send specimens. List of habitats of plants found by him in West of England and Guernsey. Pleased to hear third volume of "Flora Britannica" is published but wishes there was an English translation of it, "for the benefit of lady botanists", believing it would have sold well and "made the last edition of [William] Withering unnecessary". Disappointed that [James] Sowerby has not proceeded further in his work on fungi. Rough description of possible 'Ophrys arachnites' from Switzerland, believes it may be allied to 'Ophrys apifera'. Has received seeds of "very indifferent quality" from Lord Valentia [George Annesley] in Calcutta, India.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

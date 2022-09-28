@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SOMERVILLE366">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Alexander von Humboldt to Mary Somerville   12 Jul 1849</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="somerville">The Somerville Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Brigitte Stenhouse</authority>
+                <date when="2022-02-26">2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">MSH 6 / 355, Dep. c. 370, Bod, MS</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Humboldt, Alexander von">Alexander von Humboldt</persName>
+                    
+                    <date when="1849-07-12">12 Jul 1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Somerville, Mary">Mary Somerville</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

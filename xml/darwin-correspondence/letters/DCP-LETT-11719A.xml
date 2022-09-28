@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11719A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Joseph Lister   7 October 1878</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20803</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11719A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11719A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11719A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance">Godlee 1917, p. 387 </bibl>
+            <bibl type="printedSource">Godlee, R. J. 1917: 310</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1878-10-07">7 Oct 1878</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2948.xml">Lister, Joseph</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Suggests that benzoic acid would be a deadly poison to bacteria and their allies.</p> 
+<p>Is puzzled about the use of borax as a disinfectant because in his experiments <hi rend="italic">Drosera</hi> were not in the least injured by boracic acid.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bacteria</term>
+                <term type="plants" ref="#">Drosera</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">death</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

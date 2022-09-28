@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2580">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Richard Owen   13 December [1859]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1175</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2580 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2580.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2580.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 230</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>De Beer (1958): 104</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 430</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Natural History Museum, Library and Archives (General Special Collections Owen correspondence 9/195)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_288.xml">NHM</repository>
+                    <collection>General Special Collections</collection>
+                    <idno>Owen corres 9/195</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1859-12-13">13 Dec [1859]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3629.xml">Owen, Richard</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Responds to Owen’s remarks that his book [<hi rend="italic">Origin</hi>] is not likely to be true because it attempts to explain so much. CD describes how, for fear this might be so, he resolved to give up the work if he could not convince two or three competent judges. He is sensitive because of unjust things said by a distinguished friend [A. Sedgwick]. Value of his views now depends on men eminent in science.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Origin</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

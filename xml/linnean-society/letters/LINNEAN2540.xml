@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2540">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Withering, Birmingham, [Warwickshire], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64369/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/26/64, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Withering, William">William Withering</persName>
+                    <placeName>Birmingham, Warwickshire</placeName>
+                    <date when="1793-06-28">28 Jun 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Despite an arduous voyage home benefited greatly from his visit to Portugal; avoided a fresh attack of periprieumony, though the climate is not suitable for consumptive patients. Stayed with the Abbe Corrêa, much pleased with his company; transmitted Smith's message of his being a bad correspondent, he has been busy planting and establishing a Portuguese Royal Society; announcement of elections of Smith and Sir Joseph Banks delayed on account of ceremonial matters; the Society's intentions, fears ignorance and bigotry of the nobles and princes will crush Corrêa's "seeds of free enquiry".</p><p>Fears the specimens of 'Fucus stipulata' he collected for Smith will no longer be fresh. Professor Vandelli has had to give up some of his natural history and chemistry studies on account of his government post and advancing age. Father Mariana, a native of Brazil, has brought extensive collections of fish, insects, and plants from that place to Portugal, accompanied with drawings made by himself; to be published in 12-14 volumes at Venice, though Portugal is ignorant of the value of the collections.</p><p>In spite of [Francis] Masson [(1741-1805), Kew plant collector] having twice "rifled the Flora of Portugal" believes he found a few new plants, offers them for "Plantae rariores" or "Spicilegium botanicum". Encloses seeds of a new grass he calls 'Bromus diandra', to be shared with Banks and [William] Aiton [(1731-1793), director Kew Gardens 1759-1793].</p><p>Intends to begin work on new edition of the "Botanic Arrangement" soon; asks Smith's opinion of best and most authentic edition of Linnaeus' "Species plantarum". "English botany" "does much credit to its author, &amp; must find an extensive sale in the present fashionable rage for the study"; pleased to see so few of the more common plants which have been so often figured before.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

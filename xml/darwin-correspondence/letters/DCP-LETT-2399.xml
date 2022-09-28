@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2399">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Richard Hill   10 January 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">17639</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2399 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2399.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2399.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 166: 218</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>166: 218</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2295.xml">Hill, Richard (b)</persName>
+                <placeName>Spanish Town, Jamaica</placeName>
+                <date when="1859-01-10">10 Jan 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Will secure information on indigenous and naturalised bees as CD requests.</p> 
+<p>Believes Mexican and Jamaican <hi rend="italic">Melipona</hi> are different.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bees</term>
+                <term type="animals" ref="#">Melipona</term>
+                <term type="places" ref="#">Jamaica</term>
+                <term type="places" ref="#">Mexico</term>
+                <term type="scientific_terms" ref="#">endemic forms</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">naturalisation</term>
+                <term type="scientific_terms" ref="#">systematics</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

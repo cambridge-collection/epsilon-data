@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-181">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Frederick Watkins   18 August 1832</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1836</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-181 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-181.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-181.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="C">3pp</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 1: 240</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 1: 260</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 148: 292</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>148: 292</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Monte Video, Rio Plata</placeName>
+                <date when="1832-08-18">18 Aug 1832</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4974.xml">Watkins, Frederick</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Brief summary of the voyage so far. His delight in the Brazilian forest; his trip into the interior; the turbulence at Rio; has grown a beard.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="places" ref="#">Brazilian forest</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

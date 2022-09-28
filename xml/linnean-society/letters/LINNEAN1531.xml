@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1531">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Great Marlborough Street, [London], to James Edward Smith, Market Place, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63475/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/88, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>London</placeName>
+                    <date when="1794-10-20">20 Oct 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for use of Smith's house and library. He and Dr [William] Younge went to Drury Lane and saw "Ladoisha", "the most extraordinary piece of machinery" he ever saw on any stage. Visited [William] Withering in Birmingham; his house and its environs; Withering's precarious health, suffering violent attacks to this lungs and spitting blood; if he survives the winter interested by Dr [Thomas] Beddoes' [(1760-1808), chemist and physician] "aerial process"; coins.</p><p>Has left specimen of 'Bromus diandrus' and seeds and specimen of Portuguese grass, since found to be 'Andropogon hirtum', from Withering. Notes from his study of the Linnaean 'Fucus' specimens; made some pencil notes on the different species. Thanks Smith's servants.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

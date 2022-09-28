@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3373">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Forfar, [Forfarshire], to Samuel Goodenough, 14 Berners Street, Oxford Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64808/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/13, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Forfar, Forfarshire</placeName>
+                    <date when="1809-05-18">18 May 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Encloses plant specimens, thinks most are new. Numbered observations on enclosed specimens: 1. new 'Ranunculus' proposed name 'R. macrophizus' [Smith annotation: "same as D Turner's from Snowdon, acris?"]; 2. new 'Saxifraga' [Smith annotation: "same brought by [Turner] from Snowdon -new -petals round"]; 3. new 'Potentilla' [Smith annotation: "surely a variety of 'aurea'"]; 4. new 'Grimmia'. Has also enclosed specimen of 'Potentilla aurea' of "English botany" [Smith annotation: "new probably"]. Asks Goodenough to forward this letter to Dr [James Edward] Smith.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

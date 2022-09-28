@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SOMERVILLE135">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Ada Byron (King) to Mary Somerville   5 Feb 1837</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="somerville">The Somerville Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Brigitte Stenhouse</authority>
+                <date when="2022-02-26">2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">MSBY 3 / 65, Dep. c. 367, Bod, MS</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="(King), Ada Byron">Ada Byron (King)</persName>
+                    
+                    <date when="1837-02-05">5 Feb 1837</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Somerville, Mary">Mary Somerville</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Faraday3485">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">Faraday to James David Forbes   23 July 1858</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Faraday Project</authority>
+            <date when="2017-10-02">2 October 2017</date>
+         </publicationStmt>
+         <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. 5 (2008)</ab>
+            <ab type="url">http://digital-library.theiet.org/content/books/ht/pbsp044e</ab>
+        </seriesStmt>
+         <sourceDesc>
+            <bibl type="provenance">SAU MS JDF 1858/80</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Faraday, Michael">Michael Faraday</persName>
+               <date when="1858-07-23">23 July 1858</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Forbes, James David">James David Forbes</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

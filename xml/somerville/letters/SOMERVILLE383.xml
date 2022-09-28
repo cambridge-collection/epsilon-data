@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SOMERVILLE383">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Henry Kater to William Somerville   9 Apr 1834</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="somerville">The Somerville Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Brigitte Stenhouse</authority>
+                <date when="2022-02-26">2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">MSK 1 / 40, Dep. c. 371, Bod, MS</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Kater, Henry">Henry Kater</persName>
+                    
+                    <date when="1834-04-09">9 Apr 1834</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Somerville, William">William Somerville</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

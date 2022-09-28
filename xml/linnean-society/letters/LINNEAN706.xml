@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN706">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62677/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/24, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    
+                    <date when="1816-07-26">26 Jul 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Constant rain in Cumberland after a substantial dry period. Admires agricultural meetings, especially when they are purely agricultural like [Thomas William] Coke's, and not politicised as they are in Cumberland. Pleased that the House of Buckingham has "so fair a promise in Lord Nugent".</p><p>Fears potential civil unrest in the countryside following the harvest as the wages of labourers have not fallen, so farmers will be forced to employ fewer hands and in consequence many will be unemployed. Goodenough thinks it better for all to be employed regardless of the conditions, notes that manufacturers' wages are uncommonly low. Does not like either the Indian or Algerian wars [Third Anglo-Maratha war, 1816-1819, and Bombardment of Algiers, 1816]; has little confidence in Lord Moira's judgement [Francis Edward Rawdon-Hastings, 1st Marquess of Hastings (1754-1826), Governor-General of India 1813-1823].</p><p>Goodenough's son, Edmund, had a troublesome rheumatic fever but is now recovered. Edmund went to Malvern where he was puzzled by the variety of 'Ervum tetrasperum' with footstalks with only one flower. Goodenough does not recollect seeing Smith's variety of '[Iris] xiphium'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

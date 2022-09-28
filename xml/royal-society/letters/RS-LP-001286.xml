@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001286">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Diagrams of sunspots' from Humphry Marshall to Benjamin Franklin</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 220p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/6/32, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/6/32</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Marshall, Humphry">Humphry Marshall</persName>
+               <date when="1773-01-01">1773</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA7974" key="../nameregs/NA7974.xml">Benjamin Franklin</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

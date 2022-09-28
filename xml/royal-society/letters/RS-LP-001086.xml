@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001086">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Of a new method of determining longitudes of places from observations of the eclipses of Jupiter's satellites' from Peter William Wargentin to Nevil Maskelyne</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 14p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/4/351, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/4/351</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8350" key="../nameregs/NA8350.xml">Pehr Wilhelm Wargentin</persName>
+               <date when="1766-07-06">6 July 1766</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA5553" key="../nameregs/NA5553.xml">Nevil Maskelyne</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

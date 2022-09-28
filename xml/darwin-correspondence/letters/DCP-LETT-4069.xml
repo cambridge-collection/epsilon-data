@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4069">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To <hi rend="italic">Journal of Horticulture and Cottage Gardener</hi>   [17–24 March 1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20106</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4069 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4069.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4069.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc">Draft inc</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Collected papers</hi> 2: 77</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 11: 241</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"> <hi rend="italic">Journal of Horticulture and Cottage Gardener</hi> n.s. 4 (1863): 237<ref target="#foot.f14"/> </bibl>
+            <bibl type="printedSource">J. Hortic. n.s. 4 1863: 237</bibl>
+            <msDesc>
+                <msIdentifier>
+                            <repository key="../repo/repo_13.xml">APS</repository>
+                            <collection>Mss.B.D25.</collection>
+                        </msIdentifier>
+                    </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1863-03-17" notAfter="1863-03-24">[17–24 Mar 1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2615.xml">Journal of Horticulture</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Reports the observations of Hermann Crüger and John Scott that fruit is set by orchids whose flowers never open and that pollen-tubes are emitted from pollen-masses still in their proper position. These cases convince CD that in <hi rend="italic">Orchids</hi> he underestimated the power of tropical orchids to produce seed without insect aid but he is not shaken in his belief that the structure of the flowers is mainly related to insect agency.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">fruit</term>
+                <term type="plants" ref="#">orchids</term>
+                <term type="people" ref="#subject_4503">Cruger, Hermann</term>
+                <term type="people" ref="#subject_4258">Scott, John</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

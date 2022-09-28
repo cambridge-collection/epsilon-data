@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9066">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John Murray   24 September [1873]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9230</idno>
+            <date when="2014">2014</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9066 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9066.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9066.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="21">21</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 159</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">National Library of Scotland (John Murray Archive) (Ms. 42152 ff. 352–3)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_278.xml">Murray Archive</repository>
+                    <idno>Ms.42152 ff.352-353</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1873-09-24">24 Sept [1873]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3463.xml">Murray, John (b)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD will have to make heavy corrections in <hi rend="italic">Expression</hi> and <hi rend="italic">Descent</hi> if there ever is a new edition of either.</p>  
+<p>Will soon begin another book [<hi rend="italic">Insectivorous plants</hi>].</p>  
+<p>It and a second one [<hi rend="italic">Cross and self-fertilisation</hi>] will sell only "very specially".</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="it" ref="#">Cross and self-fertilisation</term>
+                <term type="it" ref="#">Expression</term>
+                <term type="it" ref="#">Insectivorous plants</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">expression, emotion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">food</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">predators</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

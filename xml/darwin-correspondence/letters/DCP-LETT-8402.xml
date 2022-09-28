@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8402">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Asa Gray   8 July [1872]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3567</idno>
+            <date when="2013">2013</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8402 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8402.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8402.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="20">20</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 245</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>HRS, no. 116</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Archives of the Gray Herbarium of Harvard University (107)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_156.xml">Harvard Gray Herbarium</repository>
+                    <idno>107</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1872-07-08">8 July [1872]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks for AG’s book, <hi rend="italic">How plants behave</hi> [see <hi rend="doubleUnderline">8363</hi>].</p>  
+<p>Is correcting proofs of <hi rend="italic">Expression</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Expression</term>
+                <term type="it" ref="#">How plants behave</term>
+                <term type="rx" ref="#">Gray, Asa 1872</term>
+                <term type="scientific_terms" ref="#">expression, emotion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                
+                <term type="tag" ref="#asa_gray_set">Asa Gray Letters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

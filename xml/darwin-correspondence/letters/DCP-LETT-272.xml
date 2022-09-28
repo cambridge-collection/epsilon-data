@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-272">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. S. Henslow<ref target="#foot.f1"/>   [10]–13 March 1835</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">5228</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-272 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-272.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-272.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 145: 33</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Darwin and Henslow</hi>: 100</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 1: 436</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Royal Botanic Gardens, Kew (Henslow letters: 25 DAR/1/1/25)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_213.xml">Kew</repository>
+                    <idno>Henslow letters: 25 DAR/1/1/25</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Valparaiso</placeName>
+                <date notBefore="1835-03-10" notAfter="1835-03-13">[10]–13 Mar 1835</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2235.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>The termination of the voyage has been decided – September 1836.</p>
+            <p>The earthquake of Concepción.</p>
+            <p>His geological observations (since November). Can now prove both sides of the Andes have recently risen to considerable heights.</p>
+            <p>Zoological collection.</p>
+            <p>Plans to cross the Cordilleras.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="lista" ref="#">tig(recent)</term>
+                <term type="places" ref="#">Andes</term>
+                <term type="places" ref="#">Concepcion</term>
+                <term type="places" ref="#">Cordilleras</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">subsidence and elevation</term>
+                <term type="scientific_terms" ref="#">time, ‘inorganic’ (geological, historical)</term>
+                <term type="scientific_terms" ref="#">volcanoes and earthquakes</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

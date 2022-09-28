@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1483">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63431/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/44, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1790-12-25">25 Dec 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letter of 29 November [1790]. His health good this winter; surprised at the effect of quicksilver, knowing it can only act mechanically, yet it removes any obstruction. Gave up shooting as he believed the violent exercise in hot weather caused stomach spasms.</p><p>"Charmed" by first number of "English botany": the paper, print, and execution of the plates "so much superior" to [William] Curtis' "Magazine"; advises [James] Sowerby to avoid "Flora Londinensis" plants for as long as possible. Recommends Sowerby's figure of 'Lycoperdon coliforme' for "Spicilegium botanicum" or "English botany". Discusses his paper on 'Lycoperdon'; rough draft almost finished; nine-tenths will be a response to [Charles] Bryant's [(d 1799)] pamphlet; requests references from Smith, listed. Fear of gout.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

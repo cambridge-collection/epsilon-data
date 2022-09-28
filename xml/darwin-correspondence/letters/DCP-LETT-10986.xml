@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10986">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. J. Romanes   6 June 1877</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">15509</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10986 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10986.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10986.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="25">25</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc">encl ALS and AmemS 7pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">E. D. Romanes 1896, p. 53; DAR 47: 139–42</bibl>
+            <bibl type="printedSource">E. D. Romanes 1896, p. 53; DAR 47: 139–42</bibl>
+
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>47: 139–42</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4071.xml">Romanes, G. J.</persName>
+                <placeName>unstated</placeName>
+                <date when="1877-06-06">6 June 1877</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends MS notes on intercrossing.</p>
+            <p>Describes different reactions of rabbits and guinea-pigs to stinging nettles.</p>
+            <p>Has made a number of grafts at Kew.</p>
+            <p>Encloses notes on natural selection; discussion of factors mitigating the swamping influence of intercrossing on incipient variations.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">guinea-pigs</term>
+                <term type="animals" ref="#">rabbits</term>
+                <term type="plants" ref="#">nettles, stinging</term>
+                <term type="places" ref="#">Kew</term>
+                <term type="scientific_terms" ref="#">behaviour</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">grafting</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

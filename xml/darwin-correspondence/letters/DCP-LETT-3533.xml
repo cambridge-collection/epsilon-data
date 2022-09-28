@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3533">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. B. Innes to Thomas Sellwood Stephens<ref target="#foot.f1"/>   [before 5 May 1862]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14381</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3533 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3533.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3533.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete</note>
+            <note type="physdesc" n="ALS">2pp inc</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 167: 2</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>167: 2</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2502.xml">Innes, J. B.</persName>
+                <placeName>unstated</placeName>
+                <date notBefore="1809-01-01" notAfter="1862-05-04">[before 5 May 1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4550.xml">Stephens, T. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>JBI asks Stephens to ask CD to send particulars of Tegetmeier’s beehives.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bees</term>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="people" ref="#subject_4682">Tegetmeier, W. B.</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">nesting and other home-making or web-making behaviour</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

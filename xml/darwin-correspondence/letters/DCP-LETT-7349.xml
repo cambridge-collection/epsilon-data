@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7349">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Alexander Agassiz   22 October 1870</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20233</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7349 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7349.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7349.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance">G. R. Agassiz ed. 1913, p. 113</bibl>
+            <bibl type="printedSource">Agassiz, G. R. 1913: 113</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_41.xml">Agassiz, Alexander</persName>
+                <placeName>London</placeName>
+                <date when="1870-10-22">22 Oct 1870</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Asks whether he may see CD before leaving England.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="places" ref="#">England</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">leaving</term>
+                <term type="social" ref="#">meeting</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

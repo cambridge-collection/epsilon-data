@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2606">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   26 [December 1859]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2566</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2606 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2606.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2606.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 151: 98</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 458</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 453</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 115: 33, 30a</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>115: 33, 30a</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1859-12-26">26 [Dec 1859]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>High, detailed praise for introductory essay to <hi rend="italic">Flora Tasmaniae</hi> [reprinted as <hi rend="italic">On the flora of Australia</hi> (1859)]. CD expects it to convert botanists from doctrine of immutable creation.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Flora Tasmaniae</term>
+                <term type="it" ref="#">On the flora of Australia</term>
+                <term type="rx" ref="#">Hooker, J. D. 1859</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00001_files/8/0_0.jpg" width="4571px" height="7132px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00001_files/11/1_1.jpg" width="4571px" height="7132px"/>
+        <surface xml:id="i1" n="1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00001.jpg" rend="portrait" width="4571px" height="7132px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00001_files/8/0_0.jpg" width="4571px" height="7132px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00001.dzi" width="4571px" height="7132px"/>
+        </surface>
+        <surface xml:id="i2" n="1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00002.jpg" rend="portrait" width="4571px" height="7132px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00002_files/8/0_0.jpg" width="4571px" height="7132px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00002.dzi" width="4571px" height="7132px"/>
+        </surface>
+        <surface xml:id="i3" n="2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00003.jpg" rend="portrait" width="4571px" height="7132px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00003_files/8/0_0.jpg" width="4571px" height="7132px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00003.dzi" width="4571px" height="7132px"/>
+        </surface>
+        <surface xml:id="i4" n="2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00004.jpg" rend="portrait" width="4571px" height="7132px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00004_files/8/0_0.jpg" width="4571px" height="7132px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00033-000-00004.dzi" width="4571px" height="7132px"/>
+        </surface>
+        <surface xml:id="i5" n="3r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00030-A-000-00001.jpg" rend="portrait" width="3320px" height="6263px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00030-A-000-00001_files/8/0_0.jpg" width="3320px" height="6263px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00030-A-000-00001.dzi" width="3320px" height="6263px"/>
+        </surface>
+        <surface xml:id="i6" n="3v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00030-A-000-00002.jpg" rend="portrait" width="3320px" height="6263px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00030-A-000-00002_files/8/0_0.jpg" width="3320px" height="6263px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00030-A-000-00002.dzi" width="3320px" height="6263px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

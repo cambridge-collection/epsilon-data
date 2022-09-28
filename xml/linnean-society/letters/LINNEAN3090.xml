@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3090">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Peacock, Trinity College, Cambridge, [Cambridgeshire], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62139/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/41, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Peacock, George">George Peacock</persName>
+                    <placeName>Cambridge, Cambridgeshire</placeName>
+                    <date when="1817-10-13">13 Oct 1817</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Smith's candidature for Botany Professorship at Cambridge University. Reports that [John] Haviland, Regius Professor of Physic and a trustee of Dr [John] Walker's [(1731-1803) professor of natural history] botanical readership, is opposed to [Thomas] Martyn resigning if it causes an election, in which case he [Peacock] would have to prefer a university member candidate. Haviland is under the influence of Dr [James] Wood [(1760-1839)], the current vice-chancellor, who is strongly prejudiced against Smith. For certain success, as [William] Webb is to be the next vice-chancellor, proposes Smith gains three trustees' support and have Martyn resign without conditions. Recommends Provost of King's College [George Thackeray] as best conduit for Smith's wishes. If the professorship is appointed via the Senate he [Peacock] shall canvas for Smith with junior university members.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

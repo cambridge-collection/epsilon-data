@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2082">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To P. H. Gosse   27 April [1857]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">8499</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2082 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2082.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2082.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+            <relatedItem type="publication">
+                <bibl>Gosse (1890): 268</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 6: 382</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Leeds University Library Special Collections (Brotherton Collection: Gosse Correspondence)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_232.xml">Leeds</repository>
+                    <collection>Brotherton</collection>
+                    <idno>Gosse Correspondence</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Moor Park</placeName>
+                <date when="1857-04-27">27 Apr [1857]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1927.xml">Gosse, P. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Asks PHG to conduct an experiment to see if young littoral molluscs will cling to a duck’s foot – CD seeks to explain distribution of molluscs without adopting E. Forbes’s [continental extension] theory.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">duck</term>
+                <term type="animals" ref="#">molluscs, littoral</term>
+                <term type="scientific_terms" ref="#">continuous or ‘broken’ land</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

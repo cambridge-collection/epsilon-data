@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9257F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. H. Darwin to Henry Rayner   28 January 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21269</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9257F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9257F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9257F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance">Bernard Quaritch (dealers) 2003</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_334.xml">Quaritch</repository>
+                    <collection>(dealers)</collection>
+                    <idno>(2003; &amp; 2007 but no facsimile)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1224.xml">Darwin, G. H.</persName>
+                <date when="1874-01-28">28 Jan 1874</date>
+                <placeName>Down</placeName>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_7327.xml">Rayner, Henry</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Gives his and CD’s thanks for information on consanguinity among parents of asylum inmates.</p>
+        </abstract>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

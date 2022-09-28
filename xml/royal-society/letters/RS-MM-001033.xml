@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001033">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Felix Semon, Wimpole Street, to Prof WD Halliburton</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2005">2005</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">3 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/16/59, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/16/59</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8059" key="../nameregs/NA8059.xml">William Dobinson Halliburton</persName>
+               <date when="1904-05-11">11 May 1904</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Halliburton, Prof WD">Prof WD Halliburton</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

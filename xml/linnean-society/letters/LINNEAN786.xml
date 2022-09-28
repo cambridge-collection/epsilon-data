@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN786">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62750/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/97, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    
+                    <date when="1825-02-08">[8 Feb 1825]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>[Robert] Brown has declined the Linnean Society Secretaryship; it would be a waste of his "great talents". Unsurpised that [Alexander] Macleay should think the Secretaryship undervalued as he made himself President whilst the position by ordering councils without consulting any of the vice-presidents, contrary to the charter. Glad that Smith approves of [James] Bicheno.</p><p>Sorry to hear of Smith's loss in India but forwarded his letter to [William] Roscoe; worries about his friends in Madras, where the has been bad cholera. Sir Thomas Raffles [(1781-1826), founder of Singapore] is fitting up Sir Humphry Davy's house to make a large display of natural history specimens. There are many candidates for Linnean Society membership though unsure whether or not they are practical naturalists; has always feared an influx of unscientific persons. Has a "sort of dread" of the Horticultural Society.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

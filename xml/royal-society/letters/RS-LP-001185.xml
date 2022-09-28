@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001185">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Of the late transit of Venus' from Nathaniel Pigott to John Bevis</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 13p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/5/171, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/5/171</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8007" key="../nameregs/NA8007.xml">Nathaniel Pigott</persName>
+               <date when="1770-03-15">15 March 1770</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8127" key="../nameregs/NA8127.xml">John Bevis</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4179">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Roland Trimen   23 May [1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3926</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4179 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4179.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4179.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 148: 135–136</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Poulton (1909a): 222</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 11: 441</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Royal Entomological Society (Trimen papers, box 21: 56)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_337.xml">R. Entomol. Soc.</repository>
+                    <collection>Trimen papers</collection>
+                    <idno>box 21: 56</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1863-05-23">23 May [1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4806.xml">Trimen, Roland</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD has drawn up a paper from RT’s orchid notes on the fertilisation of <hi rend="italic">Disa grandiflora</hi> for the Linnean Society [<hi rend="italic">J. Linn. Soc. Lond. (Bot.)</hi> 7 (1863): 144–7].</p>  
+<p>CD would welcome seeds of any Cape <hi rend="italic">Oxalis</hi> for his investigation of dimorphism.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Disa grandiflora</term>
+                <term type="plants" ref="#">orchid</term>
+                <term type="plants" ref="#">Oxalis</term>
+                <term type="it" ref="#">J. Linn. Soc. Lond. (Bot.)</term>
+                <term type="places" ref="#">Cape of Good Hope</term>
+                <term type="rx" ref="#">Trimen, Roland 1863</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="societal" ref="#">Linnean Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

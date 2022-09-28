@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2585">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Andrew Caldwell, Dublin, [Ireland], to James Edward Smith, 4 Argyle Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61638/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/15, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Caldwell, Andrew">Andrew Caldwell</persName>
+                    <placeName>Dublin, Ireland</placeName>
+                    <date when="1797-05-16">16 May 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Alarmed at the state of growing unrest in Ireland. Comments on reports published by a secret committee of both Houses of Parliament and the "great ability and contrivance shown by the conspirators". Fearful of consequences of a successful French invasion. An unusually cold spring has prevented him from botanising. Disappointed to not get the benefit of Smith's recent lectures. [Walter] Wade will repay Smith soon. Would like to see Smith's 'Lepidopteros' insects but the cost of travelling is very high because of the domestic situation, hopes Smith will give the etymology of the terminology in his study. Believes Smith's friend Johns will have a "magnificent fund of entertainment" in studying shells, remarks that the collection of [Charles Alexandre de] Calonne [(1734-1802) French statesman] probably arose "more from ostentation than taste".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

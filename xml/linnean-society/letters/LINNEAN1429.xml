@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1429">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63500/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/113, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1797-11-16">16 Nov 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letter of 4 November [1797]; pleased by account of favourable turn in [Mariamne] Johnes condition; recommends book just published in Paris detailing similar cases, "Observations sur la nature et sur le traitment du Rachitisme, pur M. Poral". Steady recovery of Mrs Manning [Woodward's mother-in-law], in spite of her old age.</p><p>Reexamined all his 'Bromus' specimens and found that 'B. erectus' is ciliated; notes on this. [John] Stackhouse has a new 'Medusa' for Smith, and a nondescript bird with description for Linnean Society [see RelatedMaterial below]. Glad Oxford has a professor "more liberal minded" than [John] Sibthorp; "mysteries &amp; secrets in scientific matters never answer any other purpose than to hurt the character of the person who deals in them". Thinks the 'Tordglium maximum' and 'T. officinale' must be erroneous, knowing that the habitats given for them are the same place.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

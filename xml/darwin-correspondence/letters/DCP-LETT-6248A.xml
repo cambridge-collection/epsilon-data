@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6248A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Fritz Müller<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   17 June 1868</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20488</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6248A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6248A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6248A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc">inc (German trans)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Möller 1915–21, 2: 141–3; W. S. Dallas trans. 1869, pp. 119–21 n.</bibl>
+            <bibl type="printedSource">Möller, Alfred 1915–21 2: 141–3</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3070.xml">Müller, J. F. T.</persName>
+                <placeName>Itajahy, Santa Catharina, Brazil</placeName>
+                <date when="1868-06-17">17 June 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Again thanks CD for trouble in arranging for translation of <hi rend="italic">Für Darwin</hi>.</p> 
+            <p>Sends addition answering critics of his idea of insect metamorphosis [see Möller ed. 1915–21, 1: 259].</p>
+            <p>Agrees with Charles Lyell’s suggested English title "Facts and arguments in favor of Darwin", although perhaps more accurate to call it "Darwinism tested by Carcinology" or "Carcinology as bearing on the origin of species".</p>
+            <p>Says any profit should go to CD for his trouble and expense with the translation.</p> 
+<p>Thanks for seeds of <hi rend="italic">Eschscholtzia</hi>.</p>  
+<p>Gives observations on number of climbing plants, including <hi rend="italic">Dilleniacea</hi>, <hi rend="italic">Marantacea</hi>, <hi rend="italic">Catasetum</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="animals" ref="#">insect</term>
+                <term type="plants" ref="#">Catasetum</term>
+                <term type="plants" ref="#">climbing plants</term>
+                <term type="plants" ref="#">Dilleniacea</term>
+                <term type="plants" ref="#">Eschscholtzia</term>
+                <term type="plants" ref="#">Marantacea</term>
+                <term type="it" ref="#">Fur Darwin</term>
+                <term type="languages" ref="#">English</term>
+                <term type="people" ref="#subject_3051">Lyell, Charles</term>
+                <term type="rx" ref="#">Müller, J. F. T. 1864</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">larvae</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

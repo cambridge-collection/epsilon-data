@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SOMERVILLE469">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Frederick Marryat to Mary Somerville   early 1830s</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="somerville">The Somerville Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Brigitte Stenhouse</authority>
+                <date when="2022-02-26">2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">MSM 2 / 186, Dep. c. 371, Bod, MS</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Marryat, Frederick">Frederick Marryat</persName>
+                    <placeName>St James Place</placeName>
+                    <date when="1830-01-01">early 1830s</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Somerville, Mary">Mary Somerville</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

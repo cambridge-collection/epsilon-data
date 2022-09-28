@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9384">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John Lubbock, P. L. Sclater, Charles Lyell, W. B. Carpenter, and Michael Foster   [7 April 1874]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19037</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9384 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9384.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9384.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Draft</note>
+            <note type="physdesc">ADraftS 2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 97: C52–3</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>97: C52–3</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+                <placeName>unstated</placeName>
+                <date when="1874-04-07">[7 Apr 1874]</date>
+            </correspAction>
+            <correspAction type="received" subtype="personGrp">
+                <persName key="../nameregs/nameregs_3026.xml" resp="high">Lubbock, John</persName>
+                <persName key="../nameregs/nameregs_4251.xml">Sclater, P. L.</persName>
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+                <persName key="../nameregs/nameregs_839.xml">Carpenter, W. B.</persName>
+                <persName key="../nameregs/nameregs_1699.xml">Foster, Michael</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Circular requesting recipients to sign an enclosed [missing] statement [relating to appeal for Naples Zoological Station] if they approve of it.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Other people</term>
+                <term type="deprecated_people_class" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">Naples Zoological Station</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00194_files/8/0_0.jpg" width="4321px" height="5893px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00194_files/11/1_1.jpg" width="4321px" height="5893px"/>
+        <surface n="C:52r" xml:id="i194">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00194.jpg" width="4321px" height="5893px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00194_files/8/0_0.jpg" width="4321px" height="5893px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00194.dzi" width="4321px" height="5893px"/>
+        </surface>
+        <surface n="C:52v" xml:id="i195">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00195.jpg" width="4321px" height="5893px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00195_files/8/0_0.jpg" width="4321px" height="5893px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00195.dzi" width="4321px" height="5893px"/>
+        </surface>
+        <surface n="C:53r" xml:id="i196">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00196.jpg" width="4321px" height="5893px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00196_files/8/0_0.jpg" width="4321px" height="5893px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00196.dzi" width="4321px" height="5893px"/>
+        </surface>
+        <surface n="C:53v" xml:id="i197">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00197.jpg" width="4233px" height="5893px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00197_files/8/0_0.jpg" width="4233px" height="5893px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00097-000-00197.dzi" width="4233px" height="5893px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

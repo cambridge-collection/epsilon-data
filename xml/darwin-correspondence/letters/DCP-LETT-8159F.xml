@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8159F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John Scott   15 January 1872</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21166</idno>
+            <date when="2013">2013</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8159F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8159F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8159F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="20">20</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance"><hi rend="italic">Transactions of the Hawick Archæological Society</hi> (1908): 68 </bibl>
+            <bibl type="printedSource">Transactions of the Hawick Archæological Society 1908: 68</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1872-01-15">15 Jan 1872</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4258.xml">Scott, John</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Is resuming the study of worm-casts as he believes they will bear on the denudation of land. Requests specific information on the relative number, size, and manner of deterioration of worm-casts in India.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">worm</term>
+                <term type="places" ref="#">India</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">soil and other substrates</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">worms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

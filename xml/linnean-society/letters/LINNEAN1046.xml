@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1046">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Frankland, [near Nottingham, Nottinghamshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62990/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/14, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Frankland, Sir Thomas">Sir Thomas Frankland</persName>
+                    <placeName>Nottingham, Nottinghamshire</placeName>
+                    <date when="1800-06-05">5 Jun 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His hearing returned within a few miles of Grantham, [Lincolnshire]. A friend of his has recognised fern root in "Ching's lozenges" after Farquhar prescribed them for severe stomach pains, having previously taken nostrum of the male fern for a tapeworm in Switzerland; refers to a letter addressed to Mr Ching signed by Ireland, the Oxford apothecary, as an avowed piece of fun by an Oxford wag.</p><p>Will examine 'Ulva diaphara' and 'Ulva flavescens' at home. Travelling home with Lady Frankland's brother, Mr Smelt, who married Lord Chesterfield's only sister and has eleven children, and his eldest daughter who is to be a companion for Lady Frankland, lessening his dread of returning home.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

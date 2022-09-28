@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-210">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. S. Henslow<ref target="#foot.f1"/>   18 July 1833</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">5221</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-210 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-210.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-210.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 145: 26</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Darwin and Henslow</hi>: 74</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 1: 321</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Royal Botanic Gardens, Kew (Henslow letters: 18 DAR/1/1/18)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_213.xml">Kew</repository>
+                    <idno>Henslow letters: 18 DAR/1/1/18</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Rio de la Plata, HMS Beagle</placeName>
+                <date when="1833-07-18">18 July 1833</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2235.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Fears JSH will think his collections scanty. Makes it a constant rule to prefer obscure and diminutive tribes of animals.</p>
+            <p>Now has a servant whom he has taught to skin birds, etc.</p>
+            <p>Lists four barrels of specimens he is sending.</p>
+            <p>Gives future route. He looks forward to the western coast of South America.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1096">Covington, Syms</term>
+                <term type="places" ref="#">America, South</term>
+                <term type="places" ref="#">coast, western</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

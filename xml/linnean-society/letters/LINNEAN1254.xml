@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1254">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Hafod, [Cardiganshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63213/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/98, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Hafod, Cardiganshire</placeName>
+                    <date when="1813-11-28">28 Nov 1813</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Anxious for Smith's success at Cambridge [candidature for Botany Professorship] and regrets inability to assist. Thinks it "very handsome" of the Duke of Gloucester [Prince William Frederick (1776-1834), chancellor of Cambridge University] to remain neutral, he is the only member of the royal family he feels attached to. His mother recently died, though she had long been lost to him through the "machinations &amp; lies of others", and only found out accidently through an acquaintance, and not his family. Offers to try and acquire Welsh votes for Smith.</p><p>Does not think any minister will "dare to continue a war in support of the Bourbons", otherwise fears war at home, and comments on what a fall Napoleon has had. Thinks that Napoleon's brother Lucien "has chosen a wider plan"; hears great things of his poem "Charlemagne" and a female acquaintance of his is translating it into English. They had a wet autumn but now frost setting in.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

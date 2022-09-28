@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9296A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. A. Gammie   16 February 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20380</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9296A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9296A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9296A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 157a: 98</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>157a: 98</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_7281.xml" resp="high">Gammie, J. A.</persName>
+                <placeName>Monarpur, Darjeeling</placeName>
+                <date when="1874-02-16">16 Feb 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends his observations on the fertilisation of <hi rend="italic">Hedychium gardnerianum</hi> by sphinx moths. Did not look for pollen on the wing tips.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">moths, sphinx</term>
+                <term type="plants" ref="#">Hedychium gardnerianum</term>
+                <term type="people" ref="#subject_1803">Gammie, J. A.</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">pollen</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00157-A-000-00159_files/8/0_0.jpg" width="3770px" height="6110px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00157-A-000-00159_files/11/1_1.jpg" width="3770px" height="6110px"/>
+        <surface xml:id="i1" n="98r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00157-A-000-00159.jpg" rend="portrait" width="3770px" height="6110px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00157-A-000-00159_files/8/0_0.jpg" width="3770px" height="6110px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00157-A-000-00159.dzi" width="3770px" height="6110px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="98v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00157-A-000-00160.jpg" rend="portrait" width="3770px" height="6110px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00157-A-000-00160_files/8/0_0.jpg" width="3770px" height="6110px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00157-A-000-00160.dzi" width="3770px" height="6110px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

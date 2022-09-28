@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9092">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Alexander Bain   9 October 1873</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19680</idno>
+            <date when="2014">2014</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9092 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9092.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9092.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="21">21</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy</note>
+            <note type="physdesc" n="C">1p</note>
+            <relatedItem type="publication">
+                <bibl>Bain (1904): 320; <hi rend="italic">LL</hi> 3: 172</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 143: 27</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>143: 27</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1873-10-09">9 Oct 1873</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_240.xml">Bain, Alexander (b)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks AB for his review of <hi rend="italic">Expression</hi> [May 1873, in <hi rend="italic">The senses and the intellect</hi>, 3d ed. (1874), pp. 697–714]. Admits vagueness of some points. Has never grasped AB’s principle of spontaneity. But, as they look at everything so differently, it is not likely that they should agree closely.</p>  
+<p>A recent review by T. S. Baynes, [<hi rend="italic">Edinburgh Rev.</hi> 137 (1873): 492–528] is "magnificently contemptuous" toward CD and many others.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Edinburgh Rev.</term>
+                <term type="it" ref="#">Expression</term>
+                <term type="it" ref="#">The senses and the intellect</term>
+                <term type="rx" ref="#">Bain, Alexander (b) 1873</term>
+                <term type="rx" ref="#">Baynes, T. S. 1873</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">expression, emotion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">mind, cognitive behaviour</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">negative self-criticism</term>
+                <term type="scientific_terms" ref="#">perception and sensation</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

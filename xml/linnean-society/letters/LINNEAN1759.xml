@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1759">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Carlo Antonio Ludovico Bellardi, Turin, [Italy], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61509/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/35, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bellardi, Carlo Antonio Ludovico">Carlo Antonio Ludovico Bellardi</persName>
+                    <placeName>Turin, Italy</placeName>
+                    <date when="1790-10-20">20 Oct 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received from Smith academic dissertations by Linnaeus, plants for his herbarium and seeds, which have been planted in [Rodrigo de] Sousa [Coutinho's] garden, suggests in future Smith sends seeds rather than dried specimens to Sousa. Planning to write to [Edmund] Davall. Hopes to see a new edition of Smith's "Vegetabilium System", a bookseller in Turin would like every book on botany or natural history Smith has published or intends to publish. Satisfied with Smith's observations on the plants of uncertain classification, has consulted Scheuchzer's "Agrostographiae Helveticae Prodromus", is certain that the 'Phalaris' in question is the one described by Linnaeus and not 'Radice perenni', on which he is currently working on a memoir of for the Academy of Sciences. The 'Arenaria' he sent with the name of 'Saxatilis vill' is a perennial. Discussion of 'Arenaria zanoni', 'Arenaria flaccida', 'Arenaria capillacea', 'Arenaria striata'. Asks for advice on 'Allium nigrum', 'Potentilla verna', 'Androsace lactea', 'Ranunculus cuneifolium', 'Campanula rupestris', 'Trifolium aureum', 'Spartium [...]', 'Asperula saxatilis', 'Asperula cynanchica', 'Festuca decidua', 'Radix perennis', 'Polypodium [pessimalte]', 'Anthemis altissima', all of which Smith has received from Bellardi, this list is underlined in pencil.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

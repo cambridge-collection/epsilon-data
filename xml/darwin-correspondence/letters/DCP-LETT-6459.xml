@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6459">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To G. H. Lewes   [13 November 1868]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6203</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6459 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6459.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6459.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 185: 43</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>185: 43</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Queen Anne St, 6</placeName>
+                <date when="1868-11-13">[13 Nov 1868]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2911.xml">Lewes, G. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Arranges to call on GHL.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">visiting</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00185_files/8/0_0.jpg" width="3551px" height="6425px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00185_files/11/1_1.jpg" width="3551px" height="6425px"/>
+        <surface xml:id="i1" n="43.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00185.jpg" rend="portrait" width="3551px" height="6425px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00185_files/8/0_0.jpg" width="3551px" height="6425px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00185.dzi" width="3551px" height="6425px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="43.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00186.jpg" rend="portrait" width="3476px" height="6344px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00186_files/8/0_0.jpg" width="3476px" height="6344px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00186.dzi" width="3476px" height="6344px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="43.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00187.jpg" rend="portrait" width="3466px" height="6344px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00187_files/8/0_0.jpg" width="3466px" height="6344px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00187.dzi" width="3466px" height="6344px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="43.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00188.jpg" rend="portrait" width="3433px" height="6317px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00188_files/8/0_0.jpg" width="3433px" height="6317px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00188.dzi" width="3433px" height="6317px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

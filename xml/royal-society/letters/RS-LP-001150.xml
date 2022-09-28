@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001150">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Thanks for presenting his work to the Royal Society' from Lazzaro Spallanzani to Matthew Maty</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 2p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/5/95, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/5/95</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6912" key="../nameregs/NA6912.xml">Lazzaro Spallanzani</persName>
+               <date when="1769-01-01">1769</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA4514" key="../nameregs/NA4514.xml">Matthew Maty</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

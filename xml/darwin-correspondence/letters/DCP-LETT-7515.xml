@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7515">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From C. L. Bernays   25 February 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16297</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7515 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7515.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7515.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp, CD note</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 90: 18–19</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>90: 18–19</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_413.xml">Bernays, C. L.</persName>
+                <placeName>St Louis, Mo.</placeName>
+                <date when="1871-02-25">25 Feb 1871</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Older settlers in U. S. are taller and thinner than recent immigrants.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#">immigrants</term>
+                <term type="people" ref="#">older settlers</term>
+                <term type="places" ref="#">U. S.</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">time and age (‘organic’ time)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00039_files/8/0_0.jpg" width="5216px" height="7739px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00039_files/11/1_1.jpg" width="5216px" height="7739px"/>
+        <surface xml:id="i1" n="18ar">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00039.jpg" rend="portrait" width="5216px" height="7739px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00039_files/8/0_0.jpg" width="5216px" height="7739px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00039.dzi" width="5216px" height="7739px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="18br">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00041.jpg" rend="portrait" width="2338px" height="3459px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00041_files/8/0_0.jpg" width="2338px" height="3459px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00041.dzi" width="2338px" height="3459px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="19r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00043.jpg" rend="portrait" width="5216px" height="7739px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00043_files/8/0_0.jpg" width="5216px" height="7739px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00090-000-00043.dzi" width="5216px" height="7739px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

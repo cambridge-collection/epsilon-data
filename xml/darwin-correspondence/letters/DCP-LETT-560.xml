@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-560">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To David Milne   20 [February 1840]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1031</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-560 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-560.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-560.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: 370</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 2: 113</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 2: 258</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">University of Illinois at Urbana-Champaign, Rare Book and Manuscript Library (Charles E. Mudie Collection, 1816–1897: Correspondence Post-1650 MS 0112)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_191.xml">Illinois UL</repository>
+                    <collection>Charles E. Mudie Collection, 1816–1897 Corespondence</collection>
+                    <idno>Post-1650 MS 0112</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Upper Gower St, 12</placeName>
+                <date when="1840-02-20">20 [Feb 1840]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3336.xml">Milne Home, David</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>About earthquakes: the shock of February 1835 in Chile; possible connection between shocks occurring coincidentally in different parts of the world, and between earthquakes and the weather; DM’s collection of accounts of earthquakes in Scotland.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="places" ref="#">Chile</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">volcanoes and earthquakes</term>
+                <term type="scientific_terms" ref="#">wind and weather</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

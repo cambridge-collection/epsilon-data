@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4459F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Council of the Royal Horticultural Society   11 April 1864</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21184</idno>
+            <date when="2001">2001</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4459F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4459F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4459F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="12">12</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance"> <hi rend="italic">Proceedings of the Royal Horticultural Society</hi> 4 (1864): 91–3 </bibl>
+            <bibl type="printedSource">Proceedings of the Royal Horticultural Society 4 1864: 91–2</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent" subtype="personGrp">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Cambridge</placeName>
+                <date when="1864-04-11">11 Apr 1864</date>
+            </correspAction>
+            <correspAction type="received">
+                <orgName key="../nameregs/nameregs_4104.xml">Royal Horticultural Society Council</orgName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>The signatories warn the RHS that in offering prizes for collections of specimens of wild English plants, the Society will cause serious injury to varieties already threatened without any real promotion of scientific botany.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">wild English plants</term>
+                <term type="scientific_terms" ref="#">extinction</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">Royal Horticultural Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

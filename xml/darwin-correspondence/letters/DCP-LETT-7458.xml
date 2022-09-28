@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7458">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From St G. J. Mivart   26 January 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14436</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7458 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7458.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7458.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 171: 192</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>171: 192</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3350.xml">Mivart, St G. J.</persName>
+                <placeName>London, North Bank, 7</placeName>
+                <date when="1871-01-26">26 Jan 1871</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Is glad CD does not believe he is biased by an <hi rend="italic">odium theologicum</hi>. Comments on the first volume of <hi rend="italic">Descent</hi>. Is convinced of the truth of evolution, but believes natural selection plays only a secondary role and that man is fundamentally different from the rest of creation.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Descent</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+                
+                <term type="tag" ref="#conduct_of_debate">Conduct Of Debate</term>
+                <term type="tag" ref="#design_in_nature">Darwin In Nature Design In Nature</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10312F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. R. S. Ralston   20 December 1875</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21227</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10312F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10312F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10312F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">John Wilson (dealer) (5 May 2008)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_441.xml">Wilson, John</repository>
+                    <collection>(dealer)</collection>
+                    <idno>(5 May 2008)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <date when="1875-12-20">20 Dec 1875</date>
+                <placeName>Down</placeName>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3920.xml">Ralston, W. R. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Encloses S. C. Malan’s letter which WRSR need not return. The letter in Georgian is so foolish he will not reply.</p>
+        </abstract>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

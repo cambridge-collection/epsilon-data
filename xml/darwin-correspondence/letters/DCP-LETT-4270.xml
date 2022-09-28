@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4270">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Thomas Rivers   17 August [1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3960</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4270 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4270.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4270.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 314</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 185: 85</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>185: 85</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1863-08-17">17 Aug [1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4019.xml">Rivers, Thomas</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>The almond-tree TR gave him produced no fruit, but the Chinese double peach has three. Asks for ripe almond fruits and any <hi rend="italic">odd</hi> peaches, to compare the stones.</p> 
+            <p>Asks about modification in fruit or foliage in any fruit-trees from being grafted,</p>
+            <p>and about seedlings of pears and wheat said to have been found in hedges and woods.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">almond-tree</term>
+                <term type="plants" ref="#">fruit</term>
+                <term type="plants" ref="#">fruit trees</term>
+                <term type="plants" ref="#">hedges</term>
+                <term type="plants" ref="#">peach, Chinese double</term>
+                <term type="plants" ref="#">pears</term>
+                <term type="plants" ref="#">wheat</term>
+                <term type="plants" ref="#">woods</term>
+                <term type="scientific_terms" ref="#">change</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">double flowers</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">grafting</term>
+                <term type="scientific_terms" ref="#">maturity</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">young, offspring</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00377_files/8/0_0.jpg" width="3503px" height="6208px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00377_files/11/1_1.jpg" width="3503px" height="6208px"/>
+        <surface xml:id="i1" n="85.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00377.jpg" rend="portrait" width="3503px" height="6208px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00377_files/8/0_0.jpg" width="3503px" height="6208px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00377.dzi" width="3503px" height="6208px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="85.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00378.jpg" rend="portrait" width="3503px" height="6208px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00378_files/8/0_0.jpg" width="3503px" height="6208px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00378.dzi" width="3503px" height="6208px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="85.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00379.jpg" rend="portrait" width="3503px" height="6208px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00379_files/8/0_0.jpg" width="3503px" height="6208px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00379.dzi" width="3503px" height="6208px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="85.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00380.jpg" rend="portrait" width="3503px" height="6208px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00380_files/8/0_0.jpg" width="3503px" height="6208px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00380.dzi" width="3503px" height="6208px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

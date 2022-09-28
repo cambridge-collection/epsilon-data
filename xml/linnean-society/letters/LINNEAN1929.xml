@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1929">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Jacob Bigelow, Boston, Massachusetts, to James Edward Smith, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63734/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/20/79, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bigelow, Jacob">Jacob Bigelow</persName>
+                    <placeName>Boston, Massachusetts</placeName>
+                    <date when="1813-11-18">18 Nov 1813</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Writes on introduction of Corrêa. Necessity of European correspondence to supply defect of books during the present "imperfect state of science" in the USA; his sense of honour in having access to the "head sources of the science". Discusses botany of New England, little explored by European botanists; remarks that there are many small differences between American and European species, citing 'Salicornia herbacea', 'Callitriche aquatica', and 'Athusa cyanpium' of which he encloses seeds. Difficulty of exchanging specimens during the present war [War of 1812, conflict between USA and Britain 1812-1815]. Sends seeds of an 'Iris' and another unidentified plant; observations and small ink sketches of components. Printing an edition of Smith's "Introduction to Botany" for his students; not yet enough botanists in USA to induce booksellers to publish large works.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

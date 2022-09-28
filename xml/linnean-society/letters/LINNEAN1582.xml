@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1582">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, 13 Chapel Place, [London], to Pleasance Smith, Mrs E Clarke's, Saxmundham, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63651/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/132, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1825-06-11">11 Jun 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Saxmundham, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His travel arrangements for Bristol. Account of remainder of his time in London, including visits to Paddington to see [Thomas William] Coke and family; a ball at Mrs Bennett's, sister of [Aylmer Bourke] Lambert, where he met Sir Stamford Raffles [(1781-1826), founder of Singapore], they are now "sworn friends"; attended the King's [George IV (1762-1830)] drawing room; visited Lady Hervey and Miss Caton, Mrs Patterson unwell. Dr [Martin] Davy extravagantly applauded "English Flora".</p><p>A meeting with [Thomas] Platt [(d 1842), one of John Sibthorp's executors, supervised the publication of "Flora Graeca"], who is annoyed at the British Museum having claimed a copy of "Flora Graeca" and sued the bookseller according to the act which requires copies to be deposited with public bodies. All say he looks "remarkably well", though thinner; his night perspiration has returned. Lambert insists that they stay at Boyton, [Wiltshire], on return from Bristol as he can get them a sight of Fonthill [Abbey, Wiltshire, built by William Beckford (1760-1844), novelist]. Lady de Clifford [Sophia Southwell] said to be "breaking fast".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

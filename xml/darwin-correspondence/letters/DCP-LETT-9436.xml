@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9436">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. M. Grandclément<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   [May 1874]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16997</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9436 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9436.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9436.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="LS">3pp (French)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 165: 87</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>165: 87</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1948.xml" resp="high">Grandclément, J. M.</persName>
+                <placeName>Clermont-Ferrand</placeName>
+                <date notBefore="1874-05-01" notAfter="1874-05-31">[May 1874]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>He was chagrined to read in <hi rend="italic">Descent</hi> CD’s statement that smallpox vaccine has saved thousands of lives. He has found no scientific reason to believe in the prophylactic effect of the vaccine. In epidemic of 1870–1, smallpox killed more vaccinated persons than were killed by cholera, against which there is no vaccine, in 1853–4. Cites the difficulties in arriving at a conclusive proof of vaccine’s effectiveness.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="health" ref="#">Other people</term>
+                <term type="it" ref="#">Descent</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00402_files/8/0_0.jpg" width="5053px" height="7154px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00402_files/11/1_1.jpg" width="5053px" height="7154px"/>
+        <surface n="87:1r" xml:id="i402">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00402.jpg" width="5053px" height="7154px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00402_files/8/0_0.jpg" width="5053px" height="7154px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00402.dzi" width="5053px" height="7154px"/>
+        </surface>
+        <surface n="87:1v" xml:id="i403">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00403.jpg" width="4943px" height="6817px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00403_files/8/0_0.jpg" width="4943px" height="6817px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00403.dzi" width="4943px" height="6817px"/>
+        </surface>
+        <surface n="87:2r" xml:id="i404">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00404.jpg" width="5053px" height="7154px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00404_files/8/0_0.jpg" width="5053px" height="7154px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00404.dzi" width="5053px" height="7154px"/>
+        </surface>
+        <surface n="87:2v" xml:id="i405">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00405.jpg" width="4943px" height="6817px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00405_files/8/0_0.jpg" width="4943px" height="6817px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00405.dzi" width="4943px" height="6817px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

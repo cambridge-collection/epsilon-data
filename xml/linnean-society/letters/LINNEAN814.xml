@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN814">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62777/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/13, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    
+                    <date when="1799-10-25">25 Oct 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received visit from [Thomas] Marsham who says the 'Mentha' he sent Smith is 'Mentha sativa'; asks how figure in "English Botany" 448 resembles no.21 in [William] Sole's book ["Menthae Britannicae"]. Does not think Sole is a very skilled botanist, pointing out that Sole considers Dr [John] Hill [(c 1716-1775)] one of the first botanists. Hopes Smith received the parcel of Scottish plants sent by his son from Mr Bruce.</p><p>Hears "Flora Britannica" progresses well, recommends providing a reference for plants also appearing in "English Botany". Revd [Henry John] Wollaston has seen 'Senecio paludosus' growing abundantly in ditches near Brayford Water near Lincoln and at Nocton Fen on banks of River Witham leading to Boston, [Lincolnshire], proposes him as a FLS. Lately received letter from [Samuel] Goodenough. Dr [George] Shaw's 'Bradypus ursinus' was exhibited during the Bury Fair; agrees with [Thomas] Bewick's "Quadrupeds" that it is of the genus 'Ursus' and the animal in Bury is male whereas that shown in [Holborn] was a female, makes brief observations, in Latin.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3141">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Henry Muhlenberg, Lancaster, [Pennsylvania], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62186/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/88, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Muhlenberg, Gotthilf Heinrich Ernst">Gotthilf Heinrich Ernst Muhlenberg</persName>
+                    <placeName>Lancaster, Pennsylvania</placeName>
+                    <date when="1793-06-05">5 Jun 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sending numbered Lancastrian plants for Smith's attention, including all the local ferns. Will send mosses and lichens in next shipment, of which he has observed 'Lycopodia', 'Mnia', 'Sphagnum', 'Phaseum', 'Fontinalis', 'Polytrichum', 'Brya', 'Hypna', 'Jungermannia', and 'Marchantia'. Cannot obtain Dillenius' "excellent work" ["Historia muscorum"] but expecting [Johann] Hedwig's "later works" ["Descriptio muscorum"]. Assisted with his work on lichens by [Georg Franz] Hoffmann's "Enumeratio lichenum". Using Schaeffer's "Fungi" to identify the local fungi but still unsure on many. Asks for Smith's particular attention on several numbered plants. Generally confused by 'Carex', 'Solidago', 'Aster', 'Asclepias', 'Polygala', and 'Hedysarum'. Unfortunate that [William] Aiton's "Hortus Kewensis" is out of print as it is valuable for American botanists. Lists some of his American botanical correspondents: Dr Culler in New England; Mitchill in New York; Barton, Barkram, and Marshall in Pennsylvania; Kramsch in North Carolina; and in Germany [Johann Christian Daniel von] Schreber and Hoffmann. Asks Smith to investigate a box of specimens sent to Philadelphia by Hoffmann but possibly delayed in London.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

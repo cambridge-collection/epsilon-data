@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3313">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Asa Gray   9 November 1861</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7878</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3313 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3313.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3313.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp damaged †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 110 (ser. 2): 63–4</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>110: B63–B64</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+                <placeName>Cambridge Mass.</placeName>
+                <date when="1861-11-09">9 Nov 1861</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Discusses observations of his own and of John Torrey on dimorphism, especially in <hi rend="italic">Amsinckia</hi>.</p>  
+<p>Is trying to find specimens of <hi rend="italic">Houstonia</hi> for CD.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Amsinckia</term>
+                <term type="plants" ref="#">Houstonia</term>
+                <term type="people" ref="#subject_4779">Torrey, John</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                
+                <term type="tag" ref="#asa_gray_set">Asa Gray Letters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

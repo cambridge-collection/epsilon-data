@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2796">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Jones, London, to James Edward Smith, Rue St Denis, Paris, [France]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61954/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/104, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Jones, William">William Jones</persName>
+                    <placeName>London</placeName>
+                    <date when="1786-09-20">20 Sep 1786</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Paris, France</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter from Europe, excited by his descriptions of Prince of Orange's insect cabinet and "double 'Tuberoses'". Mr [Thomas] M[arsham] anxious about the success of the new society [proposed Linnean Society], missed the meeting at which it was discussed but was given Secretary's Chair yet such was his apprehension about even being a member the motion has dropped. Agrees with Smith that for the present it should be kept "in embryo that we may not do anything unwisely or hastily". Cautions about the acrimony societies can raise, proposes an alternative quarterly "breakfast" with select friends from which a society could form naturally. Updates Smith on his work [for paper on 'Papilios']: has 990 specimens of 970 different species, after finishing with Sir Joseph Banks' collection has Dr Hunter's cabinet to examine and would like to consult Linnaean collections. [Johan Christian] Fabricius has described 200 species that he cannot procure, certain many described from drawings of [Pieter] Cramer [(1721-1776) Dutch entomologist, work in question probably "De Uitlandsche Kapellen"], will have to copy same to make his own work complete.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

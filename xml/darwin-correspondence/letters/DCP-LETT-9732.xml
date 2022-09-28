@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9732">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   25 November 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4817</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9732 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9732.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9732.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 620</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 103: 228–9; Royal Botanic Gardens, Kew (JDH/1/14/f. 54)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>103: 228–9</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_213.xml">Kew</repository>
+                    <idno>JDH/1/14/f. 54</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1874-11-25">25 Nov 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Encloses a letter [from Huxley about his invitation to lecture at Edinburgh]. Has done his best to dissuade Huxley from accepting the burden.</p>
+            <p>JDH’s depression in bereavement.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="health" ref="#">Other people</term>
+                <term type="people" ref="#subject_2486">Huxley, T. H.</term>
+                <term type="places" ref="#">Edinburgh</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00457_files/8/0_0.jpg" width="3421px" height="5551px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00457_files/11/1_1.jpg" width="3421px" height="5551px"/>
+        <surface xml:id="i1" n="228r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00457.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00457_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00457.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i2" n="228v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00458.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00458_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00458.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i3" n="229r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00459.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00459_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00459.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i4" n="229v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00460.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00460_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00460.dzi" width="3421px" height="5551px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

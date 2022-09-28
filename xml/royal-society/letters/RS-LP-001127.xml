@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001127">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Of astronomical observations at Ewetzingen in 1767-8' from Christian Mayer to Charles Morton and James Douglas</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 13p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/5/54, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/5/54</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA2298" key="../nameregs/NA2298.xml">Christian Mayer</persName>
+               <date when="1768-01-01">1768</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA1286" key="../nameregs/NA1286.xml">Charles Morton</persName>
+               <persName n="NA7826" key="../nameregs/NA7826.xml">James Douglas, 14th Earl of Morton</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

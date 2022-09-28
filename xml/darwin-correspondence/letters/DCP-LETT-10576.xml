@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10576">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   10 August 1876</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4886</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10576 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10576.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10576.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 151: 271</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 95: 415–16</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>95: 415–16</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1876-08-10">10 Aug 1876</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Asa Gray’s directed variation would make natural selection superfluous.</p>
+            <p>CD has read new theological reconciliations of Darwinism and religion.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1957">Gray, Asa</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                
+                <term type="tag" ref="#religious_beliefs">Religious Beliefs</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00267_files/8/0_0.jpg" width="3398px" height="5788px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00267_files/11/1_1.jpg" width="3398px" height="5788px"/>
+        <surface xml:id="i1" n="415r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00267.jpg" rend="portrait" width="3398px" height="5788px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00267_files/8/0_0.jpg" width="3398px" height="5788px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00267.dzi" width="3398px" height="5788px"/>
+        </surface>
+        <surface xml:id="i2" n="415v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00268.jpg" rend="portrait" width="3398px" height="5788px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00268_files/8/0_0.jpg" width="3398px" height="5788px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00268.dzi" width="3398px" height="5788px"/>
+        </surface>
+        <surface xml:id="i3" n="416r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00269.jpg" rend="portrait" width="3398px" height="5788px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00269_files/8/0_0.jpg" width="3398px" height="5788px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00269.dzi" width="3398px" height="5788px"/>
+        </surface>
+        <surface xml:id="i4" n="416v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00270.jpg" rend="portrait" width="3398px" height="5788px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00270_files/8/0_0.jpg" width="3398px" height="5788px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00270.dzi" width="3398px" height="5788px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

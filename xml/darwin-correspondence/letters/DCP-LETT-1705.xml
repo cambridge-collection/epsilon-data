@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1705">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. S. Henslow   27 June [1855]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">12141</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1705 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1705.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1705.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 145: 73</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Darwin and Henslow</hi>: 174</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 5: 359</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 93: A28–A30</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>93: A28–A30</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1855-06-27">27 June [1855]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2235.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Asks whether JSH considers <hi rend="italic">Lychnis diurna</hi> and <hi rend="italic">L. vespertina</hi> species or varieties.</p> 
+            <p>Asks for help with his work on hybrids.</p> 
+<p>Would like JSH to go over <hi rend="italic">London catalogue of British plants</hi>, marking "close species", i.e., those he considers real species but which are very closely allied. Withholds his motive as it might influence the result.</p>  
+<p>Has found <hi rend="italic">Agrostis</hi> with worms in every germen and no stamens on stigma.</p> 
+            <p>Now has 46 kinds of peas all growing together.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">worms</term>
+                <term type="plants" ref="#">Agrostis</term>
+                <term type="plants" ref="#">Lychnis diurna</term>
+                <term type="plants" ref="#">Lychnis vespertina</term>
+                <term type="plants" ref="#">peas</term>
+                <term type="it" ref="#">London catalogue of British plants</term>
+                <term type="rx" ref="#">Watson, H. C. and Boswell-Syme, J. T. I. 1853</term>
+                <term type="scientific_terms" ref="#">close species</term>
+                <term type="scientific_terms" ref="#">cultivation</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">hybrids</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">systematics</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00062_files/8/0_0.jpg" width="3417px" height="6175px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00062_files/11/1_1.jpg" width="3417px" height="6175px"/>
+        <surface n="A:28r" xml:id="i62">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00062.jpg" width="3417px" height="6175px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00062_files/8/0_0.jpg" width="3417px" height="6175px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00062.dzi" width="3417px" height="6175px"/>
+        </surface>
+        <surface n="A:28v" xml:id="i63">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00063.jpg" width="3417px" height="6175px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00063_files/8/0_0.jpg" width="3417px" height="6175px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00063.dzi" width="3417px" height="6175px"/>
+        </surface>
+        <surface n="A:29r" xml:id="i64">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00064.jpg" width="3417px" height="6175px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00064_files/8/0_0.jpg" width="3417px" height="6175px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00064.dzi" width="3417px" height="6175px"/>
+        </surface>
+        <surface n="A:29v" xml:id="i65">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00065.jpg" width="3417px" height="6175px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00065_files/8/0_0.jpg" width="3417px" height="6175px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00065.dzi" width="3417px" height="6175px"/>
+        </surface>
+        <surface n="A:28v-29r foldout" xml:id="i66">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00066.jpg" width="6229px" height="5833px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00066_files/8/0_0.jpg" width="6229px" height="5833px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00066.dzi" width="6229px" height="5833px"/>
+        </surface>
+        <surface n="A:30r" xml:id="i67">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00067.jpg" width="3434px" height="6165px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00067_files/8/0_0.jpg" width="3434px" height="6165px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00067.dzi" width="3434px" height="6165px"/>
+        </surface>
+        <surface n="A:30v" xml:id="i68">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00068.jpg" width="3434px" height="6165px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00068_files/8/0_0.jpg" width="3434px" height="6165px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00093-000-00068.dzi" width="3434px" height="6165px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

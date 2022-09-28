@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN700">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Berners Street, [London], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62672/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/19, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>London</placeName>
+                    <date when="1816-05-11">11 May 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Heard from [Aylmer Bourke] Lambert that Smith is unwell, hopes he can still attend Linnean Society anniversary meeting. The royal couple [newly wed Princess Charlotte (1796-1817), daughter of George IV, and Prince Leopold (1790-1865), later Leopold I of Belgium] were meant to have moved into Camelford House on Thursday but it was not ready; Goodenough thinks it an unsuitable home for them and that Lord Grenville oversold it [William Wyndham Grenville, 1st Baron Grenville (1759-1834), prime minister 1806-1807]. Sorry to hear of the death of [Thomas] Johnes. Informed by Lady and [Sarah Sophia] Banks [(1744-1818), collector of antiquarian items] that Sir Joseph is better, they talked about Prince Leopold's visit to Spring Grove [Banks' Middlesex country house]. [Thomas] Marsham has repaid another £100, and will have the remaining £200 for when a new Treasurer is appointed.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

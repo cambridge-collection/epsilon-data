@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2560">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to James Yates</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64387/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/26/82, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1826-10-07">7 Oct 1826</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Yates, James">James Yates</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Yates' letter of 29 March 1825, no longer sure of where Yates is living but hopes this gets to Liverpool, [Lancashire], free. Thinks Yates' 'Linum' is 'L. arboreum'; observations. Read account of Dr [Samuel] Parr's [(1747-1825), schoolmaster] funeral "with very great pleasure", presumes it is Yates' own composition. Returns a letter; believes the item Yates saw is a "Chinese device for reckoning" but was unable to consult Mr Donce at Kensington about it. Admired Yates' friend [Howard] Ryland "very much", saw his uncle in Bristol and London in 1825. Going on with fourth volume of "English flora", which all his time this spring is devoted to.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

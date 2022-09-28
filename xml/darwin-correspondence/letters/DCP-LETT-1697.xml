@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1697">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To T. H. Huxley   10 June [1855]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3674</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1697 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1697.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1697.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+            </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 145: 159</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 81–2</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 5: 351</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Janet Huxley (private collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_514.xml">Huxley, Janet</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1855-06-10">10 June [1855]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2486.xml" resp="high">Huxley, T. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Asks whether THH will attend Council of Royal Society and speak for him on Joachim Barrande and J. D. Dana.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_291">Barrande, Joachim</term>
+                <term type="people" ref="#subject_1190">Dana, J. D.</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">Royal Society of London council</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

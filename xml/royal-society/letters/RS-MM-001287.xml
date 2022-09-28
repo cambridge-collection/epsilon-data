@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001287">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from John Lubbock, 1st Baron Avebury, to WE Manchester</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2005">2005</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">2 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/18/28, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/18/28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA5949" key="../nameregs/NA5949.xml">John Lubbock, 1st Baron Avebury</persName>
+               <date when="1900-05-07">7 May 1900</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Manchester, WE">WE Manchester</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

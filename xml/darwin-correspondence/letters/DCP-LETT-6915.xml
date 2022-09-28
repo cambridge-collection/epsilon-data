@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6915">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Alphonse de Candolle<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   28 September 1869</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3946</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6915 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6915.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6915.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 261.11: 32.i (EH 88206083)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>261.11: 32.i (EH 88206083)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_813.xml">Candolle, Alphonse de</persName>
+                <placeName>Geneva</placeName>
+                <date when="1869-09-28">28 Sept 1869</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Reports on the differences of growth and development of plants of three species grown at Geneva from seed collected at different localities. Forwards seed for CD to plant and observe differences in development.</p> 
+<p>Carl Linsseer has published a memoir on the times of flowering, foliation, etc. of diverse species in different parts of Europe [<hi rend="italic">Mem. Acad. Imp. Sci. St.-Pétersbourg</hi> 7th ser. 11 no. 7 (1868)] and concludes that the northern forms are more forward and that this is hereditary. AdeC’s experiments carried out on annuals, show only the effects of heredity; probably the direct action of physical conditions affects development, at least in perennial species.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Mem. Acad. Imp. Sci. St.-Petersbourg</term>
+                <term type="places" ref="#">Europe</term>
+                <term type="places" ref="#">Geneva</term>
+                <term type="rx" ref="#">Linsseer, Carl 1868</term>
+                <term type="scientific_terms" ref="#">adaptation</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">heredity</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">time and age (‘organic’ time)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

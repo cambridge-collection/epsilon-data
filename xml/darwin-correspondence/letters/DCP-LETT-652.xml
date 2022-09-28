@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-652">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To S. P. Woodward   [14 January 1843]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3148</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-652 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-652.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-652.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp</note>
+            <note type="postmark">JA15 1843</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Archives of the New York Botanical Garden (Charles Finney Cox Collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_302.xml">NYBG</repository>
+                    <collection>Charles Finney Cox</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1843-01-14">[14 Jan 1843]</date>
+            </correspAction>
+            <correspAction type="received" subtype="personGrp">
+                <persName key="../nameregs/nameregs_5239.xml">Woodward, S. P.</persName>
+                <persName key="../nameregs/nameregs_1841.xml">Geological Society of London</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Asks SPW to have obsidian specimens and book [Dieudonné de Gratet de Dolomieu, <hi rend="italic">Voyage aux îles de Lipari</hi> (1783)] ready when he comes.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="scientific_terms" ref="#">mineralogy, minerals</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

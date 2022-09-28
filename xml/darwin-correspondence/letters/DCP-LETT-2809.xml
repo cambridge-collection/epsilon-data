@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2809">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. D. Fox   18 May [1860]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7128</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2809 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2809.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2809.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <note type="postmark">MY 19 60</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 144: 267</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Christ’s College Library, Cambridge (MS 53 Fox 128)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_83.xml">CCLC</repository>
+                    <collection>MS 53</collection>
+                    <idno>Fox 128</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1860-05-18">18 May [1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1730.xml">Fox, W. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Attacks [on <hi rend="italic">Origin</hi>] are "hot and heavy". Adam Sedgwick and William Clark at Cambridge Philosophical Society opened a battery. J. S. Henslow defended in grand style.</p> 
+            <p>Slow progress on bigger book.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Natural selection</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="people" ref="#subject_941">Clark, William (a)</term>
+                <term type="people" ref="#subject_4276">Sedgwick, Adam</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">meeting</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Cambridge Philosophical Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

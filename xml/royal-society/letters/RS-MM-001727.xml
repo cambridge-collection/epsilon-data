@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001727">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas Francis Bayard, Embassy of the United States, London, to [Lord Kelvin] the President of the Royal Society, Burlington House</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2008">2008</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Paper, 3p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/72, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/72</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Thomas Francis Bayard, Embassy of the United States">Thomas Francis Bayard, Embassy of the United States</persName>
+               <date when="1896-02-26">26 February 1896</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="[Lord Kelvin] the President of the Royal Society, Burlington House">[Lord Kelvin] the President of the Royal Society, Burlington House</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

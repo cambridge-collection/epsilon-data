@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001250">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from JBN Hennessey, Survey of India, to the Secretary of the Royal Society</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2005">2005</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">1 side</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/17/118, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/17/118</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6447" key="../nameregs/NA6447.xml">John Baboneau Nickterlien Hennessey</persName>
+               <date when="1882-01-27">27 January 1882</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Secretary of the Royal Society">Secretary of the Royal Society</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

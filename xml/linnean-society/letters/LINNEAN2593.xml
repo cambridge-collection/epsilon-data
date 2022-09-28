@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2593">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Andrew Caldwell, Dublin, [Ireland], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61645/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/22, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Caldwell, Andrew">Andrew Caldwell</persName>
+                    <placeName>Dublin, Ireland</placeName>
+                    <date when="1801-03-25">25 Mar 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Encloses a specimen from the Cape of either 'Galanthus' or 'Leucojum', sent via Mr Rowley's brother, a sea captain. Is resuming his botanical studies with the assistance of "Flora Britannica". Longs for one or two distinct characteristics of grasses to be pointed out to him so as to avoid having to go into minute examination. [John] Underwood [(fl 1780s-1834)], gardener at Dublin Botanic Garden, is growing 'Anemone hortensis' in a greenhouse. Wishes that an "accurate and able" botanist would complete "Flora Londinensis". Glad that Smith's travels through Greece [writing of "Flora Graeca"] "are perform'd at the Desk" as "that climate don't seem to agree with English Constitutions", recalls the death in Greece of Mr Tweddale. Feels no alarm at the situation of Ireland but concern for the starving and situation of the poor. Obliged to Dawson Turner for remembering him. Remarks that if Smith ever quits botany he could look into Helen Maria Williams [(1762-1827) writer], "in the vast profusion of chaff there may be found a few good grains of fact". A friend just arrived from Paris was disappointed by the paucity of the Garden there.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

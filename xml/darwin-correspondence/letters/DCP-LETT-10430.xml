@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10430">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Naphtali Lewy<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   [26 March – 24 April 1876]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6178</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10430 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10430.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10430.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p (Hebrew)</note>
+            <relatedItem type="translation" subtype="CUL"><bibl>CUL DAR 201: 20a (translation)</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 365</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 201: 20</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>201: 20</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2916.xml">Lewy, Naphtali</persName>
+                <placeName>Radom, Poland</placeName>
+                <date notBefore="1876-03-26" notAfter="1876-04-24">[26 Mar – 24 Apr 1876] </date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>NL has written an essay <hi rend="italic">Toldot adam</hi> (Lewy 1874, privately printed in book form as Lewy [1875]) to convince his people of the truth of CD’s theory.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Toldot Adam</term>
+                <term type="rx" ref="#">Lewy, Naphtali 1875</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00070_files/8/0_0.jpg" width="5420px" height="7415px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00070_files/11/1_1.jpg" width="5420px" height="7415px"/>
+        <surface n="20:1r" xml:id="i70">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00070.jpg" width="5420px" height="7415px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00070_files/8/0_0.jpg" width="5420px" height="7415px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00070.dzi" width="5420px" height="7415px"/>
+        </surface>
+        <surface n="20:1v" xml:id="i71">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00071.jpg" width="5420px" height="7415px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00071_files/8/0_0.jpg" width="5420px" height="7415px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00071.dzi" width="5420px" height="7415px"/>
+        </surface>
+        <surface n="20a:1r" xml:id="i72">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00072.jpg" width="5495px" height="7338px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00072_files/8/0_0.jpg" width="5495px" height="7338px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00072.dzi" width="5495px" height="7338px"/>
+        </surface>
+        <surface n="20a:1v" xml:id="i73">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00073.jpg" width="5495px" height="7338px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00073_files/8/0_0.jpg" width="5495px" height="7338px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00073.dzi" width="5495px" height="7338px"/>
+        </surface>
+        <surface n="20a:2r" xml:id="i74">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00074.jpg" width="5445px" height="7338px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00074_files/8/0_0.jpg" width="5445px" height="7338px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00074.dzi" width="5445px" height="7338px"/>
+        </surface>
+        <surface n="20a:2v" xml:id="i75">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00075.jpg" width="5486px" height="7338px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00075_files/8/0_0.jpg" width="5486px" height="7338px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00201-000-00075.dzi" width="5486px" height="7338px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

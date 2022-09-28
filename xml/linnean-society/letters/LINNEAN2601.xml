@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2601">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Andrew Caldwell, Dublin, [Ireland], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61626/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/3, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Caldwell, Andrew">Andrew Caldwell</persName>
+                    <placeName>Dublin, Ireland</placeName>
+                    <date when="1793-09-23">23 Sep 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Progress made in the establishment of a Botanic Garden, under the patronage of the Dublin Society and a Parliamentary committee headed by the Speaker of the [Irish] House of Commons, [John] Foster [(1740-1828) 1st Baron Oriel] , with a suitable ground for purchase being found. Description of the land, which once belonged to [Patrick] Delany [(1686-1768) writer] and was frequented by Jonathan Swift "and all the people of literature of that day". Uncertain about Foster's proposal that it should also be a garden for "agricultural experiments", relates a similar, unhappy, experience of the Dublin Society's several years ago in which Wynne Baker almost bankrupted the Society with additional costs. Has found 'Parnassia', 'Hypericum elodes', 'Pinguicula', and 'Gentiana amarella' with [Walter] Wade, praises accuracy and clarity of figures in "English Botany". Has not seen "Doctor Martin's Botanic Dictionary" but bemoans the fact that botanic dictionaries are "generally loaded compilations", and gives his opinions on how they could be truly useful, including clarifying ambiguous terminology. States reasons why he is dissatisfied by the described difference between 'Ranunculus flamula' and 'Ranunculus lingua'. Believes 'Salvia' in the "Systema Vegetabilium" may be incorrectly described, possibly due to a printing error. Complains that [William] Curtis procrastinates with the publication of his "Flora Londinensis". Observes a possible error in "Curtis's Botanical Magazine no. 77".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

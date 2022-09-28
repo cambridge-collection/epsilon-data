@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1503">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Josiah Wedgwood III   18 February 1853</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7449</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1503 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1503.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1503.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 210.10: 20</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>210.10: 20</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1853-02-18">18 Feb 1853</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5027.xml">Wedgwood, Josiah, III</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends his written consent regarding custody of the deeds of the Owen mortgage. Other financial matters.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, miscellaneous</term>
+                <term type="societal" ref="#">Owen mortgage</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00062_files/8/0_0.jpg" width="3203px" height="5530px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00062_files/11/1_1.jpg" width="3203px" height="5530px"/>
+        <surface n="20:1r" xml:id="i62">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00062.jpg" width="3203px" height="5530px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00062_files/8/0_0.jpg" width="3203px" height="5530px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00062.dzi" width="3203px" height="5530px"/>
+        </surface>
+        <surface n="20:1v" xml:id="i63">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00063.jpg" width="3203px" height="5530px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00063_files/8/0_0.jpg" width="3203px" height="5530px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00063.dzi" width="3203px" height="5530px"/>
+        </surface>
+        <surface n="20:2r" xml:id="i64">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00064.jpg" width="3203px" height="5530px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00064_files/8/0_0.jpg" width="3203px" height="5530px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00064.dzi" width="3203px" height="5530px"/>
+        </surface>
+        <surface n="20:2v" xml:id="i65">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00065.jpg" width="3203px" height="5530px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00065_files/8/0_0.jpg" width="3203px" height="5530px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00010-000-00065.dzi" width="3203px" height="5530px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

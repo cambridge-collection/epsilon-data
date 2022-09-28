@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN753">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Berners Street, [London], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62720/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/67, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>London</placeName>
+                    <date when="1821-01-19">19 Jan 1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Compliments Smith's "Grammar of Botany"; believes Smith, Corrêa, and [Robert] Brown only botanists skilled enough to tackle the subject and and Smith the only one to successfully tackle it. [Francisco Antonio] Zea and General Cortes attended the most recent Linnean dinner, "both rather mean looking men". Attended Sir Humphry Davy's conversazione, Captain [William] Parry [(1790-1855), Arctic explorer] also attended, he is writing his book in the country ["Journal of a Voyage to Discover the Northwest Passage" (1821)]. Attended Royal Society dinner and beginning of Antiquarian Society meeting; there was "a ponderous dull paper upon weights and measures" by Captain Kater. Davy a clearer orator than the Antiquarians' president, Lord Aberdeen [George Hamilton-Gordon, 4th Earl of Aberdeen (1784-1860)], whose election Goodenough thinks was an error of judgement.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

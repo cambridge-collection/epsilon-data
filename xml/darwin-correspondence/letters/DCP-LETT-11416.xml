@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11416">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To James Grant   11 March 1878</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20248</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11416 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11416.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11416.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+            <notesStmt><relatedItem type="publication"><bibl><hi rend="italic">British Weekly</hi> 4 (1888): 233</bibl></relatedItem></notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Sotheby’s, New York (dealers) (12 December 2017)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_396.xml">Sotheby’s NY</repository>
+                    <collection>12 December 2017</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1878-03-11">11 Mar 1878</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1950.xml">Grant, James</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>The strongest argument for the existence of God is the intuitive feeling that there must have been an intelligent beginner of the universe; "but then comes the doubt and difficulty whether such intuitions are trustworthy". CD is forced to leave the problem insoluble. "No man who does his duty has anything to fear, and may hope for whatever he earnestly desires."</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1950">Grant, James</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                
+                <term type="tag" ref="#darwin_and_belief">Darwin’s Religious Beliefs</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

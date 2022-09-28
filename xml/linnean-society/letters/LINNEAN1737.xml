@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1737">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Beattie, Aberdeen, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61489/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/15, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Beattie, James">James Beattie</persName>
+                    <placeName>Aberdeen, Aberdeenshire</placeName>
+                    <date when="1799-08-14">14 Aug 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks Smith for letters and offer of admitance to the Linnean Society, plans to visit London in 1800. Due to the slow progress of his botanical pursuits some of his discoveries have been anticipated by [James] Dickson and others. Researches have been confined to Aberdeenshire, Mearnshire and Angushire but this includes the greater part of the "Flora Scotica", rich in 'Gramina' and 'Carices' ['Carex']. Has an almost complete collection of Scottish grasses but had trouble with 'Carex'. Anticipates publication of [Samuel] Goodenough's "Monographia" [unidentified]. Anticipates publication of "Flora Britannica" and the positive effect it will have on the difficult parts of British botany. Praises "Linnean Transactions". Has sent specimens for comment of most of his 'Carices' including a 'Festuca duriuscula' or 'Festuca rubra'. Having compared inland and maritime specimens of 'Silene marita' argues that it belongs in its old genus 'Cucubalus'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

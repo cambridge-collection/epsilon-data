@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5966A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Henry Doubleday   1 March [1868]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20764</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5966A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5966A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5966A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">George W. Platzman (private collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_326.xml">Platzman, George W.</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1868-03-01">1 Mar [1868]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1360.xml">Doubleday, Henry</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Has been interested in copy of HD’s letter to H. T. Stainton on numerical proportions of the sexes of insects. Do they vary during different years?</p>
+            <p>Does he have opinions about the courtships of butterflies?</p> 
+<p>Will send a copy of his paper on <hi rend="italic">Primula</hi> when it is published. [See <hi rend="doubleUnderline">5997</hi>.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">butterflies</term>
+                <term type="animals" ref="#">insects</term>
+                <term type="it" ref="#">Primula</term>
+                <term type="people" ref="#subject_4514">Stainton, H. T.</term>
+                <term type="scientific_terms" ref="#">breeding behaviour</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">years</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

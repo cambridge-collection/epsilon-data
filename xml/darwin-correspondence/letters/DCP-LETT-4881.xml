@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4881">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Fritz Müller   10 August [1865]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1665</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4881 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4881.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4881.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">6pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: 443a by Müller, J. F. T.</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 3: 37</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 13</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The British Library (Loan MS 10 no 1)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <collection>Loan MS 10</collection>
+                    <idno>1</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1865-08-10">10 Aug [1865]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3070.xml">Müller, J. F. T.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Has read and admires FM’s work on species.</p>
+            <p>Observations on Crustacea are good and original; asks FM to dissect and check some of CD’s observations on cirripedes.</p> 
+<p>Has sent "Climbing plants" paper [<hi rend="italic">J. Proc. Linn. Soc. Lond.</hi> 9 (1865): 1–118] and would like to send <hi rend="italic">Orchids</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Crustacea</term>
+                <term type="plants" ref="#">climbing plants</term>
+                <term type="it" ref="#">J. Proc. Linn. Soc. Lond.</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

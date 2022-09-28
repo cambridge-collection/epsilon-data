@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2515">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Walter Wade, Dublin, [Ireland], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64346/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/26/41, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Wade, Walter">Walter Wade</persName>
+                    <placeName>Dublin, Ireland</placeName>
+                    <date when="1808-01-01">1 Jan 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Only lately received Smith's letter of 17 August [1807]; concerned he had lost Smith's correspondence. Praises Smith's "Introduction to Botany", which "will be the means of highly improving the theoretical part of [his] summer course"; the elementary texts he in general recommends his students are [James] Lee's "Introduction to Botany", [Jean-Jacques] Rousseau's [(1712-1778), philosopher] "Elements [of botany]", "Philosophia Botanica", and translations of Willdenow.</p><p>Smith missed opportunity to use his "Plantae rariores" as authority for 'Adiantum capillus-veneris' in "English botany" v22 1564, for which Smith credited [James Townsend] Mackay [(1775-1862), curator of Botanic Garden, Trinity College, Dublin], as did [Dawson] Turner in his "admirable" "Fucus" work.</p><p>Apologises for sending overweight parcel. Sent [James] Sowerby flowering specimens of true Irish 'Arbutus unedo' for mention in "English botany" and for honour of Ireland and its natural productions. Dr [Robert] Scott [(1757-1808)], professor of botany at [Trinity College, Dublin] deprived of his post without any equitable cause assigned. Asks if there are to be any new additions to new edition of Smith's "Tour of the Continent".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10357A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From S. L. Lovén   [14 January 1876]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20795</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10357A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10357A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10357A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">ADraft</note>
+            <note type="physdesc">ADraft 3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Centrum för vetenskapshistoria, Kungl. Vetenskapsakademien (Sven Lovéns arkiv, Utgående brev, vol. B1:5, nr 26, s 331-333)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_205.xml">Kungl. Vetenskapsakademien</repository>
+                    <collection>Sven Lovéns arkiv</collection>
+                    <idno>Utgående brev, vol. B1:5, nr 26, s 331-333</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3000.xml">Lovén, S. L.</persName>
+                <date when="1876-01-14">[14 Jan 1876]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Has sent his paper on <hi rend="italic">Echinoidea</hi> [see <hi rend="doubleUnderline">10373</hi>] as a token of his veneration. He tried to address the confusion in knowledge about the different parts of the exoskeleton of the Echinodermata by tracing certain relations of homology not previously noticed. Much more work is required.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Echinoidea</term>
+                <term type="people" ref="#">Loven, S. L.</term>
+                <term type="scientific_terms" ref="#">affinity and analogy</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">homology</term>
+                <term type="scientific_terms" ref="#">positive self-criticism</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

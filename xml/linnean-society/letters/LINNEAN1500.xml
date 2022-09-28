@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1500">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63393/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/6, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1782-12-01">1 Dec 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for box of books, especially the [Leonard] Plukenet [(1642-1706), botanist], marbles and pebbles, and plant specimens. Discusses the specimens, including plants: 'Aralea', 'Sitbaldier', 'Acrostichum septentrionale', 'Gnaphalium alpinum', 'Silene acaulis', 'Empetrum nigrum'; requests 'Saxifraga nivalis', 'Saxifraga caespitosa', and 'Ranunculus reptens'; lichens, including: 'Lichen laratus', 'L. pubescens', 'L. plumbius', 'L. ventosus', and 'L. gildius'; gathered 'L. omphaloides', 'L. scrobiculatus', 'L. geographicus'; and 'Juncus', including 'J. spicatus', 'J. campestris', 'J. biglumis', also the 'Arundo epigeios' he sent Smith. Smith's 'Lycoperdon' is clearly new.</p><p>Charles Bryant [(d 1799)] published and dedicated his pamphlet to Sir Joseph Banks; thinks Banks cannot have read it as he sent a letter of thanks, and in doing so "prostituted his pen", especially as he is the "present head of English botanists"; Bryant's errors.</p><p>Lists his Lightfoot desiderata. Has not said anything on the mosses Smith sent; [John] Pitchford thinks Smith's 'Fontinalis pennater' is 'Hypnum crispum'. 'Fontinalis squamosa' or 'F. minor' appears to be 'F. antipgretica'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

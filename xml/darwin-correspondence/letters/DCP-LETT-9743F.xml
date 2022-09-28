@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9743F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To H. A. Huxley   [5 December 1874]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21623</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9743F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9743F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9743F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS"/>
+            <note type="postmark">DE 5 | 74</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Janet Huxley (private collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_514.xml">Huxley, Janet</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London</placeName>
+                <date when="1874-12-05">[5 Dec 1874]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2478.xml">Huxley, H. A.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Wants to see Huxley tomorrow, but knows he is going down to High Elms to see Colenso.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1012">Colenso, J. W.</term>
+                <term type="people" ref="#subject_2486">Huxley, T. H.</term>
+                <term type="places" ref="#">High Elms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

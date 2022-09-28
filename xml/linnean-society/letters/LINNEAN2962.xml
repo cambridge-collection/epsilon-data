@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2962">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62006/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/31, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    
+                    <date when="1802-11-29">29 Nov 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Pleased to hear Smith has [Edmund] Davall's herbarium. Is currently organising his Cape [of Good Hope] plants from [William] Roxburgh and [Arthur] Philip [(1738-1814) first governor of New South Wales], will give Smith duplicates. Letters arrived from the "Investigator" [Matthew Flinders' expedition to map Australian coast], surprise that they have already surveyed the unknown part of coast of New Holland from [?] to Bass Straits. [Ferdinand] Bauer [(1760-1826)] has made 360 drawings of new plants. A box of seeds has been sent. Asks of Smith's progress reviewing manuscript for Lambert's book "Description of the genus Pinus". Received books from Spain including complete works of [Antonio José] Cavanilles and fourth voulme of "Flora Peruviana", comments on the 'Alstroemeria' described therein. [Karl Friedrich von] Gaertner [(1772-1850)] is visiting and working on his herbarium. A group of Spaniards are currently in England and planning to travel to the interior of Africa, including [Simon de Roxas] Clemente [y Rubio]. Has fourteen numbers of "Annals of Natural History" from Spain. Encloses an unspecified item sent by the late Snelgrove of Norwich. Thanks Smith for herrings.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

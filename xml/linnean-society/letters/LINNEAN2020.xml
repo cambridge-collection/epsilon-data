@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Brunton, Ripon, [Yorkshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63834/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/21/57, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Brunton, William">William Brunton</persName>
+                    <placeName>Ripon, Yorkshire</placeName>
+                    <date when="1801-05-01">1 May 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sending small parcel of plants, numbered descriptions and observations of the specimens, including: 'Lichen hymenis', 'L. gelasinatus', 'L. calvus', 'Sphaeria gregaria', 'L. polyrhiza', 'L. vernalis', 'L. scriptus', 'L. ripicola', 'Peziza bicolor' [Smith has annotated many in pencil and ink].</p><p>Has found 'Scandix adorata' in Yorkshire; probable that 'Turritis hirsuata' is taken for 'Cardamine bellidifolia'; glad his 'Saxifraga palmata' proves to be variety of 'S. hypnoides'; 'Lycoperdon stellatum', 'Lycoperdon fornicatum', and 'Lycoperdon recolligens' grow abundantly in his neighbourhood; has found 'Agaricus alneus'. Intends to send [James] Sowerby duplicates of the lichens.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10869">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Alfred Grugeon   25 February [1877]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">17520</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10869 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10869.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10869.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="25">25</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp damaged</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 165: 238</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>165: 238</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2009.xml">Grugeon, Alfred</persName>
+                <placeName>Leyton</placeName>
+                <date when="1877-02-25">25 Feb [1877]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Comments on CD’s <hi rend="italic">Cross and self-fertilisation</hi>: its usefulness to florists, and his solution of a long standing puzzle in showing the increase of monstrosities in self-fertilised plants.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">self-fertilised plants</term>
+                <term type="it" ref="#">Cross and self-fertilisation</term>
+                <term type="people" ref="#">florists</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">monstrosity</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00990_files/8/0_0.jpg" width="2977px" height="5178px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00990_files/11/1_1.jpg" width="2977px" height="5178px"/>
+        <surface n="238:1r" xml:id="i990">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00990.jpg" width="2977px" height="5178px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00990_files/8/0_0.jpg" width="2977px" height="5178px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00990.dzi" width="2977px" height="5178px"/>
+        </surface>
+        <surface n="238:1v" xml:id="i991">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00991.jpg" width="2977px" height="5178px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00991_files/8/0_0.jpg" width="2977px" height="5178px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00991.dzi" width="2977px" height="5178px"/>
+        </surface>
+        <surface n="238:2r" xml:id="i992">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00992.jpg" width="2977px" height="5178px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00992_files/8/0_0.jpg" width="2977px" height="5178px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00992.dzi" width="2977px" height="5178px"/>
+        </surface>
+        <surface n="238:2v" xml:id="i993">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00993.jpg" width="2910px" height="5178px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00993_files/8/0_0.jpg" width="2910px" height="5178px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00993.dzi" width="2910px" height="5178px"/>
+        </surface>
+        <surface n="238:1v-2r" xml:id="i994">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00994.jpg" width="4470px" height="6129px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00994_files/8/0_0.jpg" width="4470px" height="6129px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00994.dzi" width="4470px" height="6129px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

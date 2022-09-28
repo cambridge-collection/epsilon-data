@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4579">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Edward Cresy   29 July 1864</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16537</idno>
+            <date when="2001">2001</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4579 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4579.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4579.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="12">12</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 161: 242</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>161: 242</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1113.xml">Cresy, Edward, Jr</persName>
+                <placeName>Metropolitan Board of Works</placeName>
+                <date when="1864-07-29">29 July 1864</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Requests letter of introduction to Asa Gray.</p> 
+<p>Went to Linnean Society to hear CD’s <hi rend="italic">Lythrum</hi> paper read [<hi rend="italic">Collected papers</hi> 2: 106–31].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Lythrum</term>
+                <term type="people" ref="#subject_707">Cresy, Edward</term>
+                <term type="people" ref="#subject_1957">Gray, Asa</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="social" ref="#">introduction</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Linnean Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

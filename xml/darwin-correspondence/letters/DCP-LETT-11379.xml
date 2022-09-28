@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11379">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From S. B. J. Skertchly   27 February 1878</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">10750</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11379 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11379.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11379.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 177: 176</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>177: 176</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4377.xml">Skertchly, S. B. J.</persName>
+                <placeName>Brandon</placeName>
+                <date when="1878-02-27">27 Feb 1878</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends CD a copy of his memoir on the fenland [<hi rend="italic">Geology of the fenland</hi> (1877)].</p> 
+            <p>Outlines the results of his recent researches into the geological history of man, the development of Palaeolithic culture, the occurrence of Palaeolithic remains in the boulder-clays of eastern England, and their relation to glacial and inter-glacial periods.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">boulder-clays</term>
+                <term type="geology" ref="#">glacial</term>
+                <term type="geology" ref="#">interglacial</term>
+                <term type="human_group" ref="#">Palaeolithic</term>
+                <term type="it" ref="#">Geology of the fenland</term>
+                <term type="places" ref="#">England, eastern</term>
+                <term type="rx" ref="#">Skertchly, S. B. J. 1877</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">historical time</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

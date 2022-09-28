@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1474">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Thomas Jenkinson Woodward, Bungay, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63423/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/36, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1788-09-17">17 Sep 1788</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Just returned from Matlock, [Derbyshire], in much better health. Details of Linnean Society fellowship and constitution. Transcribes manuscript note on 'Lycoperdon epiphyllum' from Linnaeus' "Flora Suecica", and his own notes on 'L. pedunculatum'; advises Woodward write only on the English 'Lycoperdon'.</p><p>Goodenough received Woodward's 'Fucus' specimens but they have been unable to examine them. Corrects mistakes Woodward made about 'Fucus' in his last letter [30 July 1788, see RelatedMaterial below] and regrets being unable to help with specimens of 'Equisetum sylvaticum' and 'Mentha villosa' at present. Linnean Society has begun to make a library and herbarium of English plants and would be grateful for Woodward's specimens of 'Bromus arvensis', 'Carex limosa', 'C. strigosa', and 'Orobanche ramosa', and he would like 'C. strigosa'.</p><p>Saw 'Ophrys loeselii' in [William] Curtis' garden. At Matlock found plants not usually known there, including: 'Thlaspi alpestre', 'Lichen laetevirens', 'L. saccatus', 'L. immersus', and 'Hypnum intricatum' Schreber. Comments that [Richard] Relhan's "vile figure" of 'Thesium alpinum' seems same plant as Gerard's "beautiful &amp; accurate one".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

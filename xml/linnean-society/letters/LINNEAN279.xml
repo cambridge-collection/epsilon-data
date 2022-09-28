@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN279">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Norwich, [Norfolk], to Alexander Macleay, Transport Office, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64563/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/60, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1810-11-20">20 Nov 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Laments [William Elford] Leach's conduct [Leach initiated a campaign to blackball William Bullock (c 1773-1849), naturalist and antiquary, at the Linnean Society] but thinks the vote of censure and record of it right. Pleased [Edward] Donovan [(1768-1837), zoologist] is cleared of blame. Leach improper to show the confidential letter he wrote him, but he is "ever happy to admit [his] mistakes in judgement or in science", asks Macleay to apologise to Donovan for him.</p><p>Suggests [John] Symmons as new vice-president; his qualities; leaves all decisions to Macleay as his work and health prevent a winter visit to London. Necessary for [William Jackson] Hooker's 'Andraea' paper to be corrected and shortened before publication in "Linnean Transactions"; Hooker "entirely out of reach at that confounded place Halesworth, [Suffolk]". Agrees that an index is a good idea, but unable to help himself; he works from 9 to 3 everyday and 7 to 9 almost every evening.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

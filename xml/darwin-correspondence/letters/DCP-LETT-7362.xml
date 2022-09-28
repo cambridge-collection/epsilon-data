@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7362">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To P. L. Sclater   9 November 1870</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7224</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7362 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7362.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7362.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Zoological Society of London (GB 0814 BADD (Darwin))</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_451.xml">Zoological Society</repository>
+                    <idno>GB 0814 BADD (Darwin)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1870-11-09">9 Nov 1870</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4251.xml">Sclater, P. L.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks PLS for his generous offer to go over the part on birds [in <hi rend="italic">Descent</hi>]. Does not think PLS realises that there are more than 200 pages – most of which will have nothing new for him.</p>  
+<p>W. H. Hudson’s proofs have arrived ["Letters on the ornithology of Buenos Ayres", <hi rend="italic">Proc. Zool. Soc. Lond.</hi> (1870): 87–9, 158–60, 332–4, 545–50, 671–3, 748–50, 798–82; (1871): 4–7, 258–62, 326–9].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">birds</term>
+                <term type="it" ref="#">Descent</term>
+                <term type="it" ref="#">Proc. Zool. Soc. Lond.</term>
+                <term type="rx" ref="#">Hudson, W. H. 1870</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3955">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Thomas Rivers   30 January 1863</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">10530</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3955 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3955.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3955.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp †</note>
+            <note type="postmark">JA 30 63</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 176: 162</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>176: 162</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4019.xml">Rivers, Thomas</persName>
+                <placeName>Sawbridgeworth</placeName>
+                <date when="1863-01-30">30 Jan 1863</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Asks CD’s views on TR’s observations that leaves breathe from their under-surfaces.</p>
+            <p>Peach-trees in hothouses cannot be kept in health unless fresh air is admitted so as to make its way under the leaves.</p>
+            <p>Continues his observations on the effect of environment on men – those migrating to America gradually assuming Indian-like features.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">peach-trees</term>
+                <term type="human_group" ref="#">Indian</term>
+                <term type="places" ref="#">America</term>
+                <term type="places" ref="#">hothouses</term>
+                <term type="scientific_terms" ref="#">change</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">confinement, captivity</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">mineralogy, minerals</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

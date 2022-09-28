@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3004">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John Murray   3 December [1860]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9124</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3004 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3004.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3004.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="endorsement" subtype="letter">Dec 3<hi rend="superscript">rd</hi>. 1860</note>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 85</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">National Library of Scotland (John Murray Archive) (Ms.42152 ff.80–81)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_278.xml">Murray Archive</repository>
+                    <idno>Ms.42152 ff.80–81</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1860-12-03">3 Dec [1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3463.xml">Murray, John (b)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Asks again how great a hurry there is for new edition [of <hi rend="italic">Origin</hi>, 3d ed.]. Corrections will enlarge volume by a dozen or twenty pages, plus a short historical sketch. Would like "With Corrections" in title.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Origin</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

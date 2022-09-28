@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001414">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Measuring heights with the barometer' from George Shuckburgh to William Roy</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2020">2020</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 7p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/7/42, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/7/42</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Shuckburgh, George">George Shuckburgh</persName>
+               <date when="1778-04-20">20 April 1778</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA6264" key="../nameregs/NA6264.xml">William Roy</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

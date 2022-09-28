@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2050">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Charles Lyell   11 February [1857]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">145</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2050 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2050.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2050.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">7pp, CL note</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: 198</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 2: 93</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 6: 337</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">American Philosophical Society (Mss.B.D25.145)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_13.xml">APS</repository>
+                    <collection>Mss.B.D25.</collection>
+                    <idno>145</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1857-02-11">11 Feb [1857]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Discusses a proposed expedition to Australia. Urges collecting and investigating productions of isolated islands. Recommends dredging the sea-bottom.</p> 
+<p>Mentions keeping <hi rend="italic">Helix pomatia</hi> alive in sea-water.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Helix pomatia</term>
+                <term type="places" ref="#">Australia</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">sea, sea-currents</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

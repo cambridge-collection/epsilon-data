@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5059F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To George Henslow   [before 19 April 1866]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21256</idno>
+            <date when="2004">2004</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5059F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5059F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5059F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="14">14</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Mem, incomplete</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"> <hi rend="italic">Journal of the Linnean Society</hi> (<hi rend="italic">Botany</hi>) 9 (1867): 358<ref target="#foot.f3"/> </bibl>
+            <bibl type="printedSource"> <hi rend="italic">Journal of the Linnean Society</hi> (<hi rend="italic">Botany</hi>) 9 (1867): 358</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <date notBefore="1809-01-01" notAfter="1866-04-18">[before 19 Apr 1866]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2232.xml">Henslow, George</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Describes the pollination of broom by bees.</p>
+        </abstract>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

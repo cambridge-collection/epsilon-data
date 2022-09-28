@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN735">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, [Carlisle, Cumberland], to Sir James Edward Smith, Robert Reeve's Esq, Lowestoft, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62703/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/50, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1819-09-15">15 Sep 1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letter of 27 August. Discusses possibilities for Smith publishing a new edition of "Flora Britannica" following the new edition of "Compendium florae Britannicae"; cannot advise on the "English Flora" not knowing anything of Smith's plan. Praises Lady Banks as "one of the best natured creatures alive" and recalls her skill in telling her "famous Lincolnshire story" and the interaction between her and Miss [Sarah Sophia] Banks [(1744-1818)]. His son Edmund appointed headmaster of Westminster School. Has always evaded staying with [Aylmer Bourke] Lambert at Boyton on account of his "irregularities"; thinks Lambert's brother-in-law Mr Benett is ruined. For Goodenough "reform is but another word for revolution". Does not recall ever seeing 'Cricus tuberosus'. Has never seen Fonthill Abbey but from a distance, amazed by its fourteen mile enclosing wall [home of William Thomas Beckford (1760-1844), novelist]. Unsurprised that trade is suffering.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

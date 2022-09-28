@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9519">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To David Moore   28 June 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2762</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9519 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9519.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9519.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">2pp</note>
+            <relatedItem type="publication">
+                <bibl>Nelson &amp; Seaward (1981): 160</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">National Botanic Gardens of Ireland Library, Glasnevin (DSS/DM/1/1/16)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_556.xml">Glasnevin</repository>
+                    <idno>DSS/DM/1/1/16</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1874-06-28">28 June 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3381.xml">Moore, David</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Requests live <hi rend="italic">Utricularia</hi> and <hi rend="italic">Drosophyllum</hi> at suggestion of W. T. Thiselton-Dyer.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Drosophyllum</term>
+                <term type="plants" ref="#">Utricularia</term>
+                <term type="people" ref="#subject_4712">Thiselton-Dyer, W. T.</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

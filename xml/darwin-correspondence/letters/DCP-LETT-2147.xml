@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2147">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. E. Darwin   29 [October 1857]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7763</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2147 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2147.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2147.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 210.6: 19</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>210.6: 19</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1857-10-29">29 [Oct 1857]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1245.xml">Darwin, W. E.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Discusses WED’s future education, the work on the extension, and other domestic affairs.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="social" ref="#">Darwin family</term>
+                <term type="societal" ref="#">education</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00093_files/8/0_0.jpg" width="3466px" height="5839px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00093_files/11/1_1.jpg" width="3466px" height="5839px"/>
+        <surface n="19:1r" xml:id="i93">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00093.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00093_files/8/0_0.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00093.dzi" width="3466px" height="5839px"/>
+        </surface>
+        <surface n="19:1v" xml:id="i94">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00094.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00094_files/8/0_0.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00094.dzi" width="3466px" height="5839px"/>
+        </surface>
+        <surface n="19:2r" xml:id="i95">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00095.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00095_files/8/0_0.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00095.dzi" width="3466px" height="5839px"/>
+        </surface>
+        <surface n="19:2v" xml:id="i96">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00096.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00096_files/8/0_0.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00096.dzi" width="3466px" height="5839px"/>
+        </surface>
+        <surface n="20:1r" xml:id="i97">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00097.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00097_files/8/0_0.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00097.dzi" width="3466px" height="5839px"/>
+        </surface>
+        <surface n="20:1v" xml:id="i98">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00098.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00098_files/8/0_0.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00098.dzi" width="3466px" height="5839px"/>
+        </surface>
+        <surface n="20:2r" xml:id="i99">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00099.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00099_files/8/0_0.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00099.dzi" width="3466px" height="5839px"/>
+        </surface>
+        <surface n="20:2v" xml:id="i100">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00100.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00100_files/8/0_0.jpg" width="3466px" height="5839px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00100.dzi" width="3466px" height="5839px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7983">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Albert Günther   3 October [1871]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19737</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7983 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7983.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7983.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 144: 355</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Gunther (1975): 34</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Shrewsbury School, Taylor Library (15)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_386.xml">Shrewsbury School</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1871-10-03">3 Oct [1871]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1779.xml">Günther, A. C. L. G.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks AG for answer about <hi rend="italic">Galaxias</hi>.</p>  
+<p>Asks him to mention questions about the ears of <hi rend="italic">Mus</hi> to other naturalists.</p>  
+<p>Will send another copy of Chauncey Wright’s pamphlet [<hi rend="italic">Darwinism</hi> (1871)].</p>  
+<p>AG has proved <hi rend="italic">Ceratodus</hi> to be a "wonderfully interesting creature" ["Descripton of <hi rend="italic">Ceratodus</hi>", <hi rend="italic">Philos. Trans. R. Soc. Lond.</hi> 161 (1871): 511–72].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Galaxias</term>
+                <term type="it" ref="#">Ceratodus</term>
+                <term type="it" ref="#">Darwinism</term>
+                <term type="it" ref="#">Mus</term>
+                <term type="it" ref="#">Philos. Trans. R. Soc. Lond.</term>
+                <term type="rx" ref="#">Günther, A. C. L. G. 1871</term>
+                <term type="rx" ref="#">Wright, Chauncey 1871</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

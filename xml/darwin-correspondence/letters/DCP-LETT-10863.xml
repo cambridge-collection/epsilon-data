@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10863">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Otto Zacharias   [24 February 1877]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">13844</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10863 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10863.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10863.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="25">25</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete<ref target="#foot.f4"/></note>
+            <note type="physdesc">1p inc</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 367</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl>Preyer 1891, pp. 383 (German translation)</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl>Zacharias 1882, pp. 76-7</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Zacharias 1882, pp. 76–7</bibl>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <persName key="../nameregs/nameregs_5291.xml">
+                            <forename>Otto</forename>
+                            <surname>Zacharias</surname>
+                        </persName>
+                    </author>
+                    <title level="m">Charles R. Darwin und die cultur-historische Bedeutung seiner Theorie vom Ursprung der Arten. Ein Beitrag zur Darwin-Litteratur</title>
+                    <imprint>
+                        <pubPlace>Berlin</pubPlace>
+                        <publisher>Elwin Staude</publisher>
+                        <date>1882</date>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>148: 392</idno>
+                </msIdentifier>
+            </msDesc>
+          
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1877-02-24">[24 Feb 1877]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5291.xml">Zacharias, Otto</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks OZ for a "magnificent Album".</p> 
+<p>On <hi rend="italic">Beagle</hi> voyage CD believed in permanence of species. Had occasional vague doubts. In autumn of 1836 saw how many facts indicated common descent of species. In 1837 opened notebook to record facts.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_2048">German scientists</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">historical time</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+                <term type="ships" ref="#">Beagle</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3712">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Asa Gray   5 September 1862</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6533</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3712 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3712.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3712.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 111: 81, DAR 165: 117</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>111: A81,</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>165: 118</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+                <placeName>Cambridge Mass.</placeName>
+                <date when="1862-09-05">5 Sept 1862</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Suggests CD try to get <hi rend="italic">Lythrum hyssopifolia</hi> from France.</p> 
+            <p>Dimorphic flowers.</p>
+            <p>Differences between newly opened and older orchids.</p> 
+<p>Flowers of <hi rend="italic">Spiranthes</hi> and <hi rend="italic">Goodyera</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Lythrum hyssopifolia</term>
+                <term type="plants" ref="#">orchids</term>
+                <term type="plants" ref="#">Spiranthes</term>
+                <term type="places" ref="#">France</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">maturity</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">young, offspring</term>
+                
+                <term type="tag" ref="#asa_gray_set">Asa Gray Letters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00529_files/8/0_0.jpg" width="3336px" height="4071px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00529_files/11/1_1.jpg" width="3336px" height="4071px"/>
+        <surface n="117:1r" xml:id="i529">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00529.jpg" width="3336px" height="4071px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00529_files/8/0_0.jpg" width="3336px" height="4071px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00529.dzi" width="3336px" height="4071px"/>
+        </surface>
+        <surface n="117:1v" xml:id="i530">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00530.jpg" width="3417px" height="4071px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00530_files/8/0_0.jpg" width="3417px" height="4071px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00530.dzi" width="3417px" height="4071px"/>
+        </surface>
+        <surface n="117:2r" xml:id="i531">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00531.jpg" width="3430px" height="5904px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00531_files/8/0_0.jpg" width="3430px" height="5904px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00531.dzi" width="3430px" height="5904px"/>
+        </surface>
+        <surface n="117:2v" xml:id="i532">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00532.jpg" width="3430px" height="5796px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00532_files/8/0_0.jpg" width="3430px" height="5796px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00165-000-00532.dzi" width="3430px" height="5796px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

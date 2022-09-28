@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1554A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To P. G. King    21 February 1854</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20685</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1554A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1554A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1554A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 489–92</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Mitchell Library, Sydney (MLMSS 3447/2 Item 1)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_270.xml">Mitchell</repository>
+                    <collection>MLMSS 3447/2</collection>
+                    <idno>1</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1854-02-21">21 Feb 1854</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2696.xml">King, P. G.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>PGK’s letter stirred memories of their old days in the <hi rend="italic">Beagle</hi>.</p>  
+<p>Gives news of his work on cirripedes. Would like to examine <hi rend="italic">Scalpellum papillosum</hi> of King from Patagonia if PGK’s father has a duplicate in his collection.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">cirripedes</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="ships" ref="#">Beagle</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

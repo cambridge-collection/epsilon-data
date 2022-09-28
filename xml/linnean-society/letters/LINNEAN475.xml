@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN475">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Talbot, 11 Place du Carouzel, Paris, [France], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62444/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/14, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Talbot, Thomas">Thomas Talbot</persName>
+                    <placeName>Paris, France</placeName>
+                    <date when="1802-03-10">[10 Mar 1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has despatched the books requested by Smith. It is difficult to see [Andre] Thouin because of the distance of the Jardin des Plantes from Paris. Impossible to inform Smith of all the changes that have taken place in Paris since he visited, but believes "on many points it has experienc'd a change much for the worse", details some of the changes: the churches have been stripped; the Pantheon is being developed into a national monument and burial place for the illustrious, Voltaire and Rousseau have been reinterred; highlights of the Museum of Ancient Monuments; plans developed to move the Library to the Louvre, details some of the highlights of the collection; the general shift in society, the best houses now occupied by bankers and others who benefitted from the Revolution and those who remain of the old Regime are too poor to entertain in their own houses. Parisian entertainments: has been spending time with the Russians; attending many elegant balls; he and half of Paris are "dying" for the Princess Galitzin [Anna Alexandrovna Galitzin (1763-1842), wife of Prince Boris Andreivitch Galitzin (1766-1822)]; last night at an "exceedingly elegant thing at the Princess Hohenzollern's; they have a standing invitation to the Princess Courland's parties [Luise Pauline Maria Biron, Princess of Courland, Duchess of Sagan (1782-1845)]; a masked ball at the Opera; the Carnival.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

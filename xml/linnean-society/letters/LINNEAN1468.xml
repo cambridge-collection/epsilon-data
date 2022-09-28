@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1468">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith, a l'Hôtel d'Espagne, Rue de Richlieu, Paris, [France]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63417/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/30, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1787-10-11">11 Oct 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Paris, France</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Heard of Smith's arrival in Paris, agreeable tour to Mount Cenis, and travels in the Alps; discusses Saussure's "Voyage dans les Alps"; thanks for promise of Alpine specimens to complete English series. Will show [James] Pitchford Smith's account of 'Malampyrum sylvaticum', though is convinced the other is 'M. pratense'; infallibility of [John] Ray and [William] Hudson. [James] Crowe found 3 specimens of 'Ophyrs loeselii' on St Faith's bogs, [William] Sole found them near Cambridge, roots sent to [William] Curtis and [James] Dickson.</p><p>Difficulties of Dickson's new Scottish botanical discoveries. Keen to learn more about 'Fucus', at Cromer, [Norfolk], saw 'Ulva plumosa', 'Ulva fistulosa', and 'Fucus verracosa'; observations. Discusses acquisition of books: Leers' "Flora", Retzius' fasciculus, and Bulliard's plates ["Histoire des champignons" (1791-1812)].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

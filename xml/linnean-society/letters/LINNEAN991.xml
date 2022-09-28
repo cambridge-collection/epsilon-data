@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN991">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Norwich, [Norfolk], to Edmund Davall, Orbe, Canton de Berne, [Switzerland]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62967/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/83, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1798-01-17">17 Jan 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Note on letter received 5 February [1798].</p><p>Sorry to have not written since 2 November 1796; informed by Bracy Clark that Davall is in bad health. His move to Norwich successful and happily settled with wife and no children. Has been in Wales treating [Mariamne] Johnes' diseased spine. Working on "Flora Britannica". Anxious to send Davall continuation of "English Botany". Has been studying [William] Sherard's [(1659-1728)] herbarium at Oxford and can now settle 'Mentha' to his satisfaction: gives botanical characters of 'M. arvensis', 'M. gentilis', 'M. sativa', 'M. pulegium', and thinks there are no real differences in species between 'capitate' and verticillate'. Publishing a volume of "Tracts relating to natural history"; contents. Lady Rockingham often asks after Davall.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

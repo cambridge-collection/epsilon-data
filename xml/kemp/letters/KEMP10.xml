@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KEMP10">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Hannah Charlotte Scott Douglas to William Kemp   3 June 1840</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="William Kemp">The William Kemp Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Ruth Cramond</authority>
+                <date when="2021-09-21">2021</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">Cambridge University Library (MS Add. 10252/5)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>            
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_9584.xml">Scott Kerr, H. C., Lady Scott Douglas</persName>
+                    
+                    <date when="1840-06-03">3 Jun 1840</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_2657.xml">Kemp, William</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Thanks WK for his help recovering her belongings, and enclosing half a sovereign.</p>  
+                
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

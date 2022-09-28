@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3367">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Olof Swartz, Stockholm, [Sweden], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62425/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/9/98, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Swartz, Olof Peter">Olof Peter Swartz</persName>
+                    <placeName>Stockholm, Sweden</placeName>
+                    <date when="1808-12-16">16 Dec 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>The war [between Britain and France] has disrupted their correspondence for two and a half years, sends recent "transactions" of [Swedish] Academy [of Sciences]. Effect of the war on Swedish science: isolated from foreign literature, except for occassional communications from Britain, has seen parts of Smith's "Exotic Botany" and "Flora Graeca" and [Dawson] Turner's "Hist. Fucorum". Only remarkable things produced in Sweden have been the "Swedish Botany and Zoology" [Palmstruch's "Svensk botanik" (1802-1819)?], supervised by himself, and [Johan Peter] Westring's "history of the lichens". Isolated from European colleagues, which has disrupted the planned collaboration between himself and [Daniel Matthias Heinrich] Mohr [(1780-1808)] on a "Synopsis or Historia Muscorum", and [Heinrich Adolph] Scharder's Gottingen printing of [Erik] Acharius' "Lichenographia universalis".</p><p>Concern over fate of an "instructif [sic] present" sent to the Linnean Society by Acharius. [Carl Peter] Thunberg and [Adam] Afzelius are living in Uppsala, the latter has written on the Swedish 'Rosa' and put his "African treasures" aside. Report of a "secular celebration of the birthday of a giant man [Linnaeus]", including a eulogy by Dr [Sven Anders] Hedin, one of his former pupils, held in Linnaeus' first school in Wexiö [Växjö], and a grand fete at the Academy of Uppsala. It is the only instance in Sweden of a public honour being given to an individual subject. The museum and auditory were also consecrated, attended by "many thousands" including most of the old "Linnaean disciples" who gave the whole "a most venerable appearance". Eager to see new genus of moss ['Hookeria'] described by Smith.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

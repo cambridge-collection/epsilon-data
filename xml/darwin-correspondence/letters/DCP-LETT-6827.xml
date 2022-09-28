@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6827">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To G. R. Gray   12 July 1869</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">12107</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6827 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6827.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6827.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp &amp; ADraftS 1p</note>
+            <relatedItem type="publication">
+                <bibl>De Beer (1958): 92</bibl>
+            </relatedItem>
+            <relatedItem type="draft">
+                <msDesc>
+                    <msIdentifier>
+                        <repository key="../repo/repo_106.xml">CUL</repository>
+                        <collection>DAR</collection>
+                        <idno>96: 69r</idno>
+                    </msIdentifier>
+                </msDesc> 
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The British Library (Egerton MS 2348: 232–3)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <collection>Egerton MS 2348</collection>
+                    <idno>232–3</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Caerdeon</placeName>
+                <date when="1869-07-12">12 July 1869</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1958.xml">Gray, G. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Would be glad to send GRG a testimonial of his abilities as a naturalist, but is not qualified to express opinion on his works in ornithology or entomology.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">birds</term>
+                <term type="animals" ref="#">insects</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00142_files/8/0_0.jpg" width="4304px" height="6103px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00142_files/11/1_1.jpg" width="4304px" height="6103px"/>
+        <surface n="69r" xml:id="i142">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00142.jpg" width="4304px" height="6103px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00142_files/8/0_0.jpg" width="4304px" height="6103px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00142.dzi" width="4304px" height="6103px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

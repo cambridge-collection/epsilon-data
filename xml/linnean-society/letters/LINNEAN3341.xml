@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3341">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir George Leonard Staunton, Buxton, [Derbyshire], to James Edward Smith, at Salisbury's Esq, Chapel Allerton, near Leeds, [Yorkshire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62401/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/9/74, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Staunton, Sir George Leonard">Sir George Leonard Staunton</persName>
+                    <placeName>Buxton, Derbyshire</placeName>
+                    <date when="1790-09-01">1 Sep 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Leeds, Yorkshire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for letter and for [Richard] Salisbury's invitation to visit Chapel Allerton, intends to take it up next year. His son has seen the botanical collection of Mr Eyre of Hassop, including the opportunity to eat the fruit of the 'Musa' or fig-banana of the West Indies, had previously seen the plant at Kew but not the fruit. At Bakewell saw [William] White Watson's collection of fossilised plants, found in mines, including the "Arundo bamboo" of the exotic 'Euphorbia' and possibly 'Dodecatheon meadia', many of the other impressions appear to be of ferns. White Watson also has a collection of petrified shells, Staunton gives his own theory on their formation. Smith's young friend "too much of a Tyro" to make much progress in Buxton's botany without a guide.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

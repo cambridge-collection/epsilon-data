@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000977">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from J A Broun to George Gabriel Stokes</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2005">2005</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">4 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/15/69, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/15/69</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA3813" key="../nameregs/NA3813.xml">John Allan Broun</persName>
+               <date when="1877-06-04">4 June 1877</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8283" key="../nameregs/NA8283.xml">George Gabriel Stokes</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

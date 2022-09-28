@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1207">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Hafod, [Cardiganshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63170/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/55, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Hafod, Cardiganshire</placeName>
+                    <date when="1799-06-23">23 Jun 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sorry for the loss Smith had at Clifton, though her disorder was such that Smith must have been prepared. Sold Croft for £10,000 less than he expected so must make large sacrifices at Hafod; determined to be free from uncertainty and is to make a "sinking fund" in larch plantations, about which he is "even more wild" than [James] Anderson and intends to plant a million annually for as long as he has room. Todd [his gardener] has been very fortunate year in raising them from seed.</p><p>His daughter's [Mariamne Johnes] health improved since Jones came with an improved machine and she can now walk without crutches. She drinks three half pints of the Llanwated waters every day, which are sulpherous and have "done miracles" in several cases, and Jones is confident of her perferct recovery as long as she keeps away from surgeons. Weather uncommonly hot; hawthorns and crabs in "high beauty" and woods are like flower gardens.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

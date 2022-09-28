@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-640">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. J. Broderip   [31 August 1842]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1046</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-640 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-640.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-640.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Harry Ransom Center, The University of Texas at Austin</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_414.xml">Texas</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Upper Gower St, 12</placeName>
+                <date when="1842-08-31">[31 Aug 1842]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_646.xml">Broderip, W. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Discusses toad [mentioned in <hi rend="italic">Journal of researches</hi>, p. 115].</p> 
+            <p>Describes house at Down.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">toad</term>
+                <term type="it" ref="#">Journal of researches</term>
+                <term type="places" ref="#">Down House</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="social" ref="#">Darwin family</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

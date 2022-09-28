@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2658">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To <hi rend="italic">Gardeners’ Chronicle</hi>   [14–19 January 1860]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">15624</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2658 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2658.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2658.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Collected papers</hi> 2: 31</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 8: 32</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"> <hi rend="italic">Gardeners’ Chronicle and Agricultural Gazette</hi>, 21 January 1860, p. 49 </bibl>
+            <bibl type="printedSource">Gard. Chron. 1860: 49</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1860-01-14" notAfter="1860-01-19">[14–19 Jan 1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1808.xml">Gardeners’ Chronicle</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Hopes readers will send information on the permanence of cross-bred plants and animals. No one doubts that cross-bred productions tend to revert in various degrees to either parent for many generations. But are there not cases of crossed breeds of sheep and pigs that breed true? CD believes occasional cross-breeding of varieties is advantageous in nature as well as under domestication. [See reply to this letter by J. O. Westwood, <hi rend="italic">Gard. Chron.</hi> (1860): 122.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">pigs</term>
+                <term type="animals" ref="#">sheep</term>
+                <term type="scientific_terms" ref="#">constant varieties, races</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">generations</term>
+                <term type="scientific_terms" ref="#">parents</term>
+                <term type="scientific_terms" ref="#">reversion</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

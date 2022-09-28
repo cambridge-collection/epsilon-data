@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN247">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Alexander Macleay, London, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64534/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/31, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>London</placeName>
+                    <date when="1802-12-31">31 Dec 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Apologises for delay in answering Smith's letter of 23 [December 1802]; gratified by the confidence Smith puts in him and hopes to ease his anxiety over [Richard] Salisbury's report that remarks had been made at Linnean Society regarding Smith's political beliefs. Uncertain what Salisbury is alluding to, unless he meant "the old story" of Smith's "Tour", and he has never heard any insinuation at the Society regarding Smith's political involvement; the only occasion being during the application for the Society's charter, when Sir Joseph Banks expressed concern that the King [George III (1738-1820)] would recollect the "Tour" on seeing Smith's name, being the only time Banks has commented on Smith's politics. Banks and many others regret Smith's absence from London and its effect on the Society, which proves Smith's political sentiments are not dreaded.</p><p>Believes Salisbury is wrong regarding blackballing of [Robert John] Thornton [(c 1768-1837), physician and writer on botany], who was not rejected on account of his politics, but because he is "a Quack in Botany as well as in medicine", and for publishing himself as FLS before even being proposed to the Society; it was not known that he was brought forward by Smith. Reassures Smith he "stand[s] as high in the opinion of the Society at large as [he] ever did", and as long as he chooses to continue President, "there is not the least probability of any other person being proposed", and does not see what consequence it is to the Society to know whether Smith is a Whig or a Tory. His own political beliefs: inclines to Toryism, yet "highly respect[s] the true old English spirit of Whigism". Believes the only politics the Linnean Society should attend to is the proper government of its own body. Encloses new version nomination certificate.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

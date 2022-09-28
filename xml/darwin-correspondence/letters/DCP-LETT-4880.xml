@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4880">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Crawfurd to E. A. Darwin   7 August 1863</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16531</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4880 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4880.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4880.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p, encl 2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 161: 237, 237/1</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>161: 237</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1109.xml">Crawfurd, John</persName>
+                <placeName>Athenaeum Club</placeName>
+                <date when="1863-08-07">7 Aug 1863</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1211.xml">Darwin, E. A.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Forwards an enclosure for CD, at Archdeacon John Sinclair’s request [extract from J. Sinclair’s <hi rend="italic">Life and works of Sir John Sinclair</hi> (1837) 2: 83–5], showing how Dr Erasmus Darwin anticipated Justus von Liebig [in recognising the importance of phosphorus-rich manures].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Life and works of Sir John Sinclair</term>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="people" ref="#subject_1219">Darwin, Erasmus</term>
+                <term type="people" ref="#subject_2922">Liebig, Justus von</term>
+                <term type="people" ref="#subject_4066">Rolfe, R. M.</term>
+                <term type="rx" ref="#">Sinclair, John 1837</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">cultivation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">food</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

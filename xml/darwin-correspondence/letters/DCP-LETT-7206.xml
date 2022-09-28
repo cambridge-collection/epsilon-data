@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7206">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Charles Renard   28 May 1870</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1643</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7206 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7206.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7206.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">1p (facsimile)</note>
+            <relatedItem type="publication">
+                <bibl>Strashun (1959): 53</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Stecher and Klavins 1965</bibl>
+            <bibl type="printedSource">Stecher, R. M. and Klavins, J. V. 1965: 157</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1870-05-28">28 May 1870</date>
+            </correspAction>
+            <correspAction type="received">
+                <orgName>secretary of Soc. Imp. Nat. Moscou</orgName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks Society for honour of his election as Honorary Member.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">honorary membership</term>
+                <term type="societal" ref="#">Soc. Imp. Nat. Moscou</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

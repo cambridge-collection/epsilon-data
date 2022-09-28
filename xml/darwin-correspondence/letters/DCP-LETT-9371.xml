@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9371">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   24 March 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4789</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9371 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9371.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9371.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 597–598, DAR 152: 599</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 103: 195–7</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>103: 195–7</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1874-03-24">24 Mar 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>"Half an answer" to CD’s query on visit of <hi rend="italic">Sphinx</hi> to <hi rend="italic">Hedychium gardnerianum</hi>.</p> 
+            <p>Business affairs and family ill health keep him busy.</p>
+            <p>G. J. Allman will succeed Bentham as President of Linnean Society. Busk has refused.</p>
+            <p>Huxley is well.</p>
+            <p>JDH has indoctrinated Sir Stafford Northcote with his merits.</p>
+            <p>Lyell frail.</p>
+            <p>Old J. E. Gray goes on publishing.</p>
+            <p>"Is not [Thomas] Belt splendid!"</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Other people</term>
+                <term type="plants" ref="#">Hedychium gardnerianum</term>
+                <term type="health" ref="#">Other people</term>
+                <term type="it" ref="#">Sphinx</term>
+                <term type="people" ref="#subject_95">Allman, G. J.</term>
+                <term type="people" ref="#subject_383">Belt, Thomas</term>
+                <term type="people" ref="#subject_398">Bentham, George</term>
+                <term type="people" ref="#subject_760">Busk, George</term>
+                <term type="people" ref="#subject_1959">Gray, J. E.</term>
+                <term type="people" ref="#">Hooker, J. D.’s family</term>
+                <term type="people" ref="#subject_2486">Huxley, T. H.</term>
+                <term type="people" ref="#subject_3051">Lyell, Charles</term>
+                <term type="people" ref="#subject_3558">Northcote, S. H.</term>
+                <term type="people" ref="#">president of Linnean Society</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">positive criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00391_files/8/0_0.jpg" width="3421px" height="5551px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00391_files/11/1_1.jpg" width="3421px" height="5551px"/>
+        <surface xml:id="i1" n="195r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00391.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00391_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00391.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i2" n="195v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00392.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00392_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00392.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i3" n="196r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00393.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00393_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00393.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i4" n="196v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00394.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00394_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00394.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i5" n="197r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00395.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00395_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00395.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i6" n="197v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00396.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00396_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00396.dzi" width="3421px" height="5551px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

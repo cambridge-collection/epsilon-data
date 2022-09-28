@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1755">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Carlo Antonio Ludovico Bellardi, Turin, [Italy], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61505/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/31, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bellardi, Carlo Antonio Ludovico">Carlo Antonio Ludovico Bellardi</persName>
+                    <placeName>Turin, Italy</placeName>
+                    <date when="1789-11-18">18 Nov 1789</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks Smith for parcel containing letters patent of Linnean Society and drawing of 'Smithia sensitiva'. Honoured to be accepted as an FMLS. Thanks Smith for his promise of helping to increase his herbarium and his garden. Asks again for advice on plants of an uncertain origin so he can finish work on a book of rare plants. Believes that Linnaeus has attributed the same kind of seed to 'Anthoscanthus' and 'Festuca', Bellardi convinced they belong to 'Festuca'. Explains doubts over Smith's claim that 'Phalaris savilianensis' of Linnaeus' herbarium will be identical to 'Phalaris bulbosa' with comparison of plates from [Jacques] Barrelier. [Dominique] Villars doubts his 'Arenaria saxatilis' is the same as described by Linnaeus. Has identified a 'Silene saxifraga' Smith sent as 'Cucubalus rupestris' of [Carlo] Allioni's "Auctarium ad Flora Pedemontana". Discussion of 'Saxifraga cespitosa', 'Saxifraga cotyledon', 'Saxifraga caesia', 'Saxifraga aizoon'. Has specimens of 'Agrostemma flos-jovis', 'Salix reticulata' and 'Dryas octopetala' to send to Smith when desired. Details of the publishing schedule for his fasciculi. Has received package from Mr Viborg of Copenhagen, asks Smith to send regards. Publication of Italian version of Smith's dissertation delayed.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

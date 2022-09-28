@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN319">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to Alexander Macleay</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64600/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/97, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1815-11-29">29 Nov 1815</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Afraid they have printed something of [Samuel Latham] Mitchill's paper on "New York fishes" in new volume of "Linnean Transactions", which was not to be printed on account of its appearance in an American journal; a Dr Francis will inform Macleay of it as Sir Joseph Banks'. [Francis] Buchanan, currently an ALS, wishes to become a FLS, as does [John] Murray of Stranraer, [Scotland], who wrote a paper on "vegetable poisons". Recommends Dr Burke of Lowestoft, [Suffolk], who is to visit the Transport Office.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

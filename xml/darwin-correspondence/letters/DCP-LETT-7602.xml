@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7602">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From George Thin to Alex Thin<ref target="#foot.f1"/>   19 March 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14377</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7602 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7602.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7602.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="LS">4pp † (by CD)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 178: 90</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>178: 90</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4710.xml">Thin, George</persName>
+                <placeName>East Linton</placeName>
+                <date when="1871-03-19">19 Mar 1871</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4709.xml">Thin, Alex</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Bitch crossed with dog produced puppies like those of previous cross with a very different dog.</p>
+            <p>[Forwarded to CD by Robert Swinhoe.]</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">dogs</term>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="people" ref="#subject_4642">Swinhoe, Robert</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">reversion</term>
+                <term type="scientific_terms" ref="#">young, offspring</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

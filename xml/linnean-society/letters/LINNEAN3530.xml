@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3530">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to James Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64711/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/SM/3, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1792-04-19">19 Apr 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends book for Dr Forster. Thanks for his father's advice about Frogmore and will not make use of the invitation [to teach the Queen and Princesses botany]. Sends receipts for his father's, Francis', and John's Sierra Leone shares. His father's ticket won £20. His brother Richard applied to [Robert] Batty [(1763-1849), apothecary] for 3 guineas whilst he was out, has since given instruction not to lend him any money. Account of his lectures: 17 pupils, of which 15 pay, but no ladies; hopeful of their "gaining ground". [Jonas] Dryander thinks it a good thing the King of Sweden has died. Lady [Amelia] Hume warns that the French refugees about Richmond, [Surrey], risk losing compassion of the public by their "rejoicing at Tippoo Saib's escape or victory" [Tipu Sultan (1750-1799), King of Mysore 1782-1799, in conflict with British forces at this time]. Sends "English botany" and pamphlet on French agriculture in their present "dreadful state".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

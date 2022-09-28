@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2643">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Bracy Clark, Lausanne, [Switzerland], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61691/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/68, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Clark, Bracy">Bracy Clark</persName>
+                    <placeName>Lausanne, Switzerland</placeName>
+                    <date when="1797-12-04">4 Dec 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His travels through Holland, Denmark, Germany, and Switzerland, intends to winter in Lausanne. Five days after embarking from Yarmouth, Norfolk, briefly taken prisoner by the Dutch and taken to Amsterdam along with Lord Berwick [Thomas Noel Hill (1770-1832) 2nd Baron Berwick of Attingham] and other passengers, but his baggage was spared and he was able see Holland which he would not have otherwise done. In Germany, where "they respect the Linnean Society", relates that [Georg Franz] Hoffmann, director of Göttingen Botanic Garden, has found undiscovered species in 'Jungermannia' and would like to send a paper on it to the Linnean Society but uneasy over the expense of drawings and plates, wonders if the Society would defray all or part of it. [Christiaan Hendrik] Persoon has complained to [Johann Friedrich] Blumenbach and others that he sent the Society several valuable 'Cryptogamous' plants and not had them acknowledged in any way. Hoffman is intending to publish a new account of the genus 'Aster'.</p><p>At Bern, Switzerland, saw [Jacob Samuel] Wyttenbach who informed him that [Edmund] Davall is suffering from a paralytic affliction. In Switzerland has discovered a "very excellent and laborious botanist", [Johann Christoph] Schleicher [(1768-1834)], based at Bix. Unsure how long he will remain in Switzerland as his intentions of returning to England via the veterinary schools of France are hindered by the distant "prospect of a peace" with France. Friends are attempting to get him a passport, asks for assistance from Smith and Sir Joseph Banks in attempting to obtain a pass from the Directory [Executive Directory, body of five directors that held executive power in France, 1795-1799] as has been told that letters of recommendation from men of science hold more weight than from men in power.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

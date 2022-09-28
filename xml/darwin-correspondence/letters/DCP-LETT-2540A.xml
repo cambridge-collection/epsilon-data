@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2540A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Lyell   21 November 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20461</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2540A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2540A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2540A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Draft</note>
+            <note type="physdesc">Draft</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 384–5</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The University of Edinburgh Centre for Research Collections (Lyell collection Coll-203/A3/4: 195–7)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_124.xml">Edinburgh</repository>
+                    <collection>Lyell</collection>
+                    <idno>Coll-203/A3/4: 195–7</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+                <date when="1859-11-21">21 Nov 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Questions CD’s view in <hi rend="italic">Origin</hi> that domestic dogs are not descended from a single stock. Occasional crossings of domestic stock with wild species could explain cases of reversion towards wild specific forms. CD’s views on hybridity do not then have to be contradicted in constructing an ancestral stock.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">dogs</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">hybrids</term>
+                <term type="scientific_terms" ref="#">number of species</term>
+                <term type="scientific_terms" ref="#">reversion</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

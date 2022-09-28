@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA491">
+   <persName>
+      <forename>John</forename>
+      <surname>Bligh</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>4th Earl of Darnley</roleName>
+   </persName>
+   <note type="dates">
+      <date>1767 - 1831</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 1767</p>
+      <p>Death: 17 March 1831</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 22/03/1810</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+      <p>Obituaries: Proc Roy Soc 1830-1831 No 7 p 84</p>
+   </note>
+</person>

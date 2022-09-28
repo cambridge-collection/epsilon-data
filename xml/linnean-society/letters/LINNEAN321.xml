@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN321">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Alexander Macleay, Transport Office, [London], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64602/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/99, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>London</placeName>
+                    <date when="1816-01-22">22 Jan 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Apologises for delay in forwarding letters to Smith; took the necessary measures for obtaining box sent from America; confirms [William] Swainson's Sicilian 'Orchideae' were sent to Mr Anderson at Chelsea. [John Russell, 6th] Duke of Bedford elected FLS at last Linnean Society meeting. "Linnean Transactions" printed, [Samuel Latham] Mitchill's paper on American fish was not included. Asks Smith's opinion of [John] Murray of Stranraer, [Scotland], and suitability to become FLS. Was unable to meet Smith's acquaintance, Dr Burke, at the Transport Office.</p><p>[Thomas] Marsham's affairs are in "a sad state"; read a letter from him at Council declaring his present inability to repay any of the £400 he owes the Society, but he hopes to pay it to his successor as Treasurer soon; the Society is to sell £400 of stock so as to be able to pay [James] Sowerby. Smith is named "Institutor and President of the Society" in published Society minutes.</p><p>Asks after Smith's "Cambridge business" [campaign for botany professorship]; was surprised to hear of Smith's new opponent, [William] Kirby, but confident he will not do anything unhandsome towards Smith. Asks if it is true that Miss Fanny Smith is to be married to his friend, the second son of [James Sinclair, 12th] Earl of Caithness [(1766-1823)]. Thanks for turkey.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

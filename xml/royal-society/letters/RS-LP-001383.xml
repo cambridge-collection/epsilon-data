@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001383">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Observations du barometre faites au Hartz, dans les mines de Clausthal [Observations of the barometer made at Hartz, in the Clausthal mines]' from Jean Andre De Luc to John Pringle [English translation]</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2020">2020</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 42p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/6/237, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/6/237</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8254" key="../nameregs/NA8254.xml">Jean Andre De Luc</persName>
+               <date when="1777-02-08">8 February 1777</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA6809" key="../nameregs/NA6809.xml">John Pringle</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

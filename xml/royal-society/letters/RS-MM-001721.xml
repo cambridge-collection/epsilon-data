@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001721">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from F Jeffrey Bell, 5 Radnor Place, Gloucester Square, to Alfred Hastings White, Assistant Librarian, The Royal Society</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2007">2007</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">2p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/65, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/65</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="F Jeffrey Bell, 5 Radnor Place, Gloucester Square">F Jeffrey Bell, 5 Radnor Place, Gloucester Square</persName>
+               <date when="1893-01-28">28 January 1893</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Alfred Hastings White, Assistant Librarian, The Royal Society">Alfred Hastings White, Assistant Librarian, The Royal Society</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

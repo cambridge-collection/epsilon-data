@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1853">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Henry Tibbats Stainton   13 April [1856]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1148</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1853 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1853.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1853.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 488</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>De Beer (1959): 56</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 6: 76</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Natural History Museum, Library and Archives (General Special Collections MSS DAR 16)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_288.xml">NHM</repository>
+                    <collection>General Special Collections</collection>
+                    <idno>MSS DAR 16</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1856-04-13">13 Apr [1856]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4514.xml">Stainton, H. T.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks HTS for <hi rend="italic">Entomologist’s Weekly Intelligencer</hi> [no. 2, 12 Apr 1856]. Agrees with his remarks [in "Why did Mr Westwood get the Royal Medal?"], but explains that a change in rules for awarding the Royal Medal has been made. Earlier it had to be given for publications in <hi rend="italic">Philosophical Transactions of the Royal Society</hi>, which explains small number of entomologist recipients.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="date" ref="#">1856.04.12</term>
+                <term type="it" ref="#">Entomologist’s Weekly Intelligencer</term>
+                <term type="it" ref="#">Philosophical Transactions of the Royal Society</term>
+                <term type="people" ref="#subject_5077">Westwood, J. O.</term>
+                <term type="rx" ref="#">Stainton, H. T. 1856</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">rules for awarding the Royal Medal</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000276">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Bernard le Bovier de Fontenelle, Paris, to the Royal Society</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">2 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/5/47, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/5/47</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6781" key="../nameregs/NA6781.xml">Bernard le Bovier de Fontenelle</persName>
+               <date when="1714-06-09">9 June 1714</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8414" key="../nameregs/NA8414.xml">Isaac Newton</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

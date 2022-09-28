@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SOMERVILLE138">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From John George Children to Mary Somerville   24 Feb 1835</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="somerville">The Somerville Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Brigitte Stenhouse</authority>
+                <date when="2022-02-26">2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">MSDIP-2, Dep. c. 375, Bod, MS</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Children, John George">John George Children</persName>
+                    
+                    <date when="1835-02-24">24 Feb 1835</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Somerville, Mary">Mary Somerville</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

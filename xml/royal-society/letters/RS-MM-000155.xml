@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000155">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Charles Rigobert Marie Bonne, Paris, to the President of the Royal Society</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">4 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/3/99, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/3/99</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Bonne, Charles Rigobert Marie">Charles Rigobert Marie Bonne</persName>
+               <date when="1790-10-18">18 October 1790</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="President of the Royal Society">President of the Royal Society</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

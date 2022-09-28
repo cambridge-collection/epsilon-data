@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001022">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Meteorological observations at Riga for December 1763 and January-March 1764 and on his election as a Fellow of the Royal Society' from Nicholas de Himsel and Charles Messier </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 4p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/4/244, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/4/244</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA5568" key="../nameregs/NA5568.xml">Charles Messier</persName>
+               <persName n="NA2925" key="../nameregs/NA2925.xml">Nicolaus de Himsel</persName>
+               <date when="1765-01-07">7 January 1765</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

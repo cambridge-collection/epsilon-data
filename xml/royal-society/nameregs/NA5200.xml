@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA5200">
+   <persName>
+      <forename>Leopold II</forename>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>Grand Duke of Tuscany</roleName>
+   </persName>
+   <note type="dates">
+      <date>1797 - 1870</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 03 October 1797</p>
+      <p>Death: 29 January 1870</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 24/05/1838</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+   </note>
+</person>

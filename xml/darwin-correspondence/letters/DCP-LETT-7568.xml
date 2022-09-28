@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7568">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Frederick Currey   11 March 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3758</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7568 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7568.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7568.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">7pp &amp; ADraft 3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Linnean Society of London (Report on J. P. Weale Society paper SP1250)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_238.xml">Linnean Society</repository>
+                    <collection>Report on J.P. Weale Society paper SP1250</collection>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>96: 92–3</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1871-03-11">11 Mar 1871</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1164.xml">Currey, Frederick</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Gives his opinion on four papers by J. P. M. Weale.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_4989">Weale, J. P. M.</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00189_files/8/0_0.jpg" width="4471px" height="6213px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00189_files/11/1_1.jpg" width="4471px" height="6213px"/>
+        <surface n="92r" xml:id="i189">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00189.jpg" width="4471px" height="6213px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00189_files/8/0_0.jpg" width="4471px" height="6213px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00189.dzi" width="4471px" height="6213px"/>
+        </surface>
+        <surface n="92v" xml:id="i190">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00190.jpg" width="4471px" height="6213px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00190_files/8/0_0.jpg" width="4471px" height="6213px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00190.dzi" width="4471px" height="6213px"/>
+        </surface>
+        <surface n="93r" xml:id="i191">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00191.jpg" width="4471px" height="6213px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00191_files/8/0_0.jpg" width="4471px" height="6213px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00191.dzi" width="4471px" height="6213px"/>
+        </surface>
+        <surface n="93v" xml:id="i192">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00192.jpg" width="4471px" height="6213px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00192_files/8/0_0.jpg" width="4471px" height="6213px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00192.dzi" width="4471px" height="6213px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

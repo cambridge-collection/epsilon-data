@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN866">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Holkham [Hall, Norfolk], to Sir Thomas Gery Cullum, Bury St Edmunds, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62824/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/60, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Holkham, Norfolk</placeName>
+                    <date when="1818-03-24">24 Mar 1818</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Updates Cullum on his Cambridge progress [campaign for botany professorship]: received a request from Professor [Thomas] Martyn to lecture next term in his place, and the authority to use the botanic garden. The vice-chancellor [George Grenville] and Master of Trinity [William Lort Mansel] approve but Master of St John's [James Wood (1760-1839)] does not, and Dr [Edward Daniel] Clarke [(1769-1822), professor of mineralogy] and Professor [James] Cumming [(1777-1861), professor of chemistry] are being obstructive in admitting him to their lecture rooms. Attended Linnean Society last week. Intends his first lecture to be given in the botanical school.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

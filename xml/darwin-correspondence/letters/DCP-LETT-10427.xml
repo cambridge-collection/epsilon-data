@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10427">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To G. C. Druce   25 April 1876</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6125</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10427 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10427.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10427.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Sherardian Library of Plant Taxonomy, One of the Bodleian Libraries of the University of Oxford (Druce Archives 5.0.1)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_311.xml">Sherardian Library of Plant Taxonomy</repository>
+                    <idno>(Druce Archives 5.0.1)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1876-04-25">25 Apr 1876</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1385.xml">Druce, G. C.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks Naturalist Society and Club of Northampton for his election.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">honorary membership</term>
+                <term type="societal" ref="#">Naturalist Society and Club of Northampton</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

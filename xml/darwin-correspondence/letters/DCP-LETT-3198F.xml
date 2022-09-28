@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3198F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From George Gordon to John Hutton Balfour   1 July 1861</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21106</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3198F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3198F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3198F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p &amp; ADraftS 1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Royal Botanic Garden, Edinburgh</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_347.xml">RBG Edinburgh</repository>
+                    <collection>Balfour Correspondence</collection>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_619.xml">Elgin Museum</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4975.xml">Watson, H. C.</persName>
+                <date when="1861-07-01">1 July 1861</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_259.xml">Balfour, J. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Asks whether one of Balfour’s students could obtain specimens of <hi rend="italic">Corallorhiza</hi> from Ravelrig bog outside Edinburgh for CD.</p> 
+        </abstract>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

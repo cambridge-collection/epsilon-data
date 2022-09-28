@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN304">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Norwich, [Norfolk], to Alexander Macleay, Transport Office, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64586/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/83, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1813-12-10">10 Dec 1813</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Macleay's letter and interest in his concerns. Sorry Macleay has been so busy, but rejoices at the "glorious cause" of his multiplied engagements", in reference to the Dutch. Sent Macleay game from Holkham [Hall, home of Thomas William Coke], where the Duke of Gloucester [Prince William (1776-1834), chancellor of Cambridge University] was also staying.</p><p>He has made "considerable progress" in his views at Cambridge [candidacy for botany professorship], does not doubt succeeding, and may get botanic garden appointment in the meantime, enabling him to lecture in April, but more doubtful of this. Determined not to be knighted until he at least gets that appointment; thanks for Macleay's assistance, means to receive it as president of the Linnean Society. Asks that the Society forward money owing to [James] Sowerby, who is in debt with him, as are [John] Sibthorp's executors.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

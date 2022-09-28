@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7657">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Hubert Airy   3 April 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16168</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7657 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7657.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7657.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 143: 1</bibl></relatedItem>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 159: 12</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 2: 107</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 87: 37–8</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>87: 37–8</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_51.xml">Airy, Hubert</persName>
+                <placeName>Greenwich</placeName>
+                <date when="1871-04-03">3 Apr 1871</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Comments on discussion of residual organs in <hi rend="italic">Descent</hi> [ch. 1].</p> 
+            <p>Describes his ability to contract the platysma myoides at will.</p>
+            <p>Suggests reason for loss of voluntary movement of ears in men and monkeys.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">monkeys</term>
+                <term type="it" ref="#">Descent</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">mind, cognitive behaviour</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">rudimentary organs</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00077_files/8/0_0.jpg" width="2986px" height="5816px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00077_files/11/1_1.jpg" width="2986px" height="5816px"/>
+        <surface xml:id="i1" n="37r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00077.jpg" rend="portrait" width="2986px" height="5816px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00077_files/8/0_0.jpg" width="2986px" height="5816px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00077.dzi" width="2986px" height="5816px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="37v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00078.jpg" rend="portrait" width="2990px" height="5558px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00078_files/8/0_0.jpg" width="2990px" height="5558px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00078.dzi" width="2990px" height="5558px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="38r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00079.jpg" rend="portrait" width="3017px" height="5684px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00079_files/8/0_0.jpg" width="3017px" height="5684px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00079.dzi" width="3017px" height="5684px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="38v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00080.jpg" rend="portrait" width="2921px" height="5718px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00080_files/8/0_0.jpg" width="2921px" height="5718px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00080.dzi" width="2921px" height="5718px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

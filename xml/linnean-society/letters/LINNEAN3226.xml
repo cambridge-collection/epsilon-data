@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3226">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Pitchford, Norwich, [Norfolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62278/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/8/63, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pitchford, John">John Pitchford</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1793-04-13">13 Apr 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks Smith for 'Carex incurva'. Received 'Thlaspi hirtum' of "Fl[ora] Ang[lica]" from [Dawson] Turner, it is possibly 'Thlaspi vaccaria' of Ray "Syn[opsis methodica]" 305.5, believes Hudson wrong. [Thomas] Woodward and himself believe Linnaeus wrong in 'Ligusticum cornubiense' because of cramped figure in Ray's "Synopsis". Summarises his observations on the 'Mentha' genus, as transmitted to Edward Forster junior: [William] Hudson correct on 'Mentha sativa' and 'M. gentilis' but wrong on 'M. sylvestris' and 'M. villosa'; 'M. arvensis'; makes other observations including comparisons across Linnaeus, [John] Ray, [William] Withering, and [Johann Adam] Pollich. Hopes for figure of Edward Forster's 'Mentha sativa' next autumn, concedes it is too late for 'Saxifraga oppositifolia'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

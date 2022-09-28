@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1843A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To M. J. Berkeley   18 March [1856]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20862</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1843A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1843A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1843A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS"/>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Joseph R. Sakmyster, ADS Autographs (dealer) (no date)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_3.xml">ADS</repository>
+                    <idno>(no date)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <date when="1856-03-18">18 Mar [1856]</date>
+                <placeName>Down</placeName>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_408.xml">Berkeley, M. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks MJB for information which he is including in his article for the Linnean Society.</p> 
+<p>Refers to the peas "which produce the black or intensely purple pods". [See <hi rend="doubleUnderline">1834</hi> and <hi rend="doubleUnderline">1836</hi>.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">1834</term>
+                <term type="b" ref="#">1836</term>
+                <term type="plants" ref="#">peas</term>
+                <term type="scientific_terms" ref="#">breeding (artificial)</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="societal" ref="#">Linnean Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

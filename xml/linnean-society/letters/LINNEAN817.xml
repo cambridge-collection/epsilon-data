@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN817">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum, Bury [St Edmunds, Suffolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62780/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/16, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                    <date when="1802-03-23">23 Mar 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for civilities Smith has shown his son in Norwich. Proposes Sir Thomas Gage as a FLS, he has collected all the scarce plants of the Lake District. [John] Gerard [(1545-1612), herbalist] says several species of 'Helleborine' grow in woods at Dunmow, Essex, and Clare, Suffolk; Cullum thinks the 'Serapis' he found between the two does not answer to any in "English Botany" and is between 'Serapis latifolia' and 'Serapis palustris' but he failed to gather a specimen. Had not heard of [William] Sole's death until seeing the advertisement letting his garden and Hortus Siccus. Hopes to attend Linnean Society anniversary meeting as the King has not signed the charter unsure whether he is welcome as a member anymore, apologises for his inactive approach to botany. Invites the Smiths to stay at Bury on their way either to or from London.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

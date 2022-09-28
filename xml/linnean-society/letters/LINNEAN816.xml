@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN816">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum, Bury [St Edmunds, Suffolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62779/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/15, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                    <date when="1800-09-25">25 Sep 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Investigated report in old letter from [Samuel] Goodenough that 'Veronica spicata' and 'Veronica hybrida' grow on a chalk bank at Icklingham, [Suffolk], with assistance of his "Calendarium florae", and in relating his observations thinks there are two species of 'Veronica'. Found a 'Serapias' distinct from Smith's "English Botany" 'Serapias latifolia' in Dunmow, [Essex], and Clare, [Suffolk], woods as mentioned on p.442 of [John] Gerard [(1545-1612), herbalist]. Observations on the 'Oppioglossum' he recently collected in every state. Praises Smith's paper on 'Mentha', found it much clearer than [William] Sole's "Menthae Britannicae". 'Erysimum cheiranthoides' in full flower in their sandy hills. Encloses specimens of the 'Veronica' discussed.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

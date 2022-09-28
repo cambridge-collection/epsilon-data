@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1481">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Yoxford, [Suffolk], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63429/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/42, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Yoxford, Suffolk</placeName>
+                    <date when="1790-05-28">28 May 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Encloses certificate nominating [Robert] Stone [(c 1751-1829), botanist] as FLS. [John] Pitchford claims 'Geranium pusillum' is Dillenius' and not Ray's, so Pitchford can consider an error in the plant or engraving as it is not the fault of "Pope Ray"; discusses his own work on 'Geranium' including comparison with Scopoli and [Albrecht von] Haller [(1708-1777)]; convinced old 'Geranium rotundifolium' is Haller and Scopoli's 'G. malvifolium', but the plant exists in herbarium as 'G. pusillum', suggests solution.</p><p>His broken collarbone healing well. Gathered 'Fillaea muscosa' for [James] Dickson and will find 'Carex strigosa', 'C. pulicaris', 'C. diocia', and 'Mentha villosa'. Asks Smith to purchase and send the Chinese jar he saw off of Broad Street when last in London, description.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

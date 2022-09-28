@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3487">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From H. G. Bronn<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   27 March 1862</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14089</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3487 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3487.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3487.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp (German)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 160.3: 320</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>160: 320</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_657.xml">Bronn, H. G.</persName>
+                <placeName>Heidelberg</placeName>
+                <date when="1862-03-27">27 Mar 1862</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD can add revisions since he cannot begin work on 2d German ed. of <hi rend="italic">Origin</hi> until May.</p>  
+<p>Schweizerbart wants to publish translation of <hi rend="italic">Orchids</hi>. Asks for woodcuts for illustrations.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Orchids</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="languages" ref="#">German</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="societal" ref="#">E. Schweizerbart’sche Verlagsbuchhandlung</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-01385_files/8/0_0.jpg" width="3780px" height="6267px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-01385_files/11/1_1.jpg" width="3780px" height="6267px"/>
+        <surface n="320:1r" xml:id="i1386">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-01385.jpg" width="3780px" height="6267px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-01385_files/8/0_0.jpg" width="3780px" height="6267px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-01385.dzi" width="3780px" height="6267px"/>
+        </surface>
+        <surface n="320:1v" xml:id="i1387">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-01386.jpg" width="3816px" height="6319px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-01386_files/8/0_0.jpg" width="3816px" height="6319px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-01386.dzi" width="3816px" height="6319px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

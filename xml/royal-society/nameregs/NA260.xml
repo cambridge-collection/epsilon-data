@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA260">
+   <persName>
+      <forename>John</forename>
+      <surname>Fitzpatrick</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>2nd Earl of Upper Ossory</roleName>
+   </persName>
+   <note type="dates">
+      <date>1745 - 1818</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: May 1745</p>
+      <p>Death: 01 February 1818</p>
+      
+      <p>Honours: Baron 1794</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 17/02/1780</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+   </note>
+</person>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3507">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, 4 Argyl Street, London, to Richard Pulteney, Blandford, Dorsetshire</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64776/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/MS238/17, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1797-05-01">1 May 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Pulteney, Richard">Richard Pulteney</persName>
+                    <placeName>Blandford, Dorset</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>He has little botanical news, his lectures taking up too much of his time. His "Flora Britannica" and also a "Florula" of New Holland are going on well. Believes [Aylmer Bourke] Lambert has provided Pulteney with a sketch of his 'Proteacea', overseen by Sir Joseph Banks and [Jonas] Dryander: order of 'Rutacea' numerous and difficult; 'Dicandria Papilionacea' most troublesome of all; 'Pultenaea' stands firm. He has been "addicted" to butterflies recently; in a few days a "splendid" work on "the rarer lepidopterous insects of Georgia" is to appear, including new plants not figured in "Hortus Kewensis".</p><p>Invites Pulteney to Norfolk to see the Linnaean shells, reassures him that none "strayed" whilst they were being organised. About to publish a volume of miscellaneous natural history papers. [Adam] Afzelius and [Archibald] Menzies are preparing accounts of their travels. Staying here till 25 May.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

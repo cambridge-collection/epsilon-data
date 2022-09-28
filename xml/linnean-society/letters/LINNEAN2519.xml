@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2519">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Walter Wade, Dublin, [Ireland], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64350/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/26/45, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Wade, Walter">Walter Wade</persName>
+                    <placeName>Dublin, Ireland</placeName>
+                    <date when="1809-05-17">17 May 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Encloses specimens: possible new 'Saxifraga', observations; 'Euphorbia hibernica' in flowering spring state, Smith's "English botany" figure does not entirely accord with the Irish plant; a 'Juncus' from County Whiclow that grows to 7 or 8 feet high.</p><p>Asks if the Irish 'Arbutus unedo' is to ever appear in "English botany"; wishes he was a curator, as gentlemen's gardeners call themselves, so that he might have better interest with [James] Sowerby. Does not think the 'Hypericum calycinum' of "English botany" is indigenous to Ireland, [James Townsend] Mackay [(1775-1862), curator of Botanic Garden, Trinity College, Dublin] concurs; fears many such mistakes occur. Asks if Smith's new edition of "Introduction to Botany" contains new additions.</p><p>Asks if his bundle of Irish mosses is still unexplored, noticing that many are in "English botany" without mention of himself. 'Gnaphalium margaritaceum' common to Ireland.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

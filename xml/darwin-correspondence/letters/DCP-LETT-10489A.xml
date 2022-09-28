@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10489A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Francis Darwin   [1 May 1876]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20813</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10489A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10489A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10489A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp damaged</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 271.4: 5</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>271.4: 5</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <date when="1876-05-01">[1 May 1876]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1222.xml">Darwin, Francis</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Expresses his pride in FD, whose article ["On the structure of the snail’s heart", <hi rend="italic">J. Anat. Physiol.</hi> 10 (1876): 506–10] was highly praised by G. H. Lewes.</p>  
+<p>Lewes has also been quoting FD’s letter in <hi rend="italic">Nature</hi> [13 (1876): 384–5] on pycrotoxine in relation to the vivisection controversy.</p>  
+<p>Was introduced to James Sully, author of the article in <hi rend="italic">Mind</hi> on Wilhelm Wundt ["Physiological psychology in Germany", 1 (1876): 20–43]</p>  
+<p>and <hi rend="italic">Sensation and intuition</hi> (1874) [see <hi rend="doubleUnderline">10320</hi>], by "Mrs Lewes" (George Eliot).</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">snail</term>
+                <term type="it" ref="#">J. Anat. Physiol.</term>
+                <term type="it" ref="#">Nature</term>
+                <term type="it" ref="#">Sensation and intuition</term>
+                <term type="people" ref="#">Eliot, George</term>
+                <term type="people" ref="#subject_2911">Lewes, G. H.</term>
+                <term type="people" ref="#subject_4619">Sully, James</term>
+                <term type="rx" ref="#">Darwin, Francis 1876</term>
+                <term type="rx" ref="#">Sully, James 1874</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">mind, cognitive behaviour</term>
+                <term type="scientific_terms" ref="#">perception and sensation</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">quotations / citations</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">meeting</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

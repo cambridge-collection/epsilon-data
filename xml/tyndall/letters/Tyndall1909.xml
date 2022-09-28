@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Tyndall1909">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To John Lubbock   Monday night | June 1862<ref target="#foot.f1"/></title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Tyndall Project</authority>
+                <date when="2017-10-02">2 October 2017</date>
+            </publicationStmt>
+            <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of John Tyndall</hi>, vol. 8 (2021)</ab>
+            <ab type="url">https://upittpress.org/books/9780822945772/</ab>
+        </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">Add MS 49639, ff. 103-4, BL</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Tyndall, John">John Tyndall</persName>
+                    
+                    <date when="1862-06-30">Monday night | June 1862</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Lubbock, John">John Lubbock</persName>
+                    
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

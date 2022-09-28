@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11222">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. M. Asher to John Murray<ref target="#foot.f1"/>   1 November 1877</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">6353</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11222 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11222.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11222.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="25">25</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp damaged</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 159: 116</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>159: 116</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_164.xml">Asher, G. M.</persName>
+                <placeName>London, Cambridge Terrace, 8</placeName>
+                <date when="1877-11-01">1 Nov 1877</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3463.xml">Murray, John</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Describes case of two varieties of Russian wheat, the <hi rend="italic">kubanka</hi> (or White Turkish) and the <hi rend="italic">saxonka</hi>, which grow side by side with no intermediate varieties. As <hi rend="italic">kubanka</hi> gradually yields place to <hi rend="italic">saxonka</hi>, thinks an unusual tendency to jumping variation [saltation] operates; suggests CD urge some young botanist to investigate [see <hi rend="italic">ML</hi> 2: 419–22].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">wheat, kubanka</term>
+                <term type="plants" ref="#">wheat, saxonka</term>
+                <term type="plants" ref="#">wheat, White Turkish</term>
+                <term type="places" ref="#">Russia</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">intermediate forms, gradation</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00595_files/8/0_0.jpg" width="3130px" height="5461px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00595_files/11/1_1.jpg" width="3130px" height="5461px"/>
+        <surface n="116:1r" xml:id="i595">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00595.jpg" width="3130px" height="5461px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00595_files/8/0_0.jpg" width="3130px" height="5461px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00595.dzi" width="3130px" height="5461px"/>
+        </surface>
+        <surface n="116:1v" xml:id="i596">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00596.jpg" width="3130px" height="5461px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00596_files/8/0_0.jpg" width="3130px" height="5461px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00596.dzi" width="3130px" height="5461px"/>
+        </surface>
+        <surface n="116:2r" xml:id="i597">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00597.jpg" width="3479px" height="5866px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00597_files/8/0_0.jpg" width="3479px" height="5866px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00597.dzi" width="3479px" height="5866px"/>
+        </surface>
+        <surface n="116:2v" xml:id="i598">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00598.jpg" width="3479px" height="5866px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00598_files/8/0_0.jpg" width="3479px" height="5866px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00159-000-00598.dzi" width="3479px" height="5866px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-13857">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Wicksted to Georgina Tollet<ref target="#foot.f1"/>   13 March [1870?]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14702</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-13857 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-13857.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-13857.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">AL incomplete</note>
+            <note type="physdesc" n="AL inc">† (by CD)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 181: 97</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>181: 97</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5116.xml">Wicksted, Charles</persName>
+                <placeName>Strakenhurst, Bewdley</placeName>
+                <date when="1870-03-13">13 Mar [1870?]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4770.xml">Tollet, Georgina</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Jury of fox-hunters report on hounds’ behaviour when catching fox. Fox never behaves like frightened dog.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">dog</term>
+                <term type="animals" ref="#">hounds</term>
+                <term type="people" ref="#">fox-hunters</term>
+                <term type="scientific_terms" ref="#">expression, emotion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">predators</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">jury</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001699">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Wilson L Fox, The Observatory, Falmouth, to the Secretaries, the Royal Society, Burlington House, London</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2006">2006</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">3p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/39, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/39</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Wilson L Fox, The Observatory">Wilson L Fox, The Observatory</persName>
+               <date when="1911-12-09">9 December 1911</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Secretaries, the Royal Society, Burlington House">Secretaries, the Royal Society, Burlington House</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

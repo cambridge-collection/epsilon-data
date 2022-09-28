@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8136">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   1 January 1872</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4710</idno>
+            <date when="2013">2013</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8136 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8136.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8136.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="20">20</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 536–537</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 103: 101–2</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>103: 101–2</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1872-01-01">1 Jan 1872</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Gladstone’s private secretary [West] has written that the Government plans to alter JDH’s position with regard to the First Commissioner of Works [Ayrton].</p>
+            <p>Huxley is not better after his Brighton trip.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="health" ref="#">Other people</term>
+                <term type="people" ref="#subject_203">Ayrton, A. S.</term>
+                <term type="people" ref="#">First Commissioner of Works</term>
+                <term type="people" ref="#subject_2486">Huxley, T. H.</term>
+                <term type="people" ref="#">private secretary to Gladstone</term>
+                <term type="people" ref="#">West</term>
+                <term type="places" ref="#">Brighton</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="social" ref="#">visiting</term>
+                <term type="societal" ref="#">Government</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00203_files/8/0_0.jpg" width="3421px" height="5551px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00203_files/11/1_1.jpg" width="3421px" height="5551px"/>
+        <surface xml:id="i1" n="101r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00203.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00203_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00203.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i2" n="101v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00204.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00204_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00204.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i3" n="102r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00205.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00205_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00205.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i4" n="102v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00206.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00206_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00206.dzi" width="3421px" height="5551px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2340">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Pitchford, Norwich, [Norfolk], to James Edward Smith, 10 Great Windmill Street, Haymarket, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64163/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/24/57, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pitchford, John">John Pitchford</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1784-05-02">2 May 1784</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Congratulates Smith on purchase of the Linnaean collections, which "will be a means of making [Smith] much know". Dined with [Thomas] Woodward and [James] Crowe, latter anxious for Smith not to make any agreements as to disposal of collections before speaking to him. Glad Smith has said the purchase will not interfere with his medical studies, as exclusive study of natural history can only be pursued by those with independent fortunes. Advises Smith to buy the herbarium of the younger Linnaeus if not included in the main purchase, for the duplicates. Will now regard Smith as "a second Linnaeus", though afraid Smith's other pursuits will not enable him to make full use of the collections. Opportunity for correcting Linnaeus' incorrect synonyms in "Species plantarum". Many made unwell by "this cruel winter".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3509">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Richard Pulteney, Blandford, Dorset</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64762/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/MS238/3, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1789-12-21">21 Dec 1789</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Pulteney, Richard">Richard Pulteney</persName>
+                    <placeName>Blandford, Dorset</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Pulteney's letter of 6 October [1789]. Congratulates him on admission as FLS, rejoices "to have your name on our list as one of the main pillars of our infant undertaking", believes Pultney's and Linnaeus' names ought never to be separated. Proud that Pulteney approves of his recent publications, currently working on second fasciculus and "more splendid work with coloured figures". Studying 'Arenaria' for Linnean Society and ferns for another purpose.</p><p>'Erica didyma' of Stokes distinct from 'E. multiflora' Linnaeus. [Olof] Swartz' "Prodromus" not to be had in London. Recommends Jusseiu's "Genera Plantarum", though "not altogether Linnean". Offers to acquire L'Héritier's works for him.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2791">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Louis Gérard, [Cotignac, France], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61860/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/10, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Gérard, Louis">Louis Gérard</persName>
+                    <placeName>Cotignac, France</placeName>
+                    <date when="1790-01-01">[1790]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Pleasure at Smith's visit; his work on plants of Provence; the Linnaean collections; 'Daphne alpina'; observations on Pliny; works of Linnaeus; copies of Linnaean letters.</p><p>Copy of letter from Linnaeus to Gérard, dated 22 June 1756, in Smith's hand [8 pp]:</p><p>Thanks for Gérard's letter of 30 November 1755, parcel of 100 dried plants, and seeds. Struggling to progress with his work on account of corrections to be made. Impressed by Gérard's progress and abilities; has learnt more from Gérard's plant collections than from many books. Numbered observations on plants sent by Gérard. Asks Gérard to investigate 'Allium' of [Pierre] Magnol's "Botanicum Monspeliense". Recent publications and dissertations, including his own. Catalogue of parcel of plants Gérard sent Linnaeus.</p><p>Copy of letter from Linnaeus to Gérard, dated 24 October 1756 [5 pp]:</p><p>Responds to queries in Gerard's letter of 15 August [1756], including: state of Cliffortian garden; Royen's departure from Leyden botanic garden; received floras from Heintzelman, Gerberius, and Messerschmidt; Gmelin produced two volume "Flora Siberica" but died last year; [John] Sibthorp will not produce biographies of Sherard and Dillenius; has not seen Gesner's "Trevisum" works; details of pupils who are travelling overseas. List of numbered plants.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

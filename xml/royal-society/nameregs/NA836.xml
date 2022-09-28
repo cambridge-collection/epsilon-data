@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA836">
+   <persName>
+      <forename>John</forename>
+      <surname>Brownlow</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>Viscount Tyrconnel</roleName>
+   </persName>
+   <note type="dates">
+      <date>c 1690 - 1754</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: c 1690</p>
+      <p>Death: 27 February 1754</p>
+      
+      <p>Honours: Viscount Tyrconnel and Baron Charleville 1718; KB 1725</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 17/04/1735</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+   </note>
+</person>

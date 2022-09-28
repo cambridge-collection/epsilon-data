@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3170">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Georg Wolfgang Franz Panzer, Nuremberg, [Germany], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62227/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/8/12, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="lat">Latin</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Panzer, Georg Wolfgang Franz">Georg Wolfgang Franz Panzer</persName>
+                    <placeName>Nuremberg, Germany</placeName>
+                    <date when="1821-10-01">1 Oct 1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of January 1818. Requests Smith's advice and determination on enclosed plants, since Smith is "unanimously considered the prince of botanists and the world's oracle on matters botanical"; has not added any cryptogamic plants, considering it impossible to add anything to Smith's already complete collection, but includes a catalogue of Germany's mosses.</p><p>Has sought Robert Brown's "Prodromus Florae Novae Hollandiae" in vain, and is told the author has suppressed it. Both he and Dr [Carl Bernhard von] Trinius [(1778-1844)], author of "Fundamenta Agrostopraphiae", think Smith's 'Alopecurus alpinus' is interesting; requests specimens.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

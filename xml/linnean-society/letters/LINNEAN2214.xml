@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2214">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Charles Konig, 114 Great Russell Street, London, to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64045/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/23/39, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Konig, Charles Dietrich Eberhard">Charles Dietrich Eberhard Konig</persName>
+                    <placeName>London</placeName>
+                    <date when="1806-01-08">8 Jan 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 10 December [1805]. Surprised that Smith's "antagonist" [Richard Salisbury] has taken his "animosity so very far"; believes there may be more than botanical causes for the schism and that Salisbury is "again brewing something" against Smith; Smith's use of [Jean-Jacques] Rousseau [(1712-1778), philosopher] motto in second volume of "Exotic botany" will perpetuate the "unworthy affair".</p><p>No original specimen of 'Plinia' in Sir Joseph Banks' herbarium; the plant they consider the same is specimen sent by [Alexander] Anderson [(1748?-1811), botanist] from West Indies, sending Anderson's description and drawing [extant]. Expects "Annals of Botany" to cease publication with next number as it is proving to be a losing concern. Salisbury has offered a paper on splitting of 'Ornithogalum' into two genera, calling one 'Gagea' after Sir Thomas Gage. Parcel for Smith from Willdenow; he wishes for the new British 'Salix'.</p><p>[Postscript] Specimens, descriptions, and drawings brought from New Holland by [Robert] Brown and [Ferdinand Lucas] Bauer [(1760-1826), botanical artist] "are by far the most excellent that ever resulted from any expedition", numbers exceed 2000. Proposes new genus 'Brunonia' in Brown's honour. [Ambroise] Beauvois [(1752-1820)] has given name 'Ventenatia' to a genus of 'Malvacca', at Ventenat's own choice; proposes Smith's 'Ventenatia' as genus for Brown.</p><p>Drawing and description of 'Plinia'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

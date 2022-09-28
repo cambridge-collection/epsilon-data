@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9309">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From George Cupples   21 February 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16594</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9309 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9309.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9309.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp, encl 4pp †, CD note, encl 2pp † (by CD), encl 4pp † (by CD), encl 8pp † (by CD), encl 3pp † (by CD), encl 2pp † (by CD)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 90: 91–2, 94–7, 102–13, 117–19; DAR 161: 301</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>90: 91–2</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>90: 94–7</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>90: 102–13</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>90: 117–19</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>161: 301</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1163.xml">Cupples, George</persName>
+                <placeName>unstated</placeName>
+                <date when="1874-02-21">21 Feb 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Answers to queries are being sent.</p>
+        </abstract><abstract>
+            <p>Enclosure 1: statistics on puppies bred by Rayner in 1873.</p>
+        </abstract><abstract>
+            <p>Enclosure 2 from W. N. Massey: number of males or females raised depends entirely on preference of greyhound breeders.</p>
+        </abstract><abstract>
+            <p>Enclosure 3 from E. L. Williams: breeders prefer to destroy bitch pups.</p>
+        </abstract><abstract> 
+<p>Enclosure 4: Thomas Morse answers CD’s three queries, transmitted by GC: (1) in deerhounds, females predominate, three to one; (2) in all but cattle, females are less worth preserving; (3) TM rears <hi rend="italic">all</hi> the young.</p> 
+        </abstract><abstract>
+            <p>Enclosure 5: John Wright responds to CD’s queries about proportion of sexes in births of horses, cattle, and dogs.</p>
+        </abstract><abstract>
+            <p>Enclosure 6: G. W. Hickman cannot give reliable answers to CD’s queries on proportion of sexes born [in greyhounds?].</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">cattle</term>
+                <term type="animals" ref="#">deerhounds</term>
+                <term type="animals" ref="#">dogs</term>
+                <term type="animals" ref="#">greyhound</term>
+                <term type="animals" ref="#">horses</term>
+                <term type="people" ref="#subject_1376">breeders</term>
+                <term type="people" ref="#subject_2275">Hickman, G. W.</term>
+                <term type="people" ref="#subject_3210">Massey, W. N.</term>
+                <term type="people" ref="#subject_3413">Morse, Thomas</term>
+                <term type="people" ref="#">Rayner, W. F.</term>
+                <term type="people" ref="#subject_5153">Williams, E. L.</term>
+                <term type="people" ref="#subject_5256">Wright, John</term>
+                <term type="scientific_terms" ref="#">breeding (artificial)</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">killing</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">young, offspring</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

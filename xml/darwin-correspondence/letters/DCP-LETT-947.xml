@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-947">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   1 February 1846</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2256</idno>
+            <date when="1988">1988</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-947 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-947.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-947.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="03">3</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 100: 60–2</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>100: 60–2</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1846-02-01">1 Feb 1846</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Goes on the assumption that each species has one origin, is immutable, and migrates.</p>
+            <p>Disagrees with Gaudichaud[-Beaupré] that volcanic island species are polymorphous.</p> 
+<p>Some mundane genera vary, others do not (<hi rend="italic">Senecio</hi> vs <hi rend="italic">Gnaphalium</hi>).</p> 
+            <p>John Lindley’s doctrine of longevity of trees is amazing.</p>
+            <p>Edward Forbes’s health is better.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Senecio</term>
+                <term type="plants" ref="#">trees</term>
+                <term type="health" ref="#">Other people</term>
+                <term type="people" ref="#subject_1680">Forbes, Edward</term>
+                <term type="people" ref="#subject_1827">Gaudichaud, C. B.</term>
+                <term type="people" ref="#subject_2932">Lindley, John</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">exclamations</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">higher groupings (‘family’, ‘class’, ‘order’ etc)</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">mineralogy, minerals</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">time and age (‘organic’ time)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">volcanoes and earthquakes</term>
+                <term type="scientific_terms" ref="#">worldwide distribution</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00117_files/8/0_0.jpg" width="3009px" height="5460px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00117_files/11/1_1.jpg" width="3009px" height="5460px"/>
+        <surface xml:id="i1" n="60r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00117.jpg" rend="portrait" width="3009px" height="5460px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00117_files/8/0_0.jpg" width="3009px" height="5460px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00117.dzi" width="3009px" height="5460px"/>
+        </surface>
+        <surface xml:id="i2" n="60v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00118.jpg" rend="portrait" width="3016px" height="5498px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00118_files/8/0_0.jpg" width="3016px" height="5498px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00118.dzi" width="3016px" height="5498px"/>
+        </surface>
+        <surface xml:id="i3" n="61r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00119.jpg" rend="portrait" width="3031px" height="5506px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00119_files/8/0_0.jpg" width="3031px" height="5506px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00119.dzi" width="3031px" height="5506px"/>
+        </surface>
+        <surface xml:id="i4" n="61v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00120.jpg" rend="portrait" width="3031px" height="5383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00120_files/8/0_0.jpg" width="3031px" height="5383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00120.dzi" width="3031px" height="5383px"/>
+        </surface>
+        <surface xml:id="i5" n="61a(r)">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00121.jpg" rend="portrait" width="3192px" height="5460px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00121_files/8/0_0.jpg" width="3192px" height="5460px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00121.dzi" width="3192px" height="5460px"/>
+        </surface>
+        <surface xml:id="i6" n="61a(v)">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00122.jpg" rend="portrait" width="3054px" height="5574px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00122_files/8/0_0.jpg" width="3054px" height="5574px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00122.dzi" width="3054px" height="5574px"/>
+        </surface>
+        <surface xml:id="i7" n="62r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00123.jpg" rend="portrait" width="2986px" height="5544px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00123_files/8/0_0.jpg" width="2986px" height="5544px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00123.dzi" width="2986px" height="5544px"/>
+        </surface>
+        <surface xml:id="i8" n="62v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00124.jpg" rend="portrait" width="3003px" height="5691px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00124_files/8/0_0.jpg" width="3003px" height="5691px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00124.dzi" width="3003px" height="5691px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3630">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To H. G. Bronn   30 June [1862]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">13110</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3630 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3630.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3630.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy<ref target="#foot.f21"/></note>
+            <note type="physdesc" n="C">2pp; encl 1, 2pp, A</note>
+            </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Bronn trans. 1862; DAR 143: 155; Houghton Library, Harvard University (MS Lowell Autograph File 83)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>143: 155</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_180.xml">Harvard Houghton</repository>
+                    <collection>MS Lowell Autograph File</collection>
+                    <idno>83</idno>
+                </msIdentifier>
+            </msDesc>
+            <bibl type="printedSource"><ref target="../bibliographies/bibl_951.xml">Bronn trans. 1862</ref></bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1862-06-30">30 June [1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_657.xml">Bronn, H. G.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Encloses answers and corrections [concerning <hi rend="italic">Orchids</hi>]. Thanks HGB for translating it.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Orchids</term>
+                <term type="languages" ref="#">German</term>
+                <term type="scientific_terms" ref="#">flora</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

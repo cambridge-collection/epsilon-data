@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2337">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Alfred Russel Wallace to J. D. Hooker<ref target="#foot.f1"/>   6 October 1858</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20347</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2337 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2337.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2337.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Linnean Society of London (Quentin Keynes Collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_238.xml">Linnean Society</repository>
+                    <collection>(Quentin Keynes collection)</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4935.xml">Wallace, A. R.</persName>
+                <placeName>Ternate</placeName>
+                <date when="1858-10-06">6 Oct 1858</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks JDH and Lyell for the actions they have taken with respect to ARW’s and CD’s papers. Considers himself fortunate to have been given any merit for his work. Is pleased that his correspondence has led to the earlier publication of CD’s work. It would have caused him "much pain &amp; regret" if CD had made ARW’s paper public unaccompanied by his own views.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="date" ref="#">1858.07.01</term>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="people" ref="#subject_3051">Lyell, Charles</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2381">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Richard Pulteney, [Blandford, Dorset], to James Edward Smith, 12 [Great] Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64200/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/24/94, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pulteney, Richard">Richard Pulteney</persName>
+                    <placeName>Blandford, Dorset</placeName>
+                    <date when="1792-07-25">25 Jul 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letter of 16 [July 1792] and books; congratulates Smith on return of his health; state of his account with Smith. Expects he will have to draw a line soon regarding his purchase of works on exotic botany. Book orders for himself and a gentleman of his neighbourhood.</p><p>Should his 'Lycoperdon' paper be intended for publication he has some small additions to make. [Aylmer Bourke] Lambert in a "very low &amp; depressed state". Grandmaison has published a French edition of his "View of the Writings of Linnaeus". Cannot come to London to examine Linnaean shells; his own collection contains nearly 1000 distinct species; he has lately inspired two young gentleman of the area in natural history, including [William George] Maton, whom Smith has already shown the Linnaean shells. Hears much of Bulliard's book on fungus ["Histoire des champignons de la France.." (1791-1812)].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

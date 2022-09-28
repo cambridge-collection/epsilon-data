@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1494">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63441/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/54, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1792-02-19">19 Feb 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letter [of 17 February 1792] and parcel containing "Flora Lapponica"; missing sheets. Unsure whether to go on with [James] Dickson's ["Hortus siccus Britannicus"] as it is expensive for duplicates and moderate specimens. Thanks for specimens of 'Iberis amara' and 'Lycoperdon cancellatum', which is definitely the "nidus of insects".</p><p>Congratulates Smith on "high honour" of organising the Queen's [Charlotte of Mecklenburg-Strelitz (1744-1818)] herbarium but fears the main benefit will be opportunity of consulting [John] Lightfoot's herbarium, as the King [George III (1738-1820)] and Queen are "famous for being satisfied with the honour which their acceptance of obligations confers" and gives example of a friend who gave a Hunter to the King for free.</p><p>Alarmed to hear of the Pantheon fire [a theatre near Smith's house] and danger to Smith's health and library; asks if the apothecary whose premises were damaged by falling of the inner walls some days later was [Robert] Batty's. [John] Pitchford passed on letter from [James] Sowerby requesting specimens of fungi; will endeavour to supply him, lists those he could send now.</p><p>"Buried" in snow at present. Intends to attend Linnean Society anniversary meeting. They are to petition "all over Suffolk" against the slave trade.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

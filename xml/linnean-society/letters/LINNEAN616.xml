@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN616">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Deanery, Rochester, [Kent], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62587/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/43, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Rochester, Kent</placeName>
+                    <date when="1802-11-03">3 Nov 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Hopes Smith is recovered from illness which left him unable to read. Appointed Dean of Rochester and comfortably lodged, however, the town itself is "naval, military, &amp; suited to the various business of a dockyard" and does not perceive much literature in the minor canons. Fears intellectual isolation but hopes to make an aquaintance with Mr Wrighte, foreign secretary of the Antiquary Society. Informed that the country about Rochester is well situated for botany but lacks the encouragement of a companion and discouraged by the "loose fellows from the navy and dockyard with their doxies". Thinks Smith's 'Carex [divisa]' is a good figure but wishes he consulted him first as he would have informed him of the variations caused by soil types, following observations on Isle of Sheppey. Thinks [William] Hudson in his first edition ["Flora Anglica"] took Smith's 'L. chrysophthalmus' for Linnaeus' 'juniperimus'. Asks Smith's opinion of [Thomas] Marsham's book ["Entomologia Britannica"]; thinks it "gives great consequence to English entomology". Greeting for the Bishop of Norwich [Charles Manners-Sutton (1755-1828)].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

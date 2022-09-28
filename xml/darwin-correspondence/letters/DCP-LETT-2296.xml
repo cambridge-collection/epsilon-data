@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2296">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. D. Fox   27 [June 1858]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7115</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2296 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2296.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2296.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 144: 254</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Christ’s College Library, Cambridge (MS 53 Fox 115)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_83.xml">CCLC</repository>
+                    <collection>MS 53</collection>
+                    <idno>Fox 115</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1858-06-27">27 [June 1858]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1730.xml">Fox, W. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Profoundly sorry for Lane.</p>
+            <p>Thanks WDF for facts about call ducks, pigs, and Leicester sheep.</p>
+            <p>Has been observing and experimenting on the construction of bees’ cells. Thinks he has a theory which simplifies the problem.</p>
+            <p>Scarlet fever in family; nurse ill.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bees</term>
+                <term type="animals" ref="#">ducks, call</term>
+                <term type="animals" ref="#">pigs</term>
+                <term type="animals" ref="#">sheep, Leicester</term>
+                <term type="health" ref="#">Darwin family</term>
+                <term type="people" ref="#subject_1202">Darwin family</term>
+                <term type="people" ref="#subject_2802">Lane, E. W.</term>
+                <term type="people" ref="#">nurse</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">nesting and other home-making or web-making behaviour</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

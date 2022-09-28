@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3393">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Forfar, [Forfarshire], to Samuel Goodenough, Rose Castle, Cumberland</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64826/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/31, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Forfar, Forfarshire</placeName>
+                    <date when="1810-07-08">8 Jul 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Numbered observations on enclosed grasses: 1. 'Poa glauca'; 2. a 'Poa' distinct from 'P. glauca' and 'P. gromerata'; 3. a 'Poa' like no.2 but in a different colour; 4. 'Poa' like 'P. memoralis', hopes Schrader's "Flora Germanica" will throw light on it, impatient to hear from Goodenough on that matter; 5. 'Avena' [Goodenough annotation: proposes name 'A. distans']; 6. 'Festuca' like 'F. casia' [Smith annotation: "'rubra'? not near 'casia'"]; 7. 'Poa' possible variety of 'P. pratensis'; has a new 'Rosa' like 'R. involuta' [Smith annotation: "does it differ from 'remota'?"]; 8. 'Carex' possibly 'C. straminea' of Willdenow.</p><p>He has 2 varities of 'Chaerophyllum aureum'; observations on plants growing on them. Two different species of 'Rosa spinosissima', one of which would answer to name 'R. glauca'. After further examination convinced the 'Glechoma' he previously sent is a species.</p><p>Asks Goodenough to forward this letter to Dr [James Edward] Smith.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3526">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Francis Buchanan, Barripore, Bengal, [India], to James Edward Smith, Surry Street, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64793/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/MS402/1, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hamilton, Francis">Francis Hamilton</persName>
+                    <placeName>Bengal, India</placeName>
+                    <date when="1799-01-01">1 Jan 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>He has temporary charge of the East India Company's botanic garden at Calcutta whilst [William] Roxburgh is at the Cape [of Good Hope] recovering his health. He has been drawing and describing his fish specimens; forwarding drawings and descriptions of 10 'Cyprini' as an example; his method for interpreting the Bengal names; has nearly 200 drawings of fish; unsure whether to publish as a separate publication or in "Linnean Transactions". Sending description and drawings of a bat for "Linnean Transactions". Received word that the Directors of the East India Company have received his Burmese plants specimens and given them to Sir Joseph Banks.</p><p>He is publishing a long paper on the "Religion of the Burmas" in "Asiatic Researches" vol 6; he has caused great offence amongst the Indian antiquaries by claiming that Buddhism is the original doctrine of Hinduism, and that the Bramins are "intruders from Egypt".</p><p>Last year he was employed in preparing a report on suitability of Chittagong and Tippera provinces for spice cultivation, which was unfavourable, but a trial is to be made at Chittagong for which he will send nutmeg and cinnamon trees. Collected a number of specimens on this trip. Intends to send Smith a parcel of seeds for distribution. Planning to an expedition through the Sunderbunds forests and considering writing an account of the natural productions of district watered by mouths of the Ganges and Burampooter rivers.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

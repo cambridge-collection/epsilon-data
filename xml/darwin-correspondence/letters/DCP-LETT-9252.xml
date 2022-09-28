@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9252">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. V. Carus   21 January 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7370</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9252 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9252.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9252.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 143: 235</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Staatsbibilothek zu Berlin – Preußischer Kulturbesitz (Slg. Darmstaedter Lc 1859: Darwin, Charles, Bl. 110–111)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_379.xml">SB zu Berlin - Preußischer KB</repository>
+                    <collection>Slg. Darmstaedter</collection>
+                    <idno>Lc 1859: Darwin, Charles, Bl. 110–11</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1874-01-21">21 Jan 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_849.xml">Carus, J. V.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Is glad to hear of new German edition of <hi rend="italic">Descent</hi>, but owing to his extensive revisions, corrected sheets will not be ready for about three months.</p>  
+<p>Is working on a new edition of <hi rend="italic">Coral reefs</hi>, which he thinks would sell in Germany.</p> 
+            <p>Would like to hear "out of curiosity &amp; vanity" how many copies of his books have been sold in Germany.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="it" ref="#">Coral reefs</term>
+                <term type="it" ref="#">Descent</term>
+                <term type="languages" ref="#">German</term>
+                <term type="places" ref="#">Germany</term>
+                <term type="scientific_terms" ref="#">coral</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

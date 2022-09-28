@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3188">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To <hi rend="italic">Journal of Horticulture</hi>   [before 18 June 1861]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20103</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3188 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3188.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3188.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Collected papers</hi> 2: 43</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 9: 179</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"> <hi rend="italic">Journal of Horticulture, Cottage Gardener, and Country Gentleman</hi> n.s. 1 (1861): 211 </bibl>
+            <bibl type="printedSource">J. Hortic. n.s. 1 1861: 211</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1809-01-01" notAfter="1861-06-17">[before 18 June 1861]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2615.xml">Journal of Horticulture</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD, commenting on a case of peloric flowering in <hi rend="italic">Auricula</hi>, urges readers to send in their observations on whether flowers nearest the axis tend to differ from others on the plant. Such a law of variation would be worth discovering.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Auricula</term>
+                <term type="plants" ref="#">peloric</term>
+                <term type="people" ref="#">Journal of Horticulture readers</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

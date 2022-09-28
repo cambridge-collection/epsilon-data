@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN837">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to Sir Thomas Gery Cullum, Bury St Edmunds, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62798/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/34, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1814-12-20">20 Dec 1814</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>[William] Roscoe visited him in Norwich and they visited Holkham, [Norfolk, home of Thomas William Coke] and Narford, [Norfolk, home of Andrew Fountaine], together; Roscoe could not visit Cullum via his journey home as he was anxious to return to his ill wife. Dawson Turner was also at Holkham, together they made a catalogue of Coke's collection of two hundred manuscripts. Around two hundred pieces each of pictures, old prints, Raphael's earthenware, and old French enamel, at Narford [Hall].</p><p>Vice-chancellor of Cambridge, [George] Thackery, refusing to assist him in gaining the garden and lectureship. Concerned for health of the "old professor" [Thomas Martyn]. The Dean [of Norwich, Joseph Turner (1747-1828)] has gone to Cambridge to argue Smith's case, and has also given [William Fitt] Drake another living of £150 a year. Sir Joseph Banks "tolerably well". [John] Fairbairn died recently, hopes William Anderson [(1766-1846)] from Mr [James] Vere's will succeed him [as curator of Chelsea Physic Garden]. Reported that [Aylmer Bourke] Lambert occupied in botanical matters.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

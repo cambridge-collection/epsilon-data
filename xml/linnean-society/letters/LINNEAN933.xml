@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN933">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Edmund Davall, Orbe, Canton de Berne, [Switzerland]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62914/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/30, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1791-03-09">9 Mar 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Responds to Davall's five letters [of 11 February 1791] and remarks further on plants sent by Davall on which their opinions differ. Thinks that Davall should either confide the Latin of his book to [Jacob] Wyttenbach, send his manuscript to [Samuel] Goodenough or himself, or communicate his findings in English to Linnean Society for second volume of "Linnean Transactions", so long as it appears in some form or other. Does not know 'Psora testacca' but Davall should keep it for his own work, as he would rather quote it from that to save himself trouble.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

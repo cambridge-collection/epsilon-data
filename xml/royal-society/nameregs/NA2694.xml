@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA2694">
+   <persName>
+      <forename>John</forename>
+      <surname>Henniker</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>Baron Henniker</roleName>
+   </persName>
+   <note type="dates">
+      <date>1724 - 1803</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 15 June 1724</p>
+      <p>Death: 18 April 1803</p>
+      <p>Burial: Rochester Cathedral</p>
+      
+      <p>Career: MP for Sudbury (1761-1768); MP for Dover (1774-1784)</p>
+      <p>Honours: Baron 1800</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 11/11/1779</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+   </note>
+</person>

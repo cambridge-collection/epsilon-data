@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1639">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Turin, [Italy], to James Smith, Market Place, Norwich, [Norfolk], Angleterre</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63580/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/61, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Turin, Italy</placeName>
+                    <date when="1787-08-03">3 Aug 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sent 4 [August 1787]. Hot weather has set in, exceeding anything experienced in England, but not intolerable. Received his father's letter of 19 July [1787]; sorry to hear state of things at Chelsea have caused his parents so much trouble [pregnancy of Smith's housekeeper, Molly Standard]; expects to be in London by Michaelmas [29 September]. Concerned for fate of his friend Cooper, and "melancholy state" of [Robert] Batty, whose death would be the "first real misfortune" he ever felt. Glad his father has read [Jean-Jacques] Rousseau's [(1712-1778), philosopher] "Confessions"; their reputation for shock; other book recommendations. Notes on silk business and prices for his father's bales.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

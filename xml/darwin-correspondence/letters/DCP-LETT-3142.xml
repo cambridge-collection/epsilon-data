@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3142">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From William Hardy to Luke Hindmarsh   [8 May 1861]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7936</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3142 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3142.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3142.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy</note>
+            <note type="physdesc" n="CC">1p † (by CD)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 46.1: 92</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>46.1: 92</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2120.xml">Hardy, William</persName>
+                <placeName>Chillingham Castle</placeName>
+                <date when="1861-05-08">[8 May 1861]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2299.xml">Hindmarsh, Luke</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends data on numbers of "wild" cattle in the herd on the estate of Lord Tankerville that have been killed by fighting, accidents, etc. He does not perceive that the cattle have diminished in size.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">cattle</term>
+                <term type="people" ref="#subject_2118">Hardy, Lord</term>
+                <term type="people" ref="#">Tankerville, Lord</term>
+                <term type="scientific_terms" ref="#">death</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">killing</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00046-00001-000-00189_files/8/0_0.jpg" width="5538px" height="9314px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00046-00001-000-00189_files/11/1_1.jpg" width="5538px" height="9314px"/>
+        <surface xml:id="i1" n="92r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00046-00001-000-00189.jpg" rend="portrait" width="5538px" height="9314px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00046-00001-000-00189_files/8/0_0.jpg" width="5538px" height="9314px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00046-00001-000-00189.dzi" width="5538px" height="9314px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="92v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00046-00001-000-00190.jpg" rend="portrait" width="5538px" height="9314px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00046-00001-000-00190_files/8/0_0.jpg" width="5538px" height="9314px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00046-00001-000-00190.dzi" width="5538px" height="9314px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1510">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Thomas Jenkinson Woodward, Bungay, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63456/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/69, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1793-03-26">26 Mar 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>No longer possible for Woodward to stay during his visit for Linnean Society anniversary meeting as his mother, youngest sister, and brother from Yorkshire are visiting at the same time. Asks if Woodward saw letter in last month's "Gentleman's Magazine" criticising his specific character of 'Geranium lucidum' in "English botany"; his response to appear in May issue in which he will also own the work. "English botany" to start including 'Cryptogamia', but not fungi. Has Woodward's drawing of 'Agaric' from [James] Sowerby.</p><p>Correcting the press of Woodward's 'Lycoperdon' paper; finds it amusing, though doubts Charles Bryant [(d 1799)] will. "Great loss" of [William] Aiton [(1731-1792), director of Kew Gardens] to Kew, his son [William Townsend Aiton] "clever &amp; civil". Fourth fasciculus of "Icones pictae" out this year. Still working on his "Tour", some already printing. Feels better this winter than he has for many years.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

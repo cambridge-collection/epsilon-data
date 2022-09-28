@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000273">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Edmond Halley, Chester, to Thomas Molyneux</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">1 side</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/5/44, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/5/44</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8423" key="../nameregs/NA8423.xml">Edmond Halley</persName>
+               <date when="1697-07-21">21 July 1697</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA7851" key="../nameregs/NA7851.xml">Thomas Molyneux</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

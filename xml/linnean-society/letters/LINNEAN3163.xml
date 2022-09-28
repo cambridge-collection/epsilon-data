@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3163">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roxburgh, Calcutta, [Bengal, India], to James Edward Smith, London [duplicate]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62321/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/8/106, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roxburgh, William">William Roxburgh</persName>
+                    <placeName>Calcutta, India</placeName>
+                    <date when="1794-08-20">20 Aug 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>This is letter is marked as a duplicate and was presumably sent at a later date to ensure arrival of at least one copy of the letter.</p><p>Has found new plants in Bengal including 'Asjogam' of "Hortus Malabaricus" vol 5 tab 59, thinks it a new genus and has named it after the late Sir William Jones ['Jonesia'] [(1746-1794) philologist and scholar of ancient India]. A manuscript of Jones' botanical observations to be posthumously printed in "Asiatic Researches" vol 4. Sends Jones' description of the 'Asjogam' and his own with drawing, hopes Smith can publish one. Has 400-500 drawings of plants to send by the next ships, his previously sent drawing of 'Nauclea orientalis' incorrectly labelled. Bark of 'Corchorus olitorius' and 'Corochorus capsularis' discovered to be equal to "the best flax" and will be a valuable export, it was mentioned by [Georg Eberhard] Rumphius and asks if it is known if "the ancients" or any other people substituted flax for it; the Bengali have long used it but only for cordage and twine uses, they believe 'Crotalaria juncea' is more valuable.</p><p>In postscript additional to the original letter writes that the majority of the season's ships have arrived but without letters from Smith or Mr Molesworth, fears some of his letters to Europe may have been lost.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

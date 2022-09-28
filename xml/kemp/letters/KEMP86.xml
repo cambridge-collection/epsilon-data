@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KEMP86">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Adam Sedgwick to William Kemp   13 October 1848</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="William Kemp">The William Kemp Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Ruth Cramond</authority>
+                <date when="2021-09-21">2021</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">Cambridge University Library (MS Add. 10252/66)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>            
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_4276.xml">Sedgwick, Adam</persName>
+                    
+                    <date when="1848-10-13">13 Oct 1848</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_2657.xml">Kemp, William</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>AS has come to Great Yarmouth to recuperate. If WK’s idea of the formation of the stone is correct he may find other examples.</p>
+            </abstract> 
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

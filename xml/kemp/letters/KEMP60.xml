@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KEMP60">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From David Milne to William Kemp   [<hi rend="italic">c</hi>. 1845–6?]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="William Kemp">The William Kemp Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Ruth Cramond</authority>
+                <date when="2021-09-21">2021</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">Cambridge University Library (MS Add. 10252/40)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>            
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_3336.xml">Milne, David</persName>
+                    
+                    <date notBefore="1844-11-01" notAfter="1846-12-04">c. 1845–6</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_2657.xml">Kemp, William</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Intends to visit the following week and requests WK’s company rambling across the Meigle Pots.</p>
+            </abstract>
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

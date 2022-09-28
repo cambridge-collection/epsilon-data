@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1719">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Francis Buchanan, Malola, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61606/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/132, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hamilton, Francis">Francis Hamilton</persName>
+                    <placeName>Malola</placeName>
+                    <date when="1808-01-09">9 Jan 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has been investigating the Dinagepour [Dinajpur] district of India but has had very little botanical success due to the season being unfavourable although optimistic about spending the spring in the Assam region. Sends seeds of 'Ocimum sanctum' [Holy Basil] and a species which is probably the 'Ocimum gratissimum' of Linnaeus so as to allow Smith to clear up any doubts and the differences between these and the Sweet Basil.</p><p>Comments on "Babui Toolsee" [babui tulsi, Hindi] and seeds which give "fine nourishment", perplexed that the natives give preference to the other plant which has "nothing remarkable about it". States that the "Encycl. Method." names 'Ocimum basilicum' as the holy Toolsy [tulsi] of the Hindus but believes what he is sending is the real plant, which is cultivated, whilst the "Babui Toolsee" grows wild.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

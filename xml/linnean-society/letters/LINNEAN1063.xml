@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1063">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Frankland, Thirkleby, [Yorkshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62979/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/3, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Frankland, Sir Thomas">Sir Thomas Frankland</persName>
+                    <placeName>Thirkleby, Yorkshire</placeName>
+                    <date when="1798-10-26">26 Oct 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received letter from [William] Curtis as if taking leave; Frankland wrote him a local case of angina pectoris being cured by following Dr Fothergill's advice in the "Medical Observations" but Curtis thinks his disorder is not that.</p><p>Unable to find Curtis' misquotation of Morrison in 'Lobelia ursens' article from having copied [William] Hudson and note he does not quote Hudson at all for that plant. Agrees that Curtis wrong to criticise Smith's use of terminology useage for 'Sageria corastoides'. Pleased with Smith's progress on the "Flora" and thinks the size and number of volumes does not matter, finding no description objectionable for its length except [Adam Afzelius' paper on] "3 certain 'Trifolia' in "Linnean Transactions", highlights [Richard] Relhan's as being particularly gratifying.</p><p>Would prefer a Botany Bay genus to be named after himself though admits he has contributed nothing to the botanical world though he has many drawings of 'Confervae' which he has not published. Gathered 'Viola canina' in full flower this week; proof of mildness of weather. Unsatisfied with his understanding of elms and confused by the different English, Dutch, and Cornish names for the same species. Encloses elm leaves [not extant]: large leaf of English elm, also sent to him from Wiltshire as Dutch elm; a narrow leaf with smooth twigs corresponding with enclosed marked as "common English Elm" from Circencester, [Gloucestershire]; obervations on elm bark.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

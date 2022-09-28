@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001767">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Karl Popper of Fallowfield, Manor Close, Manor Road, Penn, Buckinghamshire, to Myer H Salaman, 23 Bisham Gardens, Highgate, London</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2008">2008</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 1p.</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/24/12, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/24/12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA2549"/>
+               <date when="1978-01-01">1 January 1978</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Myer H Salaman, 23 Bisham Gardens, Highgate">Myer H Salaman, 23 Bisham Gardens, Highgate</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

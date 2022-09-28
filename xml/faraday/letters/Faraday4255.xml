@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Faraday4255">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title"><ref target="#foot.f1"/>Faraday to Henry Bence Jones   17 November 1862<ref target="#foot.f2"/>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Faraday Project</authority>
+            <date when="2017-10-02">2 October 2017</date>
+         </publicationStmt>
+         <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. 6 (2011)</ab>
+            <ab type="url">http://digital-library.theiet.org/content/books/ht/pbsp045e</ab>
+        </seriesStmt>
+         <sourceDesc>
+            <bibl type="provenance">RI MS F1 G16</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Faraday, Michael">Michael Faraday</persName>
+               <date when="1862-11-17">17 November 1862</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Jones, Henry Bence">Henry Bence Jones</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

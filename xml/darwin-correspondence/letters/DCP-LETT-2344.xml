@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2344">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. B. Tegetmeier   17 [October 1858]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1327</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2344 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2344.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2344.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Archives of the New York Botanical Garden (Charles Finney Cox Collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_302.xml">NYBG</repository>
+                    <collection>Charles Finney Cox</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1858-10-17">17 [Oct 1858]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4682.xml">Tegetmeier, W. B.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Has read WBT’s interesting communication on bees’ cells [<hi rend="italic">Athenæum</hi> 16 Oct 1858]. Would like to see his excavated cells.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="date" ref="#">1858.10.16</term>
+                <term type="animals" ref="#">bees</term>
+                <term type="it" ref="#">Athenaum</term>
+                <term type="rx" ref="#">Tegetmeier, W. B. 1858b</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">nesting and other home-making or web-making behaviour</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

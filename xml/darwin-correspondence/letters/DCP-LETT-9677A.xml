@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9677A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To F. J. Cohn   12 October 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20785</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9677A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9677A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9677A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 185: 107</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>185: 107</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1874-10-12">12 Oct 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_999.xml">Cohn, F. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD responds [to <hi rend="doubleUnderline">9667</hi>] with description of his own effort to study <hi rend="italic">Aldrovanda</hi> and his observations on the structure of <hi rend="italic">Dionaea</hi>.</p> 
+            <p>His admiration for FJC’s earlier studies of the Venus’s fly-trap.</p> 
+<p>He urges FJC to proceed promptly with publication of his memoir on <hi rend="italic">Aldrovanda</hi> [<hi rend="italic">Beiträge zur Biologie der Pflanzen</hi> 1, Heft 3 (1875): 71–92].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">9667</term>
+                <term type="plants" ref="#">Aldrovanda</term>
+                <term type="plants" ref="#">Dionaea</term>
+                <term type="plants" ref="#">Venus’s fly-trap</term>
+                <term type="it" ref="#">Aldrovanda</term>
+                <term type="it" ref="#">Beitrage zur Biologie der Pflanzen</term>
+                <term type="rx" ref="#">Cohn, F. J. 1875</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00489_files/8/0_0.jpg" width="3549px" height="6358px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00489_files/11/1_1.jpg" width="3549px" height="6358px"/>
+        <surface xml:id="i1" n="107.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00489.jpg" rend="portrait" width="3549px" height="6358px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00489_files/8/0_0.jpg" width="3549px" height="6358px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00489.dzi" width="3549px" height="6358px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="107.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00490.jpg" rend="portrait" width="3549px" height="6358px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00490_files/8/0_0.jpg" width="3549px" height="6358px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00490.dzi" width="3549px" height="6358px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="107.1v &amp; 107.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00491.jpg" rend="portrait" width="6534px" height="6678px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00491_files/8/0_0.jpg" width="6534px" height="6678px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00491.dzi" width="6534px" height="6678px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="107.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00492.jpg" rend="portrait" width="3549px" height="6358px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00492_files/8/0_0.jpg" width="3549px" height="6358px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00492.dzi" width="3549px" height="6358px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="107.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00493.jpg" rend="portrait" width="3662px" height="6572px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00493_files/8/0_0.jpg" width="3662px" height="6572px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00493.dzi" width="3662px" height="6572px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6152">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. J. Weir   [14 April 1868]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16115</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6152 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6152.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6152.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete</note>
+            <note type="physdesc" n="ALS">4pp inc †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 84.1: 88–9</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>84.1: 88–9</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5048.xml">Weir, J. J.</persName>
+                <placeName>unstated</placeName>
+                <date when="1868-04-14">[14 Apr 1868]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Starlings find new mates readily. Nesting in threes common.</p>
+            <p>Recognition of song by birds.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">birds</term>
+                <term type="animals" ref="#">starlings</term>
+                <term type="scientific_terms" ref="#">breeding behaviour</term>
+                <term type="scientific_terms" ref="#">communication</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">nesting and other home-making or web-making behaviour</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00183_files/8/0_0.jpg" width="3086px" height="5906px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00183_files/11/1_1.jpg" width="3086px" height="5906px"/>
+        <surface xml:id="i1" n="88r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00183.jpg" rend="portrait" width="3086px" height="5906px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00183_files/8/0_0.jpg" width="3086px" height="5906px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00183.dzi" width="3086px" height="5906px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="88v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00184.jpg" rend="portrait" width="2974px" height="5891px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00184_files/8/0_0.jpg" width="2974px" height="5891px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00184.dzi" width="2974px" height="5891px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="89r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00185.jpg" rend="portrait" width="2943px" height="5960px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00185_files/8/0_0.jpg" width="2943px" height="5960px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00185.dzi" width="2943px" height="5960px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="89v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00186.jpg" rend="portrait" width="2998px" height="5733px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00186_files/8/0_0.jpg" width="2998px" height="5733px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00084-00001-000-00186.dzi" width="2998px" height="5733px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

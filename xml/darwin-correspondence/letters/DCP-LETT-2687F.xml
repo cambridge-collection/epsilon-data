@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2687F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Charles Lyell   4 February [1860]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21050</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2687F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2687F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2687F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy</note>
+            <note type="physdesc" n="C"/>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 146: 229</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>146: 229</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <date when="1860-02-04">4 Feb [1860]</date>
+                <placeName>Down</placeName>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Suggests references in <hi rend="italic">Journal of researches</hi> 2d ed. in response to a query about the antiquity of man. Perplexed about S. S. Haldeman and Haldeman 1843–4. Glad to hear about A. C. Ramsay. Has received letter from H. G. Bronn.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Haldeman 1843–4</term>
+                <term type="it" ref="#">Journal of researches 2d ed.</term>
+                <term type="deprecated_people_class" ref="#subject_657">Bronn, H. G.</term>
+                <term type="deprecated_people_class" ref="#subject_2056">Haldeman, S. S.</term>
+                <term type="deprecated_people_class" ref="#subject_3922">Ramsay, A. C.</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

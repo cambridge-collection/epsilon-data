@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2468">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Stackhouse, Bath, [Somerset], to Sir James Edward Smith, Linnean Society Rooms, Gerard Street, Soho, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64295/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/25/83, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Stackhouse, John">John Stackhouse</persName>
+                    <placeName>Bath, Somerset</placeName>
+                    <date when="1816-05-17">17 May 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Regrets being unable to attend Linnean Society anniversary meeting this year as he has a paper on the larch insect to submit to the Society, and wished to announce a new edition of his "Nereis Britannica". Undertook new edition over the winter in order to present a thesis sent to the Moscow Society of Natural History some years ago, in return for being made a member; he has added 30 plates to the 17 in the thesis, comprising the whole of 'Fucus', and has printed a limited number, though it will be cheaper than any new printed book.</p><p>He has been busy arranging the animals in Aristotle, in preparation for new edition of Stephen's "Thesaurus". Hopes Smith has been well in the two years since they last saw each other.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

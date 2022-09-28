@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2916">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Leonard Knapp, 2 New King Street, Bath, [Somerset], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61985/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/10, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Knapp, John Leonard">John Leonard Knapp</persName>
+                    <placeName>Bath, Somerset</placeName>
+                    <date when="1802-11-14">14 Nov [1802]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Glad Smith has recovered his eye-sight. [James] Sowerby informs him that Smith wishes to discuss 'Agrostis minima'. Explains that having previously agreed that 'Agrostis minima' was monaecious after observation now believes it is a new genus and has placed it next to 'Triticum' under generical name of 'Solea', gives its character and names plant 'Solea monensis'. In Scotland was shown a new species of "Foxtail" by George Don, has described it under 'Alopecurus ovatus' and Don has sent a specimen to Sowerby. Believes it is opposite to the "corollis muticis" Linnaeus applies to 'Alopecurus geniculatus'. His "Gramina Britannica" is nearly finished after having delineated every species himself in almost all instances in its native habitat, "an undertaking of considerable fatigue, and personal danger". Needs only six plants to complete the task, inlcuding 'Phleum crinitum' and 'Agrostis littoralis'. Encloses specimen of 'Polypodium' [extant] gathered from Craig Hallech, Breadalbane mountains in Scotland. In postscript adds he has a specimen of 'Quercus robur' from the only oak in Birnam wood for Mrs Smith, "a classic name in a British ear"; found 'Festuca calamaria' in Derbyshire; saw 'Lysimachia thyrsiflora' in abundance; and found a new habitat for 'Cripipedium' "but must not divulge it, least avarice destroy the plant".</p><p>Specimen of 'Polypodium'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

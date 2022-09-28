@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2779">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Ippolito Maurizio Maria Durazzo, Genoa, [Italy], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61829/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/4/90, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Durazzo, Ippolito Maurizio Maria">Ippolito Maurizio Maria Durazzo</persName>
+                    <placeName>Genoa, Italy</placeName>
+                    <date when="1802-09-02">2 Sep 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Congratulates Smith on his marriage. Preoccupied with educating his son and three daughters and in the last few years with the revolution, taxes and arrests, which included his own arrest for a time, and a siege which induced disease and famine [in 1797 Napoleon formed the Ligurian Republic, incorporating the Republic of Genoa and other areas, it was occupied 1800-1801 by Austrian forces]. Gave over his "Villetia" to [Carlo] di Negro [(1769-1857) poet] in a deal with the government. Management of the botanic garden has gone to [Domenico] Viviani who has been appointed Professor of Botany at University of Genoa and is using it as the School of Botany. Has a collection of 1400 plants in the country, asks Smith to recommend an amateur to exchange seeds with, suggesting "jeune Aiton" [possibly John Townsend Aiton (1777-1851)]. Thanks Smith in advance for the seeds of 'Mimosa', 'Hibiscus', 'Sida', 'Geranium' promised. Expresses admiration for volumes 2-5 of "Linnean Transactions". Impatience for the publication of "Flora Graeca". Intends to publish on the "Flora Ligustica and Italia" with Viviani and [Antonio] Bertoloni.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3220">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Pitchford, Norwich, [Norfolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62273/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/8/58, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pitchford, John">John Pitchford</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1786-02-20">20 Feb 1786</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Discovery of 'Sphaeria' Micheli ["Plantarum genera"] Pl.104 Tab.55, sends drawing, discusses how it has been universally found growing parasitically on 'Lycoperdon cervinum', possibility of Linnaeus confounding 'Lycoperdon cervinum' with 'Lycoperdon spadiceum', believes they may have been first to disover the true 'L. cervinum' in England.</p><p>Received a 'Lichen fuliginosus' of [James] Dickson and a 'Lichen croceus' which accords to [John Lightfoot's] "Fl[ora] Scot[ica]", asks Smith to compare his specimens. Reviews James Bolton's "History of English Ferns", highlights errors with 'Polypodium aculeatum', 'Polypodium fragrans', 'Polypodium [thelypteris]', 'Polypodium lobatum'. Asks Smith's opinion of [Anders] Spaarman's "Voyage to the Cape". Asks likelihood of a good herbarium selling for between £20 and £50 at an auction such as the Duchess of Portland's. 'Phallus caninus' and 'Peziza stipitata' found.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

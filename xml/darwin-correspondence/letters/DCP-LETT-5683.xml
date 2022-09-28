@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5683">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   19 November 1867</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4566</idno>
+            <date when="2006">2006</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5683 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5683.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5683.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="15">15</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 393–395</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Huxley (1918) 2: 81, 83</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 15</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 102: 182–4, DAR 47: 191</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>102: 182–4,</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>47: 191</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1867-11-19">19 Nov 1867</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Will not be inclined to challenge Pangenesis.</p>
+            <p>Admits CD’s victory over JDH’s continental hypothesis (but will not give up Greenland).</p>
+            <p>Relation of variation to circumstances is shown by discovery of endemic St Helena umbellifer having same palm-like habit as an endemic Madeiran species.</p> 
+<p>Has completed Boott’s <hi rend="italic">Carices</hi> [<hi rend="italic">Illustrations of the genus Carex</hi>, pt 4 (1867)],</p>  
+<p>is printing W. H. Harvey’s work [<hi rend="italic">Genera of South African plants</hi>, 2d ed. (1868)],</p>  
+<p>and is revising English edition of Alphonse de Candolle’s <hi rend="italic">Laws of botanical nomenclature</hi> [trans. H. A. Weddell (1868)].</p> 
+            <p>Arrangements at Kew. Gardener [John Smith] is very ill; Oliver reigns supreme in the Herbarium.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">palm</term>
+                <term type="plants" ref="#">umbellifer</term>
+                <term type="geology" ref="#">continental extension</term>
+                <term type="health" ref="#">Other people</term>
+                <term type="it" ref="#">Genera of South African plants</term>
+                <term type="it" ref="#">Illustrations of the genus Carex</term>
+                <term type="it" ref="#">Laws of botanical nomenclature</term>
+                <term type="languages" ref="#">English</term>
+                <term type="people" ref="#subject_4422">Smith, John (c)</term>
+                <term type="people" ref="#subject_4994">Weddell, H. A.</term>
+                <term type="places" ref="#">Greenland</term>
+                <term type="places" ref="#">Kew</term>
+                <term type="places" ref="#">Madeira</term>
+                <term type="places" ref="#">St Helena</term>
+                <term type="rx" ref="#">Boott, Francis 1867</term>
+                <term type="rx" ref="#">Candolle, Alphonse de 1868</term>
+                <term type="rx" ref="#">Harvey, W. H. 1868</term>
+                <term type="rx" ref="#">Hooker, J. D. 1867</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">continuous or ‘broken’ land</term>
+                <term type="scientific_terms" ref="#">endemic forms</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">higher groupings (‘family’, ‘class’, ‘order’ etc)</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">pangenesis</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">systematics</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00373_files/8/0_0.jpg" width="2964px" height="5486px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00373_files/11/1_1.jpg" width="2964px" height="5486px"/>
+        <surface xml:id="i1" n="182r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00373.jpg" rend="portrait" width="2964px" height="5486px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00373_files/8/0_0.jpg" width="2964px" height="5486px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00373.dzi" width="2964px" height="5486px"/>
+        </surface>
+        <surface xml:id="i2" n="182v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00374.jpg" rend="portrait" width="2964px" height="5486px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00374_files/8/0_0.jpg" width="2964px" height="5486px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00374.dzi" width="2964px" height="5486px"/>
+        </surface>
+        <surface xml:id="i3" n="183r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00375.jpg" rend="portrait" width="2964px" height="5486px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00375_files/8/0_0.jpg" width="2964px" height="5486px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00375.dzi" width="2964px" height="5486px"/>
+        </surface>
+        <surface xml:id="i4" n="183v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00376.jpg" rend="portrait" width="2964px" height="5486px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00376_files/8/0_0.jpg" width="2964px" height="5486px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00376.dzi" width="2964px" height="5486px"/>
+        </surface>
+        <surface xml:id="i5" n="184r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00377.jpg" rend="portrait" width="2964px" height="5486px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00377_files/8/0_0.jpg" width="2964px" height="5486px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00377.dzi" width="2964px" height="5486px"/>
+        </surface>
+        <surface xml:id="i6" n="184v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00378.jpg" rend="portrait" width="2964px" height="5486px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00378_files/8/0_0.jpg" width="2964px" height="5486px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00378.dzi" width="2964px" height="5486px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

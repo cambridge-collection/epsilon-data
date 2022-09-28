@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000192">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from John Ball, Colonial Office, to John Wrottesley, 2nd Baron Wrottesley</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">4 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/4/38, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/4/38</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6334" key="../nameregs/NA6334.xml">John Ball</persName>
+               <date when="1857-03-06">6 March 1857</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA3417" key="../nameregs/NA3417.xml">John Wrottesley, 2nd Baron Wrottesley</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

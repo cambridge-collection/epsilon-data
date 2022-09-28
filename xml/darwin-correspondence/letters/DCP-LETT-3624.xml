@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3624">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   28 June 1862</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4226</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3624 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3624.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3624.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 36b</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 101: 42–3</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>101: 42–3</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1862-06-28">28 June 1862</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>M. J. Berkeley wrote <hi rend="italic">London Review &amp; Wkly J. Polit.</hi> article.</p> 
+            <p>CD is "out of sight the best physiological observer and experimenter that Botany ever saw".</p> 
+<p>Laments how much he [JDH] missed when doing the <hi rend="italic">Listera</hi> ["Functions and structure of the rostellum of <hi rend="italic">Listera ovata</hi>", <hi rend="italic">Philos. Trans. R. Soc. Lond.</hi> 144 (1854): 259–64].</p> 
+            <p>Illness of wife and father.</p>
+            <p>"More plants from Fernando Po and more European".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">European plants</term>
+                <term type="health" ref="#">Other people</term>
+                <term type="it" ref="#">Listera ovata</term>
+                <term type="it" ref="#">London Review &amp; Wkly J. Polit.</term>
+                <term type="it" ref="#">Orchids</term>
+                <term type="it" ref="#">Philos. Trans. R. Soc. Lond.</term>
+                <term type="people" ref="#subject_2353">Hooker, F. H.</term>
+                <term type="people" ref="#subject_2367">Hooker, W. J.</term>
+                <term type="places" ref="#">Fernando Po</term>
+                <term type="rx" ref="#">Berkeley, M. J. 1862</term>
+                <term type="rx" ref="#">Hooker, J. D. 1854c</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">positive self-criticism</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00081_files/8/0_0.jpg" width="3117px" height="5460px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00081_files/11/1_1.jpg" width="3117px" height="5460px"/>
+        <surface xml:id="i1" n="42r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00081.jpg" rend="portrait" width="3117px" height="5460px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00081_files/8/0_0.jpg" width="3117px" height="5460px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00081.dzi" width="3117px" height="5460px"/>
+        </surface>
+        <surface xml:id="i2" n="42v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00082.jpg" rend="portrait" width="3117px" height="5460px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00082_files/8/0_0.jpg" width="3117px" height="5460px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00082.dzi" width="3117px" height="5460px"/>
+        </surface>
+        <surface xml:id="i3" n="43r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00083.jpg" rend="portrait" width="3117px" height="5460px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00083_files/8/0_0.jpg" width="3117px" height="5460px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00083.dzi" width="3117px" height="5460px"/>
+        </surface>
+        <surface xml:id="i4" n="43v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00084.jpg" rend="portrait" width="3117px" height="5460px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00084_files/8/0_0.jpg" width="3117px" height="5460px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00084.dzi" width="3117px" height="5460px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

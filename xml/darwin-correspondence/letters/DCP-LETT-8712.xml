@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8712">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Hermanus Hartogh Heijs van Zouteveen   [1873?]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19510</idno>
+            <date when="2014">2014</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8712 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8712.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8712.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="21">21</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Amem</note>
+            <note type="physdesc">Amem 12pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 53.1: B44–9</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>53.1: B44–B49</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2155.xml">Hartogh Heijs van Zouteveen, Hermanus</persName>
+                <placeName>unstated</placeName>
+                <date notBefore="1873-01-01" notAfter="1873-12-31">[1873?]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Translation of some of his annotations in Dutch edition of <hi rend="italic">Expression</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Expression</term>
+                <term type="languages" ref="#">Dutch</term>
+                <term type="scientific_terms" ref="#">expression, emotion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00174_files/8/0_0.jpg" width="4352px" height="5940px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00174_files/11/1_1.jpg" width="4352px" height="5940px"/>
+        <surface xml:id="i1" n="B44r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00174.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00174_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00174.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="B44v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00175.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00175_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00175.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="B45r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00176.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00176_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00176.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="B45v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00177.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00177_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00177.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="B46r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00178.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00178_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00178.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="B46v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00179.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00179_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00179.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i7" n="B47r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00180.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00180_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00180.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i8" n="B47v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00181.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00181_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00181.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i9" n="B48r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00182.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00182_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00182.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i10" n="B48v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00183.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00183_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00183.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i11" n="B49r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00184.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00184_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00184.dzi" width="4352px" height="5940px"/>
+        </surface>
+        
+        <surface xml:id="i12" n="B49v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00185.jpg" rend="portrait" width="4352px" height="5940px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00185_files/8/0_0.jpg" width="4352px" height="5940px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00053-00001-000-00185.dzi" width="4352px" height="5940px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

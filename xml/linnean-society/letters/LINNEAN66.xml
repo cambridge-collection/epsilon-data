@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN66">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Marsham, London, to James Edward Smith, chez Monsr Broussonet, 57 Rue des blancs manteaux, Paris, [France]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64440/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/ADD/53, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Marsham, Thomas">Thomas Marsham</persName>
+                    <placeName>London</placeName>
+                    <date when="1786-09-01">1 Sep 1786</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Paris, France</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 23 [August 1786]. All were anxious for Smith's health, particularly Dr [Samuel] Goodenough, who is now out of London on a natural history excursion with [William] Curtis. They have been unable to see Sir Joseph Banks. Pleased by Smith's zeal for the "new Society" [Linnean Society]; fears [William] Jones will not become a member; [William] Forsyth [(1737-1804)] happier to "weed the old rather than plant a new garden" [in reference to Society for Promotion of Natural History]; soon expects that Society to fold considering the lack of papers or specimens received recently. Promises to send Smith any insect duplicates he does not first send to [Nils Samuel] Swederus [(1751-1833), Swedish naturalist], who has complained of the collections at Paris.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

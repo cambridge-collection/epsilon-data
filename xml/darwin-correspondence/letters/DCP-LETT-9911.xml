@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9911">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To G. H. Darwin   2 [April 1875]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">17474</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9911 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9911.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9911.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 45</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 210.1: 45</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>210.1: 45</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Queen Anne St, 6</placeName>
+                <date when="1875-04-02">2 [Apr 1875]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1224.xml">Darwin, G. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>CD recounts events of the April-fool’s day séance at Hensleigh [Wedgwood]’s. Asks GHD to find out whether Sidgwick’s account of it agrees with what he has heard. "What rubbish the whole does seem to be!"</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_4344">Sidgwick, Henry</term>
+                <term type="people" ref="#subject_5019">Wedgwood, Hensleigh</term>
+                <term type="social" ref="#">Darwin family</term>
+                <term type="social" ref="#">seance</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00148_files/8/0_0.jpg" width="4294px" height="5767px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00148_files/11/1_1.jpg" width="4294px" height="5767px"/>
+        <surface n="45:1r" xml:id="i148">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00148.jpg" width="4294px" height="5767px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00148_files/8/0_0.jpg" width="4294px" height="5767px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00148.dzi" width="4294px" height="5767px"/>
+        </surface>
+        <surface n="45:1v" xml:id="i149">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00149.jpg" width="4294px" height="5767px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00149_files/8/0_0.jpg" width="4294px" height="5767px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00149.dzi" width="4294px" height="5767px"/>
+        </surface>
+        <surface n="45:2r" xml:id="i150">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00150.jpg" width="4294px" height="5767px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00150_files/8/0_0.jpg" width="4294px" height="5767px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00150.dzi" width="4294px" height="5767px"/>
+        </surface>
+        <surface n="45:2v" xml:id="i151">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00151.jpg" width="4294px" height="5767px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00151_files/8/0_0.jpg" width="4294px" height="5767px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00001-000-00151.dzi" width="4294px" height="5767px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

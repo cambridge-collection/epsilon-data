@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1671">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Pleasance Smith, Lowestoft, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63609/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/90, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1811-06-02">2 Jun 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Ill-health. Account of a visit to Kew; party at C Scott's; Linnean Society anniversary meeting, at which [Richard] Salisbury voted, and who is now "more troublesome by civility &amp; deference" in botanical conversation; [Edward] Rudge suspected of stealing specimens from Sir Joseph Banks; concerned by progress of "Cyclopedia"; dined at William Smith's; dined at [Aylmer Bourke] Lambert's, where he met Mr and Mrs Cator, who have papers of Peter Collinson's [(1694-1768)]; gave his last lecture, much applauded; breakfast with William Roscoe and [William Jackson] Hooker; a visit to Westminster Abbey with William Smith and the Miss Smiths; Thomas Forster; rejected papers of Rudge's as they were designed to "plague" [Robert] Brown and were instigated by [Richard] Salisbury; visited Lady Cremorne at Chelsea, her character; Bishop of Winchester [Brownlow North]; the Jones's; the Fairbairns; Sir Thomas and Lady Cullum; at the Davenports' met Henry Warburton [(1784-1858), merchant]. Their cousin William Daniel has sent his "picturesque book on animals".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

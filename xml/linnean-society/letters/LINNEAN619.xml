@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN619">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Bulstrode, [Buckinghamshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62590/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/46, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Bulstrode, Buckinghamshire</placeName>
+                    <date when="1804-04-01">1 Apr 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for the two copies of third volume of "Flora Britannia"; humbled by the "deference you have paid to my humble attempts at the genus 'Carex'". Has just heard that there is a "lady botanist" at Rochester; regrets that both at Windsor and Rochester there were no naturalists, "this horrid war turns all men's minds to drums, trumpets &amp; arms". Will try to attend the Linnean Society anniversary meeting but wishes for his resignation of the vice-presidentship to take place before then. Praises Smith's support of "English Botany", thinks the variety of 'Hedypnois autumnalis' is a distinct species. Unsure of 'Picris hieracoides'; always thought it a one foot high dwarfish plant and cannot find it in "English Botany" and has been told by Eton botanists that it is a smooth plant growing over the ferry in a lane in Datchet, Berkshire, about three feet high. Encouraging his and [John] Sibthorp's acquaintance, Miss [Elizabeth] Hill [(c 1760-1850), algologist], to study marine plants. Dr Walter Vaughan, an old friend of Smith's from Edinburgh and Leiden, has established a practice in Rochester and "threatens" to take up botany in the summer. Goodenough's wife a "sad invalid".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

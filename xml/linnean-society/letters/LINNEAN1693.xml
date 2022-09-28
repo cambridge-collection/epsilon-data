@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1693">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Butt, Arley, [Worcestershire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61583/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/109, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Butt, Thomas">Thomas Butt</persName>
+                    <placeName>Arley, Worcestershire</placeName>
+                    <date when="1801-09-18">18 Sep 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends specimen of grass he found in a wood near Newtown Barry, Ireland, believes it to be close to Smith's 'Festuca calamaria'. List of habitats of Irish plants observed by him. Disappointed in attempts to establish a botanical garden of hardy herbaceous plants with Lord Valentia [George Annesley] by the "ignorance or imposition of nurserymen", asks Smith to recommend anyone in Norfolk willing to assist. Asks whether there is a treatise on the genus 'Aster', the descriptions in "Hortus Kewensis" and Marten's "Dictionary" being "very confused". Lord Valentia sends an index to first four volumes of [Carl Ludwig] Willdenow's "Species Plantarum". From the seeds Smith sent has been able to grow 'Helianthus decapetalus', 'Polymnia canadensis', 'Eupatorium kuhnia', 'Carduus carinatus', and 'Allium nutans'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

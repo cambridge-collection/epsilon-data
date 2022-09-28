@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4949">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Fritz Müller   9 December [1865]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1668</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4949 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4949.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4949.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="endorsement" subtype="letter">Received Jan. 25.— 1866.—</note>
+            <note type="physdesc" n="LS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: 444a</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 2: 345</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 13</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The British Library (Loan MS 10 no 4)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <collection>Loan MS 10</collection>
+                    <idno>4</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1865-12-09">9 Dec [1865]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3070.xml">Müller, J. F. T.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Has forwarded FM’s MS to Max Schultze, but did not read it.</p> 
+<p>Movement of stem apex in <hi rend="italic">Linum</hi>.</p> 
+            <p>Haeckel’s paper on reproduction in certain Medusae.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Medusae</term>
+                <term type="plants" ref="#">Linum</term>
+                <term type="people" ref="#subject_4240">Schultze, M. J. S.</term>
+                <term type="rx" ref="#">Haeckel, E. P. A. 1865b</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

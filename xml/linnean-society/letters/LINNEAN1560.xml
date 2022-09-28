@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1560">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Duddeston (Mr Galton's), [Warwickshire], to Pleasance Smith, Lowestoft, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63631/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/112, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Duddeston, Warwickshire</placeName>
+                    <date when="1819-10-17">17 Oct 1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Account of his time in Birmingham: visited some "curious manufactories" and dined at Mr Mouillet's; dined at Mr Eyre Lee's; dined with Dr [James] Yates and Dr Parr; has taken a violent cold and sudden feverish catarrah, but now better, though could not lecture on Friday so Yates read one on his behalf; he has had many thanks for the good he does the town, and Institution, and the taste and knowledge he is said to promote. Enquires about presents to buy Pleasance. Mr Galton's house and family. Reassures Pleasance he has no symptom of pulmonary inflammation. Asks after candlesticks and cutlery.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

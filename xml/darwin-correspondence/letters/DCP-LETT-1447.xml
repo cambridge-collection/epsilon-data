@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1447">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Edwin Lankester, Ray Society   30 July [1851]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">861</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1447 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1447.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1447.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">American Philosophical Society (Mss.B.D25.)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_13.xml">APS</repository>
+                    <collection>Mss.B.D25.</collection>
+                    <idno/>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1851-07-30">30 July [1851]</date>
+            </correspAction>
+            <correspAction type="received" subtype="personGrp">
+                <persName key="../nameregs/nameregs_2815.xml">Lankester, Edwin</persName>
+                <persName key="../nameregs/nameregs_3945.xml">Ray Society</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends completed MS [vol. 1 of <hi rend="italic">Living Cirripedia</hi>] with instructions for the printers; reviews number of plates and woodcuts, and offers to pay for extras and for excess corrections, if they occur. Hopes the Council [of the Ray Society] will print his second volume at the end of the ensuing year.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="it" ref="#">Living Cirripedia</term>
+                <term type="scientific_terms" ref="#">instructions</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

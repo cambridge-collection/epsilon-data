@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001749">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from James Tisdall, Dublin, to Sir Robert Southwell, at the Council Office, Whitehall</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2011">2011</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 2p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/23/2, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/23/2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8282" key="../nameregs/NA8282.xml">Robert Southwell</persName>
+               <date>15 March 1680 [1681]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Robert Southwell, at the Council Office">Robert Southwell, at the Council Office</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

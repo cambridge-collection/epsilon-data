@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3113">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John D. Glennie Jr   6 April 1861</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7983</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3113 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3113.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3113.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 48: 70–3</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>48: A70–A73</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1890.xml">Glennie, J. D., Jr</persName>
+                <placeName>Cambridge</placeName>
+                <date when="1861-04-06">6 Apr 1861</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>The stinging of bees and wasps contrasted.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bees</term>
+                <term type="animals" ref="#">wasps</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00145_files/8/0_0.jpg" width="3867px" height="5623px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00145_files/11/1_1.jpg" width="3867px" height="5623px"/>
+        <surface xml:id="i1" n="A70r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00145.jpg" rend="portrait" width="3867px" height="5623px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00145_files/8/0_0.jpg" width="3867px" height="5623px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00145.dzi" width="3867px" height="5623px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="A70v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00146.jpg" rend="portrait" width="3778px" height="5751px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00146_files/8/0_0.jpg" width="3778px" height="5751px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00146.dzi" width="3778px" height="5751px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="A71r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00147.jpg" rend="portrait" width="3914px" height="5951px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00147_files/8/0_0.jpg" width="3914px" height="5951px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00147.dzi" width="3914px" height="5951px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="A71v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00148.jpg" rend="portrait" width="3914px" height="5951px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00148_files/8/0_0.jpg" width="3914px" height="5951px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00148.dzi" width="3914px" height="5951px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="A72r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00149.jpg" rend="portrait" width="3295px" height="5582px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00149_files/8/0_0.jpg" width="3295px" height="5582px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00149.dzi" width="3295px" height="5582px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="A72v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00150.jpg" rend="portrait" width="3205px" height="5431px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00150_files/8/0_0.jpg" width="3205px" height="5431px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00150.dzi" width="3205px" height="5431px"/>
+        </surface>
+        
+        <surface xml:id="i7" n="A73r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00151.jpg" rend="portrait" width="3641px" height="5743px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00151_files/8/0_0.jpg" width="3641px" height="5743px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00151.dzi" width="3641px" height="5743px"/>
+        </surface>
+        
+        <surface xml:id="i8" n="A73v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00152.jpg" rend="portrait" width="3573px" height="5635px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00152_files/8/0_0.jpg" width="3573px" height="5635px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00048-000-00152.dzi" width="3573px" height="5635px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

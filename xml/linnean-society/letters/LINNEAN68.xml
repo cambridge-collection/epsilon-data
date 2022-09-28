@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN68">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Marsham, London, to James Edward Smith, chez Monr Oriani, Astronome Royal, Milan, [Italy]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64442/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/ADD/55, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Marsham, Thomas">Thomas Marsham</persName>
+                    <placeName>London</placeName>
+                    <date when="1787-03-05">5 Mar 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Milan, Italy</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 2 [February 1787]. Regrets not seeing their "mutual best friend", [Samuel] Goodenough, as much as he would like to; they have described about 200 new British insect species but struggle without reference to the Linnaean collections. He has not said anything of the new Society [Linnean Society] other than to [John] Lyon of Dover, [Kent], who has despaired of the present one [Society for the Promotion of Natural History] and is committed to the new.</p><p>Showed Sir Joseph Banks the section of Smith's letter concerning [Lazzaro] Spallanzani [(1729-1799), natural historian] [on dispute between Spallanzani and Giovanni Scopoli over mismanagement of the Univsersity of Pavia museum; Smith was a supporter of Scopoli]; Banks read it aloud to the gentlemen present, including [William] Hudson, L'Héritier, [Olof] Swartz, and [Jonas] Dryander. Swartz has been collecting Jamaican plants and is comparing them with Banks' West India herbarium.</p><p>Thanks Smith for obtaining some of his 'Lepidotera' desiderata; requests further species. Progress of [William] Jones figures of same; received parcel of insects from China but only contained two 'Papilio' not yet figured by Jones. Discusses [John] Latham's "Le Courent Bris" from his ["General synopsis of birds"]. [James] Dickson had a successful natural history excursion in north of Britain but all his findings were lost in wreck off Dutch coast. A valuable new entomological correspondent, and others.</p><p>Publication of [William] Curtis' "Botanical Magazine". Recent appointments, including at [Society for Promotion of Natural History] and East India Company. Wishes he could have joined Smith on his "7 golden days" in Florence; wishes he had an independent fortune of his own and thinks Smith's situation a "most enchanting one". Comments on Spallanzani and Scopoli dispute.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

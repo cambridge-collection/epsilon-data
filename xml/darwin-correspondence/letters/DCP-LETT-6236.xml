@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6236">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To B. D. Walsh   9 June 1868</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3706</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6236 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6236.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6236.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Field Museum of Natural History, Chicago (Walsh 13)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_133.xml">Field Museum</repository>
+                    <collection>Walsh</collection>
+                    <idno>13</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1868-06-09">9 June 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4944.xml">Walsh, B. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks BDW for new facts about <hi rend="italic">Anthocaris</hi> [see <hi rend="doubleUnderline">6156</hi>].</p> 
+            <p>Asks BDW to observe stridulation apparatus in male and female lamellicorns.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Anthocaris</term>
+                <term type="animals" ref="#">lamellicorns</term>
+                <term type="scientific_terms" ref="#">communication</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">sex differences</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

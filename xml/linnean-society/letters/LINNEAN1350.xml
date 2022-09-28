@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1350">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roscoe, Royal Hotel, Pall Mall, [London], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63274/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/43, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>London</placeName>
+                    <date when="1807-01-13">13 Jan 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Aware that his support for the "gradual abolition of the slave trade" could be misunderstood by his friends, but meant it to ensure the slaves' saftey and interests and not for the benefit of the merchants. Finds it inexplicable that William Smith has lost his Norwich seat, as "the slave trade is held in such general abhorence" there, and he has been one of its "most firm &amp; active opponents". Admires Smith's [epithet] for Alderman Baseley and praises Smith's "excellent turn" for this kind of composition. Details printing for his paper on Scitamineae. Intends to see [James] Sowerby about "Exotic botany", which must not be discontinued. Found a "Flora Peruviana &amp; Chilensis" in [Henry Richard Vassall-Fox, 3rd Baron] Holland's [(1773-1840)] library containing figures of 'Canna', 'Costus', and 'Maruta', which he made copies of but forgot, and which confirm his and Smith's system [for determining 'Scitamineae' plants].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

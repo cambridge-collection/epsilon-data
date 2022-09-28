@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3425">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don to [James Edward Smith]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64855/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/60, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    
+                    <date when="1803-06-07">7 Jun 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Numbered observations on enclosed specimens: 1. 'Sisymbrium tibliori' [Smith annotation: "'Sisymbrium monense' laid in"]; 2. 'Crataegus' [Smith annotation: "'Crataegus oxycantha' laid in]; 3. a 'Lichen' [Smith annotation: "new, laid into deal cabinet"]; 4. 'Crataegus' found with no.2 [Smith annotation: "var[iet]y"]; 5. 'Lolium hybridum', believes nondescript, sent to [James] Dickson 1795 [Smith annotation: "'L. arvense'"]; 6. 'Carex' [Smith annotation: "may be new 'C. salina' Sw[artz]"]; 7. 'Aira' differs from 'aquatica', like 'Poa retroflexo' [Smith annotation: "var[iet]y'].</p><p>Recently saw 'Assium petrafilium'. Observations on 'Valeriana pyrenaica', found 1782 and 1804. Will send a new 'Galium' and other things soon.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

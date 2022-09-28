@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KEMP52">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From William Stevenson to William Kemp   24 January [1860-4?]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="William Kemp">The William Kemp Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Ruth Cramond</authority>
+                <date when="2021-09-21">2021</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">Cambridge University Library (MS Add. 10252/32)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>            
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_9591.xml">Stevenson, William</persName>
+                    <date xml:id="date1" when="1860-01-20" exclude="#date2 #date3 #date4 #date5">20 Jan 1860</date>
+                    <date xml:id="date2" when="1861-01-20" exclude="#date1 #date3 #date4 #date5">20 Jan 1861</date>
+                    <date xml:id="date3" when="1862-01-20" exclude="#date1 #date2 #date4 #date5">20 Jan 1862</date>
+                    <date xml:id="date4" when="1863-01-20" exclude="#date1 #date2 #date3 #date5">20 Jan 1863</date>
+                    <date xml:id="date5" when="1864-01-20" exclude="#date1 #date2 #date3 #date4">20 Jan 1864</date>
+                    
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_2657.xml">Kemp, William</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Encloses a copy of his lecture on the geological history of the south east of Scotland/</p>
+            </abstract>
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

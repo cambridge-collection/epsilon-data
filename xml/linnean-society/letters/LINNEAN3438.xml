@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3438">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Forfar, [Forfarshire], to [James Edward Smith]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64867/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/72, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Forfar, Forfarshire</placeName>
+                    <date when="1809-10-04">4 Oct 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Responds to queries in Smith's letter of 8 September [1809]: will send 'Lamium' seeds; has found no evidence of 'Lychnis alpina' being planted, despite rarity, difficulty of ascertaining how many seeds it proudces, describes similar instances with 'Gentiana nivale', 'Gnaphalium sylvaticum', 'Sonchus caeruleus', and 'Hieracium molle'.</p><p>Numbered remarks and observations on plants, headed 18 May [probably date of Smith's reply to Don's letter of 3 April 1809]: 1. will try to identify the 'Ranunculus'; 2. 'Saxifraga' new species; 3. 'Potentilla' new species; 4. 'Grimmia' new species. Obervations on 'Ranunculus alpestres'; 'Crepis pulchra'; species of 'Silene'; 'Cochlearia groenlandica'. Observations on numbered specimens in his last letter: 8. argues case for naming new 'Saxifraga' 'S. peduncularis'; 9. "certainly not 'Stellaria cerastoides' but a 'Cerastium'.</p><p>Will send seeds of 'Spergula maxima'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

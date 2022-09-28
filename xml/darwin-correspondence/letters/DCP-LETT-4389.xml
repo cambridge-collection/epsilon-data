@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4389">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   [10 and 12 January 1864]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4336</idno>
+            <date when="2001">2001</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4389 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4389.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4389.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="12">12</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">AL</note>
+            <note type="physdesc">AL 4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 150: 322</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 115: 216</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>115: 216</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+            <date when="1864-01-10">10 Jan 1864</date>
+            <date when="1864-01-12">12 Jan 1864</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>CD very ill.</p>
+            <p>Suspects F. Boott’s widow is illegitimate granddaughter of Erasmus Darwin.</p>
+            <p>CD, like JDH, has speculated that agrarian weeds have become adapted to cultivated ground. Suggests comparison with country of origin.</p> 
+<p>Wallace’s praise of Herbert Spencer’s <hi rend="italic">Social statics</hi> baffles CD.</p> 
+            <p>[Letter completed by E. A. Darwin.]</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">weeds</term>
+                <term type="health" ref="#">Darwin himself, bad or deteriorating</term>
+                <term type="it" ref="#">Social statics</term>
+                <term type="people" ref="#subject_544">Boott, Mary</term>
+                <term type="people" ref="#subject_1211">Darwin, E. A.</term>
+                <term type="people" ref="#">Darwin, Erasmus’s illegitimate granddaughter</term>
+                <term type="people" ref="#subject_4935">Wallace, A. R.</term>
+                <term type="rx" ref="#">Spencer, Herbert 1851</term>
+                <term type="scientific_terms" ref="#">adaptation</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">cultivation</term>
+                <term type="scientific_terms" ref="#">introduced forms</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">positive criticism of a third-party</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">Darwin family</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00001_files/8/0_0.jpg" width="4345px" height="6076px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00001_files/11/1_1.jpg" width="4345px" height="6076px"/>
+        <surface xml:id="i1" n="1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00001.jpg" rend="portrait" width="4345px" height="6076px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00001_files/8/0_0.jpg" width="4345px" height="6076px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00001.dzi" width="4345px" height="6076px"/>
+        </surface>
+        <surface xml:id="i2" n="1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00002.jpg" rend="portrait" width="4300px" height="6057px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00002_files/8/0_0.jpg" width="4300px" height="6057px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00002.dzi" width="4300px" height="6057px"/>
+        </surface>
+        <surface xml:id="i3" n="2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00003.jpg" rend="portrait" width="4421px" height="6057px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00003_files/8/0_0.jpg" width="4421px" height="6057px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00003.dzi" width="4421px" height="6057px"/>
+        </surface>
+        <surface xml:id="i4" n="2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00004.jpg" rend="portrait" width="4421px" height="6057px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00004_files/8/0_0.jpg" width="4421px" height="6057px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00216-000-00004.dzi" width="4421px" height="6057px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

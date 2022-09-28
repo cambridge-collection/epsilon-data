@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2694">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Hugh Davies, Aber, Bangor, [Gwynedd], to James Edward Smith, Norwich, Norfolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61752/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/4/13, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davies, Hugh">Hugh Davies</persName>
+                    <placeName>Aber, Gwynedd</placeName>
+                    <date when="1799-02-23">23 Feb 1799</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks Smith for naming genus ['Daviesia'] after him. Refers to 'Festuca ovina' as a viviparous plant noticed by Linnaeus and presents several other viviparous plants he has found : 'Phleum pratense' in Anglesea and observed by [Albrecht von] Haller [(1708-1777) naturalist]; 'Aira caespitosa' on sides of Snowdon; 'Poa aquatica' in Yorkshire; 'Poa alpina' on Snowdon; 'Poa annua' on Snowdon, also sent to William Hudson; and 'Cynosurus cristatus' in Anglesea, offers to send specimens, each name has a tick against it made by Smith, except 'Poa alpina' which has a circle. Unsure what genus 'Agrostis minima' belongs to, having compared a late flowering one collected by [Benjamin] Stillingfleet [(1702-1771) botanist] on a tour of Wales and an early flowering one found by himself in Anglesea. Does not agree with [Jonathan] Stokes' [(c 1755-1831) botanist] assertion in [William] Withering's "Botanical Arrangement" that it is a 'Poa'. Surprised that the 'Avena stirgosa' has so long eluded the knowledge of botanists. Will send specimen of 'Sisymbrium monense'.</p><p>Subjoins a copy of the letter that accompanied the shells of about 120 species he sent to the Linnean Society, some are listed: those collected in order to ascertain species mentioned in [Thomas] Pennant's "British Zoology" but absent in [Johann Friedrich] Gmemlin's [(1748-1804) naturalist] "Systema Naturae"; and to prove other species to be British that were omitted by [Emanuel Mendez] da Costa [(1717-1791) botanist]. His findings were communicated to Hudson for "Fauna Anglica" but lost in the fire that destroyed Hudson's work.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

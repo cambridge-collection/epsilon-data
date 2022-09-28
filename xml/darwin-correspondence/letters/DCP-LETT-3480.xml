@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3480">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   [23 March 1862]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4206</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3480 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3480.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3480.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">5pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 26–28</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Huxley (1918) 2: 38</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 10: 126</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 101: 27–9; American Philosophical Society Library (Hooker papers, B/H76.2)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>101: 27–9</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1862-03-23">[23 Mar 1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Lighthearted thoughts on "the development of an Aristocracy" after a visit to Walcot Hall, Shropshire.</p>
+            <p>On CD’s point about the effect of changed conditions on the reproductive organs, JDH does not see why this is not "itself a variation, not necessarily induced by domestication, but accompanying some variety artificially selected".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="scientific_terms" ref="#">change</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">aristocracy</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00055_files/8/0_0.jpg" width="3001px" height="5468px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00055_files/11/1_1.jpg" width="3001px" height="5468px"/>
+        <surface xml:id="i1" n="27r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00055.jpg" rend="portrait" width="3001px" height="5468px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00055_files/8/0_0.jpg" width="3001px" height="5468px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00055.dzi" width="3001px" height="5468px"/>
+        </surface>
+        <surface xml:id="i2" n="27v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00056.jpg" rend="portrait" width="3001px" height="5468px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00056_files/8/0_0.jpg" width="3001px" height="5468px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00056.dzi" width="3001px" height="5468px"/>
+        </surface>
+        <surface xml:id="i3" n="28r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00057.jpg" rend="portrait" width="3001px" height="5468px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00057_files/8/0_0.jpg" width="3001px" height="5468px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00057.dzi" width="3001px" height="5468px"/>
+        </surface>
+        <surface xml:id="i4" n="28v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00058.jpg" rend="portrait" width="3001px" height="5468px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00058_files/8/0_0.jpg" width="3001px" height="5468px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00058.dzi" width="3001px" height="5468px"/>
+        </surface>
+        <surface xml:id="i5" n="29r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00059.jpg" rend="portrait" width="2498px" height="4888px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00059_files/8/0_0.jpg" width="2498px" height="4888px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00059.dzi" width="2498px" height="4888px"/>
+        </surface>
+        <surface xml:id="i6" n="29v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00060.jpg" rend="portrait" width="2583px" height="4888px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00060_files/8/0_0.jpg" width="2583px" height="4888px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00060.dzi" width="2583px" height="4888px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

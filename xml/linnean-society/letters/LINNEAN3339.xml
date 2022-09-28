@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3339">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Dietrich Heinrich Stoever, Altona, near Hamburg, [Germany], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62399/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/9/72, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="lat">Latin</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Stoever, Dietrich Heinrich">Dietrich Heinrich Stoever</persName>
+                    <placeName>Hamburg, Germany</placeName>
+                    <date when="1791-10-08">8 Oct 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Moved to write to Smith on account of his "glorious reputation" and his "benevolent and friendly spirit". He has been working on a biography of Linnaeus for the last three years; requests response from Smith on several questions regarding the purchase of the Linnaean collections, as several unconfirmed or false tales are circulating: 1. what price did Smith pay and in which year; 2. what did the purchase include; 3. asks if Smith is producing new editions of "Species plantarum" and "Systema naturae", as reported in French edition of Pulteney's "General view of the writings of Linnaeus", and whether Smith has published anything else based on Linnaeus' collections; 4. requests one or two memorable letters from Linnaeus' correspondence; 5. asks after foundation of the Linnean Society.</p><p>News of Linnaeus' widow and daughters. A monument to Linnaeus to be erected in front of the Uppsala Academy's new garden, at royal expense. His friend, Professor Giseke of Hamburg, is to publish Linnaeus' "Praelectiones in ordines naturales plantarum"</p><p>Also a page taken from "Benlag; zu des Hamburgischen unparthenischen Correspondenten" no. 160, dated 7 Oct 1791, in German.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

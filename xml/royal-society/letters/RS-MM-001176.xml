@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001176">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Michael Faraday to MN Jacobi, Academy of Sciences, St Petersburg</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2005">2005</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">3 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/17/42, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/17/42</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8218" key="../nameregs/NA8218.xml">Michael Faraday</persName>
+               <date when="1839-08-17">17 August 1839</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="MN Jacobi, Academy of Sciences, St Petersburg">MN Jacobi, Academy of Sciences, St Petersburg</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

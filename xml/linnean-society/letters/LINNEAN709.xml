@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN709">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, [Carlisle, Cumberland], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62680/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/27, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1816-11-07">7 Nov 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Frustrated by [Thomas] Marsham's delays in repaying his debts to the Linnean Society; blames those members who pitied and continued to think well of him and thinks Smith correct to call a Council, although uncertain if he can attend himself. Hopes that [Alexander] Macleay will be recompensed following break up of the Transport Board; he has spoken of leaving Queens Square. Bad harvest: the wheat in Cumberland is "very damaged" and none of the flowers in his garden had their usual rich odours, including the carnations, sweet peas, mignonette, but the 'Rosa semperflorens' was not affected by the weather; an example of its thorough hardiness, asks what its natural latitude is.</p><p>Hopes there are "no riotous doings" at Norwich, a "pefect system of terror prevails in Nottinghamshire and Leicestershire", thinks it a pity that Belvoir Castle in Leicestershire should have been destroyed by Luddites [there were rumours that a fire at the castle was arson]. Isaac Milner [(c 1750-1820), Dean of Carlisle] is going to Cambridge, Goodenough has told him that Smith is the "most scientific naturalist extant" [Smith's campaign for botany professorship]. According to a letter from Ealing Sir Joseph Banks very ill.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

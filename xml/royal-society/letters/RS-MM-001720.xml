@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001720">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas F Tyerman, 54 Corn Market Street, Oxford, to the President of the Royal Society</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2007">2007</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">4p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/64, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/64</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Thomas F Tyerman, 54 Corn Market Street">Thomas F Tyerman, 54 Corn Market Street</persName>
+               <date when="1886-06-09">9 June 1886</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="President of the Royal Society">President of the Royal Society</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

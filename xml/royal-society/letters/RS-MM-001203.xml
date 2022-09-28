@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001203">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Allan Wyon to Herbert Rix, Assistant Secretary, Royal Society</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2005">2005</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">2 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/17/70, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/17/70</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Wyon, Allan">Allan Wyon</persName>
+               <date when="1890-10-21">21 October 1890</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Herbert Rix, Assistant Secretary, Royal Society">Herbert Rix, Assistant Secretary, Royal Society</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

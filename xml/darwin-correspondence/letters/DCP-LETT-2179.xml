@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2179">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Richard Bishop to Charles Spence Bate<ref target="#foot.f1"/> <anchor xml:id="ann.a1" type="annotationStart"/> <anchor xml:id="ann.a2" type="annotationEnd"/>   3 December 1857</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14039</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2179 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2179.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2179.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 6: 496</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 160: 189</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>160: 189</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_459.xml">Bishop, Richard</persName>
+                <placeName>Plymouth</placeName>
+                <date when="1857-12-03">3 Dec 1857</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_312.xml">Bate, C. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Gives observations to be forwarded to CD of impregnation in <hi rend="italic">Balanus</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Balanus</term>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00784_files/8/0_0.jpg" width="3065px" height="5167px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00784_files/11/1_1.jpg" width="3065px" height="5167px"/>
+        <surface n="189:1r" xml:id="i784">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00784.jpg" width="3065px" height="5167px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00784_files/8/0_0.jpg" width="3065px" height="5167px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00784.dzi" width="3065px" height="5167px"/>
+        </surface>
+        <surface n="189:1v" xml:id="i785">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00785.jpg" width="2988px" height="5190px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00785_files/8/0_0.jpg" width="2988px" height="5190px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00785.dzi" width="2988px" height="5190px"/>
+        </surface>
+        <surface n="189:2r" xml:id="i786">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00786.jpg" width="3108px" height="5162px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00786_files/8/0_0.jpg" width="3108px" height="5162px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00786.dzi" width="3108px" height="5162px"/>
+        </surface>
+        <surface n="189:2v" xml:id="i787">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00787.jpg" width="3092px" height="5192px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00787_files/8/0_0.jpg" width="3092px" height="5192px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00787.dzi" width="3092px" height="5192px"/>
+        </surface>
+        <surface n="189:1v-2r" xml:id="i788">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00788.jpg" width="5831px" height="5179px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00788_files/8/0_0.jpg" width="5831px" height="5179px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00160-000-00788.dzi" width="5831px" height="5179px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

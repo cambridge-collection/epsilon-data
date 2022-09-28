@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L117">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">To Julie Carron-Ampère (1ère femme d'Ampère)   30 avril 1802</title>
+            <author xml:id="AMA" key="Ampère, André-Marie (1775-1836)" ref="http://www.idref.fr/028694171">
+          <forename>André-Marie</forename>
+          <surname>Ampère</surname>
+        </author>
+            
+            
+            <funder>ANR Corpus 2012</funder> 
+            
+            
+            
+            
+            
+            
+            
+            
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+<authority>La Correspondance d’André-Marie Ampère</authority>
+            
+            <publisher>Centre Alexandre Koyré - CNRS (UMR 8560)</publisher>
+            <address>
+          <addrLine>27 rue Damesme</addrLine>
+          <addrLine>75013 Paris</addrLine>
+        </address>
+            <distributor>
+          <name>Centre de calcul de
+               l'IN2P3</name>
+          <address>
+            <addrLine>Domaine scientifique de la Doua</addrLine>
+            <addrLine>43 boulevard du 11 Novembre 1918</addrLine>
+            <addrLine>69622 Villeurbanne Cedex</addrLine>
+          </address>
+        </distributor>
+            <availability>
+          <p>Ce texte est protégé par la licence <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons</ref> dont le contenu est disponible sous Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)</p>
+        </availability>
+            <date/>
+            <idno/>
+         <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=117"/></publicationStmt>
+         <sourceDesc>
+<bibl type="provenance">Fonds André-Marie Ampère chemise 393 quarto, Archives de l'Académie des sciences, Paris</bibl>
+
+            <msDesc type="original_manuscrit">
+               <msIdentifier xml:id="ampere_corr_L1802-04-30-b">
+                  <country>France</country>
+                  <settlement>Paris</settlement>
+                  <institution>Archives de l'Académie des sciences</institution>
+                  <repository>Fonds André-Marie Ampère</repository>
+                  <idno>chemise 393 quarto</idno>
+               <altIdentifier>
+              <idno type="old">L117</idno>
+              <note type="general_notes">Numéro de la lettre sur le premier site Ampère (2008)</note>
+            </altIdentifier>
+          </msIdentifier>
+          
+               <physDesc>
+                  <p>Six pages in-4°, 16,5 x 21, de papier bleuâtre sans adresse.</p>
+               </physDesc>
+            </msDesc>
+            <listWit>
+               <witness xml:id="L117CGA">
+                  <biblStruct>
+                     <monogr>
+                        <author>
+                           <surname>De Launay</surname>
+                           <forename>Louis</forename>
+                </author>
+                        <title>Correspondance du Grand Ampère</title>
+                        <imprint>
+                           <pubPlace>Paris</pubPlace>
+                           <publisher>Gauthier-Villars</publisher>
+                           <date when="1936">1936</date>
+                           <biblScope unit="tome">I.</biblScope>
+                           <biblScope unit="pp">p. 139-140-141</biblScope>
+                        </imprint>
+                     </monogr>
+                     
+                  </biblStruct>
+                 </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName type="sender" ref="#pers_A366" key="Ampère, André-Marie">André-Marie Ampère</persName>
+          <date when="1802-04-30">30 avril 1802</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName type="adressee" ref="#pers_C129" key="Carron-Ampère, Julie (1ère femme d'Ampère)">Julie Carron-Ampère (1ère femme d'Ampère)</persName>
+        </correspAction>
+        <note type="CGA"> <ref target="#corresp1">(1)</ref></note>
+      </correspDesc>
+         <creation>
+        <date when="2014-07">juillet 2014</date>
+        <name>Philippe Pons</name>
+        <name>Aude
+               Coustumer</name>
+      </creation>
+         <langUsage>
+            <language ident="fra">Français</language>
+         </langUsage>
+      </profileDesc>
+      
+   </teiHeader>
+   <text type="correspondance" decls="#ampere_corr_L1802-04-30-b"><body><div/></body></text>
+</TEI>

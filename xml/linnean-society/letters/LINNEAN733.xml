@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN733">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, [Carlisle, Cumberland], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62702/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/49, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1819-08-10">10 Aug 1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has been visiting, confirming, and holding public days in his diocese this year; his last official duty to host a state dinner for the judges. Was recently sent a 'Lysimachia vulgaris' which turned out to be 'Lysimachia quadrifolia'. Read in the newspaper of death of Mr Walker of Liverpool, whilst awaiting delivery of parcel of plants from him, caused by an insurgent privateer firing on the pleasure boat he was travelling on. Weavers in Cumberland have returned to their work after some trouble; Goodenough would like clarification whether the "meetings of the discontented" are legal or not, believes that "our people did not think of grumbling until some incendiaries put it into their heads". Goodenough thinks it folly for [Aylmer Bourke] Lambert's brother-in-law, Mr Bennet, to contest an election in Wiltshire. Death of [Samuel] Lysons [(c 1763-1819), antiquary]; he will be "much missed and desired". Sir Joseph Banks had jaundice but recovered and Mrs Goodenough well again.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

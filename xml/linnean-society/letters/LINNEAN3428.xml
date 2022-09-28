@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3428">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Botanic Garden, Edinburgh, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64858/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/63, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1804-01-25">25 Jan 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Forgot to include specimens of 'Alopecurus alpinus' and 'Poa flexuosa' mentioned in his last letter, encloses with this letter.</p><p>Numbered observations on enclosed specimens: 1. a 'Hypnum' possibly 'H. flagillari' of Dickson; 2. a 'Hypnum' near 'H. scorpioides'; 3. a 'Hypnum' near to 'denticulatum'; 4. 'Hypnum uncinatum'; 5. a 'Hypnum' he believes to be 'H. filimontasum'; 6. a 'Hypnum' near to 'H. serpens'; 7. an unknown 'Hypnum'; 8. possible 'Hypnum uncenatum'; 9. an unknown 'Hypnum'; 10. an unknown 'Hypnum'; 11. possibly 'Hypnum scorpioides'; 12. an unknown 'Hypnum'; 13. an unknown 'Hypnum'; 14. possible 'Bryum mucronulatum'; 15. a 'Bryum' variety of no.14; 16. new species of 'Helvela'; 17. a 'Bryum' formerly thought to be 'B. hypnoides'; 18. 'Bryum nudum'; 19. a 'Jungermannia'; 20. a 'Phascum'; 21. a 'Lichen'; 22. a 'Lichen'; 23. 'Grimmia recurvat'.</p><p>Asks Smith's opinion of the 'Dicranium ovale' he sent [Dawson] Turner in 1802, and which Turner thinks is 'Trichostomum microcarpon'.</p><p>Twenty numbered specimens, some with annotations by Smith; numbers 7, 20, and 22 not extant.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

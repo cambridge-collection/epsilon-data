@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9947">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. R. S. Ralston   24 April [1875]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7307</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9947 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9947.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9947.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Staatsbibliothek zu Berlin – Preußischer Kulturbesitz (Slg. Darmstaedter Lc 1859: Darwin, Charles, Bl. 218–219)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_379.xml">SB zu Berlin - Preußischer KB</repository>
+                    <collection>Slg. Darmstaedter</collection>
+                    <idno>Lc 1859: Darwin, Charles, Bl. 218–19</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1875-04-24">24 Apr [1875]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3920.xml">Ralston, W. R. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Asks WRSR to explain a diploma and letter he has received from Russia, so he can return his thanks. [Probably a reference to CD’s being made an honorary fellow of the Society of Naturalists of the Imperial Kazan University in 1875.]</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="places" ref="#">Russia</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

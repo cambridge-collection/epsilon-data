@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN206">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Alexander Macleay, Tilhuster Lodge, Godstone, [Surrey], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64663/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/160, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>Godstone, Surrey</placeName>
+                    <date when="1823-01-06">6 Jan 1823</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Long break in their correspondence. Publication of "Linnean Transactions" vol 14, lack of papers at Linnean Society meetings, requests one from Smith. Delay in last part of previous "Transactions" volume occasioned him "more vexation" than he can express; he is "most heartily sick of the Secretaryship" and asks that Smith consider a replacement; David Don's [(1799-1841), botanist] progress [as Society Clerk]. Several objectives he would like to complete before leaving office: a subscription for a bust of Smith, though fears he will not have much good will on this, having brought forward so many other subscriptions; a general index to "Linnean Transactions"; and to put the Society's funds on a better footing, proposals for this, asks Smith to chase up money bequeathed by Natural History Society [Society for Promoting Natural History, precursor to Linnean Society].</p><p>[Aylmer Bourke] Lambert and Mrs [Catherine] Lambert both unwell, when he took the Chair he "appeared as if he were mad", which was much commented on by Fellows, asks Smith to ensure [William George] Maton takes the Chair when the Bishop [of Carlisle, Samuel Goodenough] cannot attend. His daughter ill.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001677">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Additional observations on the making of ice at Benares' from John Lloyd Williams to William Marsden</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2020">2020</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 3p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/10/46, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/10/46</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA2796" key="../nameregs/NA2796.xml">John Lloyd Williams</persName>
+               <date when="1792-10-01">1 October 1792</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA1559" key="../nameregs/NA1559.xml">William Marsden</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

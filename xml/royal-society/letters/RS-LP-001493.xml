@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-001493">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'On the powers of my seven foot Newtonian telescope' from William Herschel to unknown recipient</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2020">2020</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 8p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/7/250/1, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/7/250/1</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8060" key="../nameregs/NA8060.xml">William Herschel</persName>
+               <date when="1782-03-25">25 March 1782</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="unknown recipient">unknown recipient</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

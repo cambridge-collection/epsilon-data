@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5355">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Philip Mansel Weale   9 January 1867</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16057</idno>
+            <date when="2006">2006</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5355 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5355.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5355.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="15">15</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">AL incomplete</note>
+            <note type="physdesc" n="AL inc">†</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 82: A113–14</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>82: A113–A114</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4989.xml">Weale, J. P. M.</persName>
+                <placeName>Bedford, Algoa Bay, Cape Colony</placeName>
+                <date when="1867-01-09">9 Jan 1867</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends paper on new species of <hi rend="italic">Bonatea</hi>, to which he has given the name <hi rend="italic">Darwinii</hi>.</p> 
+            <p>Has now an extensive collection of insects.</p> 
+<p>Has discovered moths whose larva cases resemble perfectly the thorns of the <hi rend="italic">Acacia horrida</hi>.</p> 
+            <p>Has asked for the head of a Bushman murderer. Difficult to convince authorities of interest of science.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">insects</term>
+                <term type="animals" ref="#">moths</term>
+                <term type="plants" ref="#">Acacia horrida</term>
+                <term type="plants" ref="#">thorns</term>
+                <term type="human_group" ref="#">Bushman</term>
+                <term type="it" ref="#">Bonatea</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">larvae</term>
+                <term type="scientific_terms" ref="#">mimicry</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00229_files/8/0_0.jpg" width="3668px" height="6373px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00229_files/11/1_1.jpg" width="3668px" height="6373px"/>
+        <surface xml:id="i1" n="A113r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00229.jpg" rend="portrait" width="3668px" height="6373px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00229_files/8/0_0.jpg" width="3668px" height="6373px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00229.dzi" width="3668px" height="6373px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="A113v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00230.jpg" rend="portrait" width="3668px" height="6373px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00230_files/8/0_0.jpg" width="3668px" height="6373px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00230.dzi" width="3668px" height="6373px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="A114r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00231.jpg" rend="portrait" width="3668px" height="6373px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00231_files/8/0_0.jpg" width="3668px" height="6373px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00231.dzi" width="3668px" height="6373px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="A114v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00232.jpg" rend="portrait" width="3668px" height="6373px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00232_files/8/0_0.jpg" width="3668px" height="6373px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00082-000-00232.dzi" width="3668px" height="6373px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

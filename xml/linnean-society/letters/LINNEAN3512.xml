@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3512">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Richard Pulteney, Blandford, Dorsetshire</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64765/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/MS238/6, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1790-03-22">22 Mar 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Pulteney, Richard">Richard Pulteney</persName>
+                    <placeName>Blandford, Dorset</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Pulteney's book, has already "devoured" a great part of it at Sir Joseph Banks'. Will send his second fasciculus [of "Plantarum icones"], sorry to have been "polemical, but thought a little chastisement of an impertinent fellow would save me future quarrels". Offers to send Gaertner and L'Héritier's latest works. Encloses list of Linnean Society members, 25 were present at their anniversary meeting. [Aylmer Bourke] Lambert likely to make "great discoveries" in Ireland.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

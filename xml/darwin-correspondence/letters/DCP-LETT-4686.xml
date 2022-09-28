@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4686">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Editor of the <hi rend="italic">Natural History Review</hi><ref target="#foot.f1"/>   [December? 1864]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">286A</idno>
+            <date when="2001">2001</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4686 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4686.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4686.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="12">12</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A) incomplete</note>
+            <note type="physdesc" n="LS(A)">2pp inc</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">American Philosophical Society (Mss.B.D25.286a)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_13.xml">APS</repository>
+                    <collection>Mss.B.D25.</collection>
+                    <idno>286a</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>unstated</placeName>
+                <date notBefore="1864-12-01" notAfter="1864-12-31">[Dec? 1864]</date>
+            </correspAction>
+            <correspAction type="received">
+                <orgName>editor of Nat. Hist. Rev.</orgName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Forwards a communication from A. Fonblanque for possible publication in <hi rend="italic">Natural History Review</hi>. [See "Notice of mule breeding", <hi rend="italic">Nat. Hist. Rev.</hi> n.s. 5 (1865): 147–8.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">mule</term>
+                <term type="it" ref="#">Nat. Hist. Rev.</term>
+                <term type="rx" ref="#">Fonblanque, Albany 1865</term>
+                <term type="scientific_terms" ref="#">breeding behaviour</term>
+                <term type="scientific_terms" ref="#">mongrels</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

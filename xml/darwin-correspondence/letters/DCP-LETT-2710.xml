@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2710">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From James Lamont   [23 February 1860]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7950</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2710 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2710.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2710.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">AL incomplete</note>
+            <note type="physdesc" n="AL inc">†</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 47: 150–1</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>47: 150–1</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2792.xml">Lamont, James</persName>
+                <placeName>Knockdow</placeName>
+                <date when="1860-02-23">[23 Feb 1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Believes the British and Norwegian species of red grouse are merely strongly marked varieties of the same species.</p>
+            <p>Writes of the effect of importing a few brace of a wilder breed of grouse into Argyleshire and of their change in territory since 1846.</p>
+            <p>His explanation of game becoming "wilder": he thinks it is due to a difference in their enemies – man replacing hawks leads to flight replacing cowering.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">game</term>
+                <term type="animals" ref="#">grouse</term>
+                <term type="animals" ref="#">grouse, red</term>
+                <term type="animals" ref="#">hawks</term>
+                <term type="places" ref="#">Argyleshire</term>
+                <term type="places" ref="#">Britain</term>
+                <term type="places" ref="#">Norway</term>
+                <term type="scientific_terms" ref="#">behaviour</term>
+                <term type="scientific_terms" ref="#">change</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">historical time</term>
+                <term type="scientific_terms" ref="#">human intervention</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">introduced forms</term>
+                <term type="scientific_terms" ref="#">predators</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00319_files/8/0_0.jpg" width="3708px" height="6025px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00319_files/11/1_1.jpg" width="3708px" height="6025px"/>
+        <surface xml:id="i1" n="150r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00319.jpg" rend="portrait" width="3708px" height="6025px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00319_files/8/0_0.jpg" width="3708px" height="6025px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00319.dzi" width="3708px" height="6025px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="150v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00320.jpg" rend="portrait" width="3708px" height="6025px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00320_files/8/0_0.jpg" width="3708px" height="6025px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00320.dzi" width="3708px" height="6025px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="150ar">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00321.jpg" rend="portrait" width="3708px" height="6025px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00321_files/8/0_0.jpg" width="3708px" height="6025px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00321.dzi" width="3708px" height="6025px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="150av">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00322.jpg" rend="portrait" width="3708px" height="6025px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00322_files/8/0_0.jpg" width="3708px" height="6025px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00322.dzi" width="3708px" height="6025px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="151r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00323.jpg" rend="portrait" width="3708px" height="6025px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00323_files/8/0_0.jpg" width="3708px" height="6025px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00323.dzi" width="3708px" height="6025px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="151v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00324.jpg" rend="portrait" width="3708px" height="6025px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00324_files/8/0_0.jpg" width="3708px" height="6025px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00324.dzi" width="3708px" height="6025px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11108">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To <hi rend="italic">Nature</hi>   15 August [1877]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">15676</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11108 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11108.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11108.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="25">25</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Collected papers</hi> 2: 205</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"><hi rend="italic">Nature</hi>, 23 August 1877, p. 339 </bibl>
+            <bibl type="printedSource"><hi rend="italic">Nature</hi>, 23 August 1877, p. 339 </bibl>
+     
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1877-08-15">15 Aug [1877]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3491.xml">Nature</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD forwards letter from F. J. Cohn [<hi rend="doubleUnderline">11093</hi>] that provides confirmation of observations by Francis Darwin on the contractile filaments protruded from the glands of <hi rend="italic">Dipsacus</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">11093</term>
+                <term type="plants" ref="#">Dipsacus</term>
+                <term type="people" ref="#subject_999">Cohn, F. J.</term>
+                <term type="people" ref="#subject_1222">Darwin, Francis</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

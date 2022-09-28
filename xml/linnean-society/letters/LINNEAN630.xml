@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN630">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rochester, [Kent], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62600/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/56, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Rochester, Kent</placeName>
+                    <date when="1807-01-19">19 Jan 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Regrets the "gross prurience of Linnaeus's mind" as seen in the several genera of 'Testacea' and the "vulgar lasciviousness" of 'Clitoria'. Considers Linnaeus' reasons for choosing the latter name 'Clitoria' and concludes that a literal translation of the first principle of Linnaean botany would "shock female modesty" and it is possible that many virtuous students might not be able to make out the similitude of 'Clitoria'. The name, like 'Chenopodium vulvaria', is "disgusting and horrid". Does not look at [Richard] Salisbury's publications and has not discussed anything with him since he and [Jonas] Dryander contended with his renaming 'Erica', including changing 'Erica tetralix' to 'Erica botuliformis' - sausage-shaped 'Erica'.</p><p>Admires Dawson Turner and asks Smith to thank him for his letter on '[Fucus] discors' and '[Fucus] abrotanifolius', hopes he and Smith will work out the essential difference between the two. [William] Hudson's specimen of '[Fucus] abrotanifolius' in his possession is the same as all the specimens found by Mrs [Ameila Warren] Griffiths [(1768-1858), algologist].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

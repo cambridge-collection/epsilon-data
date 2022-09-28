@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001784">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Edward Sabine, 2 Portland Place to John Murray</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2012">2012</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">1p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/25/3, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/25/3</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date when="1828-08-21">21 August 1828</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA171" key="../nameregs/NA171.xml">John Murray, 4th Duke of Atholl</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

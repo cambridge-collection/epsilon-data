@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5208">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Charles Lyell   8[–9] September [1866]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">319</idno>
+            <date when="2004">2004</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5208 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5208.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5208.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="14">14</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">9pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: 297</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 2: 159</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 14</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">American Philosophical Society (Mss.B.D25.319)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_13.xml">APS</repository>
+                    <collection>Mss.B.D25.</collection>
+                    <idno>319</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1866-09-08" notAfter="1866-09-09">8[–9] Sept [1866]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Disappointed to put off CL’s visit because of illness of CD’s sister [Susan], but hopes to see him in October.</p> 
+<p>Thanks for lending pamphlet [L. Agassiz, <hi rend="italic">Geology of the Amazons</hi>]. Agassiz has written "wild nonsense".</p>  
+<p>Refers to a translation of Pictet and Humbert’s "capital" paper on fossil fish ["Recent researches on the fossil fishes of Mount Lebanon", <hi rend="italic">Ann. &amp; Mag. Nat. Hist.</hi> 3d ser. 18 (1866): 237].</p> 
+            <p>Hooker’s lecture at BAAS Nottingham meeting.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">fishes</term>
+                <term type="health" ref="#">Darwin family</term>
+                <term type="it" ref="#">Ann. &amp; Mag. Nat. Hist.</term>
+                <term type="it" ref="#">Geology of the Amazons</term>
+                <term type="people" ref="#subject_43">Agassiz, J. L. R.</term>
+                <term type="people" ref="#subject_2357">Hooker, J. D.</term>
+                <term type="people" ref="#subject_3787">Pictet de la Rive, F. J.</term>
+                <term type="places" ref="#">Nottingham</term>
+                <term type="rx" ref="#">Humbert, Alois 1866</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">fossils</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">meeting</term>
+                <term type="social" ref="#">visiting</term>
+                <term type="societal" ref="#">BAAS</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

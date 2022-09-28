@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001763">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from John Burdon Sanderson Haldane, University College London, Gower Street, London, to Reginald Crundall Punnett, Bilbrook Lodge, Washford, Somerset</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 2p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/24/8, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/24/8</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6225" key="../nameregs/NA6225.xml">John Burdon Sanderson Haldane</persName>
+               <date when="1949-08-22">22 August 1949</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Reginald Crundall Punnett, Bilbrook Lodge, Washford">Reginald Crundall Punnett, Bilbrook Lodge, Washford</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2479A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Richard Hill   8 August [1859]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20699</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2479A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2479A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2479A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 322–3</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Cundall 1915</bibl>
+            <bibl type="printedSource">Cundall, Frank 1915</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1859-08-08">8 Aug [1859]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2295.xml">Hill, Richard (b)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Compares Jamaican with British and European honey combs.</p>
+            <p>Requests one-half dozen dead bees and 2 or 3 drones from Mr Wilkie’s stock.</p>
+            <p>His admiration for RH’s varied accomplishments and service "in the sacred cause of humanity" [the abolition of slavery].</p>
+            <p>Asks whether it is believed that domestic animals long bred in Jamaica tend to assume a particular colour or character.</p>
+            <p>Are differences observed in the West Indies in the liability of pure Europeans of light complexion and hair to take the yellow fever or other tropical complaints?</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bees</term>
+                <term type="animals" ref="#">drones</term>
+                <term type="human_group" ref="#">Europeans</term>
+                <term type="people" ref="#subject_5133">Wilkie, Robert</term>
+                <term type="places" ref="#">Britain</term>
+                <term type="places" ref="#">Europe</term>
+                <term type="places" ref="#">Jamaica</term>
+                <term type="places" ref="#">West Indies</term>
+                <term type="scientific_terms" ref="#">castes</term>
+                <term type="scientific_terms" ref="#">constant varieties, races</term>
+                <term type="scientific_terms" ref="#">death</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">instructions</term>
+                <term type="scientific_terms" ref="#">nesting and other home-making or web-making behaviour</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">slavery, abolition</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

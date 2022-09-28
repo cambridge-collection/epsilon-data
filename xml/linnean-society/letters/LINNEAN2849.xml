@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2849">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Sibthorp, Oxford, [Oxfordshire], to James Edward Smith, Hammersmith, [Middlesex]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61890/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/40, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Sibthorp, John">John Sibthorp</persName>
+                    <placeName>Oxford, Oxfordshire</placeName>
+                    <date when="1795-10-08">8 Oct 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Hammersmith, Middlesex</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Returned to Oxford "with some affection of the lungs", bathed in tepid bath at Brighton and now nursing himself with asses' milk and gentle horseback exercise, considering a trip to Bristol. Details of journey from Greece: travelled from Zante, leaving [John] Hawkins there, to Otranto with excursion to Nicopolis, from Acona through the Tyrol. Visited [Johann Christian Daniel von] Schreber [(1739-1810)] in Erlang, Germany, who has monograph on 'Carex' ready, will adopt [Samuel] Goodenough's names if he receives a list, also ready with fasiculus of 'Gramina', intends to send Schreber 'Carex strigosa' and 'Carex indica' if Smith has duplicate of latter. Visited [Georg Franz] Hoffmann in Göttingen who has greatly improved the garden and is compiling a pocketbook synopsis on German Cryptogamia.</p><p>Told by [Aylmer Bourke] Lambert of "great treasures brought by [Francis] Masson [(1741-1805), Kew plant collector], [John] White and [Archibald] Menzies". Would like Smith to send "Icones picta" of Jacquin. Grief at death of François Borone, does not believe any of the other servants took any of his belongings. Last heard that Hawkins had gone to visit Ali Pashaw [Ali Pasha of Tepelena (1740-1822) Ottoman Albanian ruler of western part of Rumelia, Ottoman Empire's European territory] in Thessaly, Greece, in good health but "under alarm from robbers".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

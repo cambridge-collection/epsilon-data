@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10258">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Herbert Spencer   13 November 1875</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">8389</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10258 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10258.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10258.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 484b</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">University of London, Senate House Library (MS.791/111)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_244.xml">UL London</repository>
+                    <idno>791/111</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1875-11-13">13 Nov 1875</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4495.xml">Spencer, Herbert</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>CD cannot remember whether he was on the committee of the Jamaica affair [for prosecution of Governor Eyre in 1866] but he subscribed £10.</p>
+            <p>It is curious and amusing how positivists hate all men of science, possibly because their prophet [Comte] made laughable and gigantic blunders in predicting the course of science.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, miscellaneous</term>
+                <term type="people" ref="#subject_1035">Comte, I. A. M. F. X.</term>
+                <term type="people" ref="#">men of science</term>
+                <term type="people" ref="#">positivists</term>
+                <term type="places" ref="#">Jamaica</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">committee</term>
+                <term type="societal" ref="#">Eyre affair</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-853">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From C. G. Ehrenberg    8 April 1845<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1898</idno>
+            <date when="1988">1988</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-853 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-853.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-853.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="03">3</biblScope>
+        </seriesStmt>
+            <notesStmt>
+            <note type="physdesc" n="ALS">6pp (German)</note>
+                <relatedItem type="publication">
+                    <bibl><hi rend="italic">Correspondence</hi> 3: 171–4</bibl>
+            </relatedItem>
+            </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 39: 60–1b</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>39: 60–61b</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_278.xml">Murray Archive</repository>
+                    <idno>Ms.42152 ff.8-9</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1480.xml">Ehrenberg, C. G.</persName>
+                <placeName>Berlin</placeName>
+                <date when="1845-04-08">8 Apr 1845</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Discusses table of Atlantic dust samples. Thinks dust came from South America.</p>
+            <p>Discusses Patagonian tuff samples.</p>
+            <p>Answers CD’s query about material from Pampas. Believes deposit made in brackish water.</p> 
+<p>Criticises account of Atlantic dust in F. J. F. Meyen [<hi rend="italic">Reise um die Erde</hi> (1834–5)].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">dust</term>
+                <term type="geology" ref="#">tuff</term>
+                <term type="it" ref="#">Reise um die Erde</term>
+                <term type="places" ref="#">America, South</term>
+                <term type="places" ref="#">Atlantic</term>
+                <term type="places" ref="#">Pampas</term>
+                <term type="places" ref="#">Patagonia</term>
+                <term type="rx" ref="#">Meyen, F. J. F. 1834–1835</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">soil and other substrates</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

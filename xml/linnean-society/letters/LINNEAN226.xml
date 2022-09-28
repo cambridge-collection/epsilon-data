@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN226">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to Alexander Macleay, Queen Square, Westminster</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64682/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/179, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1825-03-13">13 Mar 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>Westminster</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Confesses he is "not a man of compliments", but Macleay's "wide removal, as it were, to another world [...] seems to excuse &amp; indeed require an opening of heart between us"; pays tribute to their 31-year friendship; urges Macleay to look out for his health, citing recent death of "a most invaluable" nephew of his in India. Hopes to be in London in time to see Macleay, will be giving his first lecture at the London Institution on 2 May [1825], and until then engaged with finishing third volume of his "English Flora".</p><p>Recommended David Don [(1799-1841), botanist] to [George] Hibbert [for curator of Jamaica botanic garden]. Will be happy to see [James] Bicheno as new Linnean Society Secretary, though would have been equally pleased with [Edward] Barnard. Delighted with Macleay's son's "most excell[en]t &amp; learned papers".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

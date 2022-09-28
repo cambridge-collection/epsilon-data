@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1602">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Edinburgh, to James Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63547/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/28, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1782-12-31">31 Dec 1782/2 Jan 1783</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for parcel and letters from his father, mother, Frank [Smith's brother], and Sally. Responds to his father's letter of 28 November [1782]; defends Mr Cooper. Reassures his father he shall never disrespect any advice given. Offers to acquire fossil collection for Dr Manning. Oats scarce in Scotland, collections are being made for the poor. Just received his father's letter of 26 December [1782]. Their Natural History Society going on well; they are to have 4 annual presidents, hopes to be one of them; just submitted a paper on the "Phenomena of Vegetable Odours"; often speaks in the Medical Society. He has won Dr [John] Hope's medal [for best Scottish herbarium]; he was the only one to enter but complimented on the collection, which was larger than that of Dr Parsons', the last successful one. Congratules Richard, [Smith's brother], on the prizes he has won, and admires his drawings. Just attended funeral of son of Dr Reid of Glasgow; grief of the family; peculiar death, which came on at crisis of unsevere fever, from Tympanites.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

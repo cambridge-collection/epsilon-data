@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1478A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Japetus Steenstrup    8 April 1852</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20687</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1478A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1478A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1478A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Draft</note>
+            <note type="physdesc" n="Draft">4pp (translated from Danish draft)</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 487–9</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Det Kongelige Bibliotek, Copenhagen</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_209.xml">KB Kjobenhavn</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4541.xml">Steenstrup, Japetus</persName>
+                <placeName>Copenhagen</placeName>
+                <date when="1852-04-08">8 Apr 1852</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>His difficulties in answering CD’s letter of 3 Jan [1852] [see <hi rend="doubleUnderline">1469</hi>]. There is no <hi rend="italic">Lepas mitra</hi> in the Lorenz Spengler collection. He undertakes to compare the specimens of <hi rend="italic">Balanus</hi> sent by CD with those of Spengler.</p>  
+<p>He thanks CD for his book [<hi rend="italic">Fossil Cirripedia</hi> (1851)].</p> 
+            <p>His work with Professor Forchhammer and Mr Worsaae.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">1469</term>
+                <term type="date" ref="#">1852.01.03</term>
+                <term type="it" ref="#">Fossil Cirripedia</term>
+                <term type="people" ref="#subject_1682">Forchhammer, J. G.</term>
+                <term type="people" ref="#subject_5245">Worsaae, J. J.</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2938">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Leonard Knapp, Llanfoist, Abergavenny, [Monmouthshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61987/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/12, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Knapp, John Leonard">John Leonard Knapp</persName>
+                    <placeName>Llanfoist, Abergavenny, Monmouthshire</placeName>
+                    <date when="1809-07-30">30 Jul [1809]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Relates his fruitless efforts to obtain [William] Sole's copy of "Menthae Britannicae" annotated with observations and censures on "Flora Britannica" caused by Smith's classification of 'Mentha' in "Flora Britannica". Describes arrangement and presentation of [Thomas] Velley's "Phaenogamous" and marine plant collections, herbarium and remainder of his botanical collections, the whole being offered to Linnean Society for 150 guineas by his widow, requests repsonse. Offers his drawings and descriptions of fungi of his region should Smith decide to augment "Flora Britannica" with this class. Encloses specimen [extant] of a 'Byssus' collected from an abandoned coal mine in Crickhowel, Brecon, Wales.</p><p>Specimen of 'Byssus'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

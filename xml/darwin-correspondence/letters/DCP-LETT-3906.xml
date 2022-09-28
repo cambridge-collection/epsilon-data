@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3906">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Thomas Rivers   7 January [1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3951</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3906 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3906.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3906.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 306</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 275</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 11: 24</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 185: 81</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>185: 81</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1863-01-07">7 Jan [1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4019.xml">Rivers, Thomas</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks for parcel of shoots with several interesting cases of "bud-variation".</p>
+            <p>Asks for information about roses.</p>
+            <p>Strange that great changes in peaches are less rare than slight ones and no case seems recorded of new apples or pears or apricots by "bud-variation". "How ignorant we are!"</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">apples</term>
+                <term type="plants" ref="#">apricots</term>
+                <term type="plants" ref="#">peaches</term>
+                <term type="plants" ref="#">pears</term>
+                <term type="plants" ref="#">roses</term>
+                <term type="scientific_terms" ref="#">exclamations</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">sports</term>
+                <term type="scientific_terms" ref="#">variation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00357_files/8/0_0.jpg" width="3575px" height="6398px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00357_files/11/1_1.jpg" width="3575px" height="6398px"/>
+        <surface xml:id="i1" n="81.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00357.jpg" rend="portrait" width="3575px" height="6398px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00357_files/8/0_0.jpg" width="3575px" height="6398px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00357.dzi" width="3575px" height="6398px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="81.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00358.jpg" rend="portrait" width="3503px" height="6491px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00358_files/8/0_0.jpg" width="3503px" height="6491px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00358.dzi" width="3503px" height="6491px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="81.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00359.jpg" rend="portrait" width="3503px" height="6491px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00359_files/8/0_0.jpg" width="3503px" height="6491px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00359.dzi" width="3503px" height="6491px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="81.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00360.jpg" rend="portrait" width="3503px" height="6491px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00360_files/8/0_0.jpg" width="3503px" height="6491px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00360.dzi" width="3503px" height="6491px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="81.3r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00361.jpg" rend="portrait" width="3503px" height="6491px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00361_files/8/0_0.jpg" width="3503px" height="6491px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00361.dzi" width="3503px" height="6491px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="81.3v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00362.jpg" rend="portrait" width="3503px" height="6491px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00362_files/8/0_0.jpg" width="3503px" height="6491px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00362.dzi" width="3503px" height="6491px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

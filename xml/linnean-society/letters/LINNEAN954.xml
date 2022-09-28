@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN954">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Edmund Davall, Orbe, Canton de Berne, [Switzerland]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62889/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/5, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1789-04-24">24 Apr 1789</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Letter is written around two botanical plates.</p><p>[Jacques] Dorthes of Montpellier, [France], an excellent correspondent for Davall. Proposing [Dominique] Villars a FMLS on strength of his book and has initiated correspondence. [Jean Louis Antoine] Reynier's [(1762-1824), botanist] "impertinent" to think Davall should write a continuation of his "silly Memoirs". Requests specimen of 'Carex tomentosa'. Discusses observations on 'Chenopodium polyspermum' in Davall's last letter, thinks a discovery has been made. Requests specimen of Leers' 'Hypericum dubium' to compare against his '[Hypericum] perfoliatum'.</p><p>The King [George III (1738-1820)] went "in great state" to St Paul's cathedral yesterday to give thanks for his recovery. Kew catalogue nearly complete, as is his own "[Plantarum] Icones" and "Rudbeck[ianae]". Beginning short course of botanical lectures on 5th May; [William] Curtis now too rich to lecture. Has fruits of Sir Joseph Banks to send [Jacob] Wyttenbach. Davall's 'Draba saxatilis' should be called 'Draba stellata' as published by [Nikolaus] Jacquin in "Enumeratio" pp.113 and 256. Lord Gainsborough [Henry Noel] elected Honorary Member at Linnean Society anniversary meeting. Swiss plants much esteemed in England; Forsyth has lately brought over a large collection. [Jonas] Dryander has ensured a 'Smithia sensitivia' will be in Kew catalogue. L'Heritier has acted "shabbily" by dating his monograph on 'Columniferae' 1785 so as to appear as though written before [Antonio José] Cavanille's book on same, they are having a dispute in "Journal de Paris"; Dryander openly attacks L'Heritier as "one of the most sneaking unprincipled of men".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

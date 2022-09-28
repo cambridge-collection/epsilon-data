@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Herschel7043">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Augustus De Morgan   [7 January 1856]</title>
+                <respStmt xml:id="calendarPrint">
+                    <resp>Record created for the <hi rend="italic">Calendar of the Correspondence of Sir John Herschel</hi> (CUP: Cambridge), 1998 by</resp>
+                    <name>Michael J. Crowe ed., David R. Dyck and James J. Kevin assoc. eds</name>
+                </respStmt>
+                <respStmt xml:id="calendarOnline">
+                    <resp>Digital record created by</resp>
+                    <name>Dr Marvin Bolt and Steven Lucy at the Webster Institute of the Adler Planetarium</name>
+                </respStmt>
+                <respStmt xml:id="convertedToTEI">
+                    <resp>Converted to TEI by</resp>
+                    <name>Michael Hawkins, Epsilon Project, Cambridge University Library</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>John Herschel Project</authority>
+                <availability status="restricted">
+                    <p>Michael J. Crowe (editor), David R. Dyck and James J. Kevin (associate editors), Calendar of the Correspondence of Sir John Herschel (Cambridge, England: Cambridge Univ. Press, 1998), viii + 828 pp. Converted into web usable data in May 2009 by Dr. Marvin Bolt and Steven Lucy, working at the Webster Institute of the Adler Planetarium.</p>
+                </availability>
+                <date when="2018-07-23">23 July 2018</date>
+            </publicationStmt>
+            <notesStmt><note type="physdesc">ALS 8pp</note></notesStmt>
+            <sourceDesc>
+                <bibl type="provenance">RS:HS 6.280</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="De Morgan, Augustus">Augustus De Morgan</persName>
+                    <placeName>7 Camden St.</placeName>
+                    <date when="1856-01-07">[7 January 1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Herschel, Sir John">Sir John Herschel</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Wishing him well for the new year. Hears JH has visited the East India College. Sends a theorem. H. P. Brougham (Baron Brougham and Vaux) amuses himself by finding the laws of central force for curves. Has been finding information on a nephew of Isaac Newton. George Stanhope (6th Earl of Chesterfield) and T. A. W. Parker (9th Earl of Macclesfield) were pupils of Abraham De Moivre.</p> 
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

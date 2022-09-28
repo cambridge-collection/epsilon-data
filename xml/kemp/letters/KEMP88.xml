@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KEMP88">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Robert Chambers to William Kemp   29 September 1848</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="William Kemp">The William Kemp Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Ruth Cramond</authority>
+                <date when="2021-09-21">2021</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">Cambridge University Library (MS Add. 10252/68)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>            
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_875.xml">Chambers, Robert</persName>
+                    
+                    <date when="1848-09-29">29 Sept 1848</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_2657.xml">Kemp, William</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>RC’s rebuttal of claims that he had passed over WK’s part in the researches (<hi rend="italic">Athenaeum</hi>, 23 September 1848, pp. 958–9).</p>
+            </abstract> 
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

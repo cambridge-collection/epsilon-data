@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10436">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To F. J. Cohn   31 March [1876]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">13163</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10436 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10436.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10436.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 143: 264</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Stuart Opotowsky (private collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_307.xml">Opotowsky, Stuart</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1876-03-31">31 Mar [1876]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_999.xml">Cohn, F. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks FJC for paper by Alexander Fraustadt ["Vegetative Organe von <hi rend="italic">Dionaea</hi>", <hi rend="italic">Ell. Beitr. Biol. Pfl.</hi> 2 (1877): 27–64].</p>  
+<p>Mentions paper by A. W. Bennett ["Glands of carnivorous plants", <hi rend="italic">Mon. Microsc. J.</hi> 15 (1876): 1–5].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">carnivorous plants</term>
+                <term type="it" ref="#">Dionaea</term>
+                <term type="it" ref="#">Ell. Beitr. Biol. Pfl.</term>
+                <term type="it" ref="#">Mon. Microsc. J.</term>
+                <term type="rx" ref="#">Bennett, A. W. 1876</term>
+                <term type="rx" ref="#">Fraustadt, Alexander 1877</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">food</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">predators</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

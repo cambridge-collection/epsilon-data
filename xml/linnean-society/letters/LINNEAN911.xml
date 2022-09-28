@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN911">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall, Orbe, [Switzerland], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62894/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/10, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                    <date when="1789-10-27">27 Oct 1789</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>FMLS diplomas sent by Smith arrived safely. His affection for Smith. Has a parcel of plants for [Samuel] Goodenough. Had a cabinet made up to same specifications as Smith's. Has drawing of 'Micropus erectus' but no conveyance for sending; easier to send from Jamaica than Switzerland. The engraving he had made of 'Crepis' no longer correct having read [Werner de] Lachenal's [(1736-1800), professor of botany at Basel] "Observationes botanica medicae" (1776) and realised a mistake made by [Albrecht von] Haller; consulted Lachenal's plants in person in Basel. Possible specimen of 'Lichen cucullatus' to send Smith, as well as 'Aretia alpina', 'Achilla moschata', 'Laserpitium simplex', and the 'Gentiana' 652 Hall[er's] "Hist[oria stirpum]", suggests the name 'Gentiana pedunculata', the same as "Flora Danica" tab 318 [extant]. Now has more specimens of 'Turritis carulea'. Only satisfied with Smith's botanical figures after seeing his "Plantarum Icones"; remarks on 'Stellaria dichotoma'. Haller's no.890 without doubt 'Stellaria cerastoides'.</p><p>On left-hand margin of recto of first folio Davall has written that he thinks [James] Sowerby's figure for 'Spartium decumbens' "excellent", though there are errors with the vexillum.</p><p>Specimen, labelled 'Swertia carinthiaca'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

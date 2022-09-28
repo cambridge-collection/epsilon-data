@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-921">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. S. Henslow   28 October [1845]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1075</idno>
+            <date when="1988">1988</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-921 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-921.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-921.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="03">3</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Darwin and Henslow</hi>: 156</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 3: 259</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Smithsonian Libraries and Archives (Dibner Library of the History of Science and Technology MSS 405 A. Gift of the Burndy Library)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_393.xml">Smithsonian</repository>
+                    <collection>Dibner</collection>
+                    <idno>MSS 405 A Burndy</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1845-10-28">28 Oct [1845]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2235.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Comments on potato disease and its effects on the poor.</p>
+            <p>Describes visit to his Lincolnshire farm,</p>
+            <p>to York where he discussed hybrids with the Dean of Manchester [William Herbert],</p>
+            <p>his meeting with Charles Waterton, and his delight with Chatsworth.</p>
+            <p>Disappointed at Hooker’s failure to receive the Edinburgh chair; believes JDH will make a great botanist.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">potato</term>
+                <term type="people" ref="#">Dean of Manchester</term>
+                <term type="people" ref="#subject_2250">Herbert, William</term>
+                <term type="people" ref="#subject_2357">Hooker, J. D.</term>
+                <term type="people" ref="#">poor people</term>
+                <term type="people" ref="#subject_4973">Waterton, Charles</term>
+                <term type="places" ref="#">Lincolnshire farm</term>
+                <term type="places" ref="#">York</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">hybrids</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">meeting</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="social" ref="#">visiting</term>
+                <term type="societal" ref="#">professorship at Edinburgh</term>
+                <term type="societal" ref="#">visiting</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

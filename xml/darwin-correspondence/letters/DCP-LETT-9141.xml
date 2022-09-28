@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9141">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From W. D. Crotch   14 November 1873</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9799</idno>
+            <date when="2014">2014</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9141 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9141.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9141.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="21">21</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">AL incomplete</note>
+            <note type="physdesc" n="AL">inc</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 88: 127–8</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>88: 127–9</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1139.xml">Crotch, W. D.</persName>
+                <placeName>Richmond, Surrey</placeName>
+                <date when="1873-11-14">14 Nov 1873</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends information on shedding of reindeer horns in males and females.</p>
+            <p>Lemmings.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">lemmings</term>
+                <term type="animals" ref="#">reindeer</term>
+                <term type="scientific_terms" ref="#">change</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">seasons</term>
+                <term type="scientific_terms" ref="#">sex</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00278_files/8/0_0.jpg" width="3378px" height="5737px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00278_files/11/1_1.jpg" width="3378px" height="5737px"/>
+        <surface xml:id="i1" n="127r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00278.jpg" rend="portrait" width="3378px" height="5737px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00278_files/8/0_0.jpg" width="3378px" height="5737px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00278.dzi" width="3378px" height="5737px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="127v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00279.jpg" rend="portrait" width="3378px" height="5737px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00279_files/8/0_0.jpg" width="3378px" height="5737px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00279.dzi" width="3378px" height="5737px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="128r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00280.jpg" rend="portrait" width="3378px" height="5737px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00280_files/8/0_0.jpg" width="3378px" height="5737px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00280.dzi" width="3378px" height="5737px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="128v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00281.jpg" rend="portrait" width="3378px" height="5737px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00281_files/8/0_0.jpg" width="3378px" height="5737px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00281.dzi" width="3378px" height="5737px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="129r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00282.jpg" rend="landscape" width="5002px" height="4165px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00282_files/8/0_0.jpg" width="5002px" height="4165px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00282.dzi" width="5002px" height="4165px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="129v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00283.jpg" rend="landscape" width="5002px" height="4165px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00283_files/8/0_0.jpg" width="5002px" height="4165px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00283.dzi" width="5002px" height="4165px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

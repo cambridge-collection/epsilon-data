@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10187">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. F. Cooke   8 October 1875</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9643</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10187 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10187.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10187.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 171: 471</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>171: 471</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent" subtype="personGrp">
+                <persName key="../nameregs/nameregs_1053.xml">Cooke, R. F.</persName>
+                <persName key="../nameregs/nameregs_2575.xml">John Murray, Publishers</persName>
+                <placeName>London, Albemarle St, 50a</placeName>
+                <date when="1875-10-08">8 Oct 1875</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Canestrini still owes £10 from 1869 for electros of 1st edition [of <hi rend="italic">Variation</hi>].</p>  
+<p>RC has urged Clowes on with printing of <hi rend="italic">Variation</hi> [2d ed.],</p>  
+<p>but with <hi rend="italic">Climbing plants</hi> [2d ed.] ready, it need not be done before the annual sale.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="it" ref="#">Climbing plants</term>
+                <term type="it" ref="#">Variation</term>
+                <term type="people" ref="#subject_815">Canestrini, Giovanni</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Clowes</term>
+                <term type="societal" ref="#">John Murray, Publishers</term>
+                <term type="societal" ref="#">Murray’s annual sale</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

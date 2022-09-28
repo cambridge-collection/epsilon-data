@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1232">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Thompson   [1 March 1849]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14950</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1232 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1232.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1232.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">5pp &amp; CC 1p inc</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 148: 72</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Ross (1979): 365</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 4: 221</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Trinity College Library, Cambridge (Add.L.b.1: 24)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_422.xml">Trinity Cambridge</repository>
+                    <idno>Add L.b.1: 24</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_427.xml">Ulster</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1849-03-01">[1 Mar 1849]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4727.xml">Thompson, William (a)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Encloses diagram illustrating difference between <hi rend="italic">Chthamalus</hi> and <hi rend="italic">Balanus</hi>. Specimens sent. Finds no <hi rend="italic">Chthamalus</hi> in WT’s collection.</p>  
+<p>Has read with much interest WT’s book [<hi rend="italic">The natural history of Ireland</hi>, vol. 1 (1849)].</p>  
+<p>Recommends E. S. Dixon’s book [<hi rend="italic">Ornamental and domestic poultry; their history and management</hi> (1848)].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Chthamalus</term>
+                <term type="it" ref="#">Ornamental and domestic poultry; their history and management</term>
+                <term type="it" ref="#">The natural history of Ireland</term>
+                <term type="rx" ref="#">Dixon, E. S. 1848</term>
+                <term type="rx" ref="#">Thompson, William (a) 1849–1856</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

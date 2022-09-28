@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN523">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Casper von Voght, Flotbeck, [near Hamburg], to James Edward Smith, Surrey Street, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62488/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/58, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Voght, Casper von">Casper von Voght</persName>
+                    <placeName>Hamburg</placeName>
+                    <date when="1797-05-23">23 May 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks Smith for the present of rare plants. Concerned with the economic aspects of botany rather than scientific: attempting to find new plants for cultivation and improve yields and quality of plants already cultivated. Planning a series of experiments with Mr Schmeisser to verify the causes of the fertility of particular grounds for particular plants. Has made a herbarium pictum in the style of Lord Bute's [John Stuart, 1st Marquess of Bute (1744-1814)].</p><p>Success of his work with the poor of Hamburg, who now number less than 2500, subsequently asked to assist with establishment of similar instituions in Bern and Copenhagen. Account of his 500 acre model agricultural estate [at Flotbeck], he teaches his neighbours more efficient farming practices. Congratulates Smith on his marriage. Asks after progress of Smith's ["Botany of New Holland"] and "Flora Britannica". Will attempt to send Smith 'Lepidoptera' specimens from the Dutch colonies. Sympathises with Mr Patterson's loss, no longer needs the plough and other implements requested of him several months ago. Death of Dr Giesck. It is now fashionable for German botanists to study Cryptogamy. Thanks Smith for offer of a collection of English provincial half-pennys. Mr Schmeisser and Mr Wattenbach ask to remembered to Smith.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

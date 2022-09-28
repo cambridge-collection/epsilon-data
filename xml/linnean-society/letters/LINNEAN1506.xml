@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1506">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Thomas Jenkinson Woodward, Bungay, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63452/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/65, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1793-01-09">9 Jan 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Spent Christmas at Sir Alexander Hume's in Hertfordshire. Hopes to have his usual annual party of [Samuel] Goodenough, [Thomas] Marsham, and [Jonas] Dryander to his house next week, with Woodward's turkey acting as his ambassador; comments on turkeys being introduced from America to south of France by Jesuits. Asks for the Woodwards assistance in finding the tale in verse of the City mouse &amp; country mouse" [note pasted to reverse of letter, in Smith's hand, with reference to Alexander Pope and Jonathan Swift]. He is "well pleased" with his royal pupils, who are "very diligent &amp; apt"; returning after 4 June. Currently engaged in zoological lectures in London, has 16 subscribers, including Lord Stormont. Work on his "Tour" proceeded well at Frogmore.</p><p>Comments on 'Woodwardia'; on good grounds. Plans to figure 'Fucus abrotanifolius' in his uncoloured work. Error by [James] Sowerby in his figure of 'Cardamine impatiens' in "English botany". Praises beauty of [Edward] Donovan's [(1768-1837), natural historian] insect plates but the letterpress is "not scientific"; he is an "Irish compiling sort of adventurer in literature", previously published a "very bad" sixpenny botanical magazine. [Samuel] Goodenough still thinks the 'Fucus' Woodward mentioned is 'F. palmetta' of Gmelin.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

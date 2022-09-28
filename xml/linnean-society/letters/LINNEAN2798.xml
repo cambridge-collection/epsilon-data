@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2798">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Jones, London, to James Edward Smith, chez Mons Broussonet, 57 Rue des blancs, Manteaux, Paris, [France]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61956/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/106, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Jones, William">William Jones</persName>
+                    <placeName>London</placeName>
+                    <date when="1787-08-01">Aug 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Paris, France</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Long rhapsody on Smith's friendship and difficulties of finding true friends. [Thomas] Marsham miffed that Smith wrote to Jones unpressed but not to Marsham or [Samuel] Goodenough who solicited "anxiously". Critiques the clergy, including [Samuel] Goodenough for being, "friends to persecution and [...] not [allowing] a liberty of conscience". Fears Goodenough and Marsham will "banish [Jones] to Coventry" if he does not unite in the [Linnean] Society, hopes to mollify them by offering a collection of 'Lepidoptera' he is gathering to Goodenough, and giving Marsham scientific information for his book ["Entomologia Britannica"]. [Johan Christian] Fabricius in London and correcting his [Jones'] drawings but will be gone by time Smith returns. Has heard nothing of [William] Younge.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

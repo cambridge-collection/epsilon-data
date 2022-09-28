@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN563">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Williams, Oxford, [Oxfordshire], to James Edward Smith, 3 Renshaw Street, Liverpool, [Lancashire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62524/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/94, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Williams, George">George Williams</persName>
+                    <placeName>Oxford, Oxfordshire</placeName>
+                    <date when="1803-08-07">7 Aug [1803]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>After spending a few days in Liverpool is confident that natural history will receive adequate encouragement there and that the provision for botany is already "sufficiently splendid". Believes that the establishment of the Botanic Garden will provide for more than just cultivation and botanical arrangement. Remarks on Liverpool's advantages, especially its location for "obtaining the productions of the West".</p><p>He is anxious for specimens of seeds, seed vessels and woods, and all vegetable curiosities of foreign growth to form a collection to illustrate "the natural growth &amp; philosophical character &amp; useful application in the arts of different plants". Pleased to hear that "Flora Graeca" has gone to the printers, and although disappointed Smith did not go with Collingswood for the publication is sure that Taylor will serve him well. His electioneering temporarily suspended on account of summer holiday. Recommends Mr Hudson, an Oxford academic. A painting apparently to be sold.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

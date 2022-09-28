@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN794">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum, Bury [St Edmunds, Suffolk], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62866/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/102, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                    <date when="1826-10-01">1 Oct 1826</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends Smith copy of newspaper [not extant] reporting the incident involving "an unworthy member" of the Linnean Society [Richard Salisbury]. His son and family leaving for London and then Paris for winter for Mrs Cullum's health, against his recommendation of Bath, [Somerset]. Lady Cullum still suffering from an intermittent fever. Visited by Revd Dr Thomas Frognall Dibdin [(1776-1847)], author of "Bibliomania", "Decameron", and others, he is now working on a life of Thomas à Kempis [(c 1380-1471)]. Glad to hear of Mr Freeman, a young botanist, but laments to hear of so many persons being shot by "spring guns" placed in woods a botanist should not enter. Received specimen of 'Centaurea solstitialis' from Dr [William] Webb growing near St Edmund's Hill, Bury.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

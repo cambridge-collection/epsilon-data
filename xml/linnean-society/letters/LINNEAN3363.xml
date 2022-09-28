@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3363">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Olof Swartz, Stockholm, [Sweden], to James Edward Smith, Norwich, Norfolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62421/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/9/94, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Swartz, Olof Peter">Olof Peter Swartz</persName>
+                    <placeName>Stockholm, Sweden</placeName>
+                    <date when="1802-09-10">10 Sep 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Hopes Smith soon recovers from his illness, relates his own "sundry pulmonary attacks". Went to Öland island in the summer, amongst the peculiar plants growing there is 'Cistus oelandicus', however the season was too late for scarcer plants such as 'Orchidea', and the rain so continual that little could be done, but obtained some good cryptogamic plants. Also found 'Carex obtusata', sends Smith a specimen of it, it is close to 'Carex pulicaris'. Expects [Georg] Wahlenberg back from the northern regions [an expedition to Lapland], part of his "Carciographia" has been printed in transactions of [Swedish] Academy [of Sciences]. Hopes printing of [Erik] Acharius' "Lichenographia" ["Methodus lichenum"?] will begin soon. Asks if Smith has seen his paper on 'filices' in [Heinrich Adolph] Schrader's "Journal of Botany".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1637">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Syms Covington   28 February 1855</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">5390</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1637 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1637.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1637.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <relatedItem type="publication">
+                <bibl>Ferguson (1971): 12</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 5: 264</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"><hi rend="italic">Sydney Mail</hi>, 9 August 1884, pp. 254–5</bibl>
+            <bibl type="printedSource">De Beer, Gavin 1959b: 22</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1855-02-28">28 Feb 1855</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1096.xml">Covington, Syms</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Pleased to hear that SC is prospering.</p>
+            <p>News of FitzRoy, Sulivan and J. L. Stokes.</p>
+            <p>The Crimean War is badly mismanaged, but Englishmen are behaving nobly.</p>
+            <p>Wishes he knew what to do with his boys.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="human_group" ref="#">Englishmen</term>
+                <term type="people" ref="#subject_1730">Darwin boys</term>
+                <term type="people" ref="#subject_1650">FitzRoy, Robert</term>
+                <term type="people" ref="#subject_4574">Stokes, J. L.</term>
+                <term type="people" ref="#subject_4614">Sulivan, B. J.</term>
+                <term type="social" ref="#">Darwin family</term>
+                <term type="social" ref="#">news</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Crimean War</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

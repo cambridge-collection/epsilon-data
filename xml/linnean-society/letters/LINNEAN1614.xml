@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1614">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Paris, [France], to Mrs [Pitchford]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63558/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/39, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Paris, France</placeName>
+                    <date when="1786-10-06">6 Oct 1786</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Mrs Pitchford">Mrs Pitchford</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Responds to Mrs P's letter. Religion "seems to sit very easy upon every body here"; disinclined to judge other people's conduct on the subject, less charity for those who have "scarcely any true principles of religion [and] in private affect to despise all those who have more principle or diffidence". His hatred of Abbés, though knows some exceptions, shocked that people entrust the education of their children to them, when their celibacy means these men cannot be anything but dissolute.</p><p>General dislike of the ladies of Paris and their painted faces; expects to fall in love with the first English woman he meets on landing, actually felt himself in danger from an English woman he saw in Paris. Nuns who visit the sick make up for the Abbés. Enquired after medical education abroad but not impressed with French system.</p><p>To Mr [Pitchford]: looking over Tournefort's herbarium, has already described 50 new species of oriental plants from it.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

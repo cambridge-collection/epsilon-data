@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2765">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Oswald Heer?<ref target="#foot.f1"/>   20 April [1861?]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">13954</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2765 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2765.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2765.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 221.5: 13 photocopy</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Catherine Barnes (dealer) (2002)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_592.xml">Barnes, Catherine (dealer)</repository>
+                    <idno>2002</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1861-04-20">20 Apr [1861?]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2199.xml">Heer, Oswald</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks for correspondent’s <hi rend="italic">Untersuchungen</hi> [? <hi rend="italic">Über das Klima und die Vegetationsverhältnisse des Tertiärlandes</hi> (1860)]. CD has always considered subject interesting and important.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Uber das Klima und die Vegetationsverhaltnisse des Tertiarlandes</term>
+                <term type="it" ref="#">Untersuchungen</term>
+                <term type="rx" ref="#">Heer, Oswald 1860</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

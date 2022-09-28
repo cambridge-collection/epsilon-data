@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3430">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Botanic Garden, Edinburgh, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64860/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/65, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1804-01-21">21 Jan 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Observations on what he thinks is 'Hypnum ruscifolium'. Would like Smith to take another look at an 'Eriophorum' previously sent, which he is sure is 'E. angustifolium'.</p><p>Numbered observations on enclosed specimens, largely collected in summer of 1802: 1. a nondescript 'Phascum', proposes name 'P. inundatum' or 'P. purpureum' [Smith annotation: "'Ph. stoloniferum'"]; 2. 'Orthotrichum bipartium'; 3. 'Fissidens polycarpus' [Smith annotation: "D. 'polycarpum'"]; 4. 'Dicranium flagillaris' [Smith annotation: "'D. furescens'"]; 5. a 'Bryum' near 'B. pulvinatum' but distinct; 6. probably a variety of no.4; 7. a 'Bryum'; 8. what he now thinks a 'Grimmia', previously 'B. acutum' Linnaeus; 9. possible variety of 'B. acutum'; 10. 'Bryum patens'; 11. variety of 'B. patens'; 12. variety of 'B. patens'; 13. 'Bryum sericeum' or 'B. elongatum'; 14-16. 'Bryum'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

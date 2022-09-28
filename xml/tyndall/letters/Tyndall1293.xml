@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Tyndall1293">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Auguste de la Rive   le 7 novembre 1856</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Tyndall Project</authority>
+                <date when="2017-10-02">2 October 2017</date>
+            </publicationStmt>
+            <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of John Tyndall</hi>, vol. 6 (2019)</ab>
+            <ab type="url">https://upittpress.org/books/9780822945338/</ab>
+        </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">MS JT/1/TYP/1/340-2, RI</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="de la Rive, Auguste">Auguste de la Rive</persName>
+                    <placeName>Venise</placeName>
+                    <date when="1856-11-07">le 7 novembre 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Tyndall, John">John Tyndall</persName>
+                    
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

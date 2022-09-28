@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5660">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Alfred Wrigley   [September 1867]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9863</idno>
+            <date when="2006">2006</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5660 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5660.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5660.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="15">15</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">ADraftS</note>
+            <note type="physdesc">ADraftS 2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 96: 31</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>96: 31</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>unstated</placeName>
+                <date notBefore="1867-09-01" notAfter="1867-09-30">[Sept 1867]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5263.xml">Wrigley, Alfred</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>CD wishes his son Leonard to try for University this winter and intends sending Horace to a private tutor.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1230">Darwin, Leonard</term>
+                <term type="social" ref="#">Darwin family</term>
+                <term type="societal" ref="#">university generally</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00066_files/8/0_0.jpg" width="4566px" height="6383px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00066_files/11/1_1.jpg" width="4566px" height="6383px"/>
+        <surface n="31r" xml:id="i66">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00066.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00066_files/8/0_0.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00066.dzi" width="4566px" height="6383px"/>
+        </surface>
+        <surface n="31v" xml:id="i67">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00067.jpg" width="4453px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00067_files/8/0_0.jpg" width="4453px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00067.dzi" width="4453px" height="6383px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

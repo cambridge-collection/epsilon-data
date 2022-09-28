@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11368">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Fritz Müller   20 February 1878</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2661A</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11368 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11368.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11368.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy incomplete<ref target="#foot.f8"/></note>
+            <note type="physdesc" n="C">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Oxford University Museum of Natural History (Hope Entomological Collections 1350: Hope/Westwood Archive, Darwin folder)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_312.xml">Oxford Hope</repository>
+                    <collection>Entomological Collections 1350:</collection>
+                    <idno>Hope/Westwood, Darwin folder</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3070.xml">Müller, J. F. T.</persName>
+                <placeName>Santa Catharina</placeName>
+                <date when="1878-02-20">20 Feb 1878</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Reports butterfly species that apparently mimic each other and gives details of some odoriferous species.</p> 
+<p>[Letter copied in Raphael Meldola’s hand from original sent to Meldola with <hi rend="doubleUnderline">11449</hi>.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">11449</term>
+                <term type="animals" ref="#">butterfly</term>
+                <term type="people" ref="#subject_3289">Meldola, Raphael</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">mimicry</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

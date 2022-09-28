@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5787">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   15 January 1868</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7970</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5787 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5787.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5787.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 47: 193, 195</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>47: 193, 195</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1868-01-15">15 Jan 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends a pamphlet by W. R. Greg [<hi rend="italic">Malthus: re-examined by the light of physiology</hi> (1868)].</p> 
+            <p>Many Cucurbitaceae have smaller male than female flowers.</p>
+            <p>Has written to H. C. Watson on the counterbalance [to variation] of crossing and uniform conditions. Watson has forgotten the argument.</p> 
+<p>Has written to F. Müller on abnormal <hi rend="italic">Solanum</hi>.</p> 
+            <p>Does not understand Hildebrand on potatoes.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Cucurbitaceae</term>
+                <term type="plants" ref="#">potatoes</term>
+                <term type="plants" ref="#">Solanum</term>
+                <term type="it" ref="#">Malthus: re-examined by the light of physiology</term>
+                <term type="people" ref="#subject_2283">Hildebrand, F. H. G.</term>
+                <term type="people" ref="#subject_3070">Müller, J. F. T.</term>
+                <term type="people" ref="#subject_4975">Watson, H. C.</term>
+                <term type="rx" ref="#">Greg, W. R. 1868</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">grafting</term>
+                <term type="scientific_terms" ref="#">hybrids</term>
+                <term type="scientific_terms" ref="#">monstrosity</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">sex differences</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00419_files/8/0_0.jpg" width="3601px" height="5740px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00419_files/11/1_1.jpg" width="3601px" height="5740px"/>
+        <surface xml:id="i1" n="193r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00419.jpg" rend="portrait" width="3601px" height="5740px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00419_files/8/0_0.jpg" width="3601px" height="5740px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00419.dzi" width="3601px" height="5740px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="193v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00420.jpg" rend="portrait" width="3601px" height="5740px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00420_files/8/0_0.jpg" width="3601px" height="5740px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00420.dzi" width="3601px" height="5740px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="195r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00423.jpg" rend="portrait" width="3458px" height="5704px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00423_files/8/0_0.jpg" width="3458px" height="5704px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00423.dzi" width="3458px" height="5704px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="195v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00424.jpg" rend="portrait" width="3458px" height="5704px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00424_files/8/0_0.jpg" width="3458px" height="5704px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00047-000-00424.dzi" width="3458px" height="5704px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

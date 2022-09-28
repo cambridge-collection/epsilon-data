@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1587">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Smith, Norwich, [Norfolk], to James Edward Smith, at Mrs Beveridge's, Patrick Street, Edinburgh</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63533/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/14, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, James">James Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1782-06-02">2 Jun 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Edinburgh</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Pleased to hear of recovery in Smith's health and grateful he is inclined towards virtue. Patterson was previously wounded by a gentleman at Colchester who thought him too intimate with his wife, whilst apprentice to a surgeon. Their joy at Smith's Natural History Society. Approves of Smith's proposed Highland expedition. Smith much obliged to his aunt for introducing him to so many respectable friends and acquaintances. Warns Smith to take care of his heart "in the midst of so many agreeable young ladies". [William] Smith unaware of intention of Sheffield families to visit Norwich next year. Unable to visit Smith in Edinburgh this summer on account of business; details of this, including fears of Dutch invasion and his not desiring Smith's brothers to take on military careers. An influenza in London. Uncommonly cold and wet season, with flooded fields, so that people are anxious for grass crops for their cattle. Norwich news. Upturn in political situation.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

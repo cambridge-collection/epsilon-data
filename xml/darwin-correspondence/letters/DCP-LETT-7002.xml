@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7002">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   21 November 1869</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4657</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7002 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7002.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7002.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 483–485</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Huxley (1918) 2: 147</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 103: 39–41</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>103: 39–41</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1869-11-21">21 Nov 1869</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Has corresponded with Macmillan about <hi rend="italic">Nature</hi>.</p> 
+            <p>Will get the Kerner book.</p>
+            <p>Mere guesses must determine which form to fix on as the type.</p>
+            <p>Raises questions about the genealogical tree.</p>
+            <p>Serves Mlle Royer right.</p>
+            <p>Lyell declines Royal Society Presidency; now look to W. R. Grove. Long postscript on JDH’s views about knighthood.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Nature</term>
+                <term type="people" ref="#subject_2007">Grove, W. R.</term>
+                <term type="people" ref="#subject_2677">Kerner von Marilaun, A. J.</term>
+                <term type="people" ref="#subject_3051">Lyell, Charles</term>
+                <term type="people" ref="#subject_4113">Royer, C. A.</term>
+                <term type="scientific_terms" ref="#">archetypes</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">divergence</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">systematics</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Royal Society of London presidency</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00079_files/8/0_0.jpg" width="3421px" height="5551px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00079_files/11/1_1.jpg" width="3421px" height="5551px"/>
+        <surface xml:id="i1" n="39r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00079.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00079_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00079.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i2" n="39v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00080.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00080_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00080.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i3" n="40r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00081.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00081_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00081.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i4" n="40v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00082.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00082_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00082.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i5" n="41r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00083.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00083_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00083.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i6" n="41v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00084.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00084_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00084.dzi" width="3421px" height="5551px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

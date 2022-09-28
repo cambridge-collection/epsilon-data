@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-840">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Parsons, earl of Rosse, Chairman of the Committee of Papers, Royal Society   16 March [1852]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1250</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-840 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-840.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-840.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The Royal Society (RR2: 226)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_364.xml">Royal Society</repository>
+                    <idno>RR2: 226</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1852-03-16">16 Mar [1852]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3702.xml">Parsons, William</persName>
+                <orgName key="../nameregs/nameregs_4110.xml">Royal Society of London</orgName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Referee’s report on paper by Daniel Sharpe ["On foliation and cleavage", <hi rend="italic">Philos. Trans. R. Soc. Lond.</hi> 142 (1852): 445–62].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">foliation</term>
+                <term type="it" ref="#">Philos. Trans. R. Soc. Lond.</term>
+                <term type="rx" ref="#">Sharpe, Daniel 1852</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

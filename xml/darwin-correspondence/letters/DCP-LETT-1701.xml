@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1701">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Margaretta Hare Morris<ref target="#foot.f1"/> to Richard Chandler Alexander<ref target="#foot.f2"/>   17 June 1855</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19570</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1701 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1701.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1701.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp † (by CD)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 205.2: 247</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>205.2: 247</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3409.xml">Morris, M. H.</persName>
+                <placeName>Germantown, Pa.</placeName>
+                <date when="1855-06-17">17 June 1855</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3869.xml">Prior, R. C. A.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>On the transport of fish eggs by the water-beetle <hi rend="italic">Dytiscus marginalis</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Dytiscus marginalis</term>
+                <term type="animals" ref="#">fish</term>
+                <term type="animals" ref="#">water-beetle</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">eggs</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00594_files/8/0_0.jpg" width="5017px" height="6653px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00594_files/11/1_1.jpg" width="5017px" height="6653px"/>
+        <surface xml:id="i1" n="247.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00594.jpg" rend="portrait" width="5017px" height="6653px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00594_files/8/0_0.jpg" width="5017px" height="6653px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00594.dzi" width="5017px" height="6653px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="247.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00595.jpg" rend="portrait" width="4992px" height="6620px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00595_files/8/0_0.jpg" width="4992px" height="6620px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00595.dzi" width="4992px" height="6620px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="247.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00596.jpg" rend="portrait" width="4992px" height="6620px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00596_files/8/0_0.jpg" width="4992px" height="6620px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00596.dzi" width="4992px" height="6620px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="247.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00597.jpg" rend="portrait" width="4954px" height="6569px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00597_files/8/0_0.jpg" width="4954px" height="6569px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00002-000-00597.dzi" width="4954px" height="6569px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

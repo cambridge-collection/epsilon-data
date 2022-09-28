@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000003">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Justus Liebig, President of the Bavarian Academy of Sciences, Munich, to JLW Thudichum</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">3 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/1/3, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/1/3</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA2844" key="../nameregs/NA2844.xml">Justus Liebig</persName>
+               <date when="1869-08-08">8 August 1869</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Thudichum, JLW">JLW Thudichum</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

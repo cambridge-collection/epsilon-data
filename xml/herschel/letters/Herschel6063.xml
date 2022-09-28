@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Herschel6063">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Francis Baily   [23 November 1840]</title>
+                <respStmt xml:id="calendarPrint">
+                    <resp>Record created for the <hi rend="italic">Calendar of the Correspondence of Sir John Herschel</hi> (CUP: Cambridge), 1998 by</resp>
+                    <name>Michael J. Crowe ed., David R. Dyck and James J. Kevin assoc. eds</name>
+                </respStmt>
+                <respStmt xml:id="calendarOnline">
+                    <resp>Digital record created by</resp>
+                    <name>Dr Marvin Bolt and Steven Lucy at the Webster Institute of the Adler Planetarium</name>
+                </respStmt>
+                <respStmt xml:id="convertedToTEI">
+                    <resp>Converted to TEI by</resp>
+                    <name>Michael Hawkins, Epsilon Project, Cambridge University Library</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>John Herschel Project</authority>
+                <availability status="restricted">
+                    <p>Michael J. Crowe (editor), David R. Dyck and James J. Kevin (associate editors), Calendar of the Correspondence of Sir John Herschel (Cambridge, England: Cambridge Univ. Press, 1998), viii + 828 pp. Converted into web usable data in May 2009 by Dr. Marvin Bolt and Steven Lucy, working at the Webster Institute of the Adler Planetarium.</p>
+                </availability>
+                <date when="2018-07-23">23 July 2018</date>
+            </publicationStmt>
+            <notesStmt><note type="physdesc">ALS 4pp</note></notesStmt>
+            <sourceDesc>
+                <bibl type="provenance">RS:HS 3.188-9 (C: RS:HS 25.8.30)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Herschel, Sir John">Sir John Herschel</persName>
+                    <placeName>n.p.</placeName>
+                    <date when="1840-11-23">[23 November 1840]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Baily, Francis">Francis Baily</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Regarding the award of the Royal Medal of the R.S.L. Is unable to come to town. Regarding the appointment of visitors to the Royal Observatory. Is preparing a paper on celestial reform.</p> 
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3008">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert, Boyton House, [Wiltshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62048/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/73, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    <placeName>Boyton, Wiltshire</placeName>
+                    <date when="1811-10-12">12 Oct 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Obtained a 'Melaleuca caurina' from the Fonthill Sale [home of William Beckford (1760-1844)]. Has enjoyed the "Lapland Tour" ["Lachesis Lapponica"]. Lists publications recently acquired from Paris including: "Annals du Museum d'Histoire Naturelle"; [Kurt] Sprengel's "Philiosophia Botanica"and "Historia Rei Herbaria"; [Aubert Aubert Du] Petit-Thouars' "Essais Sur La Vegetation"; [Christiaan Hendrik] Persoon's "Synopsis plantarum"; [Andre] Michaux's [(1746-1802)] "Histoiredes arbres forestiers de l'Amerique Septentrionale"; [Tussac's] "Flore des Antilles" containing 'Alstroemeria edulis'; three new numbers of [Alexander von] Humboldt's [from his voyage to South America] containing 'Bonplandia trifoliata' and 'Mikania guaco'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

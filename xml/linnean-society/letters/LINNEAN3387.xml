@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3387">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don to Samuel Goodenough, Rose Castle, Cumberland</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64821/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/26, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    
+                    <date when="1809-10-07">7 Oct 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sending specimens of 'Arundo neglecta', 'Rottboellia filiformis', very rare, 'Silene alpestre', and non-descript 'Poa'; observations. Observes what Goodenough says about 'Viola', there seem to be 3 species under name 'V. canina'. Does not think 'Arundo neglecta' can be what [John Leonard] Knapp has drawn for 'A. calamagrostis'; supposes he has received better 'Rubus' specimens from [Charles] Lyell.</p><p>Detailed observations on 'Avena', particularly 'A. pubescens' and a new glaucous one. Found new species of 'Aira' by the sea. Could not find 'Chaerophyllum'. Seeds for 'Galium witheringia' all gone for this year, but will collect seed next year as it is a common plant here. Sorry to disagree with Goodenough on the 'Gnaphalium'. Encloses seeds of two varities of 'Daucus mauritanicus'.</p><p>Desires Goodenough's opinion on remainder of the plants he sent via Lyell. Sent [James] Sowerby a 'Cochlearia', who thought it 'C. anglica', would like opinion on this and 'Potentilla tridentata', which grows amongst roots of 'Erica vulgaris'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

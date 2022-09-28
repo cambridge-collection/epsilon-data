@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10150A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To F. J. Cohn   2 September 1875</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20735</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10150A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10150A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10150A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">4pp</note>
+            <relatedItem type="draft" subtype="CUL">
+                <bibl>CUL DAR 86: B53</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 185: 100</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>185: 100</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1875-09-02">2 Sept 1875</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_999.xml">Cohn, F. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Further discussion of the process of aggregation in response to [<hi rend="doubleUnderline">10137</hi>].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">10137</term>
+                <term type="scientific_terms" ref="#">cell theory, cell behaviour</term>
+                <term type="scientific_terms" ref="#">chemistry, chemicals</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00328_files/8/0_0.jpg" width="4366px" height="6691px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00328_files/11/1_1.jpg" width="4366px" height="6691px"/>
+        <surface xml:id="i1" n="B53av">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00328.jpg" rend="portrait" width="4366px" height="6691px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00328_files/8/0_0.jpg" width="4366px" height="6691px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00328.dzi" width="4366px" height="6691px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="B53br">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00329.jpg" rend="portrait" width="4355px" height="6707px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00329_files/8/0_0.jpg" width="4355px" height="6707px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00086-000-00329.dzi" width="4355px" height="6707px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="100.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00441.jpg" rend="portrait" width="3549px" height="6358px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00441_files/8/0_0.jpg" width="3549px" height="6358px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00441.dzi" width="3549px" height="6358px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="100.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00442.jpg" rend="portrait" width="3549px" height="6358px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00442_files/8/0_0.jpg" width="3549px" height="6358px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00442.dzi" width="3549px" height="6358px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="100.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00443.jpg" rend="portrait" width="3549px" height="6358px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00443_files/8/0_0.jpg" width="3549px" height="6358px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00443.dzi" width="3549px" height="6358px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="100.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00444.jpg" rend="portrait" width="3549px" height="6358px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00444_files/8/0_0.jpg" width="3549px" height="6358px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00444.dzi" width="3549px" height="6358px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

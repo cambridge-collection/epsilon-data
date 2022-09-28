@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5567">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Charles Kingsley   10 June [1867]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">330</idno>
+            <date when="2006">2006</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5567 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5567.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5567.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="15">15</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A) incomplete &amp; draft</note>
+            <note type="physdesc" n="LS(A)">9pp inc &amp; ADraft 7pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 148: 472</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">American Philosophical Society (Mss.B.D25.330) &amp; DAR 96: 28–9, 32</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_13.xml">APS</repository>
+                    <collection>Mss.B.D25.</collection>
+                    <idno>330</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>96: 28–9, 32</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1867-06-10">10 June [1867]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2703.xml">Kingsley, Charles</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Discusses the Duke of Argyll’s book [<hi rend="italic">Reign of law</hi> (1867)].</p> 
+            <p>Cites his own views on diversity of structure and beauty.</p>
+            <p>Encloses letter from Wallace. Sexual selection: evidence advanced by Wallace.</p>
+            <p>Discusses correlation of growth.</p> 
+<p>Comments on article in the <hi rend="italic">North British Review</hi> [by Fleeming Jenkin].</p> 
+            <p>Discusses the evidence from physics on the age of the earth.</p>
+            <p>[Four pages of the final letter are missing, but the draft is complete.]</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">earth</term>
+                <term type="it" ref="#">North British Review</term>
+                <term type="it" ref="#">Reign of law</term>
+                <term type="listb" ref="#">unc</term>
+                <term type="people" ref="#subject_4935">Wallace, A. R.</term>
+                <term type="rx" ref="#">Argyll, Duke of 1867</term>
+                <term type="rx" ref="#">Jenkin, H. C. F. 1867</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">time, ‘inorganic’ (geological, historical)</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                
+                <term type="tag" ref="#design_in_nature">Darwin In Nature Design In Nature</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00059_files/8/0_0.jpg" width="4566px" height="6383px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00059_files/11/1_1.jpg" width="4566px" height="6383px"/>
+        <surface n="28r" xml:id="i59">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00059.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00059_files/8/0_0.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00059.dzi" width="4566px" height="6383px"/>
+        </surface>
+        <surface n="28v" xml:id="i60">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00060.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00060_files/8/0_0.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00060.dzi" width="4566px" height="6383px"/>
+        </surface>
+        <surface n="29r" xml:id="i61">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00061.jpg" width="4532px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00061_files/8/0_0.jpg" width="4532px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00061.dzi" width="4532px" height="6383px"/>
+        </surface>
+        <surface n="29v" xml:id="i62">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00062.jpg" width="4532px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00062_files/8/0_0.jpg" width="4532px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00062.dzi" width="4532px" height="6383px"/>
+        </surface>
+        <surface n="28v-29r" xml:id="i63">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00063.jpg" width="8393px" height="6189px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00063_files/8/0_0.jpg" width="8393px" height="6189px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00063.dzi" width="8393px" height="6189px"/>
+        </surface>
+        <surface n="30r" xml:id="i64">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00064.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00064_files/8/0_0.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00064.dzi" width="4566px" height="6383px"/>
+        </surface>
+        <surface n="30v" xml:id="i65">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00065.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00065_files/8/0_0.jpg" width="4566px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00065.dzi" width="4566px" height="6383px"/>
+        </surface>
+        <surface n="32r" xml:id="i68">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00068.jpg" width="4660px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00068_files/8/0_0.jpg" width="4660px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00068.dzi" width="4660px" height="6383px"/>
+        </surface>
+        <surface n="32v" xml:id="i69">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00069.jpg" width="4660px" height="6383px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00069_files/8/0_0.jpg" width="4660px" height="6383px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00096-000-00069.dzi" width="4660px" height="6383px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

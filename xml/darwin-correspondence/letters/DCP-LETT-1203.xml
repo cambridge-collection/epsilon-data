@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1203">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   13 October 1848</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2328</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1203 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1203.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1203.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">5pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Royal Botanic Gardens, Kew (India letters 1847–51: 112–14 JDH/1/10)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_213.xml">Kew</repository>
+                    <idno>India letters 1847–51: 112–14 JDH/1/10</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Darjeeling</placeName>
+                <date when="1848-10-13">13 Oct 1848</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Hugh Falconer’s misbehaviour.</p>
+            <p>Waiting out rains at Brian Hodgson’s.</p>
+            <p>Will make botanical transverse section of Himalayas from plains to snow.</p>
+            <p>Arrangements to pass Sikkim Rajah’s territory.</p>
+            <p>No evidence of glacial or diluvial action in sub-Himalayan mountains. No evidence of detrital coal formation.</p>
+            <p>Hodgson’s replies to CD on introduced species and hybrids.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">coal</term>
+                <term type="geology" ref="#">diluvial</term>
+                <term type="geology" ref="#">glacial</term>
+                <term type="geology" ref="#">mountains</term>
+                <term type="people" ref="#subject_1585">Falconer, Hugh</term>
+                <term type="people" ref="#subject_2317">Hodgson, B. H.</term>
+                <term type="people" ref="#">Namgye, Cho-phoe</term>
+                <term type="places" ref="#">Himalayan</term>
+                <term type="places" ref="#">Himalayas</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">hybrids</term>
+                <term type="scientific_terms" ref="#">introduced forms</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">wind and weather</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="social" ref="#">visiting</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

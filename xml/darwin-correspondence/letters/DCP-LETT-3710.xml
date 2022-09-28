@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3710">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Asa Gray   [3–]4 September [1862]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3617</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3710 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3710.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3710.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">7pp sketch</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 212</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>HRS, no. 123</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 10: 389</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Gray Herbarium of Harvard University (68)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_156.xml">Harvard Gray Herbarium</repository>
+                    <idno>68</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Bournemouth</placeName>
+                <date notBefore="1862-09-03" notAfter="1862-09-04">[3–]4 Sept [1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Glad AG will publish some separate notes on orchids ["Fertilization of orchids through the agency of insects", <hi rend="italic">Am. J. Sci.</hi> 2d ser. 34 (1862): 420–9].</p>  
+<p>Trimorphism in <hi rend="italic">Lythrum</hi>.</p> 
+            <p>Bee behaviour.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bees</term>
+                <term type="plants" ref="#">Lythrum</term>
+                <term type="plants" ref="#">orchids</term>
+                <term type="it" ref="#">Am. J. Sci.</term>
+                <term type="rx" ref="#">Gray, Asa 1862c</term>
+                <term type="scientific_terms" ref="#">behaviour</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                
+                <term type="tag" ref="#asa_gray_set">Asa Gray Letters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

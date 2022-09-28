@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2307">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   13–15 July 1858</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2509A</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2307 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2307.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2307.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="inc">table 1p</note>
+            <relatedItem type="publication">
+                <bibl>Huxley (1918) 1: 458</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 131</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 100: 116–19, 168</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>100: 116–19, 168</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                
+            <date xml:id="date1" when="1858-07-13" exclude="#date2">13 July 1858</date>
+            <date xml:id="date2" when="1858-07-15" exclude="#date1">15 July 1858</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends proofs [of "On the tendency of species to form varieties … ", read 1 July 1858, <hi rend="italic">Collected papers</hi> 2: 3–19]. CD could publish his abstract [later the <hi rend="italic">Origin</hi>] as a separate supplemental number of [Journal of the Linnean Society].</p> 
+            <p>JDH has studied in detail CD’s manuscript on variable species in large and small genera and concurs with its consequences. Discusses methodological idiosyncrasies of systematists, e.g., Bentham, Robert Brown, and C. C. Babington, which complicate CD’s tabulations.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Collected papers</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">higher groupings (‘family’, ‘class’, ‘order’ etc)</term>
+                <term type="scientific_terms" ref="#">number of species</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00245_files/8/0_0.jpg" width="2856px" height="5330px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00245_files/11/1_1.jpg" width="2856px" height="5330px"/>
+        <surface xml:id="i1" n="116r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00245.jpg" rend="portrait" width="2856px" height="5330px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00245_files/8/0_0.jpg" width="2856px" height="5330px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00245.dzi" width="2856px" height="5330px"/>
+        </surface>
+        <surface xml:id="i2" n="116v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00246.jpg" rend="portrait" width="2856px" height="5330px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00246_files/8/0_0.jpg" width="2856px" height="5330px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00246.dzi" width="2856px" height="5330px"/>
+        </surface>
+        <surface xml:id="i3" n="117r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00247.jpg" rend="portrait" width="2856px" height="5330px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00247_files/8/0_0.jpg" width="2856px" height="5330px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00247.dzi" width="2856px" height="5330px"/>
+        </surface>
+        <surface xml:id="i4" n="117v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00248.jpg" rend="portrait" width="2856px" height="5330px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00248_files/8/0_0.jpg" width="2856px" height="5330px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00248.dzi" width="2856px" height="5330px"/>
+        </surface>
+        <surface xml:id="i5" n="118r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00249.jpg" rend="portrait" width="2925px" height="5490px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00249_files/8/0_0.jpg" width="2925px" height="5490px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00249.dzi" width="2925px" height="5490px"/>
+        </surface>
+        <surface xml:id="i6" n="118v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00250.jpg" rend="portrait" width="2940px" height="5345px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00250_files/8/0_0.jpg" width="2940px" height="5345px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00250.dzi" width="2940px" height="5345px"/>
+        </surface>
+        <surface xml:id="i7" n="119r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00251.jpg" rend="portrait" width="3070px" height="5368px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00251_files/8/0_0.jpg" width="3070px" height="5368px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00251.dzi" width="3070px" height="5368px"/>
+        </surface>
+        <surface xml:id="i8" n="119v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00252.jpg" rend="portrait" width="3108px" height="5597px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00252_files/8/0_0.jpg" width="3108px" height="5597px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00252.dzi" width="3108px" height="5597px"/>
+        </surface>
+        <surface xml:id="i9" n="168r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00349.jpg" rend="portrait" width="5412px" height="7216px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00349_files/8/0_0.jpg" width="5412px" height="7216px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00349.dzi" width="5412px" height="7216px"/>
+        </surface>
+        <surface xml:id="i10" n="168v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00350.jpg" rend="portrait" width="5412px" height="7216px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00350_files/8/0_0.jpg" width="5412px" height="7216px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00100-000-00350.dzi" width="5412px" height="7216px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1490">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Thomas Jenkinson Woodward</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63437/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/50, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1791-07-02">2 Jul 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Disappointed Woodward is not coming to London, he will only have a short time himself in Norfolk. Printing difficulties of "Linnean Transactions" vol 1. "Flora Lapponica" printing, it will be the "most correct edition" ever of any of Linnaeus' works; describes his work on it. Working on "Spicilegium botanicum" letterpress; "English botany" "sells amazingly" and is unlikely to stop. [William] Curtis said to be in difficulties. Sends third fasciculus of "Icones [pictae]", containing 'Fucus inflatus' and 'Agrostis capillaris'.</p><p>Dined with [Edmund] Burke's [(1730-1797), politician] brother yesterday at the [William Henry Cavendish-Bentinck, 3rd] Duke of Portland's [(1738-1809)]. [James] Dickson's next two fascicules will complete his work ["A collection of dried plants..", see RelatedMatieral below].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

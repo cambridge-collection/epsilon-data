@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1050A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. L. Stokes   2 January [1847]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20826</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1050A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1050A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1050A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">University of Akron (Herman Muehlstein Rare Book Collection: tipped into a copy of <hi rend="italic">Origin</hi> 1st ed. (QH365 .O2 1859))</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_2.xml">Akron</repository>
+                    <collection>Herman Muehlstein Rare Book Collection</collection>
+                    <idno>tipped into QH365 .O2 1859</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1847-01-02">2 Jan [1847]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4574.xml">Stokes, J. L.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks for sending his "magnificent book" [<hi rend="italic">Discoveries in Australia</hi> (1846)].</p>  
+<p>Asks JLS to visit Down on "Saturday the 16th" and Sunday. He has also invited Forbes, Falconer, Hooker and Waterhouse. [See <hi rend="doubleUnderline">1036</hi>.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Discoveries in Australia</term>
+                <term type="people" ref="#subject_1585">Falconer, Hugh</term>
+                <term type="people" ref="#subject_1680">Forbes, Edward</term>
+                <term type="people" ref="#subject_2357">Hooker, J. D.</term>
+                <term type="people" ref="#subject_4972">Waterhouse, G. R.</term>
+                <term type="places" ref="#">Down</term>
+                <term type="rx" ref="#">Stokes, J. L. 1846</term>
+                <term type="scientific_terms" ref="#">positive criticism of correspondent</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">inviting</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

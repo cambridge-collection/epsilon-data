@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6314">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Robert Brough Smyth   13 August 1868</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14567</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6314 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6314.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6314.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="LS">4pp damaged †, encl 14pp damaged †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 177: 205–12</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>177: 205–12 (fragile)</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>177: 211</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4441.xml">Smyth, R. B.</persName>
+                <placeName>Flemington, Australia</placeName>
+                <date when="1868-08-13">13 Aug 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Relates some observations on expression among Australian aboriginals and encloses answers to CD’s queries from other observers. [These include letters and observations from: J. A. Hagenauer, 28 May 1868; Archibald Grahame Lang, 17 June 1868; H. B. Lane, 24 June 1868; Templeton Bunnett, 25 June 1868; J. Bulmer (1868). (See introduction to <hi rend="italic">Expression</hi>.)]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="human_group" ref="#">Australian aboriginals</term>
+                <term type="people" ref="#">Bulmer, J.</term>
+                <term type="people" ref="#">Bunnett, Templeton</term>
+                <term type="people" ref="#subject_2049">Hagenauer, F. A.</term>
+                <term type="people" ref="#">Lane, H. B.</term>
+                <term type="people" ref="#">Lang, A. G.</term>
+                <term type="scientific_terms" ref="#">expression, emotion</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3333">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Daniel Oliver   30 November [1861]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2802</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3333 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3333.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3333.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 261.10: 2 (EH 88205986)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>261.10: 2 (EH 88205986)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1861-11-30">30 Nov [1861]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3589.xml">Oliver, Daniel</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Requests that DO examine enclosed microscope slides of <hi rend="italic">Acropera</hi> ovules, to confirm CD’s opinion that females are non-functional.</p>  
+<p>Can DO comment on disagreement between Robert Brown and John Lindley over the number of <hi rend="italic">Acropera</hi> carpels?</p> 
+            <p>O. Heer’s Atlantis theory vs CD’s hypothesis of a migration north during warm periods.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Acropera</term>
+                <term type="geology" ref="#">warm periods</term>
+                <term type="people" ref="#subject_671">Brown, Robert (a)</term>
+                <term type="people" ref="#subject_2199">Heer, Oswald</term>
+                <term type="people" ref="#subject_2932">Lindley, John</term>
+                <term type="places" ref="#">Atlantis</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">instructions</term>
+                <term type="scientific_terms" ref="#">mineralogy, minerals</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">wind and weather</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

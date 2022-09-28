@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3015">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Leonard Knapp, 13 New King Street, Bath, [Somerset], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61983/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/8, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Knapp, John Leonard">John Leonard Knapp</persName>
+                    <placeName>Bath, Somerset</placeName>
+                    <date when="1801-12-19">19 Dec [1801]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks Smith for introducing him to [Hugh] Davies, although he seemed "a little irritated at what originated from a mistake". Believes 'Agrostis minima' is a new genus after receiving specimens from Davies to draw for "Gramina Britannica", recommends naming it after [Benjamin] Stillingfleet [(1702-1771)]. Drawing in pen and wash of a new 'Poa' found on Devon coast, proposes name 'Poa tuberosa'. Sends a 'Festuca' from Pembrokeshire [extant] that also appears in [William] Sherard's [(1659-1728)] herbarium. Asks the difference between 'Phleum crinitum' and 'Agrostis littoralis', small drawing in pen and wash of the former. Has almost finished plates of British grasses and plans to visit Scotland next summer. Believes 'Avena strigosa' is indiginous. Found '[Gnaphalium] margaritaceum' in the same place [John] Ray gathered it and "felt a a momentary inspiration".</p><p>Specimen of 'Festuca'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

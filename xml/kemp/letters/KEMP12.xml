@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KEMP12">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From James Inglis Thackery to John Kemp   28 Nov 1841 – c. 1842</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="William Kemp">The William Kemp Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Ruth Cramond</authority>
+                <date when="2021-09-21">2021</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">Cambridge University Library (MS Add. 10252/7)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>            
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_9594.xml">Thackery, James Inglis</persName>
+                    
+                    <date when="1841-11-28">28 Nov 1841 – c. 1842</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_9588.xml">Kemp, John</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Has been away so has not seen article in <hi rend="italic">Kelso Chronicle.</hi></p>  
+                <p>Suggests walking from Kelso to Greenlaw to see James Cunningham, surveyor, and investigate the Lammermuir Hills.</p>
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

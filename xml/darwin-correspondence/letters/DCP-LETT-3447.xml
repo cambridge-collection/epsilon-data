@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3447">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Erasmus Darwin   14 February [1862]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7745</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3447 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3447.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3447.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 210.6: 95</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>210.6: 95</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1862-02-14">14 Feb [1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1245.xml">Darwin, W. E.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Discusses WED’s growing interest in botany; would be grateful for certain observations.</p>
+            <p>Is much concerned about Horace’s illness.</p> 
+<p>Has sent <hi rend="italic">Orchids</hi> MS to printers</p> 
+            <p>and will work a little at dimorphism.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="health" ref="#">Darwin family</term>
+                <term type="it" ref="#">Orchids</term>
+                <term type="people" ref="#subject_1226">Darwin, Horace</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00488_files/8/0_0.jpg" width="4517px" height="5908px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00488_files/11/1_1.jpg" width="4517px" height="5908px"/>
+        <surface n="95:1r" xml:id="i488">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00488.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00488_files/8/0_0.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00488.dzi" width="4517px" height="5908px"/>
+        </surface>
+        <surface n="95:1v" xml:id="i489">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00489.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00489_files/8/0_0.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00489.dzi" width="4517px" height="5908px"/>
+        </surface>
+        <surface n="95:2r" xml:id="i490">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00490.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00490_files/8/0_0.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00490.dzi" width="4517px" height="5908px"/>
+        </surface>
+        <surface n="95:2v" xml:id="i491">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00491.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00491_files/8/0_0.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00491.dzi" width="4517px" height="5908px"/>
+        </surface>
+        <surface n="95:3r" xml:id="i492">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00492.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00492_files/8/0_0.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00492.dzi" width="4517px" height="5908px"/>
+        </surface>
+        <surface n="95:3v" xml:id="i493">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00493.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00493_files/8/0_0.jpg" width="4517px" height="5908px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00210-00006-000-00493.dzi" width="4517px" height="5908px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

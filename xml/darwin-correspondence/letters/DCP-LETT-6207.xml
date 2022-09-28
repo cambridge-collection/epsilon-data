@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6207">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John Murray   25 May 1868</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9178</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6207 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6207.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6207.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">3pp, encl 3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 124</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">National Library of Scotland (John Murray Archive) (Ms.42152 ff.186–189)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_278.xml">Murray Archive</repository>
+                    <idno>Ms.42152 ff.186-189</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1868-05-25">25 May 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3463.xml">Murray, John (b)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Asks JM to consider publishing a MS on John Wesley by CD’s niece, Frances Julia Wedgwood [<hi rend="italic">John Wesley and the evangelical reaction of the eighteenth century</hi> (1870)].</p>  
+<p>Has received clean sheets for Italian translation [of <hi rend="italic">Variation</hi>?].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Variation</term>
+                <term type="languages" ref="#">Italian</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+                <term type="social" ref="#">Darwin family</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

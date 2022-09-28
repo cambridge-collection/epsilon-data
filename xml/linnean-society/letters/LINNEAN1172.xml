@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1172">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Hafod, [Cardiganshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63138/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/23, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Hafod, Cardiganshire</placeName>
+                    <date when="1794-08-30">30 Aug 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter from Bungay, [Suffolk]; they are disappointed that Smith cannot visit and sorry to hear of Smith's sore throat, which many have complained of this season, his wife's medicines are not yet arrived. His wife thanks Smith for Mr Wilson's New Holland seeds, scarcely any plants have succeeded this year though they have "a fine yellow 'Hibiscus' in flower from seeds given by Smith, offers to send flower or plant. His garden doing well; vindication of those who thought it impossible. Late rains brought grass and turnips but cattle "very low indeed", which he blames on lack of fodder from England's drought last summer. Has not yet visited the "Chalybat" [mineral spring found close to Johnes' house] but from the taste it appears very strong and according to Dr [David] Davies of Carmarthen the strongest in Wales._x000D_</p><p>"That wild girl still continues as wild in her wishes to go to India" [Johnes' sister, Charlotte] and asks Smith if Mrs Kindersley would taker her under her protection when she sails, though they are all uneasy about it. Compares his sister to [Jean de] La Fontaine's [(1621-1695), French fabulist] letter of "the pigeon that wishes to travel".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN863">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62822/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/58, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    
+                    <date when="1817-11-01">[Nov 1817]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Brief account of his tour following his taking of the Cheltenham waters for twenty-one days: returned to Bury via Marquess of Buckingham at Stowe, Bedford, St Neots, Cambridge, and Newmarket, also called on Professor [Thomas] Martyn who appeared cheerful but weak and debilitated. Spent a fortnight in Ipswich and visited to Languard Fort but could not find the 'Santolina maritima' he had noted in his "Flora Britannica" as finding there with Smith on 16 August 1793. Colonel West, governor of the Fort, has enclosed a considerable piece of the sandy ground for a garden.</p><p>Wishes to subscribe to Mr Matchett's "topographical history of all the villages in Norfolk", to be published as a supplementary volume to Blomfield's "Norfolk". Charles Miller [(c 1739-1817)], son of Philip Miller, died in London on 6 October, he never married but left all his £35,000 to £40,000 property to his eighteen-year-old daughter, aside from legacies of £5,000. Declined to become an executor after the other two refused to put it into Chancery; he spent twenty years in Bencoolen before returning to England, laments that a man so capable of being a useful member of society passed his life almost unknown and unseen.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

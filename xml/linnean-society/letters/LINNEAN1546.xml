@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1546">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Edinburgh, to James Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63529/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/10, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1782-03-11">11 Mar 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Read of heavy snow round Norwich, [Norfolk], they have had scarcely any. Will be as economical as possible his with expenses, though felt much anxiety on finding they will come to much more than first expected. Attendance at balls and frequent dancing. Reported that Edinburgh people are very proud and despise the students, though he has not experienced this himself. Shall endeavour to join the Medical Society and has already attended and spoken twice, hopes his father thinks he has got rid of some of his bashfulness; they are "wonderfully ignorant" of natural history. Dr Home's lectures on Antimony; discussion of composition and application of James's Powder, particularly with regard fevers.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

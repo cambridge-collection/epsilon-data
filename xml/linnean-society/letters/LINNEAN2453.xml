@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2453">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Robertson, Newcastle, Tyne Iron Works, [Northumberland], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64219/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/25/7, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Robertson, William">William Robertson</persName>
+                    <placeName>Newcastle on Tyne, Northumberland</placeName>
+                    <date when="1824-01-21">21 Jan 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for letter he received from Smith several years ago; had intended to periodically send Smith specimens of rare plants but could not carry this out to full effect. Feels himself "most deeply [Smith's] debtor", as should "every genuine admirer of British Botany, for the instruction and delight" Smith's works have afforded them over the years. Praises "English Botany" for its diction and beauty of its descriptions. Anxious and hopeful for "English flora".</p><p>Sending Lichens through his friend Mr Wigham, some recently collected. Several years ago received collection of Swedish roses from [Olof] Swartz, believes it is similar to one in Smith's possession; thinks the Swedish multiplied the number of their species too much beyond [Joseph] Woods "ingenious and useful paper on roses" for "Linnean Transactions", but nonetheless thinks very few of the enumerated British species are free from doubt on account of their numerous intermediate states. Observations on Swartz' roses: 'Rosa sarmentacea', 'R. swartziana', 'R. sepincola', 'R. dumetorum', 'R. agnestis', 'R. campestris', 'R. collina'.</p><p>Observations on the lichens he sent Smith some time ago: 'Lichen griffithii', 'Lecanora aipospila', 'Lecanora badia', 'Lecanora subfusca', 'Urceolaria cinecia', 'Verrucaria laevata', and 'Endocarpon euplocum'. [William] Borrer believes the lichen sent with 'Endocarpon euplocum' in 1811 is 'Pyrenula leucocephala' with sheilds of 'L. pruinatus' Dickson.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

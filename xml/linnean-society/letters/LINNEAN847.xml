@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN847">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum to Sir James Edward Smith, Old Hummums, Covent Garden, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62807/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/43, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    
+                    <date when="1816-04-11">11 Apr 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Lady Cullum pleased by her visit to Smith. [William] Webb, Master of Clare Hall, wonders if the Cambridge collge heads can reduce the number of candidates to two [Smith's campaign for botany professorship].</p><p>Reminisces that at this time of year in his youth he collected 'Orchis mascula' in the meadows and 'Ophrys aranifera' in the chalk hills and pits. If in Yorkshire this summer hopes to see 'Trientalis' growing on its native soil near Scarborough and to pick 'Primula farinosa', as [William] Curtis did. Glad Sir Joseph Banks is well but wishes [Aylmer Bourke] Lambert in better spirits. Enquires if a Linnean Society list for 1788 was printed, to complete his collection of 1789 to 1815 inclusive; a minute of the first meeting in his possession lists Smith, [Samuel] Goodenough, Jonas Dryander, James Dickson, John Beckwith, Thomas Marsham, and John Timothy Swainson in attendance. Wishes Marsham had continued as Secretary.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

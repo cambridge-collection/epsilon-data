@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4555">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Ernst Haeckel<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   9 [July 1864]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14311</idno>
+            <date when="2001">2001</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4555 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4555.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4555.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="12">12</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp (German) damaged, trans 18pp damaged</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 166: 37 contemporary English translation</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 166: 35</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>166: 35</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2048.xml">Haeckel, E. P. A.</persName>
+                <placeName>Jena</placeName>
+                <date when="1864-07-09">9 [July 1864]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>No book has made such a powerful impression on EH as the <hi rend="italic">Origin</hi>. Most older German scholars opposed to it, but number of supporters growing among the young. Fortunately strength of religious dogmas now small among educated Germans. Situation in Jena especially favourable. Defended CD’s theory last year at Congress of German Scientists in Stettin.</p> 
+            <p>Intends special study of jellyfish.</p>
+            <p>Plans general work on natural history.</p>
+            <p>Hard fate [death of Anna Sethe Haeckel] has made EH indifferent to criticism.</p>
+            <p>Colleagues August Schleicher and Carl Gegenbaur also convinced by CD’s theory.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">jellyfish</term>
+                <term type="health" ref="#">Other people</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="people" ref="#subject_1834">Gegenbaur, Carl</term>
+                <term type="people" ref="#">German scholars</term>
+                <term type="people" ref="#">Haeckel, A. S.</term>
+                <term type="people" ref="#subject_4216">Schleicher, August</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

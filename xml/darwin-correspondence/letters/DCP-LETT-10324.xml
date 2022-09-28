@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10324">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Fritz Müller   25 December 1875</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">15562</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10324 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10324.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10324.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance"><hi rend="italic">Nature</hi>, 17 February 1876, pp. 304–5 </bibl>
+            <bibl type="printedSource">Nature 13 1876: 304</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3070.xml">Müller, J. F. T.</persName>
+                <placeName>Santa Catharina, Brazil</placeName>
+                <date when="1875-12-25">25 Dec 1875</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>"Sambaquis", or shell mounds accumulated by former inhabitants of the coast, contain shells of some animals that FM has never seen living.</p> 
+<p>Ants that live on <hi rend="italic">imbauba</hi> trees (<hi rend="italic">Cecropia</hi>) are attracted by small bodies at base of each petiole.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">ants</term>
+                <term type="animals" ref="#">shell</term>
+                <term type="plants" ref="#">Cecropia</term>
+                <term type="plants" ref="#">imbauba trees</term>
+                <term type="human_group" ref="#">inhabitants of Brazilian coast</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">food</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">shells</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1158">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   20 February – 16 [March] 1848</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2324</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1158 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1158.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1158.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp †</note>
+            <relatedItem type="publication">
+                <bibl>Huxley (1918) 1: 246</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 4: 114</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Royal Botanic Gardens, Kew (India letters 1847–51: 52–4 JDH/1/10)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_213.xml">Kew</repository>
+                    <idno>India letters 1847–51: 52–4 JDH/1/10</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kosderah (Palamau)</placeName>
+                <date notBefore="1848-02-20" notAfter="1848-03-16">20 Feb – 16 [Mar] 1848 </date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Though correspondence has never ebbed so low, CD is constantly in his thoughts.</p>
+            <p>Observations on cheetahs used as domesticated hunting animals.</p>
+            <p>Finds geographical barriers sometimes separate species, but also finds species that remain separate where there are no barriers to migration.</p>
+            <p>Colour "individuates" isolated animal species.</p>
+            <p>Plains and alpine animal distribution show altitude not strictly analogous to latitude.</p>
+            <p>Impact of timber cutting on climate has led to extinction of crocodiles.</p>
+            <p>Will discuss coal formation in letter to Edward Forbes.</p>
+            <p>CD often asked whether isolated mountains in southern latitudes had closely allied representatives of Arctic and north temperate plants; JDH has found a representative barberry.</p>
+            <p>Making for Darjeeling via Calcutta.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">cheetahs</term>
+                <term type="animals" ref="#">crocodiles</term>
+                <term type="animals" ref="#">plains animals</term>
+                <term type="plants" ref="#">barberry</term>
+                <term type="plants" ref="#">timber</term>
+                <term type="geology" ref="#">coal</term>
+                <term type="geology" ref="#">mountains</term>
+                <term type="people" ref="#subject_1680">Forbes, Edward</term>
+                <term type="places" ref="#">arctic</term>
+                <term type="places" ref="#">Calcutta</term>
+                <term type="places" ref="#">Darjeeling</term>
+                <term type="places" ref="#">southern latitudes</term>
+                <term type="places" ref="#">temperate, north</term>
+                <term type="scientific_terms" ref="#">affinity and analogy</term>
+                <term type="scientific_terms" ref="#">causation</term>
+                <term type="scientific_terms" ref="#">close species</term>
+                <term type="scientific_terms" ref="#">continuous or ‘broken’ land</term>
+                <term type="scientific_terms" ref="#">extinction</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">human intervention</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">mineralogy, minerals</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">predators</term>
+                <term type="scientific_terms" ref="#">representative species</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+                <term type="scientific_terms" ref="#">wind and weather</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

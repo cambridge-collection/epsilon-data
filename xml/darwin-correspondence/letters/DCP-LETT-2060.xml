@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2060">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Asa Gray   [after 15 March 1857]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3597</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2060 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2060.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2060.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">13pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 149</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>HRS, no. 9;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 2: 252</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 6: 359</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Archives of the Gray Herbarium, Harvard University (8)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_156.xml">Harvard Gray Herbarium</repository>
+                    <idno>8</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1857-03-16" notAfter="1857-03-31">[after 15 Mar 1857]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Urges AG to generalise from his observations on the flora of the northern U. S.</p>
+            <p>Expected to find separation of sexes in trees because he believes all living beings require an occasional cross, and none is perpetually self-fertilising. The multitude of flowers of a tree would be an obstacle to cross-fertilisation unless the sexes tended to be separate.</p>
+            <p>The Leguminosae are CD’s greatest opposers; he cannot find that garden varieties ever cross. Could AG inquire of intelligent nurserymen on the subject?</p>
+            <p>Thanks AG for information on protean genera; much wants to know whether their great variability is due to their conditions of existence or is innate in them at all times and places.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Leguminosae</term>
+                <term type="plants" ref="#">trees</term>
+                <term type="people" ref="#">nurserymen</term>
+                <term type="places" ref="#">U. S., northern</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">higher groupings (‘family’, ‘class’, ‘order’ etc)</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                
+                <term type="tag" ref="#asa_gray_set">Asa Gray Letters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

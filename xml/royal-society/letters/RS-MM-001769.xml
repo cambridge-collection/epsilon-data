@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001769">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Vivian Lee Osborne Sheppard, Geological Survey of Egypt, Cairo, to William Johnson Sollas, University Museum, Oxford</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2011">2011</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 1p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/24/16, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/24/16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Vivian Lee Osborne Sheppard, Geological Survey of Egypt">Vivian Lee Osborne Sheppard, Geological Survey of Egypt</persName>
+               <date when="1923-11-25">25 November 1923</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="William Johnson Sollas, University Museum">William Johnson Sollas, University Museum</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

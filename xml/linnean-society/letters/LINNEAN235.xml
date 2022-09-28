@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN235">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Norwich, [Norfolk], to Alexander Macleay</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64523/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/20, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1801-12-12">12 Dec 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks Macleay for this care and attention to him. The plant Macleay sent from [John] Fairbairn is a new 'Cissus', not in Willdenow, if he gets the flowers will write a specific character to go at end of "Linnean Transactions".</p><p>Congratulates Macleay, [Thomas] Marsham, and Sir Joseph Banks on success of the Linnean Society charter; agrees that 15 Council names would be enough. Regrets Society discord, suggests course of action for allowing [John] Parkinson to produce testimonials in favour of electing [Johann Karl Adam] Murhard [(1781-1863)] a FMLS, and for Macleay to regulate [Jonas] Dryander until he comes to London, he is an "indifferent person, &amp; fear[s] neither". Unable to decide on [Richard] Pulteney's legacy until they see what it consists of. Sending Macleay a turkey.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

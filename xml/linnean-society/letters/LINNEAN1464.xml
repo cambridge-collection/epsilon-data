@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1464">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Leyden, [Netherlands], to Thomas Jenkinson Woodward, Bungay, Suffolk, England</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63414/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/27, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Leyden, Netherlands</placeName>
+                    <date when="1786-07-14">14 Jul 1786</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>He has taken all his examinations and taking his degree tomorrow; pleased with Leyden and friendliness of [David] van Royen [(1727-1799)] and [Frédérique Louis] Allamand [(1735-1803)], but the garden is inferior to many in England. Amsterdam garden neater, but [Nicolaas Laurens] Burman [(1734-1793)] is evasive and "shelters his ignorance under his professional dignity". Spends his mornings with Royen looking over his herbarium, his uncle's, Herman's, [Paolo] Boccone's [(1633-1704)], and Ranwolf's; 'Conium royeni' is 'Caucalis daucoides'. Royen recently resigned Leyden botanical chair, reserving use of the garden, and wanted [Carl Peter] Thunberg to succeed him, but a young man of inferior skill was appointed instead [Sebald Justinus Brugmans (1763-1819), physician and botanist].</p><p>'Eryngium campestre' and 'Menyanthes nymphioides' only worthwhile wild plants seen so far. Dismisses his dissertation "de generatione" as "an exercise &amp; a sketch". Disappointed by Amsterdam booksellers; his opinion of that town and Leyden. His future movements. Difficulty of finding Leers' "Flora".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

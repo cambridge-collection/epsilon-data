@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-352">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To the Geological Society of London   27 March 1837</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9295</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-352 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-352.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-352.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Geological Society of London (GSL/COM/P/4/2/216)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_147.xml">Geological Society</repository>
+                    <idno>GSL/COM/P/4/2/216</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+                <placeName>London, Gt Marlborough St, 36</placeName>
+                <date when="1837-03-27">27 Mar 1837</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1841.xml" resp="high">Geological Society of London</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Recommends David Williams’ paper on raised beaches of Devon [David Williams, "Letter … on the raised beaches of Barnstaple", <hi rend="italic">Trans. Geol. Soc. Lond.</hi> 2d ser. 5 (1840): 287–8] be shortened and published immediately after Sedgwick’s and Murchison’s paper ["Description of a raised beach in Barnstaple", <hi rend="italic">ibid.</hi>, pp. 279–86] as chief point of paper is to support their conclusions.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">raised beaches</term>
+                <term type="it" ref="#">Trans. Geol. Soc. Lond.</term>
+                <term type="places" ref="#">Devon</term>
+                <term type="rx" ref="#">Williams, David 1840</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">subsidence and elevation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

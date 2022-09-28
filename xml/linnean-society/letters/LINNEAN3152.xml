@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3152">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Patrick Neill, Edinburgh, to James Edward Smith, N E Kindersley's Esq, Blackheath, [Kent]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62196/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/98, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Neill, Patrick">Patrick Neill</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1806-05-09">9 May 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Blackheath, Kent</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Found 'Fucus pygmaeus' at a great height above sea level on Hoy mountain, [Orkney]. Encloses a chapter on the natural history of Edinburgh [not extant] he wrote for [John] Stark's "Picture of Edinburgh", [George] Don claims five of the plants described therein are his discovery, Neill defends himself and complains about Don. First natural history lectures in Edinburgh since the death of Dr [John] Walker [(1731-1803) professor of natural history] are to be held this summer by [Robert] Jameson [(1774–1854)] who is "fond of mineralogy and the Wernerian geology". The Natural History Society "begins to lift up its head" but has few members. John Mackay's [(1772-1802), employed at Dickson nursery, Edinburgh] memorial erected, will send a printed copy [this was sent at an unknown later date but included with this letter].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

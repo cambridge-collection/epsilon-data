@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001780">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Dorothy Hodgkin, 20 Bradmore Road, Oxford, to Grace Mary Crowfoot</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2022">2022</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 4p., and envelope</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/24/34, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/24/34</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date when="1947-09-17">17 September 1947</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Crowfoot, Grace Mary">Grace Mary Crowfoot</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

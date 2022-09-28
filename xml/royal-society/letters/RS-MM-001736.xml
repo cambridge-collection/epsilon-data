@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001736">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Augustus Frederick, Duke of Sussex, Kensington Palace, to 'Dear Sir Walter'. </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2016">2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 1p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/90, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/90</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date when="1833-06-12">12 June 1833</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="'Dear Sir Walter'.">'Dear Sir Walter'.</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4704">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. G. Stokes to T. H. Huxley   7 December 1864</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7826</idno>
+            <date when="2001">2001</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4704 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4704.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4704.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="12">12</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 99: 81–4</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>99: 81–4</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4573.xml">Stokes, G. G.</persName>
+                <placeName>Cambridge</placeName>
+                <date when="1864-12-07">7 Dec 1864</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2486.xml">Huxley, T. H.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>It is improbable that he changed the wording of Sabine’s address without his noticing. Proceeds to defend the passage by quoting the rules of the award of the Copley Medal and the Royal Society Council’s action in this case, which is accurately presented in the wording of the award.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="rx" ref="#">Sabine, Edward 1863</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">scientific controversy, confrontation</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">Copley Medal</term>
+                <term type="societal" ref="#">Royal Society of London council</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00176_files/8/0_0.jpg" width="2957px" height="5335px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00176_files/11/1_1.jpg" width="2957px" height="5335px"/>
+        <surface n="81r" xml:id="i176">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00176.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00176_files/8/0_0.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00176.dzi" width="2957px" height="5335px"/>
+        </surface>
+        <surface n="81v" xml:id="i177">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00177.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00177_files/8/0_0.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00177.dzi" width="2957px" height="5335px"/>
+        </surface>
+        <surface n="82r" xml:id="i178">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00178.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00178_files/8/0_0.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00178.dzi" width="2957px" height="5335px"/>
+        </surface>
+        <surface n="82v" xml:id="i179">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00179.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00179_files/8/0_0.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00179.dzi" width="2957px" height="5335px"/>
+        </surface>
+        <surface n="83r" xml:id="i180">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00180.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00180_files/8/0_0.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00180.dzi" width="2957px" height="5335px"/>
+        </surface>
+        <surface n="83v" xml:id="i181">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00181.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00181_files/8/0_0.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00181.dzi" width="2957px" height="5335px"/>
+        </surface>
+        <surface n="84r" xml:id="i182">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00182.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00182_files/8/0_0.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00182.dzi" width="2957px" height="5335px"/>
+        </surface>
+        <surface n="84v" xml:id="i183">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00183.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00183_files/8/0_0.jpg" width="2957px" height="5335px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00099-000-00183.dzi" width="2957px" height="5335px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L945">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Michael Faraday   23
+                                janvier 1822</title>
+                <author xml:id="AMA" key="Ampère, André-Marie                                                 (1775-1836)" ref="http://www.idref.fr/028694171">
+          <forename>André-Marie</forename>
+          <surname>Ampère</surname>
+        </author>
+                
+                
+                <funder>ANR Corpus 2012</funder>
+                
+                
+                
+                
+                
+                
+                
+                
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+<authority>La Correspondance d’André-Marie Ampère</authority>
+                
+                <publisher>Centre Alexandre Koyré - CNRS (UMR 8560)</publisher>
+                <address>
+          <addrLine>27 rue Damesme</addrLine>
+          <addrLine>75013 Paris</addrLine>
+        </address>
+                <distributor>
+          <name>Centre de calcul de
+                    l'IN2P3</name>
+          <address>
+            <addrLine>Domaine scientifique de la Doua</addrLine>
+            <addrLine>43 boulevard du 11 Novembre 1918</addrLine>
+            <addrLine>69622 Villeurbanne Cedex</addrLine>
+          </address>
+        </distributor>
+                <availability>
+          <p>Ce texte est protégé par la licence <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons</ref> dont le contenu est disponible sous Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)</p>
+        </availability>
+                <date/>
+                <idno/>
+            <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=945"/></publicationStmt>
+            
+<sourceDesc><bibl type="provenance"> <hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. vol. 1 (1811-1831) (London: 1991), Letter 162, pp. 245-248.</bibl>
+
+                <biblStruct xml:id="ampere_corr_L1822-01-23-a">
+                    <monogr>
+                        <editor>
+                            <surname>James</surname>
+                            <forename>Frank A. J. L.</forename>
+                        </editor>
+                        <title>The Correspondence of Michael Faraday</title>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <publisher>IEE</publisher>
+                            <biblScope unit="vol">vol. 1 (1811-1831)</biblScope>
+                            <date when="1991">1991</date>
+                            <biblScope unit="pp">Letter 162, pp. 245-248</biblScope>
+                        </imprint>
+                    </monogr>
+                    
+                <idno type="old">L945</idno>
+        </biblStruct>
+                <listWit>
+                    <witness xml:id="L945manuscrit">
+            <msDesc type="original_manuscrit">
+                            <msIdentifier>
+                                <country>Angleterre</country>
+                                <settlement>Londres</settlement>
+                                <institution>Institution of Electrical Engineers
+                                    Manuscript</institution>
+                                <repository>Special Collection 2 [note de Franck
+                                    JAMES]</repository>
+                            </msIdentifier>
+                        </msDesc>
+          </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#pers_A366" type="sender" key="Ampère, André-Marie">André-Marie Ampère</persName>
+          <date when="1822-01-23">23
+                                janvier 1822</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#pers_F239" type="adressee" key="Faraday, Michael">Michael Faraday</persName>
+        </correspAction>
+      </correspDesc>
+            <creation>
+        <date when="2014-07">juillet 2014</date>
+        <name>Philippe Pons</name>
+        <name>Aude
+                    Coustumer</name>
+      </creation>
+            <langUsage>
+                <language ident="fra">Français</language>
+            </langUsage>
+        </profileDesc>
+        
+    </teiHeader>
+    <text type="correspondance" decls="#ampere_corr_L1822-01-23-a"><body><div/></body></text>
+</TEI>

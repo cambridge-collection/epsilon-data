@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1673">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Craven Hill, [London], to Pleasance Smith, Lowestoft, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63611/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/92, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1814-08-04">4 Aug 1814</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Hopes Pleasance has allowed her "light to shine before men, &amp; women too" [following Smith's knighthood on 28 July 1814]; announcements in newspapers; their cards are done; lists those who attended the ceremony; reactions of friends and servants; he is now obliged to call and leave his card at many places, which otherwise he would not now do. Intends to visit Spring Grove [Sir Joseph Banks' home in Isleworth, Middlesex]; visiting a Mr and Mrs Paterson near Edgware; seeing Lord Essex's Cashiobury, [Hertfordshire], [George Capell-Coningsby, 5th Earl of Essex (1757-1839)]. Account of a fair and celebrations in Hyde Park. Bought a "pretty set of tea china".</p><p>[Letter incomplete: lower third of second folio cropped, presumed destroyed]</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

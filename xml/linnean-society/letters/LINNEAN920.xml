@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN920">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall, Orbe, Canton de Berne, [Switzerland], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62903/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/19, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                    <date when="1790-04-27">27 Apr 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>'Cardamine resedifolia' and 'Stellaria cerastoides' growing in his garden. Hopes [Charles St Clair, 13th] Lord Sinclair [(1768-1863)] will be able to deliver the parcel of lichen in fructification and the true 'Stellaria biflora' of Linnaeus. Hopes to publish his work before next March and Smith's "Systema Vegetabilium". Thinks the editors of new edition of [Albrecht von] Haller's "Historia Stirpium" ambitious to think it will appear before Easter 1792.</p><p>Pleased with [James] Sowerby's figure of his 'Sisybrium'. The bead work he sent for Smith's sister is from a covent at Pontarlier, [France]. Received "Hortus Kewensis". Wishes for Smith's agreement on differentia specificae of following plants, some include observations of his own: 'Potamogeton (retusum)', 'Gentiana (pedunculata)', 'Chenopdium polyspermum', 'Crepis musicata', 'Spartium decumbens', 'Sisymbrium obtusifolium', and 'Phyteuma'. Impatient for the rest of [James] Dickson's answers on cryptogamia he sent so as to be correct in his new species for [Werner de] Lachenal's "Flora Helvetica". Asks to be recommended to [John] Fairbairn, [James] Lee, and [William] Aiton. Genus 'Potentilla' and number eight on his list of plants sent requires special attention.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

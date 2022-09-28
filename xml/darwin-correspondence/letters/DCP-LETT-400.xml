@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-400">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. S. Henslow   [21 January 1838]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1012</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-400 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-400.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-400.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Historical Society of Pennsylvania (Dreer collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_320.xml">Pennsylvania HS</repository>
+                    <collection>Dreer collection</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Gt Marlborough St, 36</placeName>
+                <date when="1838-01-21">[21 Jan 1838]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2235.xml">Henslow, J. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends rock specimen for W. H. Miller. Asks JSH to see whether there is any geology in P. B. Webb and Sabin Berthelot, <hi rend="italic">Histoire naturelle des Îles Canaries</hi> [1835–50]. Finds his work on geology growing so large that it will take more than one volume and asks whether this will make publication aid more difficult.</p> 
+            <p>Has accepted Secretaryship of the Geological Society.</p>
+            <p>Will not come to Cambridge because "as long as I continue well I cannot bear to leave my work for half a day".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">rock specimen</term>
+                <term type="health" ref="#">Darwin himself, good or improving</term>
+                <term type="people" ref="#subject_3332">Miller, W. H.</term>
+                <term type="places" ref="#">Cambridge</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="social" ref="#">visiting</term>
+                <term type="societal" ref="#">secretaryship of Geological Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

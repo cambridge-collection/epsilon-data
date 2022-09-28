@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4094F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Armand de Quatrefages<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   [14 April 1863]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20940</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4094F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4094F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4094F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete<ref target="#foot.f10"/></note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 11: 313–14 </bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"> <hi rend="italic">Bulletins de la Société d’Anthropologie de Paris</hi> 4 (1863): 378–9 </bibl>
+            <bibl type="printedSource">BSAP 4 1863: 378–9</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>unstated</placeName>
+                <date when="1863-04-14">[14 Apr 1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3892.xml">Quatrefages de Bréau, J. L. A. de</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>The niata is a very good case because the race is well established and must originate in South America. There is a description of the head by [Richard] Owen in the <hi rend="italic">Descriptive catalogue of the osteological collection of the College of Surgeons</hi>.</p>  
+<p>Has observed modifications in the skeletons of rabbits, ducks, poultry, and pigeons. There is an extract about modifications in pigeons in the first chapter of <hi rend="italic">Origin</hi>. Encloses a woodcut of crested or polish fowls; there is a change in the brain as well as in the exterior bones.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">ducks</term>
+                <term type="animals" ref="#">niata cow</term>
+                <term type="animals" ref="#">pigeons</term>
+                <term type="animals" ref="#">poultry</term>
+                <term type="animals" ref="#">rabbits</term>
+                <term type="it" ref="#">Descriptive catalogue of the osteological collection of the College of Surgeons</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="places" ref="#">America, South</term>
+                <term type="rx" ref="#">Owen, Richard 1853</term>
+                <term type="scientific_terms" ref="#">change</term>
+                <term type="scientific_terms" ref="#">constant varieties, races</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

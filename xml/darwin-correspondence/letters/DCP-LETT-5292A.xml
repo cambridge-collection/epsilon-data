@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5292A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Fritz Müller<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   1 December 1866</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20481</idno>
+            <date when="2004">2004</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5292A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5292A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5292A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="14">14</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc">(German trans)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Möller ed. 1915–21, 2: 99–102.</bibl>
+            <bibl type="printedSource">Möller, Alfred 1915–21 2: 99–102</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3070.xml">Müller, J. F. T.</persName>
+                <placeName>Desterro, Brazil</placeName>
+                <date when="1866-12-01">1 Dec 1866</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Gives observations on orchid ovules ripening long after blooming.</p> 
+<p>Infertility with own pollen sometimes does and sometimes does not indicate dimorphism; gives observations on <hi rend="italic">Ximenia</hi>, <hi rend="italic">Eschscholtzia</hi> and <hi rend="italic">Oncidium flexuosum</hi>.</p> 
+            <p>Describes some striking seeds eaten by birds,</p>
+            <p>and some new dimorphic species.</p> 
+<p>Variation in <hi rend="italic">Thillia</hi>.</p>  
+<p>Confirms CD’s suspicion that the lancet-fish [<hi rend="italic">Amphioxus</hi>] lives in competition with invertebrates: it shares its habitat with a similar-looking <hi rend="italic">Ophelia</hi>, which is quite unlike other annelids, just as the lancet-fish is unlike other fishes.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Amphioxus</term>
+                <term type="animals" ref="#">annelids</term>
+                <term type="animals" ref="#">birds</term>
+                <term type="animals" ref="#">invertebrates</term>
+                <term type="animals" ref="#">lancet-fish</term>
+                <term type="animals" ref="#">Ophelia</term>
+                <term type="animals" ref="#">Thillia</term>
+                <term type="plants" ref="#">Eschscholtzia</term>
+                <term type="plants" ref="#">Oncidium flexuosum</term>
+                <term type="plants" ref="#">orchid</term>
+                <term type="plants" ref="#">Ximenia</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">food</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">maturity</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+                <term type="scientific_terms" ref="#">stations, niches</term>
+                <term type="scientific_terms" ref="#">struggle for existence</term>
+                <term type="scientific_terms" ref="#">time and age (‘organic’ time)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

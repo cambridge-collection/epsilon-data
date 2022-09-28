@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001746">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Ernst Boris Chain to W E van Heyningen</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">3p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/101, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/101</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Chain, Ernst Boris">Ernst Boris Chain</persName>
+               <date when="1959-05-02">2 May 1959</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="W E van Heyningen">W E van Heyningen</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

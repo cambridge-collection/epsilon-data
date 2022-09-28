@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-680A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Ernst Dieffenbach    4 July [1843]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20441</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-680A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-680A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-680A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <note type="postmark">Hamburg 21 7 43</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 476–8</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Universitäts- und Landesbibliothek Darmstadt (Nachlass Künzel Br./3/VII/1)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_109.xml">Darmstadt</repository>
+                    <collection>Nachlass Künzel</collection>
+                    <idno>Br./3/VII/1</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1843-07-04">4 July [1843]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1322.xml">Dieffenbach, Ernst</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD gratified that ED wants to translate his <hi rend="italic">Journal</hi>. Will send a copy of <hi rend="italic">Coral reefs</hi>, which contains a fuller treatment of topic. Perhaps ED would insert a note to this effect. Can lend woodcuts from <hi rend="italic">Coral reefs</hi> if ED wants. CD will send a few corrections; he wants to amend way he criticised Agassiz’s glacier theory.</p> 
+            <p>He is also enclosing a questionnaire concerning differences between races or varieties and species, about which he intends to publish sometime.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Journal</term>
+                <term type="languages" ref="#">German</term>
+                <term type="scientific_terms" ref="#">constant varieties, races</term>
+                <term type="scientific_terms" ref="#">coral</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">ice, ice-action, icebergs, glaciers</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1623">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith to James Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63566/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/47, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                    <date when="1787-02-12">12 Feb 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His last letter to his mother, of 22 January 1787. His [and William Younge's] journey from Pisa to Rome, via Florence. Account of their time in Florence, where they were "quite in raptures"; art; the sepulchre of the Medicis; spent afternoons with Abbé Fontana. Stopped in Sienne to visit Dr Mascagni; his work on the lymphatic system. Their entrance into Rome; lodging in part of a house hired by Duke of Gloucester [Prince William Henry (1764-1805)]; compares St Peter's with St Paul's [Cathedral, London]; their itinerary.</p><p>Has learned all the particulars about Spalanzani, who "proves to be a great villain", having stolen items from the Emperor's museum and blamed Scopoli; further details of legal proceedings; many of his experiments found false; his father to inform relevant people.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

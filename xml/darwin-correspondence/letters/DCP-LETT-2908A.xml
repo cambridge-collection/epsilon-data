@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2908A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Lyell<ref target="#foot.f1"/>   8 September 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20466</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2908A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2908A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2908A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy</note>
+            <note type="physdesc" n="CC">8pp</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 8: 348–51</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Edinburgh University Library, Centre for Research Collections (Lyell collection Coll-203/A3/6: 179–86)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_124.xml">Edinburgh</repository>
+                    <collection>Lyell</collection>
+                    <idno>Coll-203/A3/6: 179–86</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+                <placeName>Coburg</placeName>
+                <date when="1860-09-08">8 Sept 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Believes CD’s argument against special creation based on absence of terrestrial mammals on islands isolated before Pliocene era is very strong. However, the absence means Cetacea and bats have not modified towards terrestrial existence. There is similar lack of development of bats and rodents in Australia. Constancy among land shells of Madeira over long period shows that the majority of their species are immutable: a minority of "metamorphic" species maintains the overall number of true species while extinction removes many. Emphasis on the role of extinction discomfits CD’s opponents since the power of generation of new species ought to keep pace. Mentions Ammonite deposits with reference to CD’s comments on their apparent sudden extinction [<hi rend="italic">Origin</hi>, pp. 321–2]. Perhaps absence of transmutation on slowly subsiding atolls indicates the slow rate of selective change.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">mammals, terrestrial</term>
+                <term type="geology" ref="#">Pliocene</term>
+                <term type="scientific_terms" ref="#">change</term>
+                <term type="scientific_terms" ref="#">continuous or ‘broken’ land</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">extinction</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">land shells</term>
+                <term type="scientific_terms" ref="#">number of species</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">subsidence and elevation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">time, ‘inorganic’ (geological, historical)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

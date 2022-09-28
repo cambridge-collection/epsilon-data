@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6662">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Fritz Müller   14 March 1869</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1691</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6662 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6662.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6662.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">10pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: (453)–454</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 2: 354</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The British Library (Loan MS 10 no 27)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <collection>Loan MS 10</collection>
+                    <idno>27</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1869-03-14">14 Mar 1869</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3070.xml">Müller, J. F. T.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Translation of <hi rend="italic">Für Darwin</hi> has been published [<hi rend="italic">Facts and arguments for Darwin</hi> (1869)].</p>  
+<p>Discusses dimorphic plants, commenting on FM’s observations on <hi rend="italic">Oxalis</hi>.</p>  
+<p>Is greatly interested in <hi rend="italic">Eschscholzia</hi>, which seems somewhat more self-sterile in Brazil than in England.</p> 
+            <p>Thinks FM’s grass is "most wonderful".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Eschscholzia</term>
+                <term type="plants" ref="#">grass</term>
+                <term type="plants" ref="#">Oxalis</term>
+                <term type="it" ref="#">Facts and arguments for Darwin</term>
+                <term type="it" ref="#">Fur Darwin</term>
+                <term type="languages" ref="#">English</term>
+                <term type="places" ref="#">Brazil</term>
+                <term type="places" ref="#">England</term>
+                <term type="rx" ref="#">Müller, J. F. T. 1869</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

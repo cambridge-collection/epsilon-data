@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8052">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To R. F. Cooke   4 November 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9208</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8052 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8052.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8052.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">2pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 5</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">National Library of Scotland (John Murray Archive) (Ms. 42152 ff. 238–9)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_278.xml">Murray Archive</repository>
+                    <idno>Ms.42152 ff.238-239</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Leith Hill Place</placeName>
+                <date when="1871-11-04">4 Nov 1871</date>
+            </correspAction>
+            <correspAction type="received" subtype="personGrp">
+                <persName key="../nameregs/nameregs_1053.xml">Cooke, R. F.</persName>
+                <persName key="../nameregs/nameregs_2575.xml">John Murray, Publishers</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Agrees to stereotyping <hi rend="italic">Origin</hi> [6th ed.].</p>  
+<p>Asks that 500 or 1000 more copies of <hi rend="italic">Descent</hi> be printed. Will make no corrections except the number of thousands on title page. Would like to revise [<hi rend="italic">Descent</hi>] if it goes on selling.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="it" ref="#">Descent</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

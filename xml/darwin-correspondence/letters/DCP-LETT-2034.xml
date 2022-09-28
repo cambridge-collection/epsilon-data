@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2034">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Asa Gray   1 January [1857]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3507</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2034 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2034.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2034.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">10pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 148</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>HRS, no. 7;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 2: 88</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 6: 314</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">Archives of the Gray Herbarium, Harvard University (7)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_156.xml">Harvard Gray Herbarium</repository>
+                    <idno>7</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1857-01-01">1 Jan [1857]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks AG for 2d part of "Statistics [of the flora of the northern U. S.", <hi rend="italic">Am. J. Sci.</hi> 2d ser. 22 (1856): 204–32; 2d ser. 23 (1857): 62–84, 369–403].</p> 
+            <p>Is glad AG concludes species of large genera are wide-ranging, but is "riled" that he thinks the line of connection of alpine plants is through Greenland. Mentions comparisons of ranges worth investigating.</p>
+            <p>Believes trees show a tendency toward separation of the sexes and wonders if U. S. species bear this out. Asks which genera are protean in U. S.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">alpine plants</term>
+                <term type="plants" ref="#">trees</term>
+                <term type="it" ref="#">Am. J. Sci.</term>
+                <term type="places" ref="#">Greenland</term>
+                <term type="places" ref="#">U. S.</term>
+                <term type="places" ref="#">U. S., northern</term>
+                <term type="rx" ref="#">Gray, Asa 1856–1857</term>
+                <term type="scientific_terms" ref="#">continuous or ‘broken’ land</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">higher groupings (‘family’, ‘class’, ‘order’ etc)</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">number of species</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">wide-ranging or mundane forms</term>
+                
+                <term type="tag" ref="#asa_gray_set">Asa Gray Letters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

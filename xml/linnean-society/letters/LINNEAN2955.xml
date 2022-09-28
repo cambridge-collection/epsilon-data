@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2955">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert and Richard Pulteney, Blandford, [Dorset], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62000/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/25, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    <placeName>Blandford, Dorset</placeName>
+                    <date when="1801-08-13">13 Aug 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>[This is a double letter. Pulteney has written to Smith in between Lambert's lines of the recto and verso of the first folio]</p><p>Lambert staying with [Richard] Pulteney as his house in town is being rebuilt and enlarged, in particular the library. Obtained specimens of all the plants of the Chinese embassy, a "charming collection". Has [Andre] Michaux's [(1746-1802)] "Histoire des chenes de l'Amerique", a "Flora Americana" is to follow. Asks if Smith received the "account" in last month's "magazine of the Spanish botanists". Visited [William] Beckford [(1759-1844)] of Fonthill, [Wiltshire], saw the hothouses and greenhouses, "some of the largest in Europe" and "one of the finest private collections " he had ever seen, including many "Chinese plants in flower". Beckford's gardener Milne [(fl 1800s-1810s)], who lived with [Richard] Salisbury, is "one of the best [...] botanic gardeners in England". Milne is sending four men to collect plants for Beckford, currently in Jamaica, with letters of introduction to [Archibald] Menzies and [Robert] Brown. Requests that when Smith sends willow specimens to send Milne cuttings of all he and [James] Crowe can spare as he is making a "very large botanic garden".</p><p>Pulteney sends greetings, kept up to date in botanical matters by the monthly receipt of "English Botany". Wishes Smith success with "Flora Graeca", feels increasingly frail.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1802">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Bradbury, Mahas Nation, Missouri, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61548/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/74, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bradbury, John">John Bradbury</persName>
+                    <placeName>Mahas Nation, Missouri</placeName>
+                    <date when="1811-05-13">13 May 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Refrained from writing to Smith assuming he would hear his news through Liverpool Botanic Garden. Sending 25 specimens of plants to [William] Roscoe. Plans to travel another 1100 miles up the [Missouri], according to General Clark it is "peculiarly interesting". Recommends Smith examine a specimen of a pouched rat sent to Lord Hawley, possibly 'Mus bursorius', comments on the construction of the mouth, which resembles 'Arctomys'. Has found a 'Talpa' not dissimilar to 'Talpa europaea', and many undescribed 'Coluber' and a 'Crotatus'. His most interesting specimen is the 'Dioeica octandria' shrub which has a "much esteemed berry". Hopes to meet Smith on his return to England. In the most recent 200 miles of his journey has found more British 'Carices' than he has ever seen before in America and has now seen c 26 species of 'Carex'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

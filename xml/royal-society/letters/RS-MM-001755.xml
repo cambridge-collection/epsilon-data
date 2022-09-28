@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001755">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Benjamin Heath, Harrow, to Thomas Astle, South Lambeth, Surrey</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2018">2018</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper with a wax seal, 2p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/23/11, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/23/11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA1047" key="../nameregs/NA1047.xml">Thomas Astle</persName>
+               <date when="1775-02-14">14 February 1775</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Thomas Astle, South Lambeth">Thomas Astle, South Lambeth</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

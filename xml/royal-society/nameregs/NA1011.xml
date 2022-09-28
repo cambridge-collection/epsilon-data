@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA1011">
+   <persName>
+      <forename>John</forename>
+      <surname>Fitzmaurice</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>Viscount Kirkwall</roleName>
+   </persName>
+   <note type="dates">
+      <date>1778 - 1820</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 09 October 1778</p>
+      <p>Death: 23 November 1820</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 12/04/1804</p>
+      <p/>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+      <p>Notes: Styled Viscount Kirkwall as only son and heir of Mary, Countess of Orkney (he died before her).</p>
+   </note>
+</person>

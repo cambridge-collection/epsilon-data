@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Tyndall2042">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Walter White   13th. November<ref target="#foot.f1"/><hi rend="superscript">, </hi><ref target="#foot.f2"/></title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Tyndall Project</authority>
+                <date when="2017-10-02">2 October 2017</date>
+            </publicationStmt>
+            <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of John Tyndall</hi>, vol. 8 (2021)</ab>
+            <ab type="url">https://upittpress.org/books/9780822945772/</ab>
+        </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">MS/769/111, RS</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Tyndall, John">John Tyndall</persName>
+                    <placeName>Royal Institution of Great Britain</placeName>
+                    <date when="1863-11-13">13th. November</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="White, Walter">Walter White</persName>
+                    
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

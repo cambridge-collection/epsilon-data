@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1054">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Frankland, Thirkleby, [Yorkshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62997/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/21, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Frankland, Sir Thomas">Sir Thomas Frankland</persName>
+                    <placeName>Thirkleby, Yorkshire</placeName>
+                    <date when="1801-08-18">18 Aug 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Grateful for Smith's account of his own consumptive condition which "confirms strongly how much we are often deceived by following a particular plan or medicine from the report of such a one having been relieved by it". Smith's condition is pulmonary and less serious than his son's as it does not tend to ulceration. Dr Pitcairn says his son has no symptoms of ulceration and strongly recommends undertaking the voyage to Madeira with anecdote of a debilitated neighbour who went last winter and recovered.</p><p>Details of his son's condition: he contracted a venereal complaint at Oxford last April and having always had a delicate constitution the treatment of it affected him so much that he was obliged to tell Lady Frankland the truth, and his stength had recovered his strength until he started spitting blood; he is now stronger and looks better than he did and is confident that a general and radical strengthening of his constitution will make him better. The concealment of his son's illness whilst he was in London caused himself two or three bilious attacks.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

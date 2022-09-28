@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Faraday3563">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">Emilie Schoenbein to Faraday   8 February 1859</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Faraday Project</authority>
+            <date when="2017-10-02">2 October 2017</date>
+         </publicationStmt>
+         <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. 5 (2008)</ab>
+            <ab type="url">http://digital-library.theiet.org/content/books/ht/pbsp044e</ab>
+        </seriesStmt>
+         <sourceDesc>
+            <bibl type="provenance">UB MS NS 445</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Schoenbein, Emilie">Emilie Schoenbein</persName>
+               <date when="1859-02-08">8 February 1859</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Faraday, Michael">Michael Faraday</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

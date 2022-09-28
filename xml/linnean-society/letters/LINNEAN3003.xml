@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert, Boyton House, [Wiltshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62044/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/69, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    <placeName>Boyton, Wiltshire</placeName>
+                    <date when="1809-11-16">16 Nov [1809]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Busy with live and [Peter Simon] Pallas' dried specimens of 'Astragali', including all of the species featured in Pallas' book on the genus, some include notes from Gmelin's herbarium. Has received large box of lemongrass in flower from [James Webbe] Tobin [(d 1814)] of Nevis, long "a desideratum among all of us". Believes it is 'Andropogon nardus' Linn. and the true 'Spikenard' of the ancients. [Richard] Salisbury's publication of his work on 'Protecea' is in "such direct opposition to Soho Square" [home of Sir Joseph Banks], as well as to the Linnean Society that it is regarded as "infamous". Discusses Linnean Society news and nominates the Marquess of Bath [Thomas Thynne, 2nd Marquess of Bath (1765-1837)] as new Honorary Member, says Lord Bath pointed out the differences between the two 'Mespilus'. Has specimens of the two 'Aegiphyla' for Smith, which were discussed by [Jonas] Dryander and [Charles] Konig. [William George] Maton has been with the Queen [Charlotte (1744-1818), wife of George III] again and Mr Hausman is making a catalogue of her herbarium.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

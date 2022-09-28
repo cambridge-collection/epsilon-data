@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN919">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Edmund Davall, Orbe, Canton de Berne, [Switzerland]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62902/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/18, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1790-04-25">25 Apr 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Numbered observations on some of the plants Davall sent him. Lady Rockingham has been ill but now recovered. Intends to bring out "Syst. Veg." next winter followed by "Obs[ervationes] Bot[anicae]". Warns Davall not to be cheated by [Albrecht von] Haller [(1758-1823)] and [Jacob] Wyttenbach and to bring out his book as soon as possible, approves of title "Illustrationes Hallerianae". Received Davall's box sent via [Charles St Clair, 13th] Lord Sinclair [(1768-1863)]; thanks for 'Lichen cucullatus', forwarded parcel to [William] Curtis. Spoke to [James] Sowerby about copying 'Protea mellifera'. '[Tussilago] paradoxa' called 'Tussilago spuria' of [Anders Jahan] Retzius [(1742-1821)]. His 'Senecio nemorensis' has "eight or nine rays". Knows no good figure of 'Carex saxatilis'.</p><p>Flattered that Davall should wish him to be godfather to his child but could not promise to bring it up in the Church of England as he finds it too close to popery and "believes no nonsense under the specious name of mystery"; explains his own religious beliefs.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

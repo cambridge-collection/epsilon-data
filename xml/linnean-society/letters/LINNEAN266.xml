@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN266">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Lowestoft, [Suffolk], to Alexander Macleay, Transport Office, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64552/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/49, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                    <date when="1808-09-29">29 Sep 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Arrangements for printing of papers. Sorry "Linnean Transactions" vol 8 is so thin; his paper on 'Brodiaea' would have helped and is a fresh reason why he regrets not publishing it now. [James] Brodie's friends think not publishing it defeats the compliment, and all think it an "undue deference to a villain who is our disgrace" [Richard Salisbury had published 'Brodiaea' as 'Hookera' in "Paradisus Londinensis"]; several Council members lamented to see him forced to yield to "such opposition" and the brutality with which it was enforced. He knows Macleay acted for the best and feels the "bulk of the Society entirely guiltless", and will continue to send papers.</p><p>Has requested proofs of all [James] Sowerby's plates for his and [William Jackson] Hooker's papers on mosses, following the mistake he made with 'Hookeria lucens' in "English botany". Expecting a visit from [Robert] Brown.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

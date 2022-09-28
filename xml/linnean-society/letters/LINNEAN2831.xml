@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2831">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Nicholas Gwyn, Ipswich, [Suffolk], to James Edward Smith, chez Monsieur Oriani, Astronome Professeur Royal, Milan, [Italy]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61874/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/24, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Gwyn, Nicholas">Nicholas Gwyn</persName>
+                    <placeName>Ipswich, Suffolk</placeName>
+                    <date when="1787-02-27">27 Feb 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Milan, Italy</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Praises Smith's thesis ["Disputatio Inauguralis quaedam de Generatione complectens"]. Discusses the subject further including apparent suggestions for experiments with chickens and speculation on hereditary traits. Asks Smith to use all his energies in acquiring the "hidden treasures" of [Charles] Plumier's [(1646-1704) French botanist] collections in Paris. Asks Smith to buy any works by [Lorenzo] Bellini [(1643-1704) Italian physician and anatomist] Smith comes across. Possible incorrect classification of 'Clypeola maritima L' into 'Alyssum siculum' and 'Alyssum maritimum'. Asks for second part of [Giovanni Antonio] Scopoli's "Entomology"; [Louis] Gerard's "Flora Gallo-provincialis" and new edition of [Antoine-Joseph Dezallier] D'argenville's "Conchologie". Relates various upcoming periodicals with warning they all precede Smith's. Believes Smith will correct Linnaeus with more temperance than [Lazzaro] Spallanzani or Barrington, criticises Spallanzani's "wretched unnecessary trash". Pleased with books received from Smith but wishes [Sébastien] Vaillant had more figures in ["Botanicon Parisiense"]. Sir Thomas Cullum, Laurence and Priest have abandoned study of botany. Cullum and others in Suffolk want to establish a society to support wives and orphans of physicans, apothecaries and surgeons, Gwyn dismisses it as "relieving the parishes [of] their charges &amp; taking away every spur to frugality and industry". Reports a favourable winter.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6976">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Antoinette Louisa Brown Blackwell   8 November [1869]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3734</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6976 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6976.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6976.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Radcliffe Institute, Schlesinger Library, Harvard University (Blackwell Family Papers A–77 Folder 44)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_343.xml">Radcliffe</repository>
+                    <collection>Blackwell papers</collection>
+                    <idno>A–77 Folder 44</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Queen Anne St, 6 Down letterhead</placeName>
+                <date when="1869-11-08">8 Nov [1869]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_471.xml">Blackwell, A. L. B.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks for <hi rend="italic">Studies in general science</hi> [by A. B. Blackwell (1869)].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Studies in general science</term>
+                <term type="rx" ref="#">Blackwell, A. L. B. 1869</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

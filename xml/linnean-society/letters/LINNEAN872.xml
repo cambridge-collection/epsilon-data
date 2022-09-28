@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN872">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum and Mary Cullum, Bury [St Edmunds, Suffolk], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62830/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/66, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                    <date when="1820-08-27">27 Aug 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Lady Cullum's cataract operation a success: performed in under five minutes with no pain and before the intense heat of June which would have complicated her recovery. Operation took place same day as Sir Joseph Banks' death, 19 June. Observations on possible 'Dianthus virgineus' grown from seed collected on Lake Garda and mentioned in last letter, it is figured in "Botanical Magazine" tab.1740. Thinks [Nathaniel Shirley] Hodson's [(fl 1800s-1830s)] botanic garden at Bury "a romantic scheme" but has subscribed two guineas and though Hodson is unqualified and "quite an amateur of flowers" he has occassionally procured curious and scarce plants.</p><p>Prior to operation Lady Cullum's eyes were treated with drops of infusion of leaves of 'Atropa belladonna', some oculists also use 'Datura stramonium' and 'Hyoscyamus'; believes [John] Ray confounded the effects of 'belladonna' and 'datura' in "Syn[opsis methodica stirpium Britannicarum] p.266", though it now turns out both dilate the pupils [Smith has annotated "Ray caused this confusion - compare ed. 2 &amp; 3"]. Did not see [Aylmer Bourke] Lambert before he left London, little hope of Mrs [Catherine] Lambert's recovery. Invites the Smiths to visit Bury in October.</p><p>Mary Cullum adds postscript, in her own hand, sending her love to the Smiths.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

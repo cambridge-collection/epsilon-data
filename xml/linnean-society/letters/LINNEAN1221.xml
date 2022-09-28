@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1221">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Hafod, [Cardiganshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63183/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/68, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Hafod, Cardiganshire</placeName>
+                    <date when="1801-12-26">26 Dec 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Assures Smith that it is only those "that expect every thing, and who give themselves airs when they come here" that he is vexed, though he is sorry for the repeated complaints he has had of the avarice of his housekeeper and concludes the easiest solution is to close his house up, for if it remains open to all he shall be overrun. Has not heard or seen anything of Symmons since he returned to Wales, and though Symmons has had many workmen does not think he will stay long. Has a "small bantling" coming out; complains of White's high charges for printing. His Froissart [(c 1337-c 1405), French chronicler] translation now ready but waiting to see how his "partinger" is received before proceeding. Intends to be in London early February, in order to settle his accounts, but will not stay longer than a month as his farm now requires constant attention.</p><p>His old schoolfellow [William] Windham [(1750-1810), politician] seems willing to "undo all her formerly did", and from being a "steady Whig is become a determined Tory". Does not think the peace will last long. Thinks everyone ought to attempt to "alleviate our informal debt" and has drawn up a plan for this.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

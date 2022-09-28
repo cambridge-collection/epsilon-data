@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1509">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith, [12 Great] Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63455/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/68, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1793-02-08">8 [Feb] 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Bulliard's plates ["Histoire des champignons"]; comments on contents, including 'Clathus cancellatus' and 'Lycoperdon stellatum', which resembles his 'L. recolligens'. His fears that the "present horrible state of France would have put all literature out of the question" have not been realised. Wishes to know L'Héritier's role as a politician, believes he initially took an active part. Shocked by "murder of poor Louis" [Louis XVI (1774-1792), King of France], though it is a mercy for him considering his "uncertain situation". Sees no point in going to war and believes the country is averse to it, regardless of what ministers say.</p><p>Unable to provide Miss [Sarah Sophia] Banks [(1744-1818)] with Bungay tradesmen's halfpence as they were not produced on account of high cost. Thanks for lichen and 'Convallaria verticillata' specimens; has Smith's specimen of 'Pyrola uniflora' from Mount Cenis. Hopes to see Miss Lane's drawing of Smith at the exhibition in town; admires her drawing of Smith's eldest sister. Discusses further issues of Bulliard's plates, longs to see L'Héritier's "Geranium".</p><p>Requests Smith to add note to his account of 'Lycoperdon recolligens' [from paper on 'Lycoperdon'] to take in information from Bulliard. Does not expect to be at expense for the "Zoology &amp; Botany of New Holland".</p><p>[Letter incomplete: lower half of second folio cropped, text immediately following interruption suggests this was the note on 'Lycoperdon recolligens']</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

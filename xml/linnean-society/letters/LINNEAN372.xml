@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN372">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Adam Afzelius, Free Town, Sierra Leone, to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61365/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/1/24, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Afzelius, Adam">Adam Afzelius</persName>
+                    <placeName>Free Town, Sierra Leone</placeName>
+                    <date when="1792-07-02">2 Jul 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has arrived safely but owing to the confusion of the colony they do not have anywhere to dry plants or write observations, so prevented from collecting, which is disappointing. Has sent some bulbs and seeds, including 'Hamanthus mulliflorus' and 'Amaryllis ornata'. Happy to have [François] Borone as his travel companion. Requests to be sent [Joseph] Ga[e]rtner's "de Seminibus", Schreber's "Genera Plantarum", and the "Vegetable Kingdom" of Gmelin's System. If not for the efforts of John Clarkson [abolitionist and 1st Governor of Free Town] he would have tired of Sierra Leone. Comments on the effort Clarkson will have to make to achieve his "laudable intentions". Cannot send [Thomas] Marsham any insects for the same reasons he has not been able to collect plants.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

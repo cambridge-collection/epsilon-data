@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN357">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Erik Acharius, Vadstena, [Sweden], to James Edward Smith, Norwich, Norfolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61354/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/1/13, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="lat">Latin</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Acharius, Erik">Erik Acharius</persName>
+                    <placeName>Vadstena, Sweden</placeName>
+                    <date when="1805-10-15">15 Oct 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Apologises for delay in sending this letter. Thanks for Australian lichens and volume three of "Flora Britannica". Responds to plant observations in Smith's letter with his own. Notes on classification method in "Annals of Botany" and new classification method for lichens. His lichen collection for Linnean Society contains 500 species, hopes to send it next year. Requests first two volumes of "Flora Britannica" and further Australian plants, including 'Banksia', 'Smithia', 'Musa', 'Heliconia', 'Phormia', 'Forstera', ferns and tree ferns. Details of "History of Swedish Lichens", now being published. Awaiting lichens from [Dawson Turner]. Has not followed up proposal that he be made FMLS.</p><p>Note [in Smith's hand] labelled "To Achar[iu]s", listing several plants, including: 'Solanum stelligerum', 'Eriocalia major', 'E. minor', 'Bladfordia nobilis', 'Banksia integrifolia' flower and leaves, 'B. spinulosa' leaves, 'Cyathea auborea', 'Danaea nodosa', and 'Westringia rosmariniformis'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

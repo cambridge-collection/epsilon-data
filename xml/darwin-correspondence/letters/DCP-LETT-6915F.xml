@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6915F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. B. Tegetmeier   28 September [1869]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21229</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6915F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6915F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6915F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete<ref target="#foot.f4"/></note>
+            <note type="physdesc">inc</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Christie’s (dealers) (6 June 2001)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_88.xml">Christie’s</repository>
+                    <collection>6 June 2001</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <date when="1869-09-28">28 Sept [1869]</date>
+                <placeName>Down</placeName>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4682.xml">Tegetmeier, W. B.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>He will send carrier to the <hi rend="italic">Field</hi> office to collect pigeons.</p> 
+        </abstract>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

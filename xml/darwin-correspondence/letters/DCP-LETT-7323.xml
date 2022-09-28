@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7323">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   24 September 1870</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4672</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7323 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7323.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7323.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 502–505</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 103: 57–9</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>103: 57–9</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1870-09-24">24 Sept 1870</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Reports on the 1870 BAAS meeting at Liverpool. Huxley’s address was over the heads of the laymen.</p>
+            <p>Tyndall’s was eloquent to listen to, disappointing to read.</p> 
+<p>George Rolleston’s "Rococo" address [<hi rend="italic">Nature</hi> 2 (1870): 423–7, 442–6].</p> 
+            <p>Murchison.</p>
+            <p>Lyell.</p>
+            <p>Has done an immense lot of work.</p> 
+<p>Regrets CD has not kept the simple title "Origin of man" [for <hi rend="italic">Descent</hi>].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Nature</term>
+                <term type="people" ref="#subject_2486">Huxley, T. H.</term>
+                <term type="people" ref="#subject_3051">Lyell, Charles</term>
+                <term type="people" ref="#subject_3453">Murchison, R. I.</term>
+                <term type="people" ref="#subject_4839">Tyndall, John</term>
+                <term type="places" ref="#">Liverpool</term>
+                <term type="rx" ref="#">Rolleston, George 1870</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+                <term type="social" ref="#">meeting</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">BAAS</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00115_files/8/0_0.jpg" width="3421px" height="5551px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00115_files/11/1_1.jpg" width="3421px" height="5551px"/>
+        <surface xml:id="i1" n="57r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00115.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00115_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00115.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i2" n="57v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00116.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00116_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00116.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i3" n="58r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00117.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00117_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00117.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i4" n="58v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00118.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00118_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00118.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i5" n="59r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00119.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00119_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00119.dzi" width="3421px" height="5551px"/>
+        </surface>
+        <surface xml:id="i6" n="59v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00120.jpg" rend="portrait" width="3421px" height="5551px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00120_files/8/0_0.jpg" width="3421px" height="5551px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00103-000-00120.dzi" width="3421px" height="5551px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

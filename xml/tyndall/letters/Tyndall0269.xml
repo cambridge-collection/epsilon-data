@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Tyndall0269">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From William Wright   November 14th 1843.</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Tyndall Project</authority>
+                <date when="2017-10-02">2 October 2017</date>
+            </publicationStmt>
+            <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of John Tyndall</hi>, vol. 2 (2016)</ab>
+            <ab type="url">https://upittpress.org/books/9780822944713/</ab>
+        </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">MS JT/1/TYP/5/1813-1815, RI</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Wright, William">William Wright</persName>
+                    <placeName>Cincinnati</placeName>
+                    <date when="1843-11-14">November 14th 1843.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Tyndall, John">John Tyndall</persName>
+                    
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

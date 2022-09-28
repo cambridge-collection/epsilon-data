@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1104">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Frankland, Thirkleby, [Yorkshire], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63043/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/67, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Frankland, Sir Thomas">Sir Thomas Frankland</persName>
+                    <placeName>Thirkleby, Yorkshire</placeName>
+                    <date when="1822-04-03">3 Apr 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Pleased to hear of Smith's new work, "for to promote any study the greatest facilities should be given", believes that Valpy's and Jones' modern English-Greek Grammars would have saved him much time in his youth. His opinion on sexing of woodcocks changed, having considered opinions of Irish sportsmen and dissections made by Duke of Gordon.</p><p>Unconvinced by Horticultural Society's proposal for 33 acre experimental garden near Chiswick, [Middlesex], as the institution at present is already expensive, keeping up the garden could only be done through repeated calls for funds from members, and it will only be useful for publishing, for if the produce is sold then the nursery gardeners will be injured. Smith has not noticed his hedgehog anecdote.</p><p>Postscript on "Charms of fox-hunting", large portion of text missing from removal of address label on opposing side.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

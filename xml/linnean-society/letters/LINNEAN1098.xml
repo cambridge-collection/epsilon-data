@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1098">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Frankland, Thirkleby, [Yorkshire], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63037/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/61, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Frankland, Sir Thomas">Sir Thomas Frankland</persName>
+                    <placeName>Thirkleby, Yorkshire</placeName>
+                    <date when="1820-12-05">5 Dec 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Since last letter received four male woodcocks from an outkeeper and has not seen one dead or alive since. Favourable season for his son's shrub planting; tempertature 52°F today. His son went to York nursery recently and found 'Menziesia caerulea'; proprieter says it is difficult to keep alive. Stopped Duke of Gordon's factotum [James Hoy], brother to [Thomas] Hoy [(c 1750-1822)], the Sion gardener, getting anything from the 'Menziesia caerulea' growing at Inverness.</p><p>Asks Smith to recommend a "Genera plantarum" more recent than his Vienna 1767 edition. Request to [James] Dickson for price of cut asparagus 3 November met with "almost a doubt of the possibility of having it so early", but they cut 274 this morning in addition to a regular supply since they began, and in addition it is sweeter than that raised by common process as the pigeon holed frames keeps the manure detached from the bed.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

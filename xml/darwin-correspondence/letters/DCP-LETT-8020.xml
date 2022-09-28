@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8020">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Hermann Settegast   20 October 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3775</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8020 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8020.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8020.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Staatsbibliothek zu Berlin – Preußischer Kulturbesitz (Autogr. I/101/2, Bl. 3–4)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_379.xml">SB zu Berlin - Preußischer KB</repository>
+                    <collection>Autogr.</collection>
+                    <idno>I/101/2, Bl. 3/4</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1871-10-20">20 Oct 1871</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4300.xml">Settegast, H. G.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks HS for the preface to the 3d edition [of <hi rend="italic">Die Thierzucht</hi> (1872)].</p>  
+<p>Has purchased H. von Nathusius’ work [? <hi rend="italic">Vorträge über Viehzucht und Rassenkenntniss</hi>, Th. 1 (1872)]; feels he has ignored all that CD has attempted to make out with respect to domesticated animals.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Die Thierzucht</term>
+                <term type="it" ref="#">Vortrage uber Viehzucht und Rassenkenntniss</term>
+                <term type="rx" ref="#">Nathusius, H. E. von 1872</term>
+                <term type="rx" ref="#">Settegast, H. G. 1872</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

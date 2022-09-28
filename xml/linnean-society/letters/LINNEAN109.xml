@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN109">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Andrew Smith, Cape of Good Hope, [South Africa], to Sir James Edward Smith, Soho Square, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64479/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/ADD/92, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir Andrew">Sir Andrew Smith</persName>
+                    <placeName>Cape of Good Hope, South Africa</placeName>
+                    <date when="1825-08-20">20 Aug 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Addresses Smith as "one of the most successful and scientific cultivators of Natural History of which England can boast", informing him that a natural history museum funded by the government has been established here, by order of Lord Charles Somerset [(1767-1831), colonial administrator], and of which he has been appointed a superintendent. Offers to send Smith and Linnean Society any botanical, zoological, or mineralogical specimens required. Concedes that whilst considerable attention has been paid to this part of the world's botany a great deal remains to be done, alluding to new discoveries such as 'Crapula', 'Mesembryanthemum', 'Aloe', and 'Colyledon'. An application has been made to attach a botanic garden to the museum.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1491">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Thomas Jenkinson Woodward, Bungay, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63438/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/51, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1791-12-19">19 Dec 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for present of game. For his paper on ferns asks Woodward whether he prefers the genus they agreed, 'Asplenium nodosum', not common in gardens, or 'Trichomanes canariense', which is; if Woodward chooses the 'Asplenium' he will name the other 'Davallia', otherwise will call the 'Asplenium' 'Porocarpus'.</p><p>Continuing work on his "Tour of the Continent"; has been "very ample" in his account of [Jean Jacques] Rousseau [(1712-1778), philosopher] and had intended to attempt an apology for him until seeing Capel Lofft's [(1751-1824), radical editor and writer] "most eloquent &amp; sufficient" defence of him against [Edmund] Burke [(1730-1797), politician]. Recently received many specimens from Botany Bay; difficulty of settling natural order of some. Second fasciculus of "Icones pictae" printing and last two fasciculus of Dickson's "dried plants" will complete the work. 'Ligusticum cornubiense' figured in next fasciculus of "Icones pictae". Sorry for recurrence of Woodward's old complaint, urges him to come to London for medical advice.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

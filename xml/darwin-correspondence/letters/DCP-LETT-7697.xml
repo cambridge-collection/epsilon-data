@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7697">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Hinrich Nitsche<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   18 April 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16170</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7697 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7697.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7697.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp (German), photo, trans 2pp inc †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 87: 41–2, 45–6, 67</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>87: 41–2, 66–7</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3535.xml">Nitsche, Hinrich</persName>
+                <placeName>Leipzig</placeName>
+                <date when="1871-04-18">18 Apr 1871</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends CD photographs of his atavistic ears and ears of a foetal orang in the collection of the Zoological Museum, Leipzig.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">orang, foetal</term>
+                <term type="places" ref="#">Leipzig</term>
+                <term type="scientific_terms" ref="#">affinity and analogy</term>
+                <term type="scientific_terms" ref="#">embryology</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="societal" ref="#">Zoological Museum</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00085_files/8/0_0.jpg" width="3703px" height="6771px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00085_files/11/1_1.jpg" width="3703px" height="6771px"/>
+        <surface xml:id="i1" n="41r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00085.jpg" rend="portrait" width="3703px" height="6771px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00085_files/8/0_0.jpg" width="3703px" height="6771px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00085.dzi" width="3703px" height="6771px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="41v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00086.jpg" rend="portrait" width="3700px" height="6743px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00086_files/8/0_0.jpg" width="3700px" height="6743px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00086.dzi" width="3700px" height="6743px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="42r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00087.jpg" rend="portrait" width="3729px" height="6809px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00087_files/8/0_0.jpg" width="3729px" height="6809px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00087.dzi" width="3729px" height="6809px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="66r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00136.jpg" rend="portrait" width="3226px" height="6167px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00136_files/8/0_0.jpg" width="3226px" height="6167px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00136.dzi" width="3226px" height="6167px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="66v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00137.jpg" rend="portrait" width="3200px" height="6079px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00137_files/8/0_0.jpg" width="3200px" height="6079px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00137.dzi" width="3200px" height="6079px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="67r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00138.jpg" rend="portrait" width="3558px" height="6355px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00138_files/8/0_0.jpg" width="3558px" height="6355px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00087-000-00138.dzi" width="3558px" height="6355px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

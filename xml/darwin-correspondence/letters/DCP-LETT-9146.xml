@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9146">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   [9 November 1873]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4780</idno>
+            <date when="2014">2014</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9146 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9146.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9146.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="21">21</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 150: 484</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 95: 304–5</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>95: 304–5</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+                <placeName>London, Bryanston St, 2</placeName>
+                <date when="1873-11-09">[9 Nov 1873]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2357.xml" resp="high">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Returned from visit.</p> 
+<p>Thinks several species of <hi rend="italic">Eucalyptus</hi> would be worth experimenting on. Sends list.<hi rend="italic">Mimosa albida</hi> would be worth its weight in diamonds. <hi rend="italic">Neptunia</hi> worth more than diamonds.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term ref="#">Darwin himself, domestic life</term>
+                <term ref="#">visiting</term>
+                <term type="plants" ref="#">Eucalyptus</term>
+                <term type="plants" ref="#">Mimosa albida</term>
+                <term type="plants" ref="#">Neptunia</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00041_files/8/0_0.jpg" width="3123px" height="5185px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00041_files/11/1_1.jpg" width="3123px" height="5185px"/>
+        <surface xml:id="i1" n="304r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00041.jpg" rend="portrait" width="3123px" height="5185px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00041_files/8/0_0.jpg" width="3123px" height="5185px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00041.dzi" width="3123px" height="5185px"/>
+        </surface>
+        <surface xml:id="i2" n="304v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00042.jpg" rend="portrait" width="3123px" height="5185px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00042_files/8/0_0.jpg" width="3123px" height="5185px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00042.dzi" width="3123px" height="5185px"/>
+        </surface>
+        <surface xml:id="i3" n="305r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00043.jpg" rend="portrait" width="3123px" height="5185px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00043_files/8/0_0.jpg" width="3123px" height="5185px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00043.dzi" width="3123px" height="5185px"/>
+        </surface>
+        <surface xml:id="i4" n="305v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00044.jpg" rend="portrait" width="3123px" height="5185px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00044_files/8/0_0.jpg" width="3123px" height="5185px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00095-000-00044.dzi" width="3123px" height="5185px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2583">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Andrew Caldwell, Dublin, [Ireland], to James Edward Smith, Hammersmith, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61636/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/13, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Caldwell, Andrew">Andrew Caldwell</persName>
+                    <placeName>Dublin, Ireland</placeName>
+                    <date when="1796-06-11">11 Jun 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Hammersmith, London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Aware that Smith is embarking on his travels at the end of the month. Presumes Smith went to Norfolk for the election, is surprised that Windham "came in so easily" given how "out of favour" he deemed him to be when visiting. Criticises the unrepresentative electoral system.</p><p>Desirous of having some of Smith's verse, would also like the inscription on Sir Thomas Browne's Monument [(1605–1682) physician and author], feels it was a great omission from the "Norfolk Tour". Hopes Smith will be able to look at the Dublin Society's Leske collection soon. The Dublin Botanic Garden is developing at a great scale and expense but no gardener has as yet been found, asks after the "young man at Kew that the judges thought superior to [William Townsend] Aiton".</p><p>Requests a copy of the third volume of the "Linnean Transactions". Enquires after several publications: asks if [Adam] Afzelius is continuing with the "Iter Suecicum"; the new edition of "Hortus Kewensis"; laments abandonment of "Flora Rustica"; frustration that the second edition of the "Dictionary" still does not illustrate terminology; suggests having a map of Linnaeus's journey to accompany the "Flora". Found 'Scilla verna' on a recent excursion to Howth, a local mountain, to the surprise of [Walter] Wade, Daly, Scot and other doctors and botanists, praises Smith's figure of it and describes his specimen.</p><p>Sorry to hear of [John] Sibthorp's death, has heard there are plans to publish his travels and a large quantity of manscripts have been left. Asks after [Nicholas] Gwyn. Nearly finished reading second volume of Lorenzo de Medici, surprised that such an elegant work could issue from "the dross of such a place as Liverpool". Has enquired in vain after works of [Jean] Froissart [(c 1337-c 1405)]. Has two specimens of sycamore.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

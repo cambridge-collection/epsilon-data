@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1581">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   25 August 1854</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2358</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1581 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1581.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1581.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="inc">†</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 205.9: 384</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>205.9: 384</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1854-08-25">25 Aug 1854</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>JDH and F. W. Binney identify <hi rend="italic">Calamites</hi> specimens as pith casts. They are cryptogams related to, but higher than, Lycopodiaceae and contradict progression.</p> 
+            <p>Insects found in coal.</p>
+            <p>Lyell says Stonesfield slate marsupials are actually placentals.</p> 
+<p>JDH reading Alexander Braun on individuality ["Das Individuum der Pflanze in seinem Verhältniss zur Species", <hi rend="italic">Abh. K. Akad. Wiss. Berlin (Phys. Kl.)</hi> (1853): 19–122].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">insects</term>
+                <term type="animals" ref="#">marsupials</term>
+                <term type="animals" ref="#">placentals</term>
+                <term type="plants" ref="#">Calamites</term>
+                <term type="plants" ref="#">cryptogams</term>
+                <term type="plants" ref="#">Lycopodiaceae</term>
+                <term type="geology" ref="#">coal</term>
+                <term type="geology" ref="#">slate</term>
+                <term type="it" ref="#">Abh. K. Akad. Wiss. Berlin (Phys. Kl.)</term>
+                <term type="people" ref="#subject_451">Binney, E. W.</term>
+                <term type="people" ref="#subject_3051">Lyell, Charles</term>
+                <term type="places" ref="#">Stonesfield</term>
+                <term type="rx" ref="#">Braun, A. C. H. 1853b</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">fossils</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">highness and lowness</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">individuals</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00826_files/8/0_0.jpg" width="3539px" height="6042px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00826_files/11/1_1.jpg" width="3539px" height="6042px"/>
+        <surface xml:id="i1" n="384.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00826.jpg" rend="portrait" width="3539px" height="6042px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00826_files/8/0_0.jpg" width="3539px" height="6042px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00826.dzi" width="3539px" height="6042px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="384.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00827.jpg" rend="portrait" width="3539px" height="6042px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00827_files/8/0_0.jpg" width="3539px" height="6042px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00827.dzi" width="3539px" height="6042px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="384.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00828.jpg" rend="portrait" width="3539px" height="6042px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00828_files/8/0_0.jpg" width="3539px" height="6042px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00828.dzi" width="3539px" height="6042px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="384.3r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00830.jpg" rend="portrait" width="3539px" height="6042px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00830_files/8/0_0.jpg" width="3539px" height="6042px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00830.dzi" width="3539px" height="6042px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="384.4r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00831.jpg" rend="portrait" width="3539px" height="6042px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00831_files/8/0_0.jpg" width="3539px" height="6042px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00831.dzi" width="3539px" height="6042px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="384.4v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00833.jpg" rend="portrait" width="3539px" height="6042px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00833_files/8/0_0.jpg" width="3539px" height="6042px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00009-000-00833.dzi" width="3539px" height="6042px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

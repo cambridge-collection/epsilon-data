@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN691">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Berners Street, [London], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62664/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/11, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>London</placeName>
+                    <date when="1814-11-24">24 Nov 1814</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sent letter relating to Mrs Stoddart, to Mr Lynn [Goodenough's son-in-law], in reference to irregularities in the management and claiming of dues of the manor of Kirkland, Cumberland. His knowledge of the business: as the Minister of Caldbeck, the de facto lord of the manor, has had no regular residence the rights of the manor have not been kept up, and so by Cumberland law deemed to be obsolete. Subsequently, the tenants have been conveying their estates without paying the customary dues and fees, which Mr Lynn now intends to claim as lord of the manor.</p><p>[Thomas] Marsham about to move from Baker Street to a house in Winchmore Hill which was lately occupied by Marsham's son, William, and mistress. Goodenough shocked to hear that Marsham and his wife visited them on many occassions; "how the revolutionary confusions of sound morality spread". [Aylmer Bourke] Lambert at his brother-in-law's house in the country recovering from a "great irritation" caused by overexcitement and exhaustion during a visit by [Aimé] Bonpland [(1773-1858)].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

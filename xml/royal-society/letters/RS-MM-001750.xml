@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001750">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Hewer Edgley Hewer, Paris to Robert Gosling, Bookseller, at the Mitre &amp; Crown, Fleet Street, London </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2011">2011</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 2p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/23/4, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/23/4</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA7362" key="../nameregs/NA7362.xml">Hewer Edgley Hewer</persName>
+               <date>26 June n.y. [1716?]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Robert Gosling, Bookseller, at the Mitre &amp; Crown, Fleet Street">Robert Gosling, Bookseller, at the Mitre &amp; Crown, Fleet Street</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

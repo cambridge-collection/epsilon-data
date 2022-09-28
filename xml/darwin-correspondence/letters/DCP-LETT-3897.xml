@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3897">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Asa Gray   2 January [1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3621</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3897 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3897.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3897.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 217</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>HRS, no. 92</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 11: 1</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Gray Herbarium of Harvard University (56)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_156.xml">Harvard Gray Herbarium</repository>
+                    <idno>56</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1863-01-02">2 Jan [1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks AG for <hi rend="italic">Cypripedium</hi> and <hi rend="italic">Mitchella</hi>.</p>  
+<p>Plans to investigate pollination of <hi rend="italic">Cypripedium</hi>.</p>  
+<p>Has finished <hi rend="italic">Linum</hi> paper [<hi rend="italic">Collected papers</hi> 2: 93–105].</p> 
+            <p>Would welcome facts on "bud-variations".</p> 
+<p>Hears that <hi rend="italic">Cinchona</hi> is dimorphic.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Cinchona</term>
+                <term type="plants" ref="#">Cypripedium</term>
+                <term type="plants" ref="#">Mitchella</term>
+                <term type="it" ref="#">Collected papers</term>
+                <term type="it" ref="#">Linum</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">pollen</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">sports</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                
+                <term type="tag" ref="#asa_gray_set">Asa Gray Letters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

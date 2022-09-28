@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3286">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Constantine Samuel Rafinesque, Palermo, [Sicily], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62351/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/9/24, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Rafinesque, Constantine Samuel">Constantine Samuel Rafinesque</persName>
+                    <placeName>Palermo, Sicily</placeName>
+                    <date when="1811-03-30">30 Mar 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 28 October 1810. Sends paper for Linnean Society on two new species of crustacean and lists the others he plans to send. Plans to send package of 100 rare, new, or doubtful Sicilian plants. Comments and corrections on his plants: his 'Primula bicolor' differs from 'Primula acaulis'; lists differences that ought to to be obsevred if his 'Xolantha' is only a variety of 'Cistus guttatus'; plans to send his 'Crocus longiflorus'; question on calix of 'Sedum atratum'; confirmation of his 'Malva peduncalata'. Recently received books: Smith's "Prodromus Florae Graecae" is of great use in Sicily; "Hortus Kewensis", 2nd ed., useful for advancing his knowledge of new genera; and [George] Shaw's "Ichthyology" [presumably from "General zoology"], thinks it inferior to Lacépède, on which it was modelled. Offers to describe Australian plants. Asks after plants sent by himself and [Antonio] Bivona [Bernardi] including 'Orobus siculus' and 'Astragalus siculus'; asks if 'Orabanche rubia', 'Orchis undulatifolia', and 'Orchis bipunctata' are new.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

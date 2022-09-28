@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2182">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Jackson Hooker, Glasgow, to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64016/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/23/10, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hooker, Sir William Jackson">Sir William Jackson Hooker</persName>
+                    <placeName>Glasgow</placeName>
+                    <date when="1824-10-05">5 Oct 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Apologises again for apparent attacks on Smith in "Flora Scotia", which he will correct in the next edition; thanks for mention of botanical errors, but still differs on matters of opinion, including: does not agree about 'Salix', maintains criticism of "English botany" figure of 'Aquilegia vulgaris', cannot credit Smith for his work on 'Mentha' due to space, took his ideas on sexes of 'Tussilago' from multiple authors. Most hurt that Smith believes rumours that John Lindley [(1799-1865)] was the principal author, explains his involvement.</p><p>From Smith's paper on 'Hypnum recognitum' in "Linnean Transactions" vol 13 presumes he has not seen his own account of 'Hypnum recognitum' in "Flora Londinensis". Concedes he made an error respecting 'Rubus chamaemorus'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

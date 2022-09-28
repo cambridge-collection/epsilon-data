@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3802">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   12 November 1862</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4252</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3802 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3802.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3802.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 63–64</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 10: 520</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 101: 75–6</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>101: 75–6</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1862-11-12">12 Nov 1862</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Samuel Haughton was the prejudiced reviewer of the <hi rend="italic">Origin</hi>. JDH’s opinion of SH.</p>  
+<p>Has heard from a W. African collector that P. B. Du Chaillu’s accounts [<hi rend="italic">Explorations and adventures in equatorial Africa</hi> (1861)] are all false.</p> 
+            <p>R. F. Burton has impudently stolen credit for Gustav Mann’s Cameroon expedition.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Origin</term>
+                <term type="people" ref="#subject_756">Burton, R. F.</term>
+                <term type="people" ref="#">collector</term>
+                <term type="people" ref="#subject_2165">Haughton, Samuel</term>
+                <term type="people" ref="#subject_3151">Mann, Gustav</term>
+                <term type="people" ref="#">reviewer, prejudiced</term>
+                <term type="places" ref="#">Africa, W.</term>
+                <term type="places" ref="#">Cameroons</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00147_files/8/0_0.jpg" width="3040px" height="5522px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00147_files/11/1_1.jpg" width="3040px" height="5522px"/>
+        <surface xml:id="i1" n="75r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00147.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00147_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00147.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i2" n="75v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00148.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00148_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00148.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i3" n="76r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00149.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00149_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00149.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i4" n="76v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00150.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00150_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00150.dzi" width="3040px" height="5522px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

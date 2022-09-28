@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2048">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Beeston Coyte, Ipswich, [Suffolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63859/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/21/82, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Coyte, William Beeston">William Beeston Coyte</persName>
+                    <placeName>Ipswich, Suffolk</placeName>
+                    <date when="1795-05-01">1 May 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sorry to hear of Smith's indifferent health in the "severe" winter. Botanical queries: asks if there are any species of 'Malaxia' other than 'M. paludosa'; what is "peat-moss"; is 'Brassica muralis' to remain or be reclassified a 'Sisymbrium'; what is the species of 'Geoffraea', now 'Hopea', Smith saw in his hothouse; which seeds of syngenes flowers to make trial of; are there plants called 'Aristolochia nigra' or 'A. hyeanalis'; what is new name for 'Osmunda crispa' and 'O. struthiopteris', is it now 'Davallia canariensis'. Found 'Hesperis inodosa' near Falmouth, [Cornwall].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

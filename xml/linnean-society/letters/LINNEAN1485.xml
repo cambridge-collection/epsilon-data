@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1485">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63433/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/46, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1791-03-20">20 Mar 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends his paper on 'Lycoperdon' [see RelatedMaterial below]; comments on its composition and contents; all the figures but one copied by [Robert] Stone [(c 1751-1829), botanist] from Schaeffer and Bryant, requests if printed this one is redone by Smith's sister; sends specimens. Thanks for [John] Pitchford's Swiss 'Schoenus ferrugineus'.</p><p>Requests English and Latin copies of "Icones pictae", plus "Spicilegium botanicum". Has seen [Richard] Salisbury's publication ["Icones stirpium rariorum.."]; prefers Smith's "Icones", in spite of its "magnificence"; "English botany" well received but thinks the figure of 'Orchis conopsea' badly figured, warns [James] Sowerby to maintain the quality from first number as [William] Curtis is "much complained of for that". Sends 'Tilloa muscosa' for [James] Dickson and will send 'Carex strigosa'.</p><p>Encloses just found specimen of 'Lycoperdon fornicatum' specimen, which proves it is a new species.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

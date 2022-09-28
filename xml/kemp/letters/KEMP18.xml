@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KEMP18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From William Oliver to William Kemp   26 December 1842</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="William Kemp">The William Kemp Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Ruth Cramond</authority>
+                <date when="2021-09-21">2021</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">Cambridge University Library (MS Add. 10252/13)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>            
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="../nameregs/nameregs_9586.xml">Oliver, William</persName>
+                    
+                    <date when="1842-12-26">26 Dec 1842</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="../nameregs/nameregs_2657.xml">Kemp, William</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Thanks for Maclaren’s Sketch (Maclaren 1839 bibl_5120).</p>
+                <p>Has seen WK’s views on Rubers Law and commiserates with him on William Buckland’s disapproval.</p>
+                <p>David Milne (later David Milne Home) is preparing a paper on the geology of Roxburghshire. (Presumably Milne, David. 1842-3. Geological account of Roxburghshire. <hi rend="italic">Transactions of The Royal Society of Edinburgh</hi> (15) 1844, pp. 433-502.)</p>
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

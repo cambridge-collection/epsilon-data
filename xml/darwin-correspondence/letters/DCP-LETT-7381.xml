@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7381">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From V. O. Kovalevsky   22 November 1870</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">17784</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7381 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7381.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7381.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 169: 85</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>169: 85</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2751.xml">Kovalevsky, V. O.</persName>
+                <placeName>Berlin</placeName>
+                <date when="1870-11-22">22 Nov 1870</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sofya Kovalevsky not admitted to University in Berlin.</p> 
+<p>Translating the four sheets CD sent. When will book [<hi rend="italic">Descent</hi>] be printed?</p> 
+            <p>Alexander [Kovalevsky] has gone to the Red Sea to study corals.</p> 
+<p>Will work on live <hi rend="italic">Scalpellum</hi> at Naples in spring.</p> 
+            <p>Bemoans England’s Prussian sympathies. Paris will fall without bombardment.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">corals</term>
+                <term type="animals" ref="#">Scalpellum</term>
+                <term type="it" ref="#">Descent</term>
+                <term type="people" ref="#subject_2749">Kovalevsky, A. O.</term>
+                <term type="people" ref="#subject_2750">Kovalevsky, Sophie</term>
+                <term type="places" ref="#">England</term>
+                <term type="places" ref="#">Naples</term>
+                <term type="places" ref="#">Paris</term>
+                <term type="places" ref="#">Prussia</term>
+                <term type="places" ref="#">Red Sea</term>
+                <term type="scientific_terms" ref="#">coral</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">University of Berlin</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

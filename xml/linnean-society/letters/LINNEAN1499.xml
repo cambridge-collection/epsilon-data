@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1499">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Matlock Bath, [Derbyshire], to Thomas Jenkinson Woodward, Bungay, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63446/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/59, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Matlock Bath, Derbyshire</placeName>
+                    <date when="1792-06-22">22 Jun 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Woodward's letter [of 19 June 1792]. His health bad since April, following various inflammatory attacks on his lungs, for which he has come to Matlock, several relapses but much recovered. Dr [Erasmus] Darwin is here, "a fine old man, full of enthusiasm", who wants to become a FLS, thinks Sir Brooke Boothby [7th baronet, (1744-1824), poet and writer] would, too. Admires Woodward's friend, Mr Favell. His new work is the second part of "Spicilegium botanicum".</p><p>Requests specimen of 'Ornithogalum pyrenaicum'. Abundance of bee and fly orchids here and he collected many lichens off the high rocks of Cromford moor, including: 'Lichen omphalodes', 'L. saxatalis', 'L. globiferus', 'L. fragilis', 'L. physodes', 'L. sanguinarius', 'L. ventosus', 'L. tartareus', 'L. calcareus', 'L. polyphyllus', and 'Jungermannia tridentata' but not in flower. Studied Hoffmann's works little but they seem very good, he is Murray's successor at Gottingen. Comparison of his "Flora Lapponica" with the original will show he corrected the citations very much. He has been lonely in Matlock.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

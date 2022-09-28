@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3595">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Asa Gray   10–20 June [1862]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3542</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3595 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3595.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3595.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">10pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 205</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Baker (1965): 143;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl>HRS, no. 42;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 2: 387, 3: 271</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 10: 239</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Gray Herbarium of Harvard University (66)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_156.xml">Harvard Gray Herbarium</repository>
+                    <idno>66</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1862-06-10" notAfter="1862-06-20">10–20 June [1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1957.xml">Gray, Asa</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks AG for praise of <hi rend="italic">Orchids</hi> and his notes on several American species of orchid. Comments on AG’s observations.</p>  
+<p>Is experimenting [on dimorphism] with <hi rend="italic">Rhexia</hi> and <hi rend="italic">Melastoma</hi>.</p>  
+<p>Asks AG’s opinion of a paper by Thomas Meehan ["On the uniformity of relative characters between allied species of European and American trees", <hi rend="italic">Proc. Philadelphia Acad. Nat. Sci.</hi> (1862): 10–13] which is the best case of the apparently direct action of the conditions of life CD has seen.</p> 
+            <p>Requests postage stamp for his ill son [Leonard].</p> 
+<p>Thanks AG for observations on <hi rend="italic">Cypripedium</hi> and gives recent observations of his own.</p>  
+<p><hi rend="italic">Arethusa</hi> is very pretty; structure seems like that of <hi rend="italic">Vanilla</hi>.</p>  
+<p>Finds the little (so-called imperfect) flowers of <hi rend="italic">Viola</hi> and <hi rend="italic">Oxalis</hi> curious: the pollen-grains emit their tubes whilst within the anthers, and they travel in straight lines right to the stigmas.</p> 
+            <p>Sympathises with events in the U. S.</p> 
+<p>Reports on French translation of <hi rend="italic">Origin</hi> by Mlle C. Royer, "one of the cleverest &amp; oddest women in Europe".</p> 
+            <p>Alphonse de Candolle says he wants direct proof of natural selection; "he will have to wait a long time for that".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Arethusa</term>
+                <term type="plants" ref="#">Cypripedium</term>
+                <term type="plants" ref="#">Melastoma</term>
+                <term type="plants" ref="#">Oxalis</term>
+                <term type="plants" ref="#">Rhexia</term>
+                <term type="plants" ref="#">Vanilla</term>
+                <term type="plants" ref="#">Viola</term>
+                <term type="health" ref="#">Darwin family</term>
+                <term type="it" ref="#">Orchids</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="it" ref="#">Proc. Philadelphia Acad. Nat. Sci.</term>
+                <term type="languages" ref="#">French</term>
+                <term type="people" ref="#subject_813">Candolle, Alphonse de</term>
+                <term type="people" ref="#subject_1230">Darwin, Leonard</term>
+                <term type="people" ref="#subject_4113">Royer, C. A.</term>
+                <term type="places" ref="#">Europe</term>
+                <term type="rx" ref="#">Meehan, Thomas 1862</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">pollen</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">positive self-criticism</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">representative species</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">time, ‘inorganic’ (geological, historical)</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+                <term type="social" ref="#">events in U. S.</term>
+                <term type="social" ref="#">Other people</term>
+                
+                <term type="tag" ref="#asa_gray_set">Asa Gray Letters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

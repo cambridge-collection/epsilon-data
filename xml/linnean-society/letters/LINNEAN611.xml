@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN611">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Windsor, [Berkshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62583/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/39, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Windsor, Berkshire</placeName>
+                    <date when="1800-02-13">13 Feb 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Prevented by gout from reviewing Smith's papers; it was caused by his horse plunging into an unexpected hole whilst crossing a river at Old Windsor, Berkshire. Smith "deep in the willows": he thinks they should be described in the two states of fructification and leaf; agrees that 'Salix amygdalina' and 'S. triandra' are the same, having seen it in Bath and on Battersea fields with different leaves but the same bark; found 'Salix rubra fissa' Hoffmann in a holt on the north side of Ely, Cambridgeshire, and not on Prickwillow Bank; wanted to add the habitat of Walmer Castle and Deal, Kent, to 'S. arenaria' but not sure of Smith's plant; glad that Smith has thrown out 'S. hermaphroditica'. Does not follow Smith's 'Polypodium': thought they found 'P. thelypteris' near Bury but Smith has listed it as 'P. oreopteris'; asks how Smith has addressed 'P. aculeatum' and 'P. lobatum' on account of how different they appeared in [William] Sole's garden.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

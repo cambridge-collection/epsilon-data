@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-8748">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. V. Carus   23 January 1873</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7365</idno>
+            <date when="2014">2014</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-8748 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8748.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-8748.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="21">21</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Staatsbibliothek zu Berlin – Preußischer Kulturbesitz (Slg. Darmstaedter Lc 1859: Darwin, Charles, Bl. 100–101)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_379.xml">SB zu Berlin - Preußischer KB</repository>
+                    <collection>Slg. Darmstaedter</collection>
+                    <idno>Lc 1859: Darwin, Charles, Bl. 100–1</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1873-01-23">23 Jan 1873</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_849.xml">Carus, J. V.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Acknowledges correction in text of Variat<hi rend="italic">ion</hi> . "You are a most conscientious editor &amp; are as careful as I am apt to be careless."</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Expression</term>
+                <term type="scientific_terms" ref="#">expression, emotion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

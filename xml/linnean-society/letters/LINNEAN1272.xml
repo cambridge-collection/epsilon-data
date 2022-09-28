@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1272">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to William Roscoe, Liverpool, [Lancashire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63343/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/112, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1817-12-03">3 Dec 1817</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Replies to Roscoe's letter of 18 November. Recovered from the most obstinate bowel complaint he has ever had, which confined him for three weeks. His hard work on [Abraham Rees'] "Cyclopedia", which is now coming to a close, prevents him from saying much on the "sad loss" of the Princess [Charlotte (1796-1817), only child of the Prince Regent]; wonders at possibility of a subscription for a national memorial, as with Waterloo subscription, with a school attached.</p><p>Congratulates Roscoe on opening of the Liverpool [Royal] Institution; anxious to see Roscoe's lecture in print; he and Mr Valpy do not know of anyone for the [Classical] tutor. Depending on his engagements accepts Roscoe's proposal [for Smith to lecture on botany]. Coke family "much shocked" by the sudden death of Lady [Elizabeth] Albemarle [(d 1815), first wife of William Charles Keppel, 4th Earl of Albemarle (1772-1849)] at Holkham, [Norfolk, home of Thomas William Coke], from a miscarriage. Glad that Franklin's letters have been published.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

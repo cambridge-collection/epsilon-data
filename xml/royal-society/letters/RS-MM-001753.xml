@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001753">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from an unknown correspondent, to Edward Bancroft, London</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 2p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/23/8, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/23/8</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName/>
+               <date>18 April [p.m] n.y.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8115" key="../nameregs/NA8115.xml">Edward Bancroft</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

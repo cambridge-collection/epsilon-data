@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2387">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Constantine Samuel Rafinesque, Palermo, [Sicily], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64213/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/25/1, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Rafinesque, Constantine Samuel">Constantine Samuel Rafinesque</persName>
+                    <placeName>Palermo, Sicily</placeName>
+                    <date when="1809-05-25">25 May 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Introduces himself to Smith on strength of his belief that all naturalists in the world should be in communication and promote their studies by exchanging materials and observations. He and Bivona both desire to establish a correspondence with Smith. Sends a fasciculus of his of 16 Sicilian plants [extant]. Publishing a work on new Sicilian genera and species, principally fish, zoophytes, and marine plants; will send copies to Smith and Linnean Society and sends plates of fish now [extant].</p><p>Requests to be proposed a FMLS or corresponding member. They intend to institute a Sicilian Linnean Society, modelled on the British one. Lists papers he would like published in England. Sending north American and Sicilian plants for comparison with Linnaean specimens, including 'Euphorbia myrsinites'.</p><p>"Fasciculus of 16 Sicilian plants", list of plants that will appear in the work [1 p].</p><p>Plates of 21 fish, uncoloured [7 pp].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

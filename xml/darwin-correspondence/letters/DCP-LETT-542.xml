@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-542">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Caroline Wedgwood   [27 October 1839]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1874</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-542 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-542.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-542.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="C">6pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 154: 54</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>154: 54</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Upper Gower St, 12</placeName>
+                <date when="1839-10-27">[27 Oct 1839]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1208.xml">Wedgwood, C. S.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Describes his routine for a typical day – writing <hi rend="italic">Coral reefs</hi>, studying German.</p>  
+<p>FitzRoy’s "Deluge Chapter" [<hi rend="italic">Narrative</hi> 2, ch. 28] will amuse her.</p>  
+<p>His opinion of Carlyle’s <hi rend="italic">Critical and miscellaneous essays</hi> [1839].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Coral reefs</term>
+                <term type="it" ref="#">Critical and miscellaneous essays</term>
+                <term type="it" ref="#">Narrative</term>
+                <term type="people" ref="#subject_1650">FitzRoy, Robert</term>
+                <term type="rx" ref="#">Carlyle, Thomas 1838–1839</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

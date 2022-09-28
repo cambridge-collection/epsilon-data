@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1635">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Genoa, [Italy], to James Smith, 14 Paradise Row, Chelsea, [London]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63577/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/58, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Genoa, Italy</placeName>
+                    <date when="1787-07-02">2 Jul 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received his parents' letters of 16 May, 21 May, and 28 May [1787]. Sending books home. Sorry to hear of Molly Standard's "folly &amp; misfortune" [Smith's housekeeper; she had become pregnant]. Conduct of cousin Thomas Smith and his sister fills him with "surprise &amp; indignation [...] shame &amp; contempt". Has advised Mr Marsh to take a ship home to England, realising that he will never get well on land, and his father demands his return as he has spent over £600 in the last 6 months. Details of his and [William] Younge's parting of ways. "Very well pleased" with a servant he hired at Milan, though he "dresses hair badly".</p><p>During his time at Pavia met Scopoli, who having heard he intends to publish some works of Linnaeus, offered all his notes; had his suspicions about Spalanzani and Scopoli fully justified; account of Spalanzani; overlooking translation of his publication into Italian [probably his Leyden dissertation]. Time spent with the Marquis Durazzo. Suffered a slight health scare but now better.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

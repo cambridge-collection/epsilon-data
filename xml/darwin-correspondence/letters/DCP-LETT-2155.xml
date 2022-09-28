@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2155">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To <hi rend="italic">Gardeners’ Chronicle</hi>   18 October [1857]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">15621</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2155 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2155.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2155.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Collected papers</hi> 1: 275</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 6: 465</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"><hi rend="italic">Gardeners’ Chronicle and Agricultural Gazette</hi>, 24 October 1857, p. 725</bibl>
+            <bibl type="printedSource">Gard. Chron. 1857: 725</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1857-10-18">18 Oct [1857]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1808.xml">Gardeners’ Chronicle</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Describes his experiments with kidney beans to test the agency of bees in their fertilisation. His results suggest they are essential.</p> 
+<p>Asks what George Swayne could mean by the advantage of artificial fertilisation of early beans [<hi rend="italic">Trans. Hortic. Soc. Lond.</hi> 5 (1824): 208–13].</p>  
+<p>Has observed that hive-bees, which normally suck nectar from the flower of the kidney bean, will use holes cut through the calyx by humble-bees, though the holes cannot be seen from the mouth of the flower. Suggests hive-bees see humble-bees at work and understand what they are doing and "rationally" take advantage of the shorter path to the nectar. [See also <hi rend="doubleUnderline">2359</hi>.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">2359</term>
+                <term type="animals" ref="#">bees</term>
+                <term type="animals" ref="#">bees, hive</term>
+                <term type="animals" ref="#">bees, humble</term>
+                <term type="plants" ref="#">bean, kidney</term>
+                <term type="plants" ref="#">beans</term>
+                <term type="plants" ref="#">beans, kidney</term>
+                <term type="it" ref="#">Trans. Hortic. Soc. Lond.</term>
+                <term type="rx" ref="#">Swayne, George 1824</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">behaviour</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">human intervention</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">mind, cognitive behaviour</term>
+                <term type="scientific_terms" ref="#">nectar</term>
+                <term type="scientific_terms" ref="#">perception and sensation</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">time and age (‘organic’ time)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

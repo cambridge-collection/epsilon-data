@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Herschel11508">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Sir Charles Lyell   [1 June 1836]</title>
+                <respStmt xml:id="calendarPrint">
+                    <resp>Record created for the <hi rend="italic">Calendar of the Correspondence of Sir John Herschel</hi> (CUP: Cambridge), 1998 by</resp>
+                    <name>Michael J. Crowe ed., David R. Dyck and James J. Kevin assoc. eds</name>
+                </respStmt>
+                <respStmt xml:id="calendarOnline">
+                    <resp>Digital record created by</resp>
+                    <name>Dr Marvin Bolt and Steven Lucy at the Webster Institute of the Adler Planetarium</name>
+                </respStmt>
+                <respStmt xml:id="convertedToTEI">
+                    <resp>Converted to TEI by</resp>
+                    <name>Michael Hawkins, Epsilon Project, Cambridge University Library</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>John Herschel Project</authority>
+                <availability status="restricted">
+                    <p>Michael J. Crowe (editor), David R. Dyck and James J. Kevin (associate editors), Calendar of the Correspondence of Sir John Herschel (Cambridge, England: Cambridge Univ. Press, 1998), viii + 828 pp. Converted into web usable data in May 2009 by Dr. Marvin Bolt and Steven Lucy, working at the Webster Institute of the Adler Planetarium.</p>
+                </availability>
+                <date when="2018-07-23">23 July 2018</date>
+            </publicationStmt>
+            <notesStmt><note type="physdesc">ALS 4pp</note></notesStmt>
+            <sourceDesc>
+                <bibl type="provenance">RS:HS 11.420 inc</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lyell, Sir Charles">Sir Charles Lyell</persName>
+                    <placeName>16 Hart St.</placeName>
+                    <date when="1836-06-01">[1 June 1836]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Herschel, Sir John">Sir John Herschel</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Preparing fifth edition of Principles of Geology, using JH's facts about boiling seeds. Mathematical error in CL's climate theory. CL's first speech as president of Geological Society. Criticizes R.S.L. JH's volcanic theory was too complex; will incorporate it into later editions. Benefits to science of Charles Babbage's social parties. Latest publications in geology. P.S. Glad to learn that JH thinks origin of new species may occur through intermediate causes; Germans criticized this. CL chooses not to engage in controversies. Speculates on successive extinction of species. Notes on African hot springs.</p> 
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

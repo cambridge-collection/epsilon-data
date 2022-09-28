@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2588">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Andrew Caldwell to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61641/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/18, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Caldwell, Andrew">Andrew Caldwell</persName>
+                    <placeName>Dublin, Ireland</placeName>
+                    <date when="1798-12-25">25 Dec 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>On hearing that the French had surrendered [following an invasion in support of Irish rebels] took a boat to Holyhead, Anglesey, to botanise with Hugh Davies. Description of a glen in which 'Polypodium fragile', 'Polypodium cristatum', 'Polypodium filix-mas' and 'Polypodium femina', 'Asplenium [adiantum-nigrum]', and 'Papaver cambricum'. Also found 'Lichen geographicus', 'Lichen concentricus', 'Sedum telephium' and 'Sedum reflexum'. Found an abundance of 'Lychnis flore rubro'. Recommends going to see Lord Penrhyn's [Richard Pennant (c 1737-1808) 1st Baron Penrhyn] slate quarry. Also visited Aberystwyth, Bangor, Beumorris, Caernarvon and the "famous copper mine at Paris Mount". Has seen [John] Templeton [(1766-1825)], "an alert, active botanist", with whom he found a 'Chlora perfoliata', which does not grow in Ireland, "it seem'd as much joy as a good prize in the Lottery". Imparts his unease at the project for an Irish Union with Britain, "better perhaps to bear the ills we have than fly to others that we know not of". Believes England is in a "desperate situation" and with no energy to provide assistance with Ireland's own troubles. Thanks Mrs Smith for the work she has undertaken. Smith's "Tracts" have already sold out in Ireland. Looking forward to the new edition of Smith's "Tour". Sorrow at the death of [Thomas] Pennant. Disapproves of [Jelinger] Symons "pocket synopsis" ["Synopsis Plantarum Insulis Britannicis Indigenarum"], dislikes the growing use of "wove papers and hot press" in publishing.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

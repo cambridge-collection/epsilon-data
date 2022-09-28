@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-902">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Christian Karl Josias Bunsen<ref target="#foot.f1"/>   16 August [1853]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3159</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-902 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-902.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-902.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+            <notesStmt>
+            <note type="physdesc" n="ALS">1p</note>
+                <relatedItem type="publication">
+                    <bibl><hi rend="italic">Correspondence</hi> 5: 152</bibl>
+                </relatedItem>
+            </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The Morgan Library and Museum, New York (Heineman Collection MA 6511)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_324.xml">Morgan</repository>
+                    <collection>Heineman</collection>
+                    <idno>MA 6511</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1853-08-16">16 Aug [1853]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_725.xml">Bunsen, C. K. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks correspondent for forwarding microscopical specimens, a present from C. G. Ehrenberg.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1480">Ehrenberg, C. G.</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

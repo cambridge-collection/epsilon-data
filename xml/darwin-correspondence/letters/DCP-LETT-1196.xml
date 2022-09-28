@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1196">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. E. Gray   26 August 1848</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20204</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1196 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1196.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1196.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc">ADraftS 4pp</note>
+            <relatedItem type="publication">
+                <bibl>Gunther (1979): 58</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 4: 161</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Natural History Museum, Library and Archives (Archives DF ZOO/205/7/254-255)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_288.xml">NHM</repository>
+                    <collection>Archives</collection>
+                    <idno>DF ZOO/205/7/254-255</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1959.xml">Gray, J. E.</persName>
+                <placeName>British Museum</placeName>
+                <date when="1848-08-26">26 Aug 1848</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Is sorry that any person has misunderstood his intentions. JEG read his papers on cirripedes at the Zoological Society without intending to interfere with CD’s work; he merely wished to record his old observations, made before CD commenced his study, and thought that by so doing he was helping CD. [See "Description of a new species of <hi rend="italic">Anatifa</hi>" and "On <hi rend="italic">Thaliella</hi>", <hi rend="italic">Proc. Zool. Soc. Lond.</hi> (1848): 44.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">cirripede</term>
+                <term type="it" ref="#">Anatifa</term>
+                <term type="it" ref="#">Proc. Zool. Soc. Lond.</term>
+                <term type="it" ref="#">Thaliella</term>
+                <term type="rx" ref="#">Gray, J. E. 1848a</term>
+                <term type="scientific_terms" ref="#">cirripedes</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

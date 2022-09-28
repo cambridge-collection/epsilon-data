@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1355">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Richard Owen   10 September [1850]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1131</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1355 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1355.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1355.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 227</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>De Beer (1958): 102, 103</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 4: 356</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Natural History Museum, Library and Archives (General Special Collections Owen correspondence 9/198)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_288.xml">NHM</repository>
+                    <collection>General Special Collections </collection>
+                    <idno>Owen corres 9/198</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1850-09-10">10 Sept [1850]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3629.xml">Owen, Richard</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>About to go to press with "wearyful" <hi rend="italic">Fossil Cirripedia</hi> [vol. 1 (1851)];</p>  
+<p>would like to borrow proof-sheets of Frederick Dixon’s work [<hi rend="italic">The geology and fossils of the Tertiary and Cretaceous formations of Sussex</hi> (1850)]. Would also like to borrow a specimen of <hi rend="italic">Balanus glacialis</hi> from Royal College of Surgeons. Encloses formal request [see <hi rend="doubleUnderline">1356</hi>].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Fossil Cirripedia</term>
+                <term type="it" ref="#">The geology and fossils of the Tertiary and Cretaceous formations of Sussex</term>
+                <term type="rx" ref="#">Dixon, Frederick 1850</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fossils</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

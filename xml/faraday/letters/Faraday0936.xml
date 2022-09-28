@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Faraday0936">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">Faraday to John George Children   18 August 1836</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Faraday Project</authority>
+            <date when="2017-10-02">2 October 2017</date>
+         </publicationStmt>
+         <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. 2 (1993)</ab>
+            <ab type="url">http://digital-library.theiet.org/content/books/ht/pbsp029e</ab>
+        </seriesStmt>
+         <sourceDesc>
+            <bibl type="provenance">RS MS RR 1.98</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Faraday, Michael">Michael Faraday</persName>
+               <date when="1836-08-18">18 August 1836</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Children, John George">John George Children</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

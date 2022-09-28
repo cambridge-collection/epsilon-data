@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5593">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. B. Tegetmeier   4 August [1867]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1379</idno>
+            <date when="2006">2006</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5593 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5593.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5593.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="15">15</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="endorsement" subtype="letter">1867</note>
+            <note type="physdesc" n="LS">3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 148: 46</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Archives of the New York Botanical Garden (Charles Finney Cox Collection)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_302.xml">NYBG</repository>
+                    <collection>Charles Finney Cox</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1867-08-04">4 Aug [1867]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4682.xml">Tegetmeier, W. B.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks WBT for proofs of his new book [<hi rend="italic">Pigeons</hi> (1868)].</p> 
+            <p>Hopes he still intends to try the experiment with dyed pigeons.</p>
+            <p>Was surprised to hear of B. P. Brent’s death.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">pigeons</term>
+                <term type="health" ref="#">Other people</term>
+                <term type="it" ref="#">Pigeons</term>
+                <term type="people" ref="#subject_608">Brent, B. P.</term>
+                <term type="rx" ref="#">Tegetmeier, W. B. 1868</term>
+                <term type="scientific_terms" ref="#">breeding behaviour</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

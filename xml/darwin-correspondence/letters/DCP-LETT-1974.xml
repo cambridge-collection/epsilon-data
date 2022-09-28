@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1974">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   [early December 1856]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2436</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1974 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1974.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1974.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 205.5: 213</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>205.5: 213</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1856-12-01" notAfter="1856-12-31">[early Dec 1856]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends JDH part of MS for chapter 3 of <hi rend="italic">Natural selection</hi> ["Possibility of all organic beings crossing"] to be corrected and returned.</p>  
+<p>JDH’s report of <hi rend="italic">Podostemon</hi> flowering cleistogamously under water in Bengal.</p> 
+            <p>[Copious revision by JDH.]</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Podostemon</term>
+                <term type="it" ref="#">Natural selection</term>
+                <term type="places" ref="#">Bengal</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">sex</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00433_files/8/0_0.jpg" width="3390px" height="5845px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00433_files/11/1_1.jpg" width="3390px" height="5845px"/>
+        <surface xml:id="i1" n="213.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00433.jpg" rend="portrait" width="3390px" height="5845px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00433_files/8/0_0.jpg" width="3390px" height="5845px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00433.dzi" width="3390px" height="5845px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="213.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00434.jpg" rend="portrait" width="3121px" height="5436px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00434_files/8/0_0.jpg" width="3121px" height="5436px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00434.dzi" width="3121px" height="5436px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="213.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00435.jpg" rend="portrait" width="3081px" height="5458px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00435_files/8/0_0.jpg" width="3081px" height="5458px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00435.dzi" width="3081px" height="5458px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="213.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00436.jpg" rend="portrait" width="3058px" height="5343px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00436_files/8/0_0.jpg" width="3058px" height="5343px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00436.dzi" width="3058px" height="5343px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="213.1r &amp; 213.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00437.jpg" rend="landscape" width="5990px" height="5538px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00437_files/8/0_0.jpg" width="5990px" height="5538px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00437.dzi" width="5990px" height="5538px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="213.1v &amp; 213.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00438.jpg" rend="landscape" width="5990px" height="5538px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00438_files/8/0_0.jpg" width="5990px" height="5538px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00005-000-00438.dzi" width="5990px" height="5538px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

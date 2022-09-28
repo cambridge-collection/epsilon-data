@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7340">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. V. Carus   11 October [1870]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7323</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7340 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7340.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7340.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Staatsbibliothek zu Berlin – Preußischer Kulturbesitz (Slg. Darmstaedter Lc 1859: Darwin, Charles, Bl. 18)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_379.xml">SB zu Berlin - Preußischer KB</repository>
+                    <collection>Slg. Darmstaedter</collection>
+                    <idno>Lc 1859: Darwin, Charles, Bl. 18</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1870-10-11">11 Oct [1870]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_849.xml">Carus, J. V.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Sends first four sheets [of <hi rend="italic">Descent</hi>]. Murray charges £14 for the 64 stereotypes.</p>  
+<p>Cannot supply copies of woodcuts from Brehm’s <hi rend="italic">Illustrirtes Thierleben</hi> [1864–9]. Hopes JVC’s publisher will be able to arrange to include them.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="it" ref="#">Descent</term>
+                <term type="it" ref="#">Illustrirtes Thierleben</term>
+                <term type="people" ref="#subject_3463">Murray, John (b)</term>
+                <term type="rx" ref="#">Brehm, A. E. 1864–1867</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

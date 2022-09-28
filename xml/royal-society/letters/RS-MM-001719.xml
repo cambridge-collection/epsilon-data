@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001719">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Robert Were Fox, Falmouth, to 'My dear Friend' [unknown correspondent, possibly Michael Faraday?]</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2007">2007</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">6p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/63, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/63</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6084" key="../nameregs/NA6084.xml">Robert Were Fox</persName>
+               <date when="1840-10-31">31 October 1840</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="'My dear Friend' [unknown correspondent, possibly Michael Faraday?]">'My dear Friend' [unknown correspondent, possibly Michael Faraday?]</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

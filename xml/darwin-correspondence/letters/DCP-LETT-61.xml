@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-61">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To W. D. Fox    [10 April 1829]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">7012</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-61 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-61.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-61.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <note type="postmark">Cambridge 〈A〉P 11 〈1829〉; C 13 AP 13 1829</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 144: 147</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Christ’s College Library, Cambridge (MS 53 Fox 12)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_83.xml">CCLC</repository>
+                    <collection>MS 53</collection>
+                    <idno>Fox 12</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Cambridge</placeName>
+                <date when="1829-04-10">[10 Apr 1829]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1730.xml">Fox, W. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Has been in "a perfect and absolute state of idleness", riding and walking in the morning, gambling at Van John [vingt-et-un] in the evening.</p>
+            <p>"Little Go" has been unusually strict.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">Van John</term>
+                <term type="social" ref="#">vingt-et-un</term>
+                <term type="societal" ref="#">"Little Go"</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

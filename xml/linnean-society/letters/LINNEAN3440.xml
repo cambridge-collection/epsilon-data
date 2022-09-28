@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3440">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Botanic Garden, Forfar, [Forfarshire], to Samuel Goodenough, 14 Berners Street, Oxford Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64869/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/74, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Forfar, Forfarshire</placeName>
+                    <date when="1811-06-03">3 Jun 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Following receipt of letter from their mutual friend [Charles] Lyell concerned to hear that [John] Mackay [(1772-1802), nurseryman and gardener] has been credited in "English botany" as sending the 'Saxifraga pedatifida', which he claims is impossible as it is very rare and only found in the Clova mountains; offers to send plants botanists are not well acquainted with so as to be cultivated in gardens.</p><p>Encloses specimens of 3 varities of 'S. pedatifida'; an 'Arenaria' he proposes naming 'A. charlinfolia', observations. Points out that Smith has credited [Robert] Brown with finding 'Sagina maritima' in 1798 on coasts of Ireland and Fifeshire, when he himself found it in 1784 on Ben Nevis.</p><p>Asks Goodenough to forward this letter to Dr [James Edward] Smith.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

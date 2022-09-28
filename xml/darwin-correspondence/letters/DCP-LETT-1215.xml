@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1215">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Hugh Edwin Strickland   29 January [1849]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">8272</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1215 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1215.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1215.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 503</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 1: 365</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 4: 187</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Museum of Zoology Archives, University of Cambridge (Strickland Papers)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_79.xml">Cambridge UMZ</repository>
+                    <collection>Strickland Papers</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1849-01-29">29 Jan [1849]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4592.xml">Strickland, H. E.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Has altered and added to HES’s list [compiled for <hi rend="italic">Bibliographia zoologiæ et geologiæ</hi>, edited by Louis Agassiz and enlarged by HES, (1848–54)].</p> 
+            <p>On zoological nomenclature CD cites a case in which he believes more harm than good would be done by following the rule of priority. Thinks the rule of the first describer’s name being attached in perpetuity to a species has been the greatest curse to natural history. Every genus of cirripedes has a half-dozen names and not one careful description.</p>
+            <p>Sends a paper he once wrote [missing] on the subject [of zoological nomenclature].</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">cirripedes</term>
+                <term type="it" ref="#">Bibliographia zoologia et geologia</term>
+                <term type="rx" ref="#">Agassiz, J. L. R. 1848–1854</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">higher groupings (‘family’, ‘class’, ‘order’ etc)</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

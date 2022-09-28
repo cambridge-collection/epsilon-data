@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-673">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Susan Darwin   27[–8] April [1843]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1463</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-673 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-673.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-673.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 106</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 92: A11–13</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>92: A11–13</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1843-04-27" notAfter="1843-04-28">27[–8] Apr [1843]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1239.xml">Darwin, S. E.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Describes alterations being made at Down House. Accepts father’s offer to lend him money.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin family</term>
+                <term type="people" ref="#subject_1234">Darwin, R. W.</term>
+                <term type="places" ref="#">Down House</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00025_files/8/0_0.jpg" width="4069px" height="5730px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00025_files/11/1_1.jpg" width="4069px" height="5730px"/>
+        <surface n="A:11r" xml:id="i25">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00025.jpg" width="4069px" height="5730px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00025_files/8/0_0.jpg" width="4069px" height="5730px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00025.dzi" width="4069px" height="5730px"/>
+        </surface>
+        <surface n="A:11v" xml:id="i26">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00026.jpg" width="4069px" height="5730px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00026_files/8/0_0.jpg" width="4069px" height="5730px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00026.dzi" width="4069px" height="5730px"/>
+        </surface>
+        <surface n="A:12r" xml:id="i27">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00027.jpg" width="4069px" height="5748px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00027_files/8/0_0.jpg" width="4069px" height="5748px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00027.dzi" width="4069px" height="5748px"/>
+        </surface>
+        <surface n="A:12v" xml:id="i28">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00028.jpg" width="4069px" height="5748px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00028_files/8/0_0.jpg" width="4069px" height="5748px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00028.dzi" width="4069px" height="5748px"/>
+        </surface>
+        <surface n="A:13r" xml:id="i29">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00029.jpg" width="5096px" height="4891px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00029_files/8/0_0.jpg" width="5096px" height="4891px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00029.dzi" width="5096px" height="4891px"/>
+        </surface>
+        <surface n="A:13v" xml:id="i30">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00030.jpg" width="5096px" height="4891px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00030_files/8/0_0.jpg" width="5096px" height="4891px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00092-000-00030.dzi" width="5096px" height="4891px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

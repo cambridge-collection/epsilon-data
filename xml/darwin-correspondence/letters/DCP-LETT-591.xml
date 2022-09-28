@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-591">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To M. J. Berkeley   [March 1841]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9313</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-591 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-591.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-591.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 143: 112</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Shropshire Archives (SA 6001/134/47)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_385.xml">Shropshire Archives</repository>
+                    <collection>(SA 6001/134/47)</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Upper Gower St, 12</placeName>
+                <date notBefore="1841-03-01" notAfter="1841-03-31">[Mar 1841]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_408.xml">Berkeley, M. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Looks forward to the paper on CD’s edible fungus specimen from Tierra del Fuego [read 16 Mar 1841; <hi rend="italic">Trans. Linn. Soc. Lond.</hi> 19 (1845): 37–43].</p>  
+<p>Sends a correction: <hi rend="italic">Fagus betuloides</hi>, not <hi rend="italic">F. antarctica</hi>, is the common tree of Tierra del Fuego.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Fagus antarctica</term>
+                <term type="plants" ref="#">Fagus betuloides</term>
+                <term type="plants" ref="#">tree</term>
+                <term type="it" ref="#">Trans. Linn. Soc. Lond.</term>
+                <term type="places" ref="#">Tierra del Fuego</term>
+                <term type="rx" ref="#">Berkeley, M. J. 1845</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

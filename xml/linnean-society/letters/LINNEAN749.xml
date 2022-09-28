@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN749">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, Carlisle, [Cumberland], to Sir James Edward Smith, at Robert Reeve's, Lowestoft, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62716/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/63, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1820-09-16">16 Sep 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Forwards an accidently opened letter intended for Smith. Does not think Sir Humphry Davy deserves suspicion of being "a talebearer from the continent"; his accounts agree with those of others and witnesses from Italy disclosing upon oath [in the trial of Caroline (1768-1821), George IV's queen ]. If Davy is chosen as Royal Society president it would be best to support him freely to maintain the dignity of the chair. Hopes Smith is completing the final volume of "Flora Britannica" whilst being kept from London in November.</p><p>Disheartened that the Queen's trial has so much left, thinks the country will be corrupted by what has so far been disclosed and from being "a sort of outcast" her stubborness is now causing dissension in the House of Lords.</p><p>Thinks [Robert] Brown can only let Sir Joseph Banks' Soho Square house left to him; hopes he has not paid legacy tax on all of it. Banks' heirs and executors "keen as razors"; cites their demands for the machine for weighing matter kept at Royal Society and previously considered a gift. Lady Banks' and heir Sir Edward Knatchbull [9th baronet (1781-1849)] making the most of the £25,000 per annum. Bishop of Durham [Shute Barrington] cannot get rid of gout in his hand.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

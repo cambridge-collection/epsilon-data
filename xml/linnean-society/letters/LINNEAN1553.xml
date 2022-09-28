@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1553">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Woburn Abbey, [Bedfordshire], to Pleasance Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63625/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/106, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Woburn Abbey, Bedfordshire</placeName>
+                    <date when="1816-07-21">21 Jul 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Writing from Woburn's [home of John Russell, 6th Duke] "splendid library". Account of their journey to Woburn [with Thomas William Coke and Mr Cobb]: called on late Mrs Watt's servants, Mr and Mrs Baker, at Swaffham, [Norfolk], who were left £400 each in the will; called on Brewsters at Brandon; could not dine with [Martin] Davy at Cambridge; passed through Lord Ossory's park and saw the inscribed pillar. Describes the party at Woburn, including: Marquis of Bath, wife, and daughter; Lord Clare; Duke of Devonshire; Lord and Lady Tavistock; Lord and Lady Morley. His opinion of the Duchess of Bedford. Lord Bath "very shy". Duke of Bedford has brought many antique marbles, columns, and sculptures from Italy. His projected plans on leaving Woburn. Lady Morley is dressing up various guests "to exhibit characters in pictures".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

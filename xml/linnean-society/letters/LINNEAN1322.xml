@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1322">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roscoe, Liverpool, [Lancashire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63249/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/18, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                    <date when="1804-11-22">22 Nov 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His joy at receiving a letter from Smith. Pleased Mrs [Pleasance] Smith recovered her health through sea-bathing; Liverpool is "the most frequented bathing place in the kingdom". All his Liverpool friends "charmed" with Mrs Martin [Smith's sister] but concerned she is walking too long. Flattered by Smith's proposal to dedicate "Exotic Botany" to him.</p><p>Responds to points in Smith's previous letter: has not seen Captain [Thomas] Hardwicke, though received seeds and letter from him; [John] Shepherd [(c 1764-1836, curator Liverpool Botanic Garden] sent Lady [Amelia] Hume plants two months ago, and she sent back specimen of 'Humea elegans'; Shepherd hopes to send Cooper cuttings of 20 kinds of 'Passiflora' in the spring, their collection has considerably increased; safely received parrot tulip roots; will soon send packet of seeds from the gardens; observed the "minute criticism" [of Smith's "Flora Britannica"] in the "Monthly Magazine" and agrees the author must be handled "with tenderness". His "[Life and Pontificate of] Leo [the Tenth]" [(1805)] in final parts of fourth volume. Ordered "Annals of Botany" with "Exotic Botany". Glad of progress in his son [James, placed with Norfolk farmer Samuel Taylor] and [William Fitt] Drake.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN744">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Berners Street, London, to Sir James Edward Smith, 6 Great George Street, Liverpool, [Lancashire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62712/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/59, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>London</placeName>
+                    <date when="1820-06-07">7 Jun 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Comments on Smith's delight at [Francis] Chantrey's [(1781-1841)] monument to the Dean of Lichfield's [John Woodhouse] two children, though he prefers [Louis-François] Roubiliac's [(c 1702-1762)] bust of [Alexander] Pope [(1688-1744), poet] in the British Gallery. Sorry to hear that the Dean of Lichfield is destroying old work in the cathedral and remodelling it in Roman cement, Goodenough recalls being pressured but refusing to do the same when superintendent of repairs at St George's Chapel, Windsor, and only replaced old work where it was already gone, as with the window mullions.</p><p>By coincidence witnessed the Queen's [Caroline (1768-1821), wife of George IV] entry into London to a "huzzaing" mob; describes her progress from Pall Mall, Carlton House, St James's Street, to Alderman [Matthew] Wood's house in South Audley Street, accompanied by that "young boy or man ([William] Austin)" and a three year old girl she has adopted, at the same time the King [George IV (1762-1830)] was presenting papers in Parliament instituting proceedings against her. Goodenough not taking a side. Prince Leopold [(1790-1865)] wants to become President of Royal Society, Goodenough thinks him "too far above the level of mankind".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

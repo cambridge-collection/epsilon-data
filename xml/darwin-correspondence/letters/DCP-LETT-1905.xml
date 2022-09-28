@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1905">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Lyell   17 June 1856</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20217</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1905 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1905.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1905.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="C">5pp</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 90 Wilson (1970): 104–5 </bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 6: 144</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 146: 475</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>146: 475</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+                <placeName>London, Harley St, 53</placeName>
+                <date when="1856-06-17">17 June 1856</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD forgets an author [CD himself in <hi rend="italic">Coral reefs</hi>] "who, by means of atolls, contrived to submerge archipelagoes (or continents?), the mountains of which must originally have differed from each other in height 8,000 (or 10,000?) feet".</p>  
+<p>CL begins to think that all continents and oceans are chiefly post-Eocene, but he admits that it is questionable how far one is at liberty to call up continents "to convey a <hi rend="italic">Helix</hi> from the United States to Europe in Miocene or Pliocene periods".</p> 
+            <p>Will CD explain why the land and marine shells of Porto Santo and Madeira differ while the plants so nearly agree?</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Helix</term>
+                <term type="animals" ref="#">shells</term>
+                <term type="geology" ref="#">archipelagoes</term>
+                <term type="geology" ref="#">continents</term>
+                <term type="geology" ref="#">Miocene</term>
+                <term type="geology" ref="#">mountains</term>
+                <term type="geology" ref="#">oceans</term>
+                <term type="geology" ref="#">Pliocene</term>
+                <term type="geology" ref="#">post-Eocene</term>
+                <term type="it" ref="#">Coral reefs</term>
+                <term type="places" ref="#">atolls</term>
+                <term type="places" ref="#">Europe</term>
+                <term type="places" ref="#">Madeira</term>
+                <term type="places" ref="#">Porto Santo</term>
+                <term type="places" ref="#">United States</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">continuous or ‘broken’ land</term>
+                <term type="scientific_terms" ref="#">coral</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">land shells</term>
+                <term type="scientific_terms" ref="#">mineralogy, minerals</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sea shells</term>
+                <term type="scientific_terms" ref="#">subsidence and elevation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

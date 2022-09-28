@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6254">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   22 June 1868</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4596</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6254 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6254.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6254.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete</note>
+            <note type="physdesc" n="inc"/>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 424</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 102: 218–19</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>102: 218–19</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1868-06-22">22 June 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>The grass [see <hi rend="doubleUnderline">6243</hi>] is <hi rend="italic">Sporobolus elongatus</hi>, common in the tropics.</p> 
+            <p>Visit to Oxford with X Club.</p>
+            <p>On his forthcoming address.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">6243</term>
+                <term type="plants" ref="#">grass</term>
+                <term type="plants" ref="#">Sporobolus elongatus</term>
+                <term type="places" ref="#">Oxford</term>
+                <term type="places" ref="#">tropics</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="social" ref="#">visiting</term>
+                <term type="societal" ref="#">X Club</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00445_files/8/0_0.jpg" width="3063px" height="5391px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00445_files/11/1_1.jpg" width="3063px" height="5391px"/>
+        <surface xml:id="i1" n="218r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00445.jpg" rend="portrait" width="3063px" height="5391px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00445_files/8/0_0.jpg" width="3063px" height="5391px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00445.dzi" width="3063px" height="5391px"/>
+        </surface>
+        <surface xml:id="i2" n="218v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00446.jpg" rend="portrait" width="3063px" height="5391px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00446_files/8/0_0.jpg" width="3063px" height="5391px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00446.dzi" width="3063px" height="5391px"/>
+        </surface>
+        <surface xml:id="i3" n="219r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00447.jpg" rend="portrait" width="2900px" height="3403px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00447_files/8/0_0.jpg" width="2900px" height="3403px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00447.dzi" width="2900px" height="3403px"/>
+        </surface>
+        <surface xml:id="i4" n="219v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00448.jpg" rend="portrait" width="2900px" height="3403px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00448_files/8/0_0.jpg" width="2900px" height="3403px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00448.dzi" width="2900px" height="3403px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

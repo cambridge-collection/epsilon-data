@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3154">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. F. W. Herschel   23 May [1861]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1877</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3154 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3154.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3154.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="publication">
+                <bibl>De Beer (1959): 35</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 9: 135</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The Royal Society (HS 6:17)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_364.xml">Royal Society</repository>
+                    <idno>HS6: 17</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1861-05-23">23 May [1861]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2259.xml">Herschel, J. F. W.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks JFWH for his "Physical geography" [from the <hi rend="italic">Encyclopaedia Britannica</hi> (1861)]</p>  
+<p>and for what he says about <hi rend="italic">Origin</hi>, though JFWH goes but a little way with CD. Gives reasons why he cannot accept "Design" in nature, though he is in a "complete jumble" on the point. Is confident of his views because they have aided good workers in several fields to "group and understand many scattered facts".</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Encyclopaedia Britannica</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="rx" ref="#">Herschel, J. F. W. 1861</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                
+                <term type="tag" ref="#darwin_and_belief">Darwin’s Religious Beliefs</term>
+                <term type="tag" ref="#design_in_nature">Darwin In Nature Design In Nature</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

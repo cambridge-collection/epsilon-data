@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1761">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Carlo Antonio Ludovico Bellardi, Turin, [Italy], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61511/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/37, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bellardi, Carlo Antonio Ludovico">Carlo Antonio Ludovico Bellardi</persName>
+                    <placeName>Turin, Italy</placeName>
+                    <date when="1791-07-13">13 Jul 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Toscanelli has received books sent by Smith. [Rodrigo] de Sousa [Coutinho] pleased with Smith's works and sends respects. Smith's views largely concurrent with his own on plants of uncertain classification, although disagrees on 'Cynanchum muscicapum', 'Carduus erisithales' in [Carlo] Allioni's opinion 'Carduus rivularis'. Habitat for 'Festuca flavescens'. Doubts on 'Allium nigrum', more likely to be 'Allium narcissi' or 'Allium alpinum'. Asks Smith to compare 'Androsacea lactea' with 'Androsacea septentrionalis'. Would like Smith's opinion on his naming of 'Saxifraga elongata'. Confirmation of 'Aira vallesiaca'. Has named 'Ranunculus curvatu' 'Ranunculus lacerus'. Asks for a transcript of pages from "Hortus Kewensis" on 'Primula' to assist in his work on 'Primula emarginata' and 'Saxifraga lingulata', and pages from another work. Has received specimen of 'Pilularia' and seeds of 'Cornucopiae cucullatum'. Smith elected to the Academy of Sciences. Requests rare seeds from Smith for a friend, a copy of "Flora Lapponica", and information on the new edition of "Systema Vegetabilium".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000219">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Colin MacLaurin, Edinburgh, to George Graham </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/4/70, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/4/70</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8377" key="../nameregs/NA8377.xml">Colin MacLaurin</persName>
+               <date when="1732-02-15">15 February 1731/2</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8405" key="../nameregs/NA8405.xml">George Graham</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1866">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Annesley, Worcester, [Worcestershire], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63676/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/20/21, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Annesley, George">George Annesley</persName>
+                    <placeName>Worcester, Worcestershire</placeName>
+                    <date when="1821-09-22">22 Sep 1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Suspects [Aylmer Bourke] Lambert of dissimulation over the account he gave Smith of the Australian specimens received and in Lambert's care; more were in flower than stated, has set some aside for Smith. Received many Australian bulbs via his gardener in London; shall send Smith seed of 'Silene'. Anticipates Smith's intended visit next summer; will keep duplicates of Australian shells for Lady [Pleasance] Smith. Received 'Butonuis' from [Alexander] Macleay; requests cuttings of rarer willows. Pleased with his improvements at Nabotts, intends it to be a repository for bog and aquatic plants.</p><p>[Letter incomplete: two-thirds of second folio cropped, unclear if any text other than valediction and signature lost]</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

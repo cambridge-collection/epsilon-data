@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1566">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, 62 Margaret Street, Cavendish Square, [London], to Pleasance Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63637/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/118, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1822-05-26">26 May 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Frederick [Smith's brother] still in town. Account of his time in London: visited Westminster Abbey; dined with [William Fitt] Drake at [Aylmer Bourke] Lambert's; tiring Audit and Council meetings [at Linnean Society]; Linnean Society anniversary meeting; a wish expressed for a bust of Smith to be made by [Francis Leggatt] Chantrey [(1781-1841), sculptor], as companion to the one of Sir Joseph Banks; only 49 present at the dinner, compared to 70 last year, held in the Free Masons' tavern; Bishop [of Carlisle, Samuel Goodenough] and [Edward] Rudge informed him that the agricultural distress "is in a great measure imaginary"; visit to the British gallery with the Drake and Harriet [Drake's wife?]; went to Royal Institution, is not lecturing this year, but finds they are much called for, may lecture next year, London Institution have also asked him to lecture; visited the Miss Blackwells and assumed they were grave on account of [Thomas William] Coke's marriage but was in fact sudden death of Duchess of Grafton; visits to Lord Stanley, Lady Anson, Lady Scott wife of Sir Claude Scott, Duke of Norfolk, Lady Petre, and Lady Hervé and Miss Caton. Meeting with Coke and Lady Anne, his new wife; alterations at Holkham. Visits to R Kindersley [Smith's cousin]; Lord Stafford's pictures; Lady Banks; [James] Sowerby; the Munros; Major and Mrs Sandham. Plans to visit Sir Thomas Cullum in Bury, [Suffolk]. His feverish and pulmonary symptoms all gone. Harriet admitted a fellow of the Linnean Society in form. Saw [Dawson] Turner at anniversary meeting. Mr Crabbe received £3000 from Murray for copyright to his poems.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

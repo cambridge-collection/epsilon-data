@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1384">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roscoe, Allerton [Hall, near Liverpool, Lancashire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63305/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/74, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                    <date when="1811-01-02">2 Jan 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Confined to his house for the last three weeks but almost recovered. [Liverpool Botanic Garden] has purchased [Thomas] Velley's herbarium, including his marine specimens. Asks if his "Rocket against the French botanists" [paper comparing systems of Linnaeus and Jussieu, see RelatedMaterial below] has been read yet; thinks he can now fully explain the distinction between a natural and artificial system; wishes the animosities between Britain and France could be confined "within such harmless limits" but the business of "cutting throats" now seems to be a permanent state of society. Published some brief observations on speech by Lord [Thomas] Grey [de Wilton, 1st Earl of Wilton (1749-1814)] and has collected his political tracts into a volume, will send copies for Smith, William Taylor, John Taylor, and Samuel Taylor.</p><p>[Liverpool Botanic] Garden flourishes; [John] Shepherd [(c 1764-1836, curator Liverpool Botanic Garden] has "collected more plants than he cou[l]d probably have done in a voyage round the world". Sorry to hear that so many of the country's finest [plant] collections are being broken up and dispersed; symptomatic of the state of the nation led by ministers who "ride it like an ass, with nails for spurs, &amp; a bludgeon for a whip".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

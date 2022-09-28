@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1493">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Thomas Jenkinson Woodward, Bungay, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63440/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/53, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1792-02-17">17 Feb 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends "Flora Lapponica" and final fasciculus of Dickson's "dried plants", "Icones pictae" delayed; Woodward's account. Sends specimens of 'Iberis amara' and 'Lycoperdon cancellatum' of Jacquin and Linnaeus "Supplementum" he found on pear leaves at Sir Abraham Hume's in Hertfordshire, which he almost certainly the work of insects. Thanks for turkey, on which he, [Samuel] Goodenough, and [Jonas] Dryander dined, and letters of 28 December [1791] and 5 January [1792]: intends to create the genera 'Woodwardia', 'Davallia', and 'Dicksonia' to go "hand in hand"; [William] Withering's election to Linnean Society "unanimous"; does not know [William] Sole except by name; thinks Woodward's disorder is gout. Only giving copies of "Flora Lapponica" to a few country friends and directing everyone else to purchase it from White's, as they print it at their "hazard &amp; expense".</p><p>Arranging the Queen's [Charlotte of Mecklenburg-Strelitz (1744-1818)] herbarium, late [John] Lightfoot's, on introduction and advice of Lady Cremorne and [Samuel] Goodenough; refusing payment; the Queen's character; is to give her and the Princesses a course of botany in the summer; expects a visit from the Queen. Studying Lightfoot's herbarium will be useful for his "Flora Britannica" as the British specimens are good and annotated by [John] Pitchford and Bryant. His old servant, François [Borone], is to accompany [Adam] Afzelius on a botanical trip to Sierra Leone for 18 months to 2 years, sent by the [Sierra Leone] Company to find gums and other profitable items of trade.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

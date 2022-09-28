@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2094">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Dana   25 May [1857]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1164</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2094 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2094.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2094.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Yale University Library: Manuscripts and Archives (Silliman Family Papers (MS 450) Box 19, folder 25)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_446.xml">Yale Manuscripts</repository>
+                    <collection>Silliman Family Papers (MS 450)</collection>
+                    <idno>Box 19, folder 25</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1857-05-25">25 May [1857]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1190.xml">Dana, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks him for information concerning Crustacea.</p>
+            <p>Comments on natural history study in the U. S.</p> 
+<p>Mentions work done by Huxley on Crustacea ["Description of a new crustacean", <hi rend="italic">J. Geol. Soc. Lond.</hi> 13 (1857): 363–9];</p> 
+            <p>John Lubbock on larvae of Diptera.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Crustacea</term>
+                <term type="animals" ref="#">crustacean</term>
+                <term type="animals" ref="#">Diptera</term>
+                <term type="it" ref="#">J. Geol. Soc. Lond.</term>
+                <term type="people" ref="#subject_3026">Lubbock, John</term>
+                <term type="places" ref="#">U. S.</term>
+                <term type="rx" ref="#">Huxley, T. H. 1857</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">larvae</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

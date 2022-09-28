@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3527">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Norwich, [Norfolk], to Thomas Woodward, Bungay, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64781/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/MS410/1, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1794-11-04">4 Nov 1794</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas">Thomas Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Woodward's letter of 28 October [1794]. Returns his paper [on 'Ulva'] with answers to his queries: the paper worthy of the Linnean Society and its author; generic character good and sees no reason for it to be in Latin; usage of Latin; approves of new 'Ulva' and proposes name 'U. decoricata'. He and [James] Sowerby intend to publish 'Fucus' [in "English botany"] as soon as Woodward tells them a generic character that will remain.</p><p>Discusses exchange of coins. Hopes his brother, John, has given up thoughts of going to America. Mrs Sowerby pleased by Mrs Woodward's invitation. Mr De Luc has written that the house at Frogmore, [Berkshire], is in too much disorder for the Queen [Charlotte of Mecklenburg-Strelitz (1744-1818)] to study and all such occupations are postponed until next year; intends to go to Windsor some time in the winter "as an amusing experiment to see how the land lies".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

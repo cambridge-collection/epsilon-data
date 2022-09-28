@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1872">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Walker Arnott, 7 St John Street, Edinburgh, to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63682/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/20/27, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Arnott, George Arnold Walker">George Arnold Walker Arnott</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1827-01-01">1 Jan 1827</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sending plants collected during 3 month excursion with [George] Bentham in summer of 1825 to eastern and high Pyrenees; Bentham has published catalogue of the flora of Pyrenees. Plants sent include: 'Lithospermum oleifolium'; 'Vicia argentea'; 'Seseli montanum'; asks if 'Cynoglossum sylvaticum' of England is same as that of Hancke; asks the true character between 'Sideritis hyssopifolia' and 'Sideritis scordioides'; 'Veronica fruticulosa'; after observations fears 'Ajuga alpina', 'A. geneventis', and 'A. pyramidalis' form one species; 'Orobanche pruinosa'; at Strasbourg determined that 'Potamogeton cuspidatum' gathered near Forfar is identical with 'P. zosterifolius' Schum; observations on all. Smith may find it useful to have the French synonyms for British species; he would have found it useful to have references given to DeCandolle's works in determining Pyrenee plants.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2749">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Maxwell Tylden Masters   7 April [1860]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3011</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2749 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2749.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2749.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">5pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: 337</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 2: 256</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 8: 146</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The New York Public Library. Astor, Lenox and Tilden Foundations. The Henry W. and Albert A. Berg Collection of English and American Literature.</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_304.xml">NYPL Berg</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1860-04-07">7 Apr [1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3217.xml">Masters, M. T.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Much interested in MTM’s lecture at Royal Institution ["On the relation between the abnormal and normal formations in plants", <hi rend="italic">Notes Proc. R. Inst. G. B.</hi> 3 (1860): 223–7].</p>  
+<p>Asks for information about crossing of varieties of peas. Describes his own experimental results: "the offspring out of the same pod, instead of being intermediate, was very nearly like the two <hi rend="italic">pure</hi> parents; yet in one, there was a trace of the cross &amp; the next generation showed still more plainly their mongrel origins".</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">peas</term>
+                <term type="it" ref="#">Notes Proc. R. Inst. G. B.</term>
+                <term type="rx" ref="#">Masters, M. T. 1860</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">generations</term>
+                <term type="scientific_terms" ref="#">intermediate forms, gradation</term>
+                <term type="scientific_terms" ref="#">mongrels</term>
+                <term type="scientific_terms" ref="#">monstrosity</term>
+                <term type="scientific_terms" ref="#">parents</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sports</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN623">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Ealing, [Middlesex], to James Edward Smith, chez Mr De La Forge, Maitre d'Armes, Breed Straat, Leyden, [Netherlands]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62549/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/5, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Ealing, Middlesex</placeName>
+                    <date when="1786-07-03">3 Jul 1786</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Leiden, Netherlands</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Congratulates Smith on his successes in Leiden. Asks after the health of the 'Chamaerops humilis' planted by [Carolus] Clusius [(1526-1609), Flemish physician and botanist]. Interrupts letter to say he has just caught a second 'Cimex personatus'. Has never seen more 'Musca bombylans', 'Musca mystacca', and 'Musca pellucens' than this year. Observes that particular insects can significantly fluctuate year by year; recalls an abundance of the moth 'Geometea sambucaria' eight years ago that has not repeated since. Asks Smith to take as many 'Curculio paraplecticus' as he finds. Believes the 'Ptinus elytris striatis' is Linnaeus' 'Ptinus mollis'. Brief details of plans for forming a new natural history society either within the Society for Promoting Natural History or independently discussed with Sir Joseph Banks, [Thomas] Marsham, and [William] Forsyth [(1737-1804), botanist and founding member of Royal Horticultural Society].</p><p>In a postscript Goodenough writes that his brother-in-law, Dr James Ford, has been appointed Dr Mours replacement as physician to St George's Hospital "to the total discomfiture" of [John] Hunter [(1728-1793), surgeon] and "the whole Scotch interest", who had been working to secure Dr Bailey's succession instead.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

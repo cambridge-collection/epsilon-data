@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11535">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From E. W. Fithian   30 May 1878</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19100</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11535 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11535.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11535.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">2pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 202: 101</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>202: 101</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1644.xml">Fithian, E. W.</persName>
+                <placeName>London, Gt College St, 1</placeName>
+                <date when="1878-05-30">30 May 1878</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Requests, as Treasurer of the Knockholt &amp; Chevening Footpath Fund, part of the amount guaranteed by CD and family to defray expenses incurred in resisting closure of the footpath.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Darwin family</term>
+                <term type="business" ref="#">Darwin himself, miscellaneous</term>
+                <term type="people" ref="#subject_1202">Darwin family</term>              
+                <term type="places" ref="#">Chevening</term>
+                <term type="places" ref="#">Knockholt</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00289_files/8/0_0.jpg" width="3411px" height="5565px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00289_files/11/1_1.jpg" width="3411px" height="5565px"/>
+        <surface n="101:1r" xml:id="i289">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00289.jpg" width="3411px" height="5565px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00289_files/8/0_0.jpg" width="3411px" height="5565px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00289.dzi" width="3411px" height="5565px"/>
+        </surface>
+        <surface n="101:1v" xml:id="i290">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00290.jpg" width="3411px" height="5565px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00290_files/8/0_0.jpg" width="3411px" height="5565px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00290.dzi" width="3411px" height="5565px"/>
+        </surface>
+        <surface n="101:2r" xml:id="i291">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00291.jpg" width="3411px" height="5565px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00291_files/8/0_0.jpg" width="3411px" height="5565px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00291.dzi" width="3411px" height="5565px"/>
+        </surface>
+        <surface n="101:2v" xml:id="i292">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00292.jpg" width="3411px" height="5565px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00292_files/8/0_0.jpg" width="3411px" height="5565px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00292.dzi" width="3411px" height="5565px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

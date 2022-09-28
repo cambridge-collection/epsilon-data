@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-568">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John Washington, Secretary, Royal Geographical Society   16 May 1840</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1037</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-568 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-568.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-568.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+            <notesStmt>
+            <note type="physdesc" n="ALS">1p</note>
+                <relatedItem type="publication">
+                    <bibl> <hi rend="italic">Correspondence</hi> 2: 267–8</bibl>
+                </relatedItem>
+            </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Royal Geographical Society</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_338.xml">R. Geographical Soc.</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+                <placeName>London, Upper Gower St, 12</placeName>
+                <date when="1840-05-16">16 May 1840</date>
+            </correspAction>
+            <correspAction type="received" subtype="personGrp">
+                <persName key="../nameregs/nameregs_4969.xml" resp="high">Washington, John</persName>
+                <persName key="../nameregs/nameregs_4103.xml" resp="high">Royal Geographical Society</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Has much pleasure "in accepting the honour of being proposed as a member of the Council of the Geographical Society".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="societal" ref="#">Geographical Society council</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9816">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From G. J. Romanes   14 January 1875</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">15500</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9816 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9816.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9816.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance">E. D. Romanes 1896, pp. 19–20</bibl>
+            <bibl type="printedSource">Romanes, E. D. 1896: 19</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4071.xml">Romanes, G. J.</persName>
+                <placeName>London, Cornwall Terrace, 18</placeName>
+                <date when="1875-01-14">14 Jan 1875</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Would like to see papers [on potato grafting] mentioned by CD.</p> 
+<p>CD has doubtless seen case in <hi rend="italic">Gardeners’ Chronicle</hi> of vine in which scion has affected the stock [P. Grieve, "Singular sport upon a grape vine", <hi rend="italic">Gard. Chron.</hi> (1875): 21].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">grape</term>
+                <term type="plants" ref="#">potato</term>
+                <term type="it" ref="#">Gard. Chron.</term>
+                <term type="rx" ref="#">Grieve, Peter 1875</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">grafting</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sports</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001698">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Arthur Harry Church, 246 Iffley Road, Oxford, to 'Dear Sir'</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2006">2006</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">2p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/38, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/38</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA5494" key="../nameregs/NA5494.xml">Arthur Harry Church</persName>
+               <date when="1905-04-11">11 April 1905</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="'Dear Sir'">'Dear Sir'</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

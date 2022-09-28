@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN646">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, [Carlisle, Cumberland], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62614/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/70, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1808-11-12">12 Nov 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Forwarded Smith's letter to [George] Don and believes Don will be satisfied with Smith's conciliatory manner and correct his mode of publication, which is symptomatic of a general surplus of natural history publications: "everyone [is] publishing, quite to the nausea of purchasers, the commonest things - when [George] Shaw [(1751-1813), naturalist] published the cock-sparrow &amp; the common snail, I thought it high time to discontinue the Nat[urali]st's Miscellany". Don's discoveries are very valuable; the 'Hypericum' and 'Equisetum' were new to him. Believes others have been more devious than Don has been in attempting to naturalise foreign plants; cites example of Laurents and himself sowing 'Sisymbrium polyceratium' in the streets of Bury [in reference to claims by James Donn of Cambridge Botanic Garden that Don had used Cambridge seeds to grow and then claim as plants indigenous to Scotland, see RelatedMaterial]. Thinks Don's 'Lamium' a distinct species especially if the leaves are constantly petriolated.</p><p>Hugh Davies sent him his three species of articulated 'Juncus' but one had no leaves to it [see RelatedMaterial below]. Remembers the 'Sempervivum sediforme' at Kew and contending with [William] Aiton [(1731-1793), gardener at Kew] that it was 'Sedum', Aiton convinced it was 'Sempervivum' on [Daniel] Solander's authority. Pleased by Smith's proficiency in Greek and with Dioscorides, recommends Theophrastus and Bodaeus' notes. Sorry to see that "envious creature [Richard Salisbury] again barking at you" and reaffirms that Smith is the "King of Nat[ural] History". Was not aware that Dr [John] Hull [(1761-1843), physician and botanist] was of such a "predatory turn". Eager to see "Flora Britannica" complete but glad to find "Florae Graecae Prodromus" progressing so well.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

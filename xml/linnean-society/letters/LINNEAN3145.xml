@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3145">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Henry Muhlenberg, Lancaster, [Pennsylvania], to James Edward Smith, Surry Street, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62189/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/91, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Muhlenberg, Gotthilf Heinrich Ernst">Gotthilf Heinrich Ernst Muhlenberg</persName>
+                    <placeName>Lancaster, Pennsylvania</placeName>
+                    <date when="1796-10-18">18 Oct 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of June 1796. Preparing a new packet of plants to send, including some better quality specimens of those previously sent. Discusses previously sent plants, including whether 'Acnida cannabina' should be renamed either 'Acnida celosioides' or 'Acnida amaranthoides'. Growing 'Orchideae' in his garden to eventually send on to Smith. Willing to send Smith any American plant but believes most are already in Kew Garden. Sending seed of 'Trollius ? americanus' and 'Pedicularis aspleniifolia'. Anxious for Smith's next set of observations. Asks if American trees are superficially described and specifically whether 'Juglans cinerea' L is the 'Juglans oblonga' of [Philip] Miller and if Linnaeus made 'J. oblonga' a variety of 'J. nigra'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

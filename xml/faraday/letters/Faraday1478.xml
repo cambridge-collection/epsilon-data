@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Faraday1478">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">Zitterland<ref target="#foot.f1"/>, Vaenen<ref target="#foot.f2"/>, Eduard Heis<ref target="#foot.f3"/>, Friedrich Wilhelm Hasenclever<ref target="#foot.f4"/> and P. Fagot<ref target="#foot.f5"/> to Faraday   15 March 1843</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Faraday Project</authority>
+            <date when="2017-10-02">2 October 2017</date>
+         </publicationStmt>
+         <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. 3 (1996)</ab>
+            <ab type="url">http://digital-library.theiet.org/content/books/ht/pbsp035e</ab>
+        </seriesStmt>
+         <sourceDesc>
+            <bibl type="provenance">RS MS 241, f.90</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Zitterland, Vaenen, Eduard Heis, Friedrich Wilhelm Hasenclever and P. Fagot">Zitterland, Vaenen, Eduard Heis, Friedrich Wilhelm Hasenclever and P. Fagot</persName>
+               <date when="1843-03-15">15 March 1843</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Faraday, Michael">Michael Faraday</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

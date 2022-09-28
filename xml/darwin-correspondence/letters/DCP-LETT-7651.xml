@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7651">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From F. J. Wedgwood to H. E. Darwin   1 April 1871</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9778</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7651 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7651.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7651.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete</note>
+            <note type="physdesc" n="ALS">6pp † (by CD)</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 88: 68–70</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>88: 68–70</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_5011.xml" resp="high">Wedgwood, F. J.</persName>
+                <placeName>Trowmers</placeName>
+                <date when="1871-04-01">1 Apr 1871</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1225.xml" resp="high">Litchfield, H. E.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Writes to HED for fear of tiring CD and to pass on, if she deems suitable, her view that there is no distinction to be made between self-regarding and other-regarding virtues.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00139_files/8/0_0.jpg" width="3492px" height="5866px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00139_files/11/1_1.jpg" width="3492px" height="5866px"/>
+        <surface xml:id="i1" n="68r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00139.jpg" rend="portrait" width="3492px" height="5866px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00139_files/8/0_0.jpg" width="3492px" height="5866px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00139.dzi" width="3492px" height="5866px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="68v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00140.jpg" rend="portrait" width="3492px" height="5866px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00140_files/8/0_0.jpg" width="3492px" height="5866px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00140.dzi" width="3492px" height="5866px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="69r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00141.jpg" rend="portrait" width="3492px" height="5866px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00141_files/8/0_0.jpg" width="3492px" height="5866px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00141.dzi" width="3492px" height="5866px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="69v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00142.jpg" rend="portrait" width="3492px" height="5866px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00142_files/8/0_0.jpg" width="3492px" height="5866px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00142.dzi" width="3492px" height="5866px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="68v &amp; 69r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00143.jpg" rend="landscape" width="6622px" height="6429px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00143_files/8/0_0.jpg" width="6622px" height="6429px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00143.dzi" width="6622px" height="6429px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="70r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00144.jpg" rend="portrait" width="3340px" height="5941px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00144_files/8/0_0.jpg" width="3340px" height="5941px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00144.dzi" width="3340px" height="5941px"/>
+        </surface>
+        
+        <surface xml:id="i7" n="70v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00145.jpg" rend="portrait" width="3340px" height="5941px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00145_files/8/0_0.jpg" width="3340px" height="5941px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00088-000-00145.dzi" width="3340px" height="5941px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

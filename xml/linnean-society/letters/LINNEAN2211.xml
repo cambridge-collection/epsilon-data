@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2211">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Charles Konig, Soho Square, London, to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64042/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/23/36, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Konig, Charles Dietrich Eberhard">Charles Dietrich Eberhard Konig</persName>
+                    <placeName>London</placeName>
+                    <date when="1804-11-07">7 Nov 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sending Smith numbers of "Annals of Botany" "merely a small mark of the great respect due to [Smith] from every votary of botany"; requests Smith's advice for its improvement; will make room for any paper by Smith, requirements of this. The specimen of the inflorescence of a gynandrous plant Smith sent is of the new genus mentioned in note to [Olof] Swartz paper, but unable to identify the species; [Ferdinand] Bauer [(1760-1826), botanical artist] has drawn two similar plants at Kew; proposes name 'Venenatia'; dismisses [Adam] Afzelius claim of that name for Sierra Leone genus. Believes Wendland and Schrader named plant after Baron Hake ['Hakea'], Hanoverian director of Herrenhausen garden, merely to flatter him. Comments on plan of [Martin] Vahl's [(1749-1804), botanist] "Enumeratio Plantarum". Asks Smith publicly acknowledge receipt of [Edmund] Davall's herbarium in "Annals of Botany".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

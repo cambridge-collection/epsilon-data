@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FL-0222">
+
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">From Emma Darwin to G. H. Darwin 21 June [1895]</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Darwin Family Letters</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">FL-0222 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/FL-0222.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/FL-0222.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS"/>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 210.3: 215</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../repo/repo_106.xml">CUL</repository>
+                  <collection>DAR</collection>
+                  <idno>210.3: 215</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><ab type="transcription_quality">Draft transcription</ab><editorialDecl><p>This transcript was produced as a side-product of the work of the <ref target="https://www.darwinproject.ac.uk/">Darwin Correspondence Project</ref> and may not have been proofread to the DCP’s usual standards.</p></editorialDecl> </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="">Darwin, Emma</persName>
+               <placeName>Down Farnboro' R S O Kent</placeName>
+               <date when="1895-06-21">21 June [1895]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="">Darwin, G. H.</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

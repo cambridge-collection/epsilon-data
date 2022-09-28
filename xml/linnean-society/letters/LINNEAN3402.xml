@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3402">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Forfar, [Forfarshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64799/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/4, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Forfar, Forfarshire</placeName>
+                    <date when="1802-04-12">12 Apr 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Despite not having received responses to either the letter he wrote to Smith some time ago or specimens of flowering 'Saxifraga' he sent to [James] Sowerby and Cambridge three years ago, he now encloses 'Saxifraga' specimens [extant] for Smith's opinion.</p><p>Numbered observations on enclosed specimens [extant]: 1. 'Saxifraga' [Smith annotation: "'caespitosa'"]; 2. 'Saxifraga' [Smith annotation: "'palmata'"]; 'Saxifraga' [Smith annotation: "'hypnoides'"]; 4. nondescript 'Saxifraga'; 5. 'Saxifraga' [Smith annotation: "unknown to me"]; 6. 'Viola protea' [Smith annotation: "perhaps Mr Crowe's new one"]; 7. 'Potentilla verna' [Smith annotation: "? 'verna'"]; 8. 'Potentilla' [Smith annotation: "'verna'"]; 9. 'Potentilla' [Smith annotation: "'aurea'"]; 10. 'Potentilla' [Smith annotation: "new?"]; 11. 'Bryum'.</p><p>14 numbered specimens: 1, 2, 3, 4, 5, 7, 8, 9, 10.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

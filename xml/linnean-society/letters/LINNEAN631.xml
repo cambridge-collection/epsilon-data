@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN631">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rochester, [Kent], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62601/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/57, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Rochester, Kent</placeName>
+                    <date when="1807-04-06">6 Apr 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Account of his attempts to clear the Salisbury-Smith dispute whilst sitting as vice-president at Linnean Society: [William George] Maton excused himself from allowing Salisbury's pamphlet ["Generic characters of English Botany"] into the Linnean Society by pleading ignorance; told Salisbury at Sir Joseph Banks' that he was wrong to make the Linnean Society the arena for his and Smith's dispute and that the pamphlet should be withdrawn, to which he initially agreed and then reneged, Salisbury then gave him the roots of 'Crocus aureus' and seeds of a 'Dahlia'; attempted expunge the pamphlet from the Society with a Council but could not form one; [Alexander] Macleay has left the pamphlet out of the list of donations to the Society. Sorry to see that Salisbury has so many papers in the new "Linnean Transactions" volume but enjoyed [Thomas] Rackett and Maton's paper on British shells.</p><p>Was in London "when the explosion took place with respect to the late Ministers" [the "Ministry of All the Talents", a national unity government which was formed in February 1806 and broke up in March 1807 over Catholic Emancipation], the King [George III (1738-1820)] is "conscientious on the matter" and "would die before he consented to the giving of power to the R[oman] Catholics". [Jonas] Dryander has said both Smith and Salisbury have behaved badly, but Salisbury much the worse. Sees that Norwich has got rid Dr L Adkins, never could bear him.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

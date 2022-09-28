@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6247">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   16 June 1868</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4594</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6247 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6247.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6247.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 422–423</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 102: 216–17</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>102: 216–17</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1868-06-16">16 June 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Will get name of grass [see <hi rend="doubleUnderline">6243</hi>] from Gen. William Munro.</p> 
+            <p>Has heard from Charles Wheatstone that CD has Prussian Order of Merit. Rejoices because it is the only distinction worth a fig.</p> 
+<p>Went to Handel festival; heard <hi rend="italic">Messiah</hi>.</p> 
+            <p>Went to poor old N. B. Ward’s funeral.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">6243</term>
+                <term type="plants" ref="#">grass</term>
+                <term type="it" ref="#">Messiah</term>
+                <term type="people" ref="#subject_2093">Handel, G. F.</term>
+                <term type="people" ref="#subject_3450">Munro, William</term>
+                <term type="people" ref="#subject_4957">Ward, N. B.</term>
+                <term type="people" ref="#subject_5086">Wheatstone, Charles</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="social" ref="#">festival</term>
+                <term type="social" ref="#">funeral</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Prussian Order of Merit</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00441_files/8/0_0.jpg" width="3063px" height="5391px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00441_files/11/1_1.jpg" width="3063px" height="5391px"/>
+        <surface xml:id="i1" n="216r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00441.jpg" rend="portrait" width="3063px" height="5391px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00441_files/8/0_0.jpg" width="3063px" height="5391px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00441.dzi" width="3063px" height="5391px"/>
+        </surface>
+        <surface xml:id="i2" n="216v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00442.jpg" rend="portrait" width="3063px" height="5391px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00442_files/8/0_0.jpg" width="3063px" height="5391px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00442.dzi" width="3063px" height="5391px"/>
+        </surface>
+        <surface xml:id="i3" n="217r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00443.jpg" rend="portrait" width="3063px" height="5391px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00443_files/8/0_0.jpg" width="3063px" height="5391px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00443.dzi" width="3063px" height="5391px"/>
+        </surface>
+        <surface xml:id="i4" n="217v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00444.jpg" rend="portrait" width="3063px" height="5391px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00444_files/8/0_0.jpg" width="3063px" height="5391px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00102-000-00444.dzi" width="3063px" height="5391px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

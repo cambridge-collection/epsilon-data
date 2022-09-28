@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1591">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Smith, Norwich, [Norfolk], to James Edward Smith, at Mrs Beveridge's, Patrick Street, Edinburgh</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63537/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/18, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, James">James Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1782-08-05">5 Aug 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Edinburgh</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>May accompany Smith on a tour of Cumberland and Westmorland, "there is ever a degree of horror in the grand and majestic prospects of Nature in solitude". Glad both their spirits were better at their recent parting than on their first. Hopes for Smith's future career and success. Account of his journey from Halifax, [Yorkshire], to Norwich, including trip to the theatre, where Frank [Smith's brother] "first saw a Montebank on the stage", disappointed by Lichfield, [Staffordshire], expectations of Birmingham, [Warwickshire] exceeded, ascended [John] Wyclif's [(d.1384), English theologian and reformer] pulpit at Lutterworth, [Leicestershire]. Norwich news.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

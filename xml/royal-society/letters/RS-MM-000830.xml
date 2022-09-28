@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000830">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from William Spence, 18 Lower Seymour Street, to S H Christie</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">4 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/14/39, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/14/39</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA2536" key="../nameregs/NA2536.xml">William Spence</persName>
+               <date when="1845-04-18">18 April 1845</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8168" key="../nameregs/NA8168.xml">Samuel Hunter Christie</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

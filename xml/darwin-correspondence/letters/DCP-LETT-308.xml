@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-308">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">Caroline Darwin to Sarah Elizabeth (Elizabeth) Wedgwood   [5 October 1836]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3066</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-308 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-308.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-308.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">1p</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 153: 1</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 185</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>185: 55v</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1208.xml">Darwin, C. S.</persName>
+                <placeName>Shrewsbury</placeName>
+                <date when="1836-10-05">[5 Oct 1836]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5039.xml">Wedgwood, S. E. (b)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>CD has come home – little altered in looks and otherwise not a bit changed. He will go to London to be there when <hi rend="italic">Beagle</hi> arrives, and he and Caroline will visit Maer soon.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="places" ref="#">Shrewsbury</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00235_files/8/0_0.jpg" width="5009px" height="7384px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00235_files/11/1_1.jpg" width="5009px" height="7384px"/>
+        <surface xml:id="i1" n="55v[55.2r]">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00235.jpg" rend="portrait" width="5009px" height="7384px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00235_files/8/0_0.jpg" width="5009px" height="7384px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00235.dzi" width="5009px" height="7384px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="55v[55.2v]">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00236.jpg" rend="portrait" width="5085px" height="7518px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00236_files/8/0_0.jpg" width="5085px" height="7518px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00185-000-00236.dzi" width="5085px" height="7518px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9358">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Alfred Newton   13 March 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">10239</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9358 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9358.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9358.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 172: 50</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>172: 50</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3517.xml">Newton, Alfred</persName>
+                <placeName>Magdalene College, Cambridge</placeName>
+                <date when="1874-03-13">13 Mar 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Wishes CD could publish <hi rend="italic">Origin</hi> with footnotes.</p>  
+<p>Increases in bird populations: starlings are increasing, but AN cannot give reason; mistletoe-thrush increasing but not ousting song-thrush. Doubts trustworthiness of [George?] Edwards, CD’s authority in <hi rend="italic">Origin</hi> on this matter [see <hi rend="italic">Origin</hi>, 6th ed., p. 59].</p> 
+            <p>AN opposed to bird protection legislation to prohibit egging. Argues egging does not decrease number of birds.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bird</term>
+                <term type="animals" ref="#">birds</term>
+                <term type="animals" ref="#">starlings</term>
+                <term type="animals" ref="#">thrush, mistletoe-</term>
+                <term type="animals" ref="#">thrush, song-</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="scientific_terms" ref="#">eggs</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">human intervention</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="societal" ref="#">legislation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

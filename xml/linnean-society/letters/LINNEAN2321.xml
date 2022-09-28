@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2321">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Burgess McGarroch, Kirkmichael, [Scotland], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64110/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/24/4, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="McGarroch, James Burgess">James Burgess McGarroch</persName>
+                    <placeName>Kirkmichael, Scotland</placeName>
+                    <date when="1783-10-09">9 Oct 1783</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends specimens of 'Lichen burgessii'. Not convinced that the "horse-hair insect" is 'Gordius aquaticus', though it may be of that genus; observations. Whilst botanising at Solway Firth found 'Fucus pygmaeus' Lightfoot above the high water market, asks whether it is a 'Lichen'. 'Sampire' common on rocks and 'Alisma ranunculoides' and 'Sison verticellatum' in every meadow. Mineralogy of country between rivers Nith and Orr; granite unfavourable to growth of lichens and other cryptogamia. Curious effect of a great storm in Scotland and England on the tide. Account of a meteor. Account of his time at Leadhills, home of Lord Hopeton, the highest inhabited ground in Britain. Encloses oak leaf with possible new 'Lichen' growing on it, similar to 'Byssus aurea'; observations. Mr Stuart is publishing the "Pentatench" in Gaelic.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

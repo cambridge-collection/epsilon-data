@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1297">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Saxmundham, [Suffolk], to William Roscoe, Toxteth Park, [near Liverpool, Lancashire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63366/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/135, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Saxmundham, Suffolk</placeName>
+                    <date when="1824-07-13">13 Jul 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Staying with Lady [Pleasance] Smith's aunt, whose house and garden is a "specimen of what one reads about in English novels of the best age, before the history of manners &amp; character gave way to the picturesque or the frightful", although the journey caused his fever to return, which was treated with bleeding and James's powder.</p><p>Printing new editions of his "Compendium florae Britannicae" and "Introduction [to Botany]", and anticipates the continuation of "English Flora" to be "merely a pleasure &amp; amusement". Resolved to limit his letter writing, "especially in reply to foolish schemes &amp; questions about botany"; he is now being solicited about a Norwich Botanic Garden, certain it will not amount to anything. Criticises missing date in Roscoe's last letter.</p><p>Received from Paris "Annales de las Societe Linneenne de Paris", containing an eulogy of Broussonet. Corrêa has died at Lisbon; he had been a "little perverted by French botanists" and developed a "jealous twist" against Englishmen, especially Sir Joseph Banks.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

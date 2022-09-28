@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3180">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Pennant, Downing, [Flintshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62236/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/8/21, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pennant, Thomas">Thomas Pennant</persName>
+                    <placeName>Downing, Flintshire</placeName>
+                    <date when="1791-09-15">15 Sep 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Hopes to give to Linnean Society the third editions of his "[Journey from Chester to] London", "Indian Zoology", and "History of Quadrupeds". Queries on Indian plants for the 11th folio volume of his "Outlines of the Globe": whether Linnaeus refers to the "Poon tree" used for masts; the "cotton tree" referred to by "Gerard p.1552" and "[Edward] Ives Voy[age] 478", thinks it a classical tree; asks if the common walking cane is made from a 'Rotang'; requests correct reference to correct a mistake in [Robert] Orme's "Fragments". Thanks for mention in Smith's essay on natural history [in "Linnean Transactions"] but upset to be coupled with "the dull Brisson" [Mathurin Jacques Brisson (1723-1806) French zoologist]. Requests list of the 20 most striking Indian plants or trees.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

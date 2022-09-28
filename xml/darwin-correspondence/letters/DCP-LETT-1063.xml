@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1063">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Francisco Javier Muñiz   26 February 1847</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19574</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1063 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1063.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1063.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+            <notesStmt>
+                <relatedItem type="publication">
+                    <bibl> <hi rend="italic">Correspondence</hi> 4: 17–19</bibl>
+                </relatedItem>
+            </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance"><hi rend="italic">Nature</hi> 99 (1917): 305–6</bibl>
+            <bibl type="printedSource">Nature 99 1917: 305–6</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1847-02-26">26 Feb 1847</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3433.xml">Muñiz, F. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>If FJM wishes to sell the fossils he has discovered, CD suggests he appoint some agent to dispose of them.</p>
+            <p>Is surprised at the account of the earthquake in the pampas.</p> 
+<p>Offers to send his <hi rend="italic">South America</hi>.</p> 
+            <p>Greatly admires FJM’s zeal</p>
+            <p>and would welcome any information on the domestic animals of La Plata.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="business" ref="#">Other people</term>
+                <term type="it" ref="#">South America</term>
+                <term type="people" ref="#subject_3629">Muniz, F. J.</term>
+                <term type="places" ref="#">La Plata</term>
+                <term type="places" ref="#">Pampas</term>
+                <term type="scientific_terms" ref="#">exclamations</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fossils</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">positive criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">volcanoes and earthquakes</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+                <term type="societal" ref="#">agent for Muniz</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

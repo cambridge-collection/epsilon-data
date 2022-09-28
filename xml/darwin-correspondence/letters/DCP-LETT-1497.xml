@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1497">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Albany Hancock   10 January [1853]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1132</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1497 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1497.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1497.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="endorsement" subtype="letter">Darwin—10 Jay 1853</note>
+            <note type="physdesc" n="ALS">4pp damaged</note>
+            <relatedItem type="publication">
+                <bibl>Hancock (1886): 269</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl><hi rend="italic">Correspondence</hi> 5: 110</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Historical Society of Pennsylvania</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_320.xml">Pennsylvania HS</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1853-01-10">10 Jan [1853]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2091.xml">Hancock, Albany</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Grateful for AH’s long letter and suggestions. Delighted at what he says about "complemental males". CD feared no one would believe in them but now that Owen, Dana, and AH accept them, he is content.</p>
+            <p>Agrees with AH on cross-impregnation; has collected facts on this head but has done nothing with them.</p> 
+<p>AH’s paper on <hi rend="italic">Alcippe</hi> [<hi rend="italic">Ann. &amp; Mag. Nat. Hist.</hi> 2d ser. 4 (1849): 305–14] caused him to lose sleep over its anomalous structure.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Alcippe</term>
+                <term type="it" ref="#">Ann. &amp; Mag. Nat. Hist.</term>
+                <term type="rx" ref="#">Hancock, Albany 1849a</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">parasites</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

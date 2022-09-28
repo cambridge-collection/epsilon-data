@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Mary Watson-Wentworth to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63081/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/105, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Wentworth, Mary Watson-">Mary Watson- Wentworth</persName>
+                    
+                    <date when="1791-12-02">2/3 Dec 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Watson-Wentworth writes on 2 December: Still waiting for information from [Richard] Salisbury on the servant he recommended to take Crabb's place. Received box of Botany Bay seeds but did not let [Harvey] Spragg take any to show Smith as he should see the whole contents. Sorry to hear of Dr Pictairn' death , she only met him once.</p><p>Watson-Wentworth writes on 3 December: Received letter from Salisbury stating that sevrant he recommended does not wish to leave his current position. Found 'Passiflora suberosum' in flower for first time this morning and as she is uncertain whether this is common will send [James] Sowerby a specimen for painting; along with 'Corsiopsis' on vellum will compliment his drawing of 'Catesbaea'. Has not heard from Sowerby regarding dimensions of 'Datura' and fears he does too much at once.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

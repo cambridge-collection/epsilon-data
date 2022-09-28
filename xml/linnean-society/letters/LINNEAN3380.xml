@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3380">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Botanic Garden, Edinburgh, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64797/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/2, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1803-04-11">11 Apr 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter; has looked out some of cryptogamic specimens gathered last summer, sent several to [James] Sowerby.</p><p>Numbered observations on enclosed 18 specimens [some extant], including: 1. 'Dicranum ovale' [Smith annotation: "may be 'Dicr. ovale'']; 2. a new 'Dicranum' [Smith annotation: "laid in surely new - leaves like 'Gymnostomum ciliatum', might be called 'pilaceum']; 3. 'Bryum maritium' [Smith annotation: "surely 'Bryum dealbatum'"]; 4. 'Fissidens polycorpus' of Hedwig [Smith annotation: ''Dicr. polycarpum' right"]; 5. specimen [Smith annotation: "too imperfect, may be 'Tortula mucronulata'"]; 6. specimen [Smith annotation: "postponed"]; 7. specimen [Smith annotation: "not 'Gymnostomum curvirostrum'']; 8. specimen [Smith annotation: ''Dicranum purpureum''; 9. 'Dicranum cerviculatum' or 'D. heteromallum' [Smith annotation: ''D. subulatum'']; 10. 'Dicranum longifolium' or 'D. scorparium' var. [Smith annotation: ''D. fuscescens']; 11. specimen [Smith annotation: ''Lichen luridus'']; 12. specimen; 13. specimen [Smith annotation: 'Lichen exiguus']; 14. specimen [Smith annotation on specimen label: ''Tortula ungiculata' Fl. Brit"]; 15. 'Bryum nivales'; 16. nondescript 'Hypnum' called 'H. elegans' in his herbarium; 17. 'Splachnum urceolatum' [Smith annotation: 'mnioides', not 'urceolatum']; 18. 'Splachnum gracile' [Smith annotation: 'tenue'].</p><p>Desires Smith's opinion; will send another package which will include 'Bryum nudum'. Note on cover in Smith's hand: "all laid in that are material".</p><p>5 numbered specimens of cryptogams: 7, 2, 8, 13, 14, some also named.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

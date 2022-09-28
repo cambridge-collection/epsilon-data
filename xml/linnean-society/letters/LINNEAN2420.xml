@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2420">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Humphry Repton, Sustead, [Norfolk], to James Edward Smith, at Mrs Beveridge's, Christ Street, [Edinburgh]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64216/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/25/4, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Repton, Humphry">Humphry Repton</persName>
+                    <placeName>Sustead, Norfolk</placeName>
+                    <date when="1783-01-23">23 Jan 1783</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Edinburgh</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Snowed in; responding to Smith's letter of 7 September 1782 and account of his visit to the Lakes. Reflections on Edinburgh, effects of winter and snow on the imagination, and snow pancakes. Asks after Smith's medical studies, reflects on tendency for charismatic physicians to be better regarded than those with deep knowledge and recommends Smith to "cultivate these lesser but not less material requisites", the "great school for this kind of learning is the company of ladies". Suggests Smith practice as a physician in this part of Norfolk, which is too far away to be effectively covered by Norwich physicians. Discusses local physicians. Norwich gossip, a pamphlet by Morgan that overleapt "the bounds of decency".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

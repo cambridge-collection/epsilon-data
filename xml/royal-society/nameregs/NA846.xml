@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA846">
+   <persName>
+      <forename>John</forename>
+      <surname>Parker</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>1st Earl of Morley and Viscount Boringdon</roleName>
+   </persName>
+   <note type="dates">
+      <date>1772 - 1840</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 05 May 1772</p>
+      <p>Death: Saltram, near Plymouth, Devon (14 March 1840)</p>
+      
+      <p>Honours: Viscount Boringdon and Earl of Morley 1815</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 26/02/1795</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll; DNB</p>
+   </note>
+</person>

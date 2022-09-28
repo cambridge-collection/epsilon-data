@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN196">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to Alexander Macleay, Queen Square, Westminster</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64654/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/AM/151, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1820-04-09">9 Apr 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Macleay, Alexander">Alexander Macleay</persName>
+                    <placeName>Westminster</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Just returned from Lowestoft, [Suffolk], "after having paid the last duties to our beloved parent" [Pleasance Smith's mother, Pleasance Reeve, née Clerke (1739-1820)]. Condolences on death of Macleay's loss [his daughter], "more afflicting, as it was not in the course of nature"; like Macleay "never lost so many friends as in the late dreadful winter".</p><p>Intends to be in London for Linnean Society meeting on 2 May [1820]. Received poor accounts of Sir Joseph Banks' health from Bishop of Carlisle [Samuel Goodenough] and [Aylmer Bourke] Lambert, but good account of Mrs [Catherine] Lambert's. Return's Joseph Smith's [(1775-1857)] paper with corrections, observations. Sorry to hear of [Linnean] Club "squabbling", which he thinks "more becoming a tavern than a literary society", but will "lend a hand to calm differences". "Sicken[s] at the thought" of Macleay resigning Secretary position.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

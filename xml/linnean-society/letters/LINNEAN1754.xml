@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1754">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Carlo Antonio Ludovico Bellardi, Turin, [Italy], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61504/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/30, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bellardi, Carlo Antonio Ludovico">Carlo Antonio Ludovico Bellardi</persName>
+                    <placeName>Turin, Italy</placeName>
+                    <date when="1788-11-22">22 Nov 1788</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has sent plants requested by Smith, list attached [third page]. Unable to send required number of specimens of 'Potentilla valderia' so has substituted them for 'Aldrovanda vesiculosa', otherwise there are 55 specimens per individual plant bar 20 specimens of 'Juncus spicatus'. Financial details. Will send flowers of 'Dryas octopetala' in the summer. Also sending a box of plants from [Carlo] Allioni and a box of rare plants from Bellardi which he would like Smith to compare along with the 'Arenariae' mentioned in last letter. Sends specimen and seeds of 'Panicum dactylon' and 'Poa gerardi' of "Flora Pedemontana" he believes may belong to the genus 'Festuca'. [Fulgenzio] Vitman's ["Summa plantarum"]. Asks Smith to send seeds for a friend. Wishes to be informed on Linnean Society news and would be happy to meet [Edmund] Davall.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

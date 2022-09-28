@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1990">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Gregory Boraston, Queen's College, Oxford, [Oxfordshire], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63780/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/21/3, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Boraston, Gregory">Gregory Boraston</persName>
+                    <placeName>Oxford, Oxfordshire</placeName>
+                    <date when="1790-07-15">15 Jul 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His health did not benefit much by the Italian air [Boraston had wintered in Italy]; cold weather in Florence and Pisa; regrets not visiting Nice; inconvenience of making long journies alone. Left Spallanzani's response to Mr Hunter [on animal digestion] with Dr [William] Thomson [(c 1760-1806), mineralogist and physician]; many requests to peruse it. Will send impressions from Tozzetti of 'Fucus', described by Micheli, found near Florence. On his return through Milan visited Count Castiglioni, whose brother, Luigi, remembers meeting Smith; preparing history of plants and forest trees of North America; astonished by collections of the Milanese, particularly the Marquis d'Angubola's natural history collection; Societa Patriotica.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

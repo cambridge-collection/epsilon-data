@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN888">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62844/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/80, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    
+                    <date when="1824-02-26">26 Feb 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>[Aylmer Bourke] Lambert in "raptures" over [Augustin Pyramus] de Candolle's new work "Prodromus syst[ematis] nat[uralis]" though Cullum disappointed Candolle is unlikely to continue his "Systema Vegetabile".</p><p>Observations on changes of chemical names of medicines in the "London Pharmacopoeia" and other: 'Elettaria' has changed to 'Matonia', as recommended by Smith'; in the "Dispensatory" "cantharides" has reverted from "lyttae"; the three species of 'Arichona', the 'cordifolia', 'lancifolia', and 'oblongifolia' continued; and camphor still said to be produce of 'Laurus camphora' though [Philip] Miller told him that the best camphor comes from very large trees timber trees at Sumatra, wonders if the Dutch controllers of the trade make it from the 'Laurus' or undersized trees.</p><p>Lord [John Rous, 1st Earl of] Stradbroke [(1750-1827)] sent him specimens of the insects killing his Scotch firs for identification; thinks them 'Sirex juveneus' and reminded that some years ago several oaks were cut down in Mr Port's garden plantation at Ham, Derbyshire, because of boring 'Sirex gigas' hornets. Does not think 'Sirex' are labelled a pest of 'Pinus sylvestris' in Lambert's "[A description of the genus] Pinus". Offers to send bark specimens of Stradbroke's trees to Linnean Society.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

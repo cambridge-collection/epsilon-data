@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3271">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From H. W. Bates   30 September 1861</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">17838</idno>
+            <date when="1994">1994</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3271 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3271.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3271.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="09">9</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 205.10: 92</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>205.10: 92</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_317.xml">Bates, H. W.</persName>
+                <placeName>Leicester</placeName>
+                <date when="1861-09-30">30 Sept 1861</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Discusses the mimicry of the <hi rend="italic">Volucella</hi> flies, and the bees and wasps they mimic. Compares it with the different object of mimicry in butterflies.</p>  
+<p>Refers to incompleteness of Cuthbert Collingwood’s paper [? "On homophormism, or organic representative forms", <hi rend="italic">Proc. Liverpool Lit. &amp; Philos. Soc.</hi> 14 (1860): 181–216].</p>  
+<p>Thanks CD for help in selecting a publisher for his book [<hi rend="italic">The naturalist on the river Amazons</hi> (1863)].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bees</term>
+                <term type="animals" ref="#">butterflies</term>
+                <term type="animals" ref="#">flies</term>
+                <term type="animals" ref="#">Volucella</term>
+                <term type="animals" ref="#">wasps</term>
+                <term type="it" ref="#">Proc. Liverpool Lit. &amp; Philos. Soc.</term>
+                <term type="it" ref="#">The naturalist on the river Amazons</term>
+                <term type="rx" ref="#">Bates, H. W. 1863</term>
+                <term type="rx" ref="#">Collingwood, Cuthbert 1860b</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">mimicry</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">representative species</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00192_files/8/0_0.jpg" width="3733px" height="6261px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00192_files/11/1_1.jpg" width="3733px" height="6261px"/>
+        <surface xml:id="i1" n="92.1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00192.jpg" rend="portrait" width="3733px" height="6261px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00192_files/8/0_0.jpg" width="3733px" height="6261px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00192.dzi" width="3733px" height="6261px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="92.1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00193.jpg" rend="portrait" width="3733px" height="6261px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00193_files/8/0_0.jpg" width="3733px" height="6261px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00193.dzi" width="3733px" height="6261px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="92.2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00194.jpg" rend="portrait" width="3733px" height="6261px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00194_files/8/0_0.jpg" width="3733px" height="6261px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00194.dzi" width="3733px" height="6261px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="92.2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00195.jpg" rend="portrait" width="3733px" height="6261px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00195_files/8/0_0.jpg" width="3733px" height="6261px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00205-00010-000-00195.dzi" width="3733px" height="6261px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN905">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum, Bury [St Edmunds, Suffolk], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62860/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/96, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                    <date when="1826-02-15">15 Feb 1826</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Wishes he could be in London to dine with friends at the Free Masons and Thatched House Tavern. Received visit from eldest son of [Thomas Andrew] Knight and on remarking on the valuable property [Richard] Payne Knight [(1750-1824), classicist] left to the British Museum received reply that his father and family had been left enough to satisfy all. Hopes the "alarming bankruptcies" are not affecting any of their friends, particularly the Forsters, though concerned the failure of Sir Peter Pole's [2nd baronet (1770-1850)] banking house has affected [Edward] Rudge as their families recently intermarried. Dawson Turner is being consulted regarding auction of [Sir Thomas] Gage's library and collection of plants and drawings, including boxes of plants from India never examined; wishes Smith could examine some of Gage's cryptogamia drawings. Dr [John] Sims intends to decline superintendence of the "Botanical Magazine". Observed 'Primula chinensis' in a lady's parlour, it seems to be 'Primula praenitens' of "Botanical Register" vol 7 plate 539.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

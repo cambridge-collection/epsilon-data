@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN108">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Andrew Smith, Cape Town, Cape of Good Hope, [South Africa], to Sir James Edward Smith, Norwich, [Norfolk], England</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64478/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/ADD/91, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir Andrew">Sir Andrew Smith</persName>
+                    <placeName>Cape Town, South Africa</placeName>
+                    <date when="1827-01-14">14 Jan 1827</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Will do all he can to satisfy Smith with Cape 'Orchideae'. Has a young artist to make painting from live specimens, sending figure of 'Disperis villosa' [extant]. Believes a "very splendid" work could be made from having a painting of every Cape species in full flower, with Smith being sent dried specimens to provide full descriptions from; difficulty of transporting live plants back to England.</p><p>Has sent promised papers to Sir Everard Home [(1756-1832), physician] describing new species each of 'Hyaena' and 'Hyrax'; observations on gland secretions of former; hopes Home will send them to Linnean Society and that they will be published in "Linnean Transactions". It is his ambition to produce a good work on zoology of South Africa. Many collectors currently here: 3 from Prussia, 3 from France, and 6 from other European countries. Lists some of the curiosities of his portfolio; he is particularly interested in snakes. Mode natural history is now studied makes it easier to notice habits of animals for classification.</p><p>Watercolour of 'Disperis villosa'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

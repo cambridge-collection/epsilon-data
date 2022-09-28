@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-401">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John Gould   [February 1838]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">8302</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-401 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-401.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-401.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">William Patrick Watson (dealer) (April 2014)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_484.xml">W. P. Watson</repository>
+                    <collection>(dealer)</collection>
+                    <idno>Apr 2014</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Gt Marlborough St, 36</placeName>
+                <date notBefore="1838-02-01" notAfter="1838-02-28">[Feb 1838]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1935.xml">Gould, John</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>The publishers [of <hi rend="italic">Zoology</hi>] have agreed to 50 plates [for <hi rend="italic">Birds</hi>]. Asks JG to decide which are most worthy of being done. Also asks him to see whether Bayfield will undertake [to colour] the birds (and quadrupeds) at something under 5d each.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Zoology</term>
+                <term type="people" ref="#subject_3463">publishers</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

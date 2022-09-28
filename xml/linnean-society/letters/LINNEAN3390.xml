@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3390">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don, Forfar, [Forfarshire], to [James Edward Smith]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64824/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/29, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    <placeName>Forfar, Forfarshire</placeName>
+                    <date when="1810-05-28">28 May 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for parcel of seeds. Numbered observations on enclosed plants, locally found: 1. 'Ribes'; 2. 'Orthotrichum affine'; 3. 'Polytrichum'; 4. 'Hypnum'; 5. 'Bryum' like 'B. caespititium', 'B. capillare', and 'B. bicolor'; 6. 'Equisetum' like 'E. variegatum'.</p><p>Will look for the new 'Saxifraga', which Smith intends to name 'S. pedunculodes'. Observations on 'Fassilago hybrida'. Asks if Smith received specimen of 'Urceolorea diamarta'. Observations on 'Primula denticulata' in Smith's "Exotic botany" and other exotic plants, lists those in his possession; asks if Smith can facilitate an exchange with [John] Shepherd [(c 1764-1836, curator Liverpool Botanic Garden] when next in Liverpool, lists his desiderata.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

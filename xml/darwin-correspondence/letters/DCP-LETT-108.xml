@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-108">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From R. W. Darwin to Josiah Wedgwood II   30–1 August 1831</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1812</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-108 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-108.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-108.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">V&amp;A / Wedgwood Collection (MS W/M 96)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_521.xml">V&amp;A / Wedgwood Collection</repository>
+                    <idno>(MS W/M 96)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1234.xml">Darwin, R. W.</persName>
+                <placeName>Salop</placeName>
+                <date notBefore="1831-08-30" notAfter="1831-08-31">30–1 Aug 1831</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_5026.xml">Wedgwood, Josiah, II</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>CD has had an offer to go on a voyage of discovery for two years. RWD objects strongly, but will let CD make his case and if JW agrees with CD, RWD will change his position. In a postscript RWD adds, "Charles has quite given up … the voyage."</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="ships" ref="#">Beagle</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3757">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   [12 October 1862]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4242</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3757 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3757.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3757.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 51–54</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Huxley (1918) 2: 26, 34</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 10: 454</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 101: 59–60, 86</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>101: 59–60, 86</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1862-10-12">[12 Oct 1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Has sent two <hi rend="italic">Impatiens</hi> flowers; curious to know what CD makes of the floral whorls and their vascular bundles.</p>  
+<p><hi rend="italic">Cassia</hi> is another genus that has different [coloured] anthers in same flower.</p>  
+<p>Continues to work on <hi rend="italic">Welwitschia</hi>.</p>  
+<p>Feels as CD does about his work, which after a time seems flat and stale. He could never have done what CD did in his <hi rend="italic">Orchids</hi>.</p>  
+<p>CD’s facts about <hi rend="italic">Verbascum</hi> have horrible bearing on JDH’s practice of lumping species together.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Cassia</term>
+                <term type="plants" ref="#">Impatiens</term>
+                <term type="plants" ref="#">Verbascum</term>
+                <term type="plants" ref="#">Welwitschia</term>
+                <term type="it" ref="#">Orchids</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">systematics</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00115_files/8/0_0.jpg" width="3040px" height="5522px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00115_files/11/1_1.jpg" width="3040px" height="5522px"/>
+        <surface xml:id="i1" n="59r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00115.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00115_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00115.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i2" n="59v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00116.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00116_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00116.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i3" n="60r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00117.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00117_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00117.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i4" n="60v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00118.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00118_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00118.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i5" n="86r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00169.jpg" rend="portrait" width="3186px" height="5445px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00169_files/8/0_0.jpg" width="3186px" height="5445px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00169.dzi" width="3186px" height="5445px"/>
+        </surface>
+        <surface xml:id="i6" n="86v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00170.jpg" rend="portrait" width="3186px" height="5445px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00170_files/8/0_0.jpg" width="3186px" height="5445px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00170.dzi" width="3186px" height="5445px"/>
+        </surface>
+        
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

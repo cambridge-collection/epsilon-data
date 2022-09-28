@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2147">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Robert Kaye Greville, Edinburgh, to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63961/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/22/69, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Greville, Robert Kaye">Robert Kaye Greville</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1825-02-23">23 Feb 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sending moss specimens he has lately described. Awaiting specimens of 'Hypnum alpestre' and 'H. trifariense' for his "Scottish work"; 'H. halleri' is engraved. Found 'Splachnum rugosum' of "English botany" on Ben Lawers; believes it distinct from 'S. vasculosum', which he is drawing at the moment. He and [George] Arnott have been applying Smith's "favourite maxim" in classifying the splachnoid mosses, in doing so have overturned much of the previous work by other authors; observations on the genus. Regrets calling the work a new arrangement.</p><p>Since last writing 'Senecio tenuifolius' has been added to flora of Scotland. [William Jackson] Hooker on his journey to London and Paris. Received letter from Revd Lewis de Schweinitz [(1780-1834), botanist] of Pennsylvannia, who has raised number of American fungi to 2000. Requests specimen of 'Daltonia splachnoides'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

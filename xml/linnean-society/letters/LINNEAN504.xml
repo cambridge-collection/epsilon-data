@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN504">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Anton Maria Vassalli-Eandi, Turin, [Italy], to Sir James Edward Smith, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62470/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/40, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Eandi, Anton Maria Vassalli-">Anton Maria Vassalli- Eandi</persName>
+                    <placeName>Turin, Italy</placeName>
+                    <date when="1821-09-12">12 Sep 1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Twenty-fourth volume of transactions of the Academia Reale delle Scienze di Torino [Royal Academy of Sciences Turin], of which he is the secretary, is to be sent to Smith. The complete collection of transactions of the Academy was dispatched to [Alexander] Macleay earlier in the year. Reminds Smith of the exchange of publications between Turin Academy and Linnean Society agreed with Professor [Franco Andrea] Bonelli [(1784-1830), Italian zoologist] when he was assisting with Linnean Society meetings in November 1819.</p><p>On verso of second folio Smith has noted: "sent to the Acad. my Compend[iu]m [florae Britannicae] ed. 3d &amp; Linn[aeus'] Orb[is] er[uditi] Judic[ium] [and] Obs[ervationes] in Regn[um] Lap[ideum]".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

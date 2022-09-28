@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN854">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62769/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/5, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    
+                    <date when="1792-02-19">19 Feb 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Illness of his brother-in-law, Mr Palmer, has delayed his coming to London till Easter and Linnean Society anniversary meeting. Remarks on various phenomena of the early spring: recently saw 'Papilio phamni' flying, 'Scarabaeus luisquilius' in hundreds, and "those nimble animals the 'Carabi'"; an apricot tree in flower in a Cambridge college garden as reported in Cambridge paper, observed in his brother's [Sir John Cullum, 6th baronet (1733-1785)] journal that the apricot tree at Hardwick, [Suffolk], flowered on 20 February 1779 and 27 February 1775 but did not flower till March or April in following years; observed 'Veronica hederacea' and 'Veronica agrestis' in flower and considering looking for 'Veronica verna' and 'Veronica triphyllos'.</p><p>Praises number fifteen of "English Botany"; 'Papaver hybridum' and 'Anchusa sempervirens' commonly grows near them does not doubt 'Verbascum blattaria' is native having seen it in similar conditions and in barren places in Cornwall. Requests of White copies of Smith's new "Flora Lapponica", Thunberg's "Characteres genenum insectorum", and [Pehver's] "Weekly Memorials for the Ingenious". Asks of Mr Poulter, [William] Hudson, and Sir George Staunton's safe return.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

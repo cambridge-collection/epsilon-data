@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN13">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Charles Campbell, off Madagascar, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64398/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/ADD/11, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Campbell, Charles">Charles Campbell</persName>
+                    <placeName>Madagascar</placeName>
+                    <date when="1807-06-14">14 Jun 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Studies botany during intervals from his work but has only an "imperfect" acquaintance with current state of botany in Britain, having been absent for nearly 20 years, but presumes he would be able to supply many desiderata; desires to establish a correspondence with Smith, exchanging plants for botanical information.</p><p>He is now at sea on a voyage to St Helena, recovering his health, but intends to immediately return to his station at Fort Marlborough, Sumatra. Sends drawings for Smith's interest [not extant], describes and makes observations on each: seed of camphor tree [Smith has part transcribed this paragraph]; a possible 'Brucea', used as an "intense &amp; powerful" bitter; seeds. Difficulties of collecting.</p><p>West coast [of Sumatra] has been in possession of the nutmeg and clove plants for some time and extensive plantations are now flourishing, and outproducing the Dutch. He has also cultivated the coffee of mocha and 'Cacoa', the latter having arrived from South America via the Philippines. Productive botanic garden also placed in his care, where most of the tropic fruit flourish, including 'Cinnamon' of Ceylon, 'Cassia', and tea. Expects the English settlements on Sumatra to rise from obscurity to great "commercial &amp; political importance".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

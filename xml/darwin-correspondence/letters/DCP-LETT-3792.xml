@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3792">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   2 November 1862</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4247</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3792 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3792.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3792.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">5pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 152: 58–60a</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 466</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 10: 496</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 101: 66–7, 70</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>101: 66–7, 70</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Kew</placeName>
+                <date when="1862-11-02">2 Nov 1862</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Stupefied by CD’s five forms of <hi rend="italic">Lythrum</hi>.</p>  
+<p>Asa Gray busy with <hi rend="italic">Cypripedium</hi>. JDH offers some to CD if he wants to challenge Gray.</p> 
+            <p>J. W. Dawson’s review of JDH’s paper on Arctic plants.</p> 
+<p>Louis Lucien Bonaparte’s views on Basque and Finnish language [<hi rend="italic">Langue basque et langues finnoises</hi> (1862)] suggest to JDH that Basques are Finns left behind after the glacial period, like the Arctic plants!</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">arctic plants</term>
+                <term type="plants" ref="#">Cypripedium</term>
+                <term type="plants" ref="#">Lythrum</term>
+                <term type="geology" ref="#">glacial period</term>
+                <term type="human_group" ref="#">Basques</term>
+                <term type="human_group" ref="#">Finns</term>
+                <term type="it" ref="#">Langue basque et langues finnoises</term>
+                <term type="languages" ref="#">Basque</term>
+                <term type="languages" ref="#">Finnish</term>
+                <term type="people" ref="#subject_1957">Gray, Asa</term>
+                <term type="rx" ref="#">Bonaparte, L. L. 1862</term>
+                <term type="rx" ref="#">Dawson, J. W. 1862b</term>
+                <term type="rx" ref="#">Hooker, J. D. 1861c</term>
+                <term type="scientific_terms" ref="#">affinity and analogy</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">communication</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">exclamations</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">historical time</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00129_files/8/0_0.jpg" width="3040px" height="5522px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00129_files/11/1_1.jpg" width="3040px" height="5522px"/>
+        <surface xml:id="i1" n="66r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00129.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00129_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00129.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i2" n="66v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00130.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00130_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00130.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i3" n="67r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00131.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00131_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00131.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i4" n="67v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00132.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00132_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00132.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i5" n="70r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00137.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00137_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00137.dzi" width="3040px" height="5522px"/>
+        </surface>
+        <surface xml:id="i6" n="70v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00138.jpg" rend="portrait" width="3040px" height="5522px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00138_files/8/0_0.jpg" width="3040px" height="5522px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00101-000-00138.dzi" width="3040px" height="5522px"/>
+        </surface>
+        
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

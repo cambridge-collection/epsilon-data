@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Tyndall1106">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Thomas Henry Huxley   Wednesady morning before 6 o'c</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Tyndall Project</authority>
+                <date when="2017-10-02">2 October 2017</date>
+            </publicationStmt>
+            <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of John Tyndall</hi>, vol. 5 (2018)</ab>
+            <ab type="url">https://upittpress.org/books/9780822945321/</ab>
+        </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">HP 1:19, IC</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Tyndall, John">John Tyndall</persName>
+                    <placeName>14 Rue du Cirque Paris</placeName>
+                    <date when="1855-07-11">Wednesady morning before 6 o'c</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Huxley, Thomas Henry">Thomas Henry Huxley</persName>
+                    
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

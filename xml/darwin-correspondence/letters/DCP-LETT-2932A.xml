@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2932A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Lyell<ref target="#foot.f1"/>   30 September 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20470</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2932A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2932A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2932A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy</note>
+            <note type="physdesc" n="CC">6pp CC</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 8: 398–400 </bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The University of Edinburgh Centre for Research Collections (Lyell collection Coll-203/A3/7: 13–19)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_124.xml">Edinburgh</repository>
+                    <collection>Lyell</collection>
+                    <idno>Coll-203/A3/7: 13–19</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+                <date when="1860-09-30">30 Sept 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Expects lack of diversification of immigrant mammals on long isolated islands will come to show slowness of selective change.</p>
+            <p>Asks whether CD has speculated on turtles becoming terrestrial on remote islands.</p>
+            <p>Perhaps non-diversification on islands is explained by tiny proportion of variable species. Those that vary on continent may not do so on island.</p> 
+<p>A. Gray is afraid of objections to <hi rend="italic">Origin</hi> from imperfection of fossil record.</p> 
+            <p>His argument with Falconer over the hypothesis of limited modifiability.</p> 
+<p>Are the bird-like characters of the <hi rend="italic">Apteryx</hi> parts not yet suppressed or nascent organs?</p> 
+            <p>Extinctions of ammonites, belemnites, and hippurites are striking. Perhaps ammonites made way for higher cuttle-fish.</p>
+            <p>Believes hybrid origin of domestic dog would weaken objections to treating white man and negro as species. Are there not many reputed species among the Mammalia more closely related than these races?</p>
+            <p>Objects not to the term "selection" but to what CD assigns to it. It should not be confused with the "Creative power" behind variation and the "capacity of ascending in the scale of being".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">ammonites</term>
+                <term type="animals" ref="#">Apteryx</term>
+                <term type="animals" ref="#">bird</term>
+                <term type="animals" ref="#">dog</term>
+                <term type="animals" ref="#">Mammalia</term>
+                <term type="animals" ref="#">mammals</term>
+                <term type="animals" ref="#">turtles</term>
+                <term type="geology" ref="#">continent</term>
+                <term type="human_group" ref="#">Negroes</term>
+                <term type="human_group" ref="#">whites</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="people" ref="#subject_1585">Falconer, Hugh</term>
+                <term type="people" ref="#subject_1957">Gray, Asa</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">behaviour</term>
+                <term type="scientific_terms" ref="#">change</term>
+                <term type="scientific_terms" ref="#">close species</term>
+                <term type="scientific_terms" ref="#">constant varieties, races</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">divergence</term>
+                <term type="scientific_terms" ref="#">extinction</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">highness and lowness</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">hybrids</term>
+                <term type="scientific_terms" ref="#">imperfection of geological record</term>
+                <term type="scientific_terms" ref="#">introduced forms</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">number of species</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">rudimentary organs</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">systematics</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">time, ‘inorganic’ (geological, historical)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

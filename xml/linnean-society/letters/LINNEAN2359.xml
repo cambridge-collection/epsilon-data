@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2359">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Pitchford, Norwich, [Norfolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64180/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/24/74, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pitchford, John">John Pitchford</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1792-02-10">10 Feb 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Disputes the 'Mentha' Smith and Goodenough determined as 'M. sativa'; convinced that all 'Mentha' can be found both hairy and smooth on the underleaf depending on soil and situation; discussion of other 'Mentha' including 'M. arvensis', 'M. gentilis', M. rotundifolis', 'M. sylvestris', 'M. villosa'; desires to see [Edmund] Davall's specimens and to hear from [William] Hudson on subject.</p><p>Pleased to hear that [Samuel] Goodenough now concedes that the Linnaeus' 'Carex caespitosa' is the same as the London 'C. caespitosa'. Requests specimen of 'Cerastium alpinum'. Congratulates Smith on escape from fire at the Pantheon, [Oxford Street, London].</p><p>[Note on separate piece of paper] an article in January [1792] edition of "Monthly Magazine" proposes an explanation for the formation of "fairy rings", brief summary.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

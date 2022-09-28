@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2498A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Elizabeth Drysdale   [22 or 29 October 1859]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20753</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2498A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2498A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2498A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete</note>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">John Wilson (Autographs) Ltd, Catalogue 88; Clive Farahar &amp; Sophie Dupré, Catalogue 55; B &amp; L Rootenberg (May 1991)<ref target="#foot.f11"/> </bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_441.xml">Wilson, John</repository>
+                    <idno>cat. 88</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_359.xml">Rosenblum, Josh B.</repository>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_358.xml">B. and L. Rootenberg</repository>
+                    <idno>1991</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            <date xml:id="date1" when="1859-10-22" exclude="#date2">22 Oct 1859</date>
+            <date xml:id="date2" when="1859-10-29" exclude="#date1">29 Oct 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1392.xml">Drysdale, Lady</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Declines an invitation to visit [Moor] Park.</p>
+            <p>He hopes that Dr Lane is arranging things to his satisfaction.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1394">Drysdale, Lady</term>
+                <term type="people" ref="#subject_2802">Lane, E. W.</term>
+                <term type="places" ref="#">Moor Park</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">inviting</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

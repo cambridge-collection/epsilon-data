@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7018">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Fritz Müller   1 December [1869]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1695</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7018 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7018.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7018.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp, encl 4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: (454)–455</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 2: 357</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The British Library (Loan MS 10 no 31)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <collection>Loan MS 10</collection>
+                    <idno>31</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1869-12-01">1 Dec [1869]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3070.xml">Müller, J. F. T.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Role of humming-birds in plant fertilisation.</p>
+            <p>Alexander Agassiz has visited Down.</p> 
+<p>Sales of <hi rend="italic">Facts and arguments for Darwin</hi>.</p>  
+<p>Encloses copy of T. H. Farrer letter [<hi rend="doubleUnderline">7015</hi>] and observations on the self-sterility of <hi rend="italic">Eschscholzia</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">7015</term>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="animals" ref="#">humming-birds</term>
+                <term type="it" ref="#">Facts and arguments for Darwin</term>
+                <term type="people" ref="#subject_41">Agassiz, Alexander</term>
+                <term type="people" ref="#subject_1599">Farrer, T. H.</term>
+                <term type="places" ref="#">Down</term>
+                <term type="rx" ref="#">Müller, J. F. T. 1869</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">visiting</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

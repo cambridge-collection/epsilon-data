@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN949">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall, Orbe, Canton de Berne, [Switzerland], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62929/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/45, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                    <date when="1792-01-31">31 Jan 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Joy he receives from Smith's friendship. Presses Smith to visit. Anxious that Smith may not have received the seeds of 'Cerinthe perennis'. Glad his ideas on 'Trifolium alpestre' proved correct in "Linnean Transactions", further comments on [Adam] Afzelius' paper. 'Serapias' all a confusion for Smith. Cannot say anything on "pretended specific difference" of 'Gnaphalium sylvaticum', 'norvegicum' Retz, 'Crepis discoridis', interests him as much as 'Trifolium agaricum'. Comments on plants previously sent in various parcels.</p><p>Thanks Smith for his efforts in reconciling [William] Aiton to him. Answers Smith's queries on his health: does find fruit to be laxative, red wine makes him costive, and is most tormented with it in spring where 'Leontodon taraxacum' is eaten as they do other vegetables, stewed in butter or beef broth. Has not yet received anything from [Horace Bénédict] de Saussure [(1740-1799)]. Regarding Smith's proposal to name a genus after him would like Smith to do whatever he thinks best, but wishes he had completed his work before such an honour. Comments on 'Carex' no 11 of his parcel by Mandrot 1790.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

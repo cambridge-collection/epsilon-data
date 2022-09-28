@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN660">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Berners Street, [London], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62627/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/83, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>London</placeName>
+                    <date when="1809-12-15">15 Dec 1809</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Discussion of Catholic Emancipation: Smith has great "liberality" on the subject but believes he is not fully informed and that the Dissenters are "very much deceived" if they think the Catholics will allow them to participate with them in power. Goodenough believes Catholics cannot act for themselves in anything concering religion, which is what would make them dangerous if they had power. Regrets that Oxford University have begun meddling in politics by proposing Lord Grenville [William Wyndham Grenville, 1st Baron Grenville (1759-1834), prime minister, 1806-1807] for Chancellor after he had avowed himself "the Champion of Catholic Emancipation". Goodenough hates the subject, particularly as his two sons in Christ Church have "most wantonly &amp; contemptuously" opposed him.</p><p>Convinced 'Fucus discors' and 'Fucus abrotanifolius' are the same plant and advises Smith to consult [Elizabeth] Hill [(c 1760-1850), algologist] and [Amelia Warren] Griffiths [(1768-1858), algologist] for further details; the difference is only in the breadth of lower leaves, caused by the season of the year and depth of water. Returns Smith's drawings [of the two 'Fucus'] and thinks they are "expressive enough", showed them to Dr [George] Williams in Oxford but he is not a marine botanist. "Blepharanthis" has his full approbation.</p><p>In postscript reports on results of election for Oxford Chancellorship - Lord Grenville won by thirteen votes. Repeats that Smith's 'Fucus discors' is the 'discors' of [John] Stackhouse, Hill, Griffiths, and himself.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

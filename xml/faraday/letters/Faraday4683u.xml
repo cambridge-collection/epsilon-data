@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Faraday4683u">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">Faraday to Austen Henry Layard<ref target="#foot.f1"/>   After 1854<ref target="#foot.f2"/>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Faraday Project</authority>
+            <date when="2017-10-02">2 October 2017</date>
+         </publicationStmt>
+         <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. 6 (2011)</ab>
+            <ab type="url">http://digital-library.theiet.org/content/books/ht/pbsp045e</ab>
+        </seriesStmt>
+         <sourceDesc>
+            <bibl type="provenance">Mr and Mrs Aida</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Faraday, Michael">Michael Faraday</persName>
+               <date notBefore="1854-12-31">After 1854</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Layard, Austen Henry">Austen Henry Layard</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

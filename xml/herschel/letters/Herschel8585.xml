@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Herschel8585">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Joseph Johann Littrow   [25 June 1822]</title>
+                <respStmt xml:id="calendarPrint">
+                    <resp>Record created for the <hi rend="italic">Calendar of the Correspondence of Sir John Herschel</hi> (CUP: Cambridge), 1998 by</resp>
+                    <name>Michael J. Crowe ed., David R. Dyck and James J. Kevin assoc. eds</name>
+                </respStmt>
+                <respStmt xml:id="calendarOnline">
+                    <resp>Digital record created by</resp>
+                    <name>Dr Marvin Bolt and Steven Lucy at the Webster Institute of the Adler Planetarium</name>
+                </respStmt>
+                <respStmt xml:id="convertedToTEI">
+                    <resp>Converted to TEI by</resp>
+                    <name>Michael Hawkins, Epsilon Project, Cambridge University Library</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>John Herschel Project</authority>
+                <availability status="restricted">
+                    <p>Michael J. Crowe (editor), David R. Dyck and James J. Kevin (associate editors), Calendar of the Correspondence of Sir John Herschel (Cambridge, England: Cambridge Univ. Press, 1998), viii + 828 pp. Converted into web usable data in May 2009 by Dr. Marvin Bolt and Steven Lucy, working at the Webster Institute of the Adler Planetarium.</p>
+                </availability>
+                <date when="2018-07-23">23 July 2018</date>
+            </publicationStmt>
+            <notesStmt><note type="physdesc">ALS 4pp</note></notesStmt>
+            <sourceDesc>
+                <bibl type="provenance">Columbia Univ. Library (ACCS: RS:HS 19.8 &amp; C: 20.145)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Herschel, Sir John">Sir John Herschel</persName>
+                    <placeName>Slough</placeName>
+                    <date when="1822-06-25">[25 June 1822]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Littrow, Joseph Johann">Joseph Johann Littrow</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Thanks for the publications sent; lists materials JH is sending JL. Asks about quality of Josef Fraunhofer's large telescopes. JH read part of JL's letter of 2 Jan. 1822 at Astronomical Society meeting. Discusses proper motion of sun, JL's work on latitude of the pole star, observatory clocks, micrometers, and the Cambridge Observatory.</p> 
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

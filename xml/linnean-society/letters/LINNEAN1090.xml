@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1090">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Frankland, Thirkleby, [Yorkshire], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63030/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/54, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Frankland, Sir Thomas">Sir Thomas Frankland</persName>
+                    <placeName>Thirkleby, Yorkshire</placeName>
+                    <date when="1817-08-31">31 Aug 1817</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Gave "5 lights" to the Great Mogul melon Smith sent seeds of from Shuckburgh, [Warwickshire], and thinks that those who admire this fruit do not know the small orange cantaloupe or Green Egyptian melons.</p><p>His garden: abundant mushrooms from mushroom house he built last spring; like most others has no peaches or nectarines on open walls this year so is now building a 43 feet long peach house; began mowing 8 July but much of the hay still out and is as black as the corn is green.</p><p>Undertook tour of England in June, travelling 654 miles: London, where the temperature was 84°F, to Wincanton, [Somerset]; Stourhead and Longleat, [Wiltshire]; Bath, [Somerset]; Rodborough, [Gloucestershire]; Cheltenham, [Gloucestershire]; Warwick and its Castle, [Warwickshire]; and Northampton, [Northamptonshire], before joining north road at Wansford, [Cambridgeshire]. Encloses plant specimen collected between Andover, [Hampshire], and Amesbury, [Wiltshire]; Smith has annotated "'Sonchus oleraceus' the prickly var[iet]y". His son failed to find local 'Burbaumia' in Tunbridge Wells, [Kent], but [James] Dickson has sent both kinds though he only requested 'B. foliosa'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

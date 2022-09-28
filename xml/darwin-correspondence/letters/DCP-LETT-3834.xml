@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3834">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. D. Hooker   [after 26] November [1862]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">4259</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3834 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3834.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3834.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="endorsement" subtype="letter">/1862</note>
+            <note type="physdesc" n="ALS">8pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 151: 145</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 212</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 10: 572</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 115: 172</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>115: 172</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1862-11-27" notAfter="1882-12-31">[after 26] Nov [1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Discusses differences between Asa Gray’s view and his own on crossing. A common effect is the obliteration of incipient varieties. There is heavy evidence against new characters arising from crossing wild forms, "only intermediate races are then produced". Innate vital forces are somehow led to act differently as a result of direct effect of physical conditions. Astonished by JDH’s statement that every difference might have occurred without selection. CD agrees, but JDH’s manner of putting it astonished him. CD says, "think of each of a thousand seeds bringing forth its plant, and then each a thousand … I cannot even grapple with idea". Responds to JDH’s and Lyell’s feeling that he made too much of a <hi rend="italic">deus ex machina</hi> out of natural selection. [Letter actually dated 20 Nov but is certainly after <hi rend="doubleUnderline">3831</hi>.] [wrong field?]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_1957">Gray, Asa</term>
+                <term type="people" ref="#subject_3051">Lyell, Charles</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">constant varieties, races</term>
+                <term type="scientific_terms" ref="#">crossing</term>
+                <term type="scientific_terms" ref="#">exclamations</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">intermediate forms, gradation</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">varieties</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00001_files/8/0_0.jpg" width="4658px" height="6742px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00001_files/11/1_1.jpg" width="4658px" height="6742px"/>
+        <surface xml:id="i1" n="1r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00001.jpg" rend="portrait" width="4658px" height="6742px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00001_files/8/0_0.jpg" width="4658px" height="6742px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00001.dzi" width="4658px" height="6742px"/>
+        </surface>
+        <surface xml:id="i2" n="1v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00002.jpg" rend="portrait" width="4543px" height="7049px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00002_files/8/0_0.jpg" width="4543px" height="7049px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00002.dzi" width="4543px" height="7049px"/>
+        </surface>
+        <surface xml:id="i3" n="2r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00003.jpg" rend="portrait" width="4523px" height="6921px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00003_files/8/0_0.jpg" width="4523px" height="6921px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00003.dzi" width="4523px" height="6921px"/>
+        </surface>
+        <surface xml:id="i4" n="2v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00004.jpg" rend="portrait" width="4523px" height="6921px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00004_files/8/0_0.jpg" width="4523px" height="6921px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-000-00004.dzi" width="4523px" height="6921px"/>
+        </surface>
+        <surface xml:id="i5" n="3r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00001.jpg" rend="portrait" width="4523px" height="6921px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00001_files/8/0_0.jpg" width="4523px" height="6921px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00001.dzi" width="4523px" height="6921px"/>
+        </surface>
+        <surface xml:id="i6" n="3v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00002.jpg" rend="portrait" width="4523px" height="6921px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00002_files/8/0_0.jpg" width="4523px" height="6921px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00002.dzi" width="4523px" height="6921px"/>
+        </surface>
+        <surface xml:id="i7" n="4r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00003.jpg" rend="portrait" width="4523px" height="6921px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00003_files/8/0_0.jpg" width="4523px" height="6921px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00003.dzi" width="4523px" height="6921px"/>
+        </surface>
+        <surface xml:id="i8" n="4v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00004.jpg" rend="portrait" width="4523px" height="6921px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00004_files/8/0_0.jpg" width="4523px" height="6921px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00115-00172-B-000-00004.dzi" width="4523px" height="6921px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

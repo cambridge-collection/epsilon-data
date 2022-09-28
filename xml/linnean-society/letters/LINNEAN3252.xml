@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3252">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Richard Relhan, Cambridge, [Cambridgeshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62302/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/8/87, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Relhan, Richard">Richard Relhan</persName>
+                    <placeName>Cambridge, Cambridgeshire</placeName>
+                    <date when="1799-08-21">21 Aug [1799]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Explains that the authority for habitats in "Flora Cantabrigiensis" and his supplements are all his, except 'Phleum paniculatum' which is on [James] Crowe's authority, and except for 'Salix rubra' found by [Samuel] Goodenough at Ely the other ['Salix'?] habitats are wrong. Lists two pages of new habitats for plants in "Flora Cantabrigiensis" for insertion [in "English Botany"]. Has sent [James] Sowerby and now Smith specimens of 'Potamogeton gramineum' and his Burwell plant, thinks it is the plant in "Flor. Dan. t.222" ["Flora Danica"?]. Lists two pages of new Cambridgeshire plants and habitats found since his last supplementum [over following two sides of the letter]. Commencing study of mints ['Mentha'], offers to send specimens of any not described by [William] Sole. List of plants sent, five are unnamed with habitats, but presumably 'Mentha'; plus 'Potamogeton gramineum', which Smith has annotated "only 'compressum'"; and possible 'Salix caprea', asks Smith to figure it if so.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2248">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Jackson Hooker, Glasgow, to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64013/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/23/7, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hooker, Sir William Jackson">Sir William Jackson Hooker</persName>
+                    <placeName>Glasgow</placeName>
+                    <date when="1821-12-21">21 Dec 1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Difficulties in communicating with Smith. Concerned to find that expressions of his in "Flora Scotia" have been misconstrued as attacks on Smith; will ensure offensive passages are expunged from second edition; apologises for and explains his wording of pages 132 and 279; praises Smith's botanical skills. Discusses differences in leaf shape of 'Salix purpurea', 'S. helix', and 'S. amygdalina'. Disagrees that economical merit should give place to scientific character in reference to 'S. caerulea', discusses authors on 'Salix' including Candolle and Sprengel.</p><p>Criticises [Samuel Frederick] Gray's "Natural Arrangements of British Plants", which seems "calculated to give the death blow to the study of natural orders, if not to botany altogether", remarks on plant names and attack on Linnaeus in preface, thinks [Richard] Salisbury has assisted with the natural orders. Refutes Salisbury's article on [Jonas] Dryander in October "Monthly Review".</p><p>Hopes Smith's work on "English Flora" in earnest; if Smith had declined it would have undertaking it himself. Return from his professorship not enough to support his family; supplementing by publishing books; proposes a "Species plantarum" in English, though concedes it would largely be a translation of Candolle, asks Smith's opinion. His intended "Exotic botany" work delayed by lack of able Scottish artists; difficulties with publisher. Thanks for duplicate specimens.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

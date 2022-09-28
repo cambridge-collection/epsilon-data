@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3043">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Patrick Neill, Canonmills, [near Edinburgh], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62201/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/103, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Neill, Patrick">Patrick Neill</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1814-11-20">20 Nov 1814</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for £31 for George Don's family, visited them in Forfar with [Robert] Brown [(c 1767-1845)] of the Perth nurseries, comments on the opposing characteristics of Don's two grown up sons: the elder, [George Don (1798-1856)], is "senseless, stubborn, unfeeling", whilst the younger, [David Don (1799-1841)], is "pliable, full of attachment [...], and really clever". "The Committee" failed to convince the eldest to "carry on the garden", fears it will be abandoned and that the son will go into the army, navy, or worse. Will try and get the younger son attached to a nursery or into Kew. Congratulates Smith on completion of "English Botany". Maughan has proved 'Solidago lanceolata' as indigenous, still has his own doubts. Results of an experiment for growing 'Fucus esculentus' at Car Rock. A "curious fact in vegetable physiology" concerning yellow leaved ash seedlings "inoculated by the insertion of [a] diseased bud". Neill's opinion of "Life and Death of a Monkey [or the Village of Alton: a tale for young persons" an anonymous work by "A Lady" published in London in 1814].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

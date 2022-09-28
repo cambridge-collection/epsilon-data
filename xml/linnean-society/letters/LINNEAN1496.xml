@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1496">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63443/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/56, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1792-03-31">31 Mar 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's parcel; very pleased with second faciculus [of "Icones pictae"], particularly figures of 'Justicia', 'Tradescantia', 'Oxalis', 'Sisyrinchium', 'Hydrangea', and 'Ligusticum', the "most desirable of the whole", though it will be criticised for not being an "exotic plant" and for lacking any "picturesque charms"; praises Latin and English descriptions and points out errors.</p><p>Suspects one of the reviewers of "Linnean Transactions" was Professor [Thomas] Martyn. Further praise of Smith's "Introductory discourse", including from Mr Zouch, who was convinced to become a FLS after hearing it; discusses Smith's writing style. Discusses other reviews of the volume, including one which hopes never to see "new plants introduced, without scientific specific differences annexed"; a "very good" caution to them. An addition for his 'Lycoperdon' paper. Prevented from attending Linnean Society anniversary meeting. Wishes François [Borone] was looking for 'Fucus' specimens during his voyage and on coast of Africa [botanical expedition to Sierra Leone with Adam Afzelius]. Gives various hints and recommendations on gaining advantage from working with the Queen [Charlotte of Mecklenburg-Strelitz (1744-1818)] so she does not presume that the honour alone is sufficient payment. Recently acquired Hoffman's ["Historia Salicum iconibus illustrata"]; looks a good work, as does his "Plantae lichenosae".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

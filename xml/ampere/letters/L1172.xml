@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="L1172">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Samuel Christie   11 juillet 1824</title>
+                <author>Ampère, André-Marie</author>
+                
+                
+                <funder>ANR Corpus 2012</funder>
+                
+                
+                
+                
+                
+                
+                
+                
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+<authority>La Correspondance d’André-Marie Ampère</authority>
+                
+                <publisher>Centre Alexandre Koyré - CNRS (UMR 8560)</publisher>
+                <address>
+          <addrLine>27 rue Damesme</addrLine>
+          <addrLine>75013 Paris</addrLine>
+        </address>
+                <distributor>
+                    <name>Centre de calcul de
+                        l'IN2P3</name>
+                    <address>
+            <addrLine>Domaine scientifique de la Doua</addrLine>
+            <addrLine>43 boulevard du 11 Novembre 1918</addrLine>
+            <addrLine>69622 Villeurbanne Cedex</addrLine>
+          </address>
+                </distributor>
+                <availability>
+                    <p>Ce texte est protégé par la licence <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons</ref> dont le contenu est disponible sous Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)</p>
+                </availability>
+                <date/>
+                <idno/>
+            <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=1172"/></publicationStmt>
+            
+<sourceDesc><bibl type="provenance"> <hi rend="italic">Catalogue 36: Rare books, manuscripts and images in medicine, science and technology</hi> (2009), p. 1-2.</bibl>
+
+                <biblStruct xml:id="ampere_corr_L1824-07-11-a">
+                    <monogr>
+                        <author>
+                            <name>Jeremy Norman &amp; Co.</name>
+                           
+                        </author>
+                        <title>Catalogue 36: Rare books, manuscripts and images in medicine, science and technology</title>
+                        <imprint>
+                           
+                            
+                            <date when="1936">2009</date>
+                            <biblScope unit="pp">p. 1-2</biblScope>
+                        </imprint>
+                    </monogr>
+                    <idno type="url_pdf">http://www.historyofscience.com/pdf/36-part-1.pdf</idno>
+                    <idno type="old">L1172</idno>
+                </biblStruct>
+              
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#pers_A366" type="sender" key="Ampère, André-Marie">André-Marie Ampère</persName>
+                    <date when="1824-07-11">11 juillet 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#pers_C777" type="adressee" key="Samuel Christie">Samuel Christie</persName>
+                </correspAction>
+            </correspDesc>
+            <creation>
+                <date when="2014-07">juillet 2014</date>
+                <name>Philippe Pons</name>
+                <name>Aude
+                    Coustumer</name>
+            </creation>
+            <langUsage>
+                <language ident="fra">Français</language>
+            </langUsage>
+        </profileDesc>
+        
+    </teiHeader>
+    <text type="correspondance" decls="#ampere_corr_L1824-07-11-a">
+    
+<body><div/></body>
+    </text>
+</TEI>

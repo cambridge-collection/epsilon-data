@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6323">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Louis Agassiz   19 August 1868</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3708</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6323 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6323.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6323.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 143: 14</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 3: 99;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl>Lurie (1960): 382</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Houghton Library, Harvard University (MS Am 1419: 278)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_180.xml">Harvard Houghton</repository>
+                    <collection>L. Agassiz Correspondence etc.</collection>
+                    <idno>MS Am 1419: 278</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Freshwater Down letterhead</placeName>
+                <date when="1868-08-19">19 Aug 1868</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_43.xml">Agassiz, J. L. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thanks LA for information on sexual differences in the coloration of Amazonian fish. CD was anxious to know how the sexes differed because they are unusual in that the male has the largest share in looking after ova and young.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">fish</term>
+                <term type="places" ref="#">Amazon</term>
+                <term type="scientific_terms" ref="#">eggs</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">nesting and other home-making or web-making behaviour</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">sex differences</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="scientific_terms" ref="#">young, offspring</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

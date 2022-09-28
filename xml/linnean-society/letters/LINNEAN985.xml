@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN985">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall to James Edward Smith, Hammersmith, 12 Great Marlborough Street, London, redirected to Hammersmith, [Middlesex]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62962/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/78, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    
+                    <date when="1795-11-10">10 Nov 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Hammersmith, Middlesex</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Last letter received from Smith dated 16 March 1795; recounts most recent letters sent and received between them, his parcel of November 1794 with seeds of 'Digitlalis' and 'Verbascum nigrum' lost on ship seized by French privateer. The war having severe impact on communications with and from Switzerland. Mandrot dead from an apoplexy. Anxious to receive continuations of "English Botany" and [James] Dickson's "Hortus Siccus Britannicus". Conscious that Smith lives "in the very centre of science" and has many correspondents and interesting observations to take up his time. Death of [Jakob] Ehrhart, one of his few Swiss connections since his poor health has made him a recluse. Named his son born 12 September Charles Edward after Linnaeus and Smith. Summarises his long unsent letter of January detailing his despair at damp which destroyed much of his herbarium.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

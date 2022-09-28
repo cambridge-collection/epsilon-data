@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2373">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Richard Pulteney, Blandford, [Dorset], to James Edward Smith, 12 [Great] Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64193/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/24/87, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pulteney, Richard">Richard Pulteney</persName>
+                    <placeName>Blandford, Dorset</placeName>
+                    <date when="1790-08-03">3 Aug 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Praises Gaetner's book [De fructibus et seminibus plantarum (1788-1805)], but feels "somewhat repugnant" to any attempt of forming a system on his principles. Thanks for attempts of Smith and others for their praise of his book ["Sketches of the progress of botany" (1790)] but concedes it will be of interest only to curiosity of young botanists and men of general reading.</p><p>Requests remainder of L'Héritier's works as they appear in Britain though fears revolutions and politics of France will hinder the author. Requests copy of Gmelin's edition of "Systema naturae". Hopes [Aylmer Bourke] Lambert is not idle in Ireland. Surprised that [John] Lightfoot and others should have missed so many Scottish plants now published by [James] Dickson in his second fasciculus [of "Plantarum cryptogamicarum Britanniae" (1785-1801)]. Dr Patrick Browne has given Lambert a manuscript on Jamaican plants, suspects it is of little worth. Apologises for corresponding with Smith on "such unequal terms".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

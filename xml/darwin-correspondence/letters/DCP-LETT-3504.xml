@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3504">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Daniel Oliver   12 [April 1862]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2801</idno>
+            <date when="1997">1997</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3504 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3504.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3504.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="10">10</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">10pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 261.10: 1 (EH 88205985)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>261.10: 1 (EH 88205985)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1862-04-12">12 [Apr 1862]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3589.xml">Oliver, Daniel</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>DO’s observations on polymorphism in <hi rend="italic">Primula</hi> and <hi rend="italic">Campanula</hi>. CD recognises three classes of dimorphism, as in <hi rend="italic">Primula</hi>, <hi rend="italic">Thymus</hi>, and <hi rend="italic">Campanula</hi> and violets.</p>  
+<p>DO’s <hi rend="italic">Campanula</hi> paper and Royal Institution lecture [<hi rend="italic">Not. Proc. R. Inst. G. B.</hi> 3 (1858–62): 431–3].</p> 
+            <p>CD’s interest in Fumariaceae from A. Gray’s comments on "selfing".</p>
+            <p>Bees bite holes in flowers when same species grows in high density.</p>
+            <p>Organisation of CD’s notes.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">bees</term>
+                <term type="plants" ref="#">Campanula</term>
+                <term type="plants" ref="#">Fumariaceae</term>
+                <term type="plants" ref="#">Primula</term>
+                <term type="plants" ref="#">Thymus</term>
+                <term type="plants" ref="#">violets</term>
+                <term type="it" ref="#">Campanula</term>
+                <term type="people" ref="#subject_1957">Gray, Asa</term>
+                <term type="scientific_terms" ref="#">behaviour</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">fertility and/or sterility</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

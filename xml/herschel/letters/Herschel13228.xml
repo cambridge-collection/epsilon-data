@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Herschel13228">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">To Mary Pitt Herschel   [1 July 1824]</title>
+                <respStmt xml:id="calendarPrint">
+                    <resp>Record created for the <hi rend="italic">Calendar of the Correspondence of Sir John Herschel</hi> (CUP: Cambridge), 1998 by</resp>
+                    <name>Michael J. Crowe ed., David R. Dyck and James J. Kevin assoc. eds</name>
+                </respStmt>
+                <respStmt xml:id="calendarOnline">
+                    <resp>Digital record created by</resp>
+                    <name>Dr Marvin Bolt and Steven Lucy at the Webster Institute of the Adler Planetarium</name>
+                </respStmt>
+                <respStmt xml:id="convertedToTEI">
+                    <resp>Converted to TEI by</resp>
+                    <name>Michael Hawkins, Epsilon Project, Cambridge University Library</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>John Herschel Project</authority>
+                <availability status="restricted">
+                    <p>Michael J. Crowe (editor), David R. Dyck and James J. Kevin (associate editors), Calendar of the Correspondence of Sir John Herschel (Cambridge, England: Cambridge Univ. Press, 1998), viii + 828 pp. Converted into web usable data in May 2009 by Dr. Marvin Bolt and Steven Lucy, working at the Webster Institute of the Adler Planetarium.</p>
+                </availability>
+                <date when="2018-07-23">23 July 2018</date>
+            </publicationStmt>
+            <notesStmt><note type="physdesc">ALS 4pp &amp;amp; C</note></notesStmt>
+            <sourceDesc>
+                <bibl type="provenance">TxU:H/L-0517.15; Reel 1053</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Herschel, Sir John">Sir John Herschel</persName>
+                    <placeName>Catania, Sicily</placeName>
+                    <date when="1824-07-01">[1 July 1824]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Herschel, Mary Pitt">Mary Pitt Herschel</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract> 
+                <p>Mount Etna marks furthest point of JH's journey. Travel is difficult. Both JH and servant James Child are in good health. Describes ruins of Girgente. Send future letters to Geneva or Paris. [Letter continued 3-4 July at Mount Etna:] Few lines from Casa Inglese, highest house in Europe, built by Carlo Gemmellaro for travelers. [Letter continued 5 July in Catania:] Ascent of Mount Etna.</p> 
+            </abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

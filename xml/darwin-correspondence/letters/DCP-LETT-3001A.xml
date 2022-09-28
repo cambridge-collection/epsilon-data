@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3001A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Lyell   30 November 1860</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20473</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3001A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3001A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3001A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Copy</note>
+            <note type="physdesc" n="CC">9pp CC</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 8: 502–4</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The University of Edinburgh Centre for Research Collections (Lyell collection Coll-203/A3/7: 49–57)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_124.xml">Edinburgh</repository>
+                    <collection>Lyell</collection>
+                    <idno>Coll-203/A3/7: 49–57</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+                <date when="1860-11-30">30 Nov 1860</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Satisfied that CD finds his conjectured rate of elevation and long periods of stasis reasonable, even if these periods cannot be estimated. Explaining upheaval by subterranean lava flow makes these pauses plausible. Suspects that mountainous areas move more than lowland and coastal areas. General upheavals or subsidence in Europe in glacial period are unlikely. Believes with Jamieson that there was glacial action in Scotland before its submergence and that it was equally mountainous then. Subterranean upheaval visits different countries by turn. Horizontal Silurian strata must have been submerged and upheaved. Rest has always been the general surface character. Believes, however, that the quantity of late Tertiary movement is against CD’s belief in the constancy of continents and oceans: perhaps since the Miocene period, but not since the Cretaceous.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">lava</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">sea, sea-currents</term>
+                <term type="scientific_terms" ref="#">subsidence and elevation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">time, ‘inorganic’ (geological, historical)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

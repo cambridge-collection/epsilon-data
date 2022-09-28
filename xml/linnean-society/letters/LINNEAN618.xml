@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN618">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Deanery, Rochester, [Kent], to James Edward Smith, at A B Lambert's, Lower Grosvenor Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62589/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/45, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Rochester, Kent</placeName>
+                    <date when="1803-05-20">20 May 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Succeeded in gaining his son's support [Edmund Goodenough (1785-1845), headmaster and dean of Wells] for Dr [George] Williams at Oxford, although from his son's note and Smith's letter unsure "what this place of physical contention is" [possibly a disagreement over the Aldrichian chair of anatomy and physiology, founded 1803].</p><p>Apologises for missing Linnean Society anniversary meeting; [Thomas] Marsham rescinded his offer of accommodation and it is otherwise too difficult finding a place to stay in London. Also surprised at the expensive dinner tickets which he believes will "frighten away most of the valuable members" such as [John] Fairbairn, [Thomas] Hoy [(c 1750-1822)], [Jonas] Dryander, and [James] Dickson; compares prices with Westminster School and Orphan School dinners. Observed his first rare plant in Rochester, 'Ophrys nidus-avis', at the side of a wood. Is not confident of Rochester's suitability for botanising; the hills mean there is very little rain. Asks when the remaining part of ["Flora Britannica"] appears; fears [Napoleon] Buonaparte will invade before it does. Gives his regards to [Aylmer Bourke] and Mrs [Catherine] Lambert.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

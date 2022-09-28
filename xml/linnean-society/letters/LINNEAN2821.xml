@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2821">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Michel Esprit Giorna, Turin, [Italy], to James Edward Smith, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61865/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/15, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Giorna, Michel Esprit">Michel Esprit Giorna</persName>
+                    <placeName>Turin, Italy</placeName>
+                    <date when="1792-03-11">11 Mar 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for the first volume of "Linnean Transactions". Henry Matthey has been working in a bank in Genoa for the last six months, his delusions of grandeur cured by squandering his patrimony in London. The fate of the pictures of birds Giorna sent him is unknown after they were claimed by an agent who advanced 20 guineas. Thanks for suggestion of [John] Latham as a correspondent. Hopes Smith has by now received the box of insects he sent via Mr Passavant, an English merchant in Turin. Forgot to send 'Kermes elegans' but was unsure on its classification. Believes [Pietro] Rossi's [(1738-1804) Italian entomologist] "Fauna Etrusca" qualifies him to become a member of the Linnean Society, asks how this could be achieved.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

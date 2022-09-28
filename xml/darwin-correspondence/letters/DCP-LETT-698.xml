@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-698">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Ernst Dieffenbach   2 October 1843<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1818</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-698 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-698.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-698.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">J. A. Stargardt (dealers) Cat. 574 1965.11.11–13</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_399.xml">Stargardt</repository>
+                    <idno>Cat. 574 1965.11.11–13</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1843-10-02">2 Oct 1843</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1322.xml">Dieffenbach, Ernst</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>On ED’s planned edition [German] of CD’s <hi rend="italic">Journal of researches</hi>.</p>  
+<p>Informs him of his forthcoming volume, <hi rend="italic">Volcanic islands</hi>.</p>  
+<p>"I am well acquainted with your paper on Chatham Island ["An account of the Chatham Islands", <hi rend="italic">J. R. Geogr. Soc.</hi> 11: 195–215], &amp; … those passages on the very curious fact of the apparent specific differences of the birds there &amp; at New Zealand".</p> 
+            <p>Thanks ED for recognition of his "small labours in Natural History… . praise from men, like yourself, is the only, though quite sufficient, reward I ever expect or wish to obtain for my works. – I have lately had the extreme satisfaction of hearing that Hooker speaks highly of the accuracy … of my statements". Refers to Humboldt and Owen.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">birds</term>
+                <term type="it" ref="#">J. R. Geogr. Soc.</term>
+                <term type="it" ref="#">Journal of researches</term>
+                <term type="it" ref="#">Volcanic islands</term>
+                <term type="languages" ref="#">German</term>
+                <term type="places" ref="#">Chatham Islands</term>
+                <term type="places" ref="#">New Zealand</term>
+                <term type="rx" ref="#">Dieffenbach, Ernst 1841</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">positive self-criticism</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">volcanoes and earthquakes</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

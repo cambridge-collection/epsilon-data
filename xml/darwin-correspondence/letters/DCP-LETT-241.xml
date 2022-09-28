@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-241">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Edward Lumb<ref target="#foot.f1"/>   30 March 1834</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1001</idno>
+            <date when="1985">1985</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-241 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-241.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-241.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="01">1</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 221.2: 1</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Winslow (1975): 348</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 1: 378</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Profiles in History (dealers) (2006)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_332.xml">Profiles in History</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>HMS Beagle, E ast Falkland Island</placeName>
+                <date when="1834-03-30">30 Mar 1834</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3040.xml">Lumb, Edward</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>CD asks the time of shipment and vessel in which the [Megatherium] bones were conveyed.</p>
+            <p>Patagonia swarms with guanaco, but few other creatures.</p>
+            <p>Hopes to be able to draw up a tolerable sketch of the geology of the east side of S. America.</p>
+            <p>Saw Jemmy Button, who is married and will stay in Tierra del Fuego. Mentions Falkland uprising.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">guanaco</term>
+                <term type="people" ref="#subject_779">Button, Jemmy</term>
+                <term type="places" ref="#">America, S., east side</term>
+                <term type="places" ref="#">Patagonia</term>
+                <term type="places" ref="#">Tierra del Fuego</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fossils</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">marriage</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

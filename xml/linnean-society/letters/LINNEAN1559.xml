@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1559">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Woodville, near Birmingham, [Warwickshire], to Pleasance Smith, Lowestoft, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63630/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/111, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Woodville, Warwickshire</placeName>
+                    <date when="1819-10-04">4 Oct 1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>He is here "in paradise, both mentally &amp; bodily", staying with Mr and Mrs Corrie; their characters. He lectures on Mondays, Wednesdays, and Fridays at 7pm; fuller every time than the last; plenty of ladies, all in evening dress; supplied with flowers from Mrs Corrie's garden and a nursery. Dined with Dr and Mrs Parr. His health remains good. Visited [James] Watt [(1769-1848), engineer] and saw the "Cyclops" at work in his "truly infernal abode".</p><p>Hears of no public disturbances and the "respectable dissenters" take no part; has learnt the true history of the "famous riots" [Priestly Riots of 14 to 17 July 1791 targetted religious dissenters in Birmingham]. Informed that it is "lucky" to have Monk for an enemy [Smith's Cambridge pamphlet]. He is very homesick. Saw [James] Watt's [(1736-1819), engineer] "charming abode".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

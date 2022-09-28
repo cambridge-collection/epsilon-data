@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN583">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough to James Edward Smith, 12 Great Marlborough Street, [London]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62557/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/13, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    
+                    <date when="1790-01-01">[1790]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Corrections and comments on Smith's usage of Latin in a manuscript sent for review [possibly Smith's translation of "Flora Lapponica"]. Asks Smith to confirm what he wrote of 'Lichen gypsaeus' and briefly discusses Linnaeus' terminology. In reference to 'Lichen tiliaceus' quotes a Latin remark about [Georg Franz] Hoffmann. Terminology applied in description of 'Lichen cucullatus'. Long discussion of usage and eytymology of "scutella"; "scutellum" incorrectly used by Linnaeus in "Philosophia Botanica", whereas the younger Linnaeus used "scutella"; wishes the elder Linnaeus had been more of a scholar.</p><p>Met [Jonas Carl] Dryander on way to Kew where two species of 'Aponogeton' are in flower, the 'Fudisia' [?] with "red superb flowers". Note on reverse of letter asks Smith to send the specimen of 'Cistus guttatus'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

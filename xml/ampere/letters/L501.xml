@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="L501">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">To Pierre Prévost   13 décembre 1814</title>
+            <author xml:id="AMA" key="Ampère, André-Marie (1775-1836)" ref="http://www.idref.fr/028694171">
+          <forename>André-Marie</forename>
+          <surname>Ampère</surname>
+        </author>
+            
+            
+            <funder>ANR Corpus 2012</funder>
+            
+            
+            
+            
+            
+            
+            
+            
+         </titleStmt>
+         <extent/>
+         <publicationStmt>
+<authority>La Correspondance d’André-Marie Ampère</authority>
+            
+            <publisher>Centre Alexandre Koyré - CNRS (UMR 8560)</publisher>
+            <address>
+          <addrLine>27 rue Damesme</addrLine>
+          <addrLine>75013 Paris</addrLine>
+        </address>
+            <distributor>
+          <name>Centre de calcul de
+               l'IN2P3</name>
+          <address>
+            <addrLine>Domaine scientifique de la Doua</addrLine>
+            <addrLine>43 boulevard du 11 Novembre 1918</addrLine>
+            <addrLine>69622 Villeurbanne Cedex</addrLine>
+          </address>
+        </distributor>
+            <availability>
+          <p>Ce texte est protégé par la licence <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons</ref> dont le contenu est disponible sous Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)</p>
+        </availability>
+            <date/>
+            <idno/>
+         <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=501"/></publicationStmt>
+         
+<sourceDesc><bibl type="provenance"> <hi rend="italic">Correspondance du Grand Ampère</hi> (Paris: 1936), p. 491-492.</bibl>
+
+            <biblStruct xml:id="ampere_corr_L1814-12-13-a">
+               <monogr>
+                  <author>
+                     <surname>De Launay</surname>
+                     <forename>Louis</forename>
+            </author>
+                  <title>Correspondance du Grand Ampère</title>
+                  <imprint>
+                     <pubPlace>Paris</pubPlace>
+                     <publisher>Gauthier-Villars</publisher>
+                     <date when="1936">1936</date>
+                     <biblScope unit="tome">II.</biblScope>
+                     <biblScope unit="pp">p. 491-492</biblScope>
+                  </imprint>
+               </monogr>
+               
+            <idno type="old">L501</idno>
+        </biblStruct>
+            <listWit>
+               <witness xml:id="L501manuscrit">
+            <msDesc type="original_manuscrit">
+                     <msIdentifier>
+                        <country>Suisse</country>
+                        <settlement>Genève</settlement>
+                        <institution>Bibliothèque de Genève</institution>
+                        <idno>Ms 1048, f. 10</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <p>La lettre n'a pas d'adresse. [note de Louis DE LAUNAY]</p>
+                     </physDesc>
+                  </msDesc>
+          </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#pers_A366" type="sender" key="Ampère, André-Marie">André-Marie Ampère</persName>
+          <date when="1814-12-13">13 décembre 1814</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="#pers_P468" type="adressee" key="Prévost, Pierre">Pierre Prévost</persName>
+        </correspAction>
+        <note type="CGA"> <ref target="#corresp1">(1)</ref></note>
+      </correspDesc>
+         <creation>
+        <date when="2014-07">juillet 2014</date>
+        <name>Philippe Pons</name>
+        <name>Aude
+               Coustumer</name>
+      </creation>
+         <langUsage>
+            <language ident="fra">Français</language>
+         </langUsage>
+      </profileDesc>
+      
+   </teiHeader>
+   <text type="correspondance" decls="#ampere_corr_L1814-12-13-a"><body><div/></body></text>
+</TEI>

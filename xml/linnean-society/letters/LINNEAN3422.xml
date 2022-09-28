@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3422">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">George Don to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64853/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/GD/58, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Don, George">George Don</persName>
+                    
+                    <date when="1803-05-25">25 May 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Numbered observations on enclosed cryptogam specimens, several of which he thinks are common: 1. 'Polytrichum' [Smith annotation: "var[iet]y of 'commune'"]; 2. 'Polytrichum' [Smith annotation: "'gracile'"]; 3. 'Polytrichum' [Smith annotation: "very near 'commune', I should think it that but for the nodding capsules"]; 4. 'Polytrichum' [Smith annotation: "new - original 'strictum' of Banks"]; 5. 'Polytrichum hercynicum' [Smith annotation: "good"]; 6. 'Splachnum' resembling [James] Dickson's 'tenue' [Smith annotation: "true"] ; 7. 'Phascum' [specimen extant] [Smith annotation: "'patens'?"]; 8. 'Splachnum rogosum', previously sent to Dickson 9 and 4 years ago.</p><p>Numbered observations on enclosed plant specimens: 1. a new 'Elymus', proposes name 'E. alpinus' [Smith annotation: "surely only 'Triticum caninum' [...] Tis no 'Elymus', returned the specimen"]; 2. an 'Anthemis' which he calls 'A. hybrida'.</p><p>One specimen, labelled, "no.7 'Phascum patens'?"</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

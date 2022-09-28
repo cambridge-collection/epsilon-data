@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2882">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To James Dwight Dana   30 July [1860]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1191</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2882 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2882.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2882.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="endorsement" subtype="letter">July | 60</note>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 143: 367</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">ML</hi> 1: 159;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl>Rezneck (1962): 179</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 8: 303</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Yale University Library: Manuscripts and Archives (Dana Family Papers (MS 164) Series 1, Box 2, folder 44)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_446.xml">Yale Manuscripts</repository>
+                    <collection>Dana Family Papers (MS 164)</collection>
+                    <idno>Series 1, Box 2, folder 44</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Hartfield Down letterhead</placeName>
+                <date when="1860-07-30">30 July [1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1190.xml">Dana, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Has been able to do nothing in science of late due to illness [of Henrietta].</p> 
+<p>When JDD reads <hi rend="italic">Origin</hi>, CD knows he will be opposed to it, but he will be liberal and philosophical, which is more than he can say for his English opponents.</p> 
+            <p>Has not yet seen L. Agassiz’s attack, but in principle avoids answering.</p> 
+<p>No one understands <hi rend="italic">Origin</hi> so well as Asa Gray.</p> 
+            <p>At BAAS meeting at Oxford, CD’s side seems almost to have got the best of the battle.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="health" ref="#">Darwin family</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="people" ref="#subject_43">Agassiz, J. L. R.</term>
+                <term type="people" ref="#subject_1225">Darwin, H. E.</term>
+                <term type="people" ref="#subject_1957">Gray, Asa</term>
+                <term type="people" ref="#">supporters</term>
+                <term type="places" ref="#">Oxford</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">positive criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+                <term type="social" ref="#">meeting</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">BAAS</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

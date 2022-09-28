@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6809">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From John Beddoe   [22 August – 12 September 1869]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16135</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6809 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6809.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6809.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">2pp inc, table, G.H. Darwin notes 2pp †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 85: A13–14</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>85: 13–16</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_359.xml" resp="high">Beddoe, John</persName>
+                <placeName>Arrocuhar</placeName>
+                <date notBefore="1869-08-22" notAfter="1869-09-12">[22 Aug – 12 Sept 1869]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Results of CD’s examination of data subvert JB’s former inferences. Will send abstracts from the data for his paper on colour of hair of single and married women 35 to 45 years old ["On the supposed increasing prevalence of dark hair in England", <hi rend="italic">Anthropol. Rev.</hi> 1 (1863): 310–12].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Anthropol. Rev.</term>
+                <term type="places" ref="#">England</term>
+                <term type="rx" ref="#">Beddoe, John 1863</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">time and age (‘organic’ time)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00027_files/8/0_0.jpg" width="3100px" height="5917px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00027_files/11/1_1.jpg" width="3100px" height="5917px"/>
+        <surface xml:id="i1" n="A13r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00027.jpg" rend="portrait" width="3100px" height="5917px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00027_files/8/0_0.jpg" width="3100px" height="5917px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00027.dzi" width="3100px" height="5917px"/>
+        </surface>
+        
+        <surface xml:id="i2" n="A13v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00028.jpg" rend="portrait" width="3077px" height="5868px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00028_files/8/0_0.jpg" width="3077px" height="5868px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00028.dzi" width="3077px" height="5868px"/>
+        </surface>
+        
+        <surface xml:id="i3" n="A14r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00029.jpg" rend="landscape" width="4462px" height="4230px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00029_files/8/0_0.jpg" width="4462px" height="4230px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00029.dzi" width="4462px" height="4230px"/>
+        </surface>
+        
+        <surface xml:id="i4" n="A15r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00031.jpg" rend="landscape" width="5338px" height="5314px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00031_files/8/0_0.jpg" width="5338px" height="5314px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00031.dzi" width="5338px" height="5314px"/>
+        </surface>
+        
+        <surface xml:id="i5" n="A16r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00033.jpg" rend="portrait" width="5470px" height="6972px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00033_files/8/0_0.jpg" width="5470px" height="6972px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00033.dzi" width="5470px" height="6972px"/>
+        </surface>
+        
+        <surface xml:id="i6" n="A16v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00034.jpg" rend="portrait" width="5375px" height="6874px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00034_files/8/0_0.jpg" width="5375px" height="6874px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00085-000-00034.dzi" width="5375px" height="6874px"/>
+        </surface>
+</facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

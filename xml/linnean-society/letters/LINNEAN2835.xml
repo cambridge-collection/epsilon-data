@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2835">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Nicholas Gwyn, Ipswich, [Suffolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61878/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/28, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Gwyn, Nicholas">Nicholas Gwyn</persName>
+                    <placeName>Ipswich, Suffolk</placeName>
+                    <date when="1791-11-28">28 Nov 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Discussion of origin of two similar Latin words, seemingly "caprina" and "capricon" following a figure from Smith of 'acapricon', concluding an error in copying, following review of "Geoponica" [10th century Byzantine agricultural compendium] and "Rei Rustica Scriptores" [collected Roman agricultural texts]. Points out a similar mistake in 'Menyanthes', first adopted from Theophrastus by [Christoph] Knauth [(1638-1694)] and followed by every botanist since, when the true Greek word is 'Minyanthes', accordingly asks Smith to correct page 177 of ["Philosophia botanica"]. Comments on Smith referring him to ["Critica Botanica"] encourages Smith to correct and improve the work of Linnaeus, considering that he is already willing to change work of any other. Sends second drawing of ''Tropaeolum palmatum foliis palmatis' by a lady who sent a drawing of 'Dianthus superbus' to [William] Curtis, said lady also saw Smith's figure of 'Acapricon' and believes the mistake was easy and repeated from "Flor. Ant." p.346. Comments on 'Tropaeolum perninum'. Thanks for present although 'Satyr. hirein.' was bruised by being thrown out of its basket. Jonas has put a specimen of dried 'Tropaeolum' into a box for Smith along with drawing of 'Diathus superbus'. Asks for copy of "Flora Lapponica". Asks why 'Conv. majalis' is from a German and Dutch name rather than "nada" the essential specific name. Asks Smith to view Ferrari "de Flor. Cultura" in reference to 'Fed. casius'. Asks Smith to procure 'Theophrastus' either "by Gaza, Stapel, Scaligen".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000095">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from James Hervey, Royal College of Physicians, to Samuel Wegg, Royal Society Treasurer </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">3 letters; 4 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/3/31, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/3/31</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6052" key="../nameregs/NA6052.xml">Samuel Wegg</persName>
+               <date when="1790-12-18">18 December 1790</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Samuel Wegg, Royal Society Treasurer">Samuel Wegg, Royal Society Treasurer</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

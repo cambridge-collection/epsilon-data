@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-LP-000360">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter, 'Recommends Mr Charles Walmesley for election into the R.S.; speaks of earthquake in London; &amp; of copies of his Nat. Hist.; of a burning-mirror of 360 small looking glasses' from George Louis Leclerc, Count of Buffon to Martin Folkes</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2019">2019</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Ink on paper, 3p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">L&amp;P/2/116, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>L&amp;P/2/116</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA7989" key="../nameregs/NA7989.xml">Georges Louis Leclerc, Count of Buffon</persName>
+               <date when="1750-04-06">6 April 1750</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8378" key="../nameregs/NA8378.xml">Martin Folkes</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

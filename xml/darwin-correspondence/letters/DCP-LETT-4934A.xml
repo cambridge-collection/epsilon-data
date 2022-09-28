@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4934A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From B. D. Walsh   12 November 1865</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20773</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4934A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4934A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4934A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Field Museum of Natural History, Chicago (Riley bequest of 1948)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_133.xml">Field Museum</repository>
+                    <collection>Riley bequest of 1948</collection>
+                    <idno/>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4944.xml">Walsh, B. D.</persName>
+                <placeName>Rock Island, Ill.</placeName>
+                <date when="1865-11-12">12 Nov 1865</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Acknowledges CD’s paper on "Climbing plants".</p> 
+<p>Mentions Asa Gray’s complimentary notice in Silliman’s Journal [<hi rend="italic">Am. J. Sci. and Arts</hi> 2d ser. 40 (1865): 273–82].</p>  
+<p>His difficulty in understanding how males of <hi rend="italic">Daphnia</hi> or any other genus can produce eggs. If there is no impregnation, how can there be sexual organs? Why call one form male and another female?</p> 
+            <p>He has sent CD his paper on "the new Potato Bug".</p>
+            <p>Will soon send "On Phytophagi Species &amp; Unity of Coloration". [phytophagic!?]</p>
+            <p>Complaints about practices of the English Post Office.</p> 
+<p>His current research and description of the <hi rend="italic">rationale</hi> of his experiments.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Daphnia</term>
+                <term type="animals" ref="#">potato bug</term>
+                <term type="plants" ref="#">climbing plants</term>
+                <term type="it" ref="#">Am. J. Sci. and Arts</term>
+                <term type="places" ref="#">England</term>
+                <term type="rx" ref="#">Gray, Asa 1865</term>
+                <term type="rx" ref="#">Silliman, Benjamin, Sr 1865</term>
+                <term type="scientific_terms" ref="#">eggs</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">food</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+                <term type="scientific_terms" ref="#">parasites</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Post Office</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

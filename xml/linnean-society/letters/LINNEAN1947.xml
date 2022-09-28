@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1947">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Bingley, Christchurch, Hampshire, to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63750/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/20/95, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bingley, William">William Bingley</persName>
+                    <placeName>Christchurch, Hampshire</placeName>
+                    <date when="1803-12-03">3 Dec 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Second edition of his tour of North Wales to appear shortly, updated from findings of second tour undertaken in 1801. Second edition of his "Animal Biography" also to appear; has material to take it from 3 to 4 volumes; new edition to stay with 3; 750 copies printed. He is now using German writers and untranslated French works for information; difficulty of obtaining Schreber's "Mammalia" and Bloch's "Ichthyologie"; uses British Museum Library; relying on Rees' "Cyclopedia" natural history writers. Requests list of suitable zoology books.</p><p>Hopes Smith is not concerned at his library and collections becoming spoils of war; concern for [Adam] Afzelius in Sierra Leone. Asks if there is a French translation of Bloch. Collecting 'Coleoptera'. Asks if Smith wants Hampshire fossils.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

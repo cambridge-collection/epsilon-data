@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1793">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Eddowes Bowman, Welsh Pool, [Montgomeryshire], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61540/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/66, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bowman, John Eddowes">John Eddowes Bowman</persName>
+                    <placeName>Welshpool, Montgomeryshire</placeName>
+                    <date when="1817-10-04">4 Oct 1817</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has found 'Potentilla rupestris' in the Breiddin Hills, near border with Shropshire, which from "English Botany" he is led to believe had been presumed a doubtful native due to it not being found again, will send Smith specimens if interested. Believes the hill he found it on may be the same as where [John] Ray first discovered it. Has also found two other rare plants, in the same place, mentioned by Ray; 'Veronica hybrida' and 'Lychnis Viscaria', and 'Hieracium murorum'. Desires to fix 'Veronica hybrida' as distinct from 'Veronica spicata', compares with a description only of the latter. Hopes to see a supplementary volume to "English Botany". Describes a 'Briza' unlike any of the Enlgish species and an 'Aspidium' which does not correspond with [James] Sowerby's figures, criticises Sowerby's plates of ferns as "not sufficiently characteristic of the different species".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

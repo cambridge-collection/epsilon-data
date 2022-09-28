@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Tyndall2049">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Rudolf Clausius   6 Dezember 63</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Tyndall Project</authority>
+                <date when="2017-10-02">2 October 2017</date>
+            </publicationStmt>
+            <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of John Tyndall</hi>, vol. 8 (2021)</ab>
+            <ab type="url">https://upittpress.org/books/9780822945772/</ab>
+        </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">MS JT/1/TYP/7/2261-3, RI</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="ger">German</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Clausius, Rudolf">Rudolf Clausius</persName>
+                    <placeName>Zurich</placeName>
+                    <date when="1863-12-06">6 Dezember 63</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Tyndall, John">John Tyndall</persName>
+                    
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

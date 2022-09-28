@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-13877">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Charles Kingsley   [17 June 1865]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3175</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-13877 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-13877.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-13877.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Cleveland Health Sciences Library (Robert M. Stecher Collection: FF10)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_93.xml">Cleveland</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1865-06-17">[17 June 1865]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2703.xml">Kingsley, Charles</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Did not think anyone would notice case of <hi rend="italic">Lathyrus</hi>.</p> 
+            <p>Recalls reading correspondent’s paper on great fir woods of Hampshire.</p>
+            <p>Thanks for photograph.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">fir</term>
+                <term type="plants" ref="#">Lathyrus</term>
+                <term type="places" ref="#">Hampshire</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                
+                <term type="tag" ref="#design_in_nature">Darwin In Nature Design In Nature</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

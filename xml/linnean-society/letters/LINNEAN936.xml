@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN936">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall, Orbe, Canton de Berne, [Switzerland], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62917/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/33, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                    <date when="1791-05-21">21 May 1791</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Hopes Smith received the box of lichens he sent, intends to send new parcel of plants via Mr Mandrot. Classification of 'Dianthus glaucus' Hudson, [Werner de] Lachenal [(1736-1800)] convinced it is 'Dianthus plumarius', Haller's no 897. Anxious that [Jacob] Wyttenbach's "submissive respect for Haller" may lead him not to translate his manuscript if anything in it derogates Haller. Just received a box of live alpine plants, including 'Hieracium pumilum' and 'Hyoseris foetida'. Responds to points in Smith's letter of 4 January 1791: 'Ribes petraeum' did not grow from cuttings; 'Coronilla minima'; 'Graphalium orientale'; 'Rosa m' from Reynier; 'Saxifraga sedoides'. Sent [Edward] Forster wild, rare specimens in good condition and received in return a "heap of disfigured garden specimens".</p><p>[Letter possibly incomplete: no signature or valediction]</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

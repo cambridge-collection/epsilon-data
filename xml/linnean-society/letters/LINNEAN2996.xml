@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2996">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert, London, to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62037/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/62, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    <placeName>London</placeName>
+                    <date when="1808-03-21">21 Mar 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Dined with Sir Abraham and Amelia Hume. Apologises for the unintentional affront of giving a specimen to Andrews without realising Smith wanted it. Received collection of New Holland [Australia] specimens from the bursar of Governor [Philip Gidley] King's [(1758-1808)] ship including a 'Fabricia' in flower. Has set aside [Jacques-Julien de] Labillardière duplicates for Smith. Smith styled a "celebrated lecturer" in latest number of [Richard] Salisbury's "Parad[isus Londinensis]", hopes never again to have to entertain Salisbury or [William] Hooker [(1779-1832), botanical artist for "Paradisus Londinensis"].</p><p>Assured [Robert] Brown that Lady Essex has not grown the New Holland plants 'Corylus' and 'Psychilis' as evidenced from her gardener's ignorance and Hooker's continued misinformation [it was revealed that Salisbury had stolen drawings from Sir Joseph Banks and published them as his own]. Requests specimen of 'Juniperus oxycedrus' from [John] Sibthorp's collection as no one knows what it is. Received from Mr Hamilton specimen of the "Cedar of the Ancients" taken from the Acropolis in Athens, [Greece], appears to be 'Juniperus bermudiana' or 'Juniperus oxycedrus' of Hawkins. Speculates on Smith's future articles for [Abraham] Rees' "Cyclopedia".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

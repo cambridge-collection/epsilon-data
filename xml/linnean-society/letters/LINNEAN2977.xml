@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2977">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert, Boyton House, [Wiltshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62020/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/45, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    <placeName>Boyton, Wiltshire</placeName>
+                    <date when="1805-10-01">1 Oct 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>[William George] Maton is teaching botany to the women of the Royal Family; spends two hours a day with the Queen [Charlotte (1744-1818), wife of George III] and reads with Princess Elizabeth who is "determined to become an expert British botanist". The Queen bought Gaertner on Maton's recommendation. They are forming a herbarium of marine plants, "the monarch himself often comes in to see them at their labours" and Smith and [Samuel] Goodenough's names are often mentioned. Has sent a capsule of the 'Ochroma' which the Queen intends to grow at Frogmore.</p><p>Informed by [George] Jackson that [Jonas] Dryander "is quite restored to botany" and is publishing a paper in [Charles] Konig's "Annals" on "Chloris Novae Hollandiae". Received first part of Labillarière's "New Holland Plants". Has specimens of 'Solanum pyracanthos' for [James] Sowerby. Received seeds from [Antonio José] Cavanillies which are in no other collection except at Kew. Has raised from seed twenty plants of 'Cinchona caribaea'. Pleased with Smith's account of "our friend Sarum" [Richard Salisbury] in "Exotic Botany". Has sent Sowerby complete specimens of the "Lambert nut". Has received first part of [Alexander von] Humboldt's and [Aimé] Bonpland's "Plantae aquinoetiales". Requests specimen of 'Trapa natans'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2647">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Bracy Clark, Orbe, [Switzerland], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61694/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/71, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Clark, Bracy">Bracy Clark</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                    <date when="1798-07-10">10 Jul 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Update on [Edmund] Davall's health, which has become more settled with only one partial attack in the last 13 weeks. Davall's physician has prescribed "pills of asafoetida" but finding them too heavy Clark suggetsed Davall take gentle doses of opiates to ease his irritability which also had the benefit of easing his constipation. With [Peter] Hubert has been correcting the paper on bees, comments that the style is heavily influenced by [René Antoine Ferchault de] Réaumur [(1683-1757) French scientist]. Comments on the pleasing appearance of the Alps now that the snow has melted. Is hopeful of obtaining a passport for France from Mr Pitch of Geneva, for which he wrote a piece on veterinary co[lleges] for the "Bibliotheque Brittanique". If disappointed shall return to England via Germany.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

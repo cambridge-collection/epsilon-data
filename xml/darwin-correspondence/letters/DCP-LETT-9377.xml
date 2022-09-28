@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9377">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To F. E. Abbot   30 March 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3847</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9377 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9377.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9377.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">4pp and ADraftS 4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 97: C46–C49</bibl></relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Harvard University Archives (Papers of F. E. Abbot, 1841–1904. Named Correspondence, 1857–1903. Folder: Darwin, Charles and W. E. Darwin (son), 1871–1883, box 44. HUG 1101)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_167.xml">Harvard Archives </repository>
+                    <collection>Papers of F. E. Abbot</collection>
+                    <idno>Named corres: box 44 HUG 1101</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>97: C46–9</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1874-03-30">30 Mar 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_7.xml">Abbot, F. E.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>FEA has expressed CD’s views on the moral sense with remarkable clearness and correctness; his eulogy is magnificent ["Darwin’s theory of conscience and its relation to scientific ethics", <hi rend="italic">Index</hi> 12 Mar 1874]. Cannot give a judgment on the essay because he has had "no practice in following abstract and abstruse reasoning".</p> 
+            <p>CD does not see how morality can be "objective and universal". No one would call the maternal bond in lower animals a "moral obligation". When a social animal "becomes in some slight incipient degree" a moral creature "capable of approving or disapproving of its own conduct" do not such obligations remain of a so-called instinctive nature rather than becoming at once moral obligations?</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">social animal</term>
+                <term type="it" ref="#">Index</term>
+                <term type="rx" ref="#">Abbot, F. E. 1874</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">highness and lowness</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">instinct</term>
+                <term type="scientific_terms" ref="#">positive self-criticism</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

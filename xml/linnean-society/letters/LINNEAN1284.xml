@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1284">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roscoe, Liverpool, [Lancashire], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63354/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/123, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                    <date when="1820-08-29">29 Aug 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Apologises for not being able to spend more time with Smith and Lady [Pleasance] Smith during their recent stay in Liverpool. About to move to St James's Mount and unsure what course his life will take but hopes it will be removed from "mercantile speculations or the squabbles &amp; quibbles of lawyers". Comments on remarks made by the Chancellor respecting an incident involving his business troubles and an imminent change in law.</p><p>Responds to Smith's letter of from Arley Hall [28 July 1820] and thanks for introduction to Lord Mountnorris [George Annesley], whom he first met in London when they helped establish the African Institution. Comments on the curiousness of Mountnorris' East India 'Scitamineae' drawings of, particularly 'Zingiber'. Reminds Smith of a letter he previously wrote on genus 'Thalia', which is still in need of elucidation. Since Smith's departure 'Hedychium angustifolium' has flowered and 'Hedychium excelsum' is about to, and 'Alpinia mutica' for the first time in Britain. Tormented with rheumatism but intends to visit Norwich before winter.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

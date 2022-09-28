@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN770">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Berners Street, London, to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62735/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/82, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>London</placeName>
+                    <date when="1823-03-18">18 Mar 1823</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Reply to Smith's of 27 February delayed by ill health and domestic troubles, including: his confinement for the last four months by the "very awkward weather"; death of his grandchild, the eldest daughter of Mrs Charlotte Lynn who died last summer, from a cold upon her chest and illness of three other of the children; Mr Lynn's threatening to leave Keswick; and the ailing of Mrs Goodenough of Lincolnshire's two remaining children out of ten, now being treated by Sir Henry Halford [(1766-1844), physician].</p><p>Attended a rare daytime Linnean Society council meeting at which an "absurd" hoax paper about robins read at the previous meeting; Joseph Sabine proposed publicly acknowledging it at the next meeting but Goodenough persuaded them to let the matter drop, grateful the reader is not stipendiary otherwise public notice might have been made. The Society unable to commit to publishing all eleven of [Francis Hamilton's] remarks on the "Hortus Malabaricus" and should never have printed the first part; this, alongside the cock robin paper, has determined [Alexander] Macleay to resign his post.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

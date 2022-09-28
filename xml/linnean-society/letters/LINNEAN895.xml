@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN895">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Pleasance Smith, Surry Street, [Norwich, Norfolk], to Sir Thomas Gery Cullum, Bury St Edmunds, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62851/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/87, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1824-12-02">2 Dec 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sir James [Edward Smith's] health considerably improved and muscle strength regained since they met at Saxmundham, [Suffolk]. Smith constantly working at his "[English] Flora". If Lady Cullum were Smith's patient he would prescribe her James's powders for her feverish symptoms. Read of Sir William Watson's death [(1744-1824), physician and naturalist]. Regrets that Mrs Cullum [Cullum's daughter-in-law] is still ill; recommends she walk up and down the "hanging tower at Pisa". Enjoying reading Lady Morgan's [(1781-1859)] "tour in Italy". Their friend Miss Trafford in Florence accompanying the Queen and Princesses of Haiti [Marie Louise Christophe (1778-1851), wife of Henri I, and Françoise-Améthyste (d 1831) and Athénaïs (d 1838)].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

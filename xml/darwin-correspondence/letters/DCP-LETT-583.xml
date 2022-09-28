@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-583">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To M. J. Berkeley   [26 November 1840]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19576</idno>
+            <date when="1987">1987</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-583 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-583.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-583.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="02">2</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete</note>
+            <note type="physdesc" n="ALS">1p inc †</note>
+            <note type="postmark">NO—26 1840</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Shropshire Archives (SA 6001/134/39)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_385.xml">Shropshire Archives</repository>
+                    <collection>(SA 6001/134/39)</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Upper Gower St, 12</placeName>
+                <date when="1840-11-26">[26 Nov 1840]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_408.xml">Berkeley, M. J.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Remarks that each of two species of <hi rend="italic">Fagus</hi> separated by 1000 miles has a fungus that grows on it; the fungus species are probably closely allied.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Fagus</term>
+                <term type="plants" ref="#">fungus</term>
+                <term type="scientific_terms" ref="#">close species</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">parasites</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

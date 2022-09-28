@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3148">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Henry Muhlenberg, [Lancaster, Pennsylvania], to James Edward Smith, Norwich, Norfolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62192/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/94, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Muhlenberg, Gotthilf Heinrich Ernst">Gotthilf Heinrich Ernst Muhlenberg</persName>
+                    <placeName>Lancaster, Pennsylvania</placeName>
+                    <date when="1805-03-21">21 Mar 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has not heard from Smith for a year but anxious for his observations. Has been assisted by [Carl Ludwig] Willdenow but doubtful whether "he has hit the Linnaean plant". Complains about how often Linnaeus is wrongly cited, even in [Jan Frederik] Gronovius' "Flora Virginica". Asks if there is anyone in London to compare American plants with herbarium of Gronovius and [John] Clayton, which is in London. Has asked a similar question in Paris of [André] Michaux's herbarium, whom he remarks neglected to keep Linnaeus' received names. List of queries from "Flora Virginica" by page, asks if "Linnean Transactions" might not answer these and similar queries for those "who live at a distance from the fountain". A second list of queries asking Smith to fix the names of some plants he previously sent. Asks permission to send another packet of plants, will send it with Mr Lyons, gardener at William Hamilton's "excellent botanical garden" near Philadelphia. Asks if Dawson Turner is still alive as Turner wanted 'Conferva' specimens. News of North American botanical publications: reviews Michaux's work ["Flora Boreali-Americana"]; Barton preparing a Flora of Pennsylvania and possibly neighbouring states; Brickel preparing a Flora Georgiana; himself compiling a description of indiginous Lancastrian plants but struggles with the cryptogamia class compounded by death of [Johann] Hedwig, anxious to see the relevant volume of "Flora Britannica". Gives brief descriptions of local species of 'Populus' to help Smith determine them.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

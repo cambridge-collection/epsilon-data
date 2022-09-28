@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5090F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Ewart Gladstone   14 May 1866</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20965</idno>
+            <date when="2004">2004</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5090F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5090F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5090F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="14">14</biblScope>
+        </seriesStmt>
+        
+        <sourceDesc>
+            <bibl type="provenance">Gunther 1975, p. 238 (facsimile of printed copy of memorial)</bibl>
+            <bibl type="printedSource"> <hi rend="italic">Report of the 49th meeting of the British Association for the Advancement of Science; held at Sheffield in August 1879</hi>, p. lxi</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London</placeName>
+                <date when="1866-05-14">14 May 1866</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1883.xml">Gladstone, W. E.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Memorial to the Chancellor of the Exchequer from the fellows of the Royal, Linnean, Geological, and Zoological Societies of London, stating the importance of separating the administration of the national natural history collections of the British Museum from that of the library and art collections, and placing it in the hands of one officer, immediately responsible to one of the Queen’s ministers.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_881">Chancellor of the Exchequer</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">British Museum</term>
+                <term type="societal" ref="#">Geological Society</term>
+                <term type="societal" ref="#">Linnean Society</term>
+                <term type="societal" ref="#">Royal Society of London</term>
+                <term type="societal" ref="#">Zoological Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

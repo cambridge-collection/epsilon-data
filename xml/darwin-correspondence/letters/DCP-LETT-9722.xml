@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9722">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To F. T. Köppen   18 November 1874</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3861</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9722 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9722.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9722.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">2pp</note>
+            <relatedItem type="publication">
+                <bibl>Sobol (1959): 117</bibl>
+            </relatedItem>
+        </notesStmt>
+            <sourceDesc>
+                <bibl type="provenance">Archive of the Russian Academy of Sciences, St Petersburg branch: SPBB ARAS (Fond 92. Register 1. Folder 112. P. 3, 3 r)</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository key="../repo/repo_368.xml">Russian Academy of Sciences (SPBB ARAS)</repository>
+                        <idno>Fond 92. Register 1. Folder 112. P. 3, 3 r</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1874-11-18">18 Nov 1874</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2629.xml">Köppen, F. T.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks FTK for telling him of Jahn’s work [see <hi rend="doubleUnderline">9719</hi>], of which CD had not heard. It would have been of greatest use in writing <hi rend="italic">Descent</hi>.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Descent</term>
+                <term type="it" ref="#">Die abnormen Zustande des menschlichen Lebens als Nachbildungen und Wiederholungen normaler Zustande des Thierlebens</term>
+                <term type="rx" ref="#">Jahn, Ferdinand 1842</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">expression, emotion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">monstrosity</term>
+                <term type="scientific_terms" ref="#">reversion</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

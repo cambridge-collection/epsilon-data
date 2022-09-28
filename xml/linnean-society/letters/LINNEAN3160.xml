@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3160">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roxburgh, Samulcotah, [Samulcotta, India], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62318/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/8/103, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roxburgh, William">William Roxburgh</persName>
+                    <placeName>Samulcotah, India</placeName>
+                    <date when="1793-03-20">20 Mar 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 20 February 1792. There is a description of the "Diandrous" timber tree Smith intends to name after him in Roxburgh's plant drawings sent to Court of Directors [of East India Company], sent specimen of the tree to [Alexander] Dalrymple [(1737-1808) geographer] for possible use in mathematical instruments. The 'Lythrum orixensis' flowering in his garden is similar to 'Grislea', further observations, sends new sketch of flower and capsule to replace his faulty former description [on the reverse of the letter Smith has written: "drawing of 'Lythrum' put into herb[ariu]m at 'Grislea'"]. Encloses specimen of 'Indigofera caerulea', too northerly for [Johann Gerhard] Koenig [(1728-1785)] to have come across it. Efficacy of 'Swietenia' bark in curing fevers even after Peruvian-bark has failed, has sent a sample for Smith. Hopes Smith received seeds.</p><p>In postscript encloses seeds of 'Lythrum orixensis', asks Smith to forward a note to [William] Aiton [(1731-1793) Kew gardener], and for Molesworth to send potato seeds, believes those in India are still propagated from the first ever sets planted in Asia.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

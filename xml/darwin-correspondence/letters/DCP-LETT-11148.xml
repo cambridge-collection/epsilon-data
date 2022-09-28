@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11148">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Raphael Meldola   22 September [1877]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2646</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11148 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11148.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11148.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="25">25</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <note type="postmark">SP 23 77</note>
+            <relatedItem type="publication">
+                <bibl>Poulton (1896): 204</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Oxford University Museum of Natural History (Hope Entomological Collections 1350: Hope/Westwood Archive, Darwin folder)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_312.xml">Oxford Hope</repository>
+                    <collection>Entomological Collections 1350:</collection>
+                    <idno>Hope/Westwood, Darwin folder</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1877-09-22">22 Sept [1877]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3289.xml">Meldola, Raphael</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Thinks the facts in Fritz Müller’s letter could be published.</p> 
+<p>Recommends August Weismann’s essay on dimorphism ["Über den Saison-Dimorphismus der Schmetterlinge", <hi rend="italic">Studien zur Descendenz-Theorie</hi> 1 (1875)]</p> 
+            <p>and has no doubt that intermediate forms could be eliminated as RM suggests.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">butterflies</term>
+                <term type="it" ref="#">Studien zur Descendenz-Theorie</term>
+                <term type="people" ref="#subject_3070">Müller, J. F. T.</term>
+                <term type="rx" ref="#">Weismann, A. F. L. 1875</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">extinction</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">intermediate forms, gradation</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">seasons</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2352">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Pitchford, Norwich, [Norfolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64174/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/24/68, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Pitchford, John">John Pitchford</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1788-12-20">20 Dec 1788</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Happy to hear Matlock, [Derbyshire], agreed with Smith so well and that he is now in good health. Pleased with Smith's Dr De Ramm, although as Smith observes "he is but a bit of a Botanist"; received of him 'Lemna arrhiza' and promise of 'Alisina natans', and a letter from [Nicholas] Gwyn. Mr Sutton has acquired the living of St George's Tombland, [Norwich], and will occupy the same room where Smith, [Thomas] Woodward, and himself often discussed botany. Received from Gwyn the true 'Centaurea solstitialis'.</p><p>Received Smith's 'Carex capillaris'. Received letter from [Samuel] Goodenough entirely on 'Carex'; some of Goodenough's remarks including 'Carex caespitosa' not in England, and Linnaeus' 'C. muricata' is 'C. spicata' Fl Ang. Requests 'Echinophora spinosa'. Offers to send specimen of 'Salsola fruticosa' for Linnean Society. Asks Sir Joseph Banks' opinion of Peter Pindar's [John Wolcot's pseudonym (1738-1819), satirist] poem to him ["Sir Joseph Banks and the Emperor of Morocco: a tale" (1788)].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

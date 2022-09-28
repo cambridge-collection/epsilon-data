@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN950">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall, Orbe, [Switzerland], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62930/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/46, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                    <date when="1792-02-03">3 Feb 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Fears for Smith's safety following reports of fire at the Pantheon [place of public entertainment on south side of Oxford Street, London]. Responds to Smith's letter [of 30 December 1791]: sorry to hear of Smith's brother's inactivity; will send a list of desiderata in due course, but anything not Swiss welcome and especially 'Smithia sensitivia'. Intends for his herbarium plan Swiss plants and English and European plants in near affinity. Thanks for Smith's figures of 'Agrostis capillaris' and 'Saponaria lutea'; shall send Smith a list of grasses desired, already has 'Cornucopiae cucullatum'.</p><p>Responds to Smith's letter of 6 July 1791: extensive comments on 'Arenaria liniflora'; is Smith happy with his drying and nature of specimens; number 10 of his 1791 parcel by Mandrot 'Anemone fragifera' or '[Anemone] baldensis'; will send good wild specimen of 'Ranunculus thora', comments on Haller's figure, does not agree with what Smith says of [Jean Johannes] Bauhin [(1541-1613)] and notes errors in printing of Bauhin and other 'Ranunculus' species.</p><p>Asks if Smith has seen "that complicated, fabricated, forged, mechanic mass", the vegetable part of [Johann Friedrich] Gmelin's [(1748-1804)] "Systema Naturae". Received visit from Professor [Johann] Hermann of Strasburg last summer.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5118">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To George Henslow   12 June [1866]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1858</idno>
+            <date when="2004">2004</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5118 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5118.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5118.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="14">14</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Fitzwilliam Museum, Cambridge (GEN/D/DARWIN (C)/9)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_135.xml">Fitzwilliam</repository>
+                    <idno>GEN/D/DARWIN (C)/9</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1866-06-12">12 June [1866]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2232.xml">Henslow, George</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Returns proofs of GH’s paper ["On hybridization among plants", <hi rend="italic">Pop. Sci. Rev.</hi> 5 (1866): 304–13] with his criticisms. Prefers that GH not state that CD has read the proofs.</p>  
+<p>Does C. V. Naudin really say that ovules (not seed) of hybrid <hi rend="italic">Luffa</hi> and <hi rend="italic">Cucumis</hi> are imperfect?</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">Cucumis</term>
+                <term type="plants" ref="#">Luffa</term>
+                <term type="it" ref="#">Pop. Sci. Rev.</term>
+                <term type="people" ref="#subject_3492">Naudin, C. V.</term>
+                <term type="rx" ref="#">Henslow, George 1866</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">hybrids</term>
+                <term type="scientific_terms" ref="#">instructions</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

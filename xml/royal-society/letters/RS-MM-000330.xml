@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000330">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from William Huggins, Upper Tulse Hill, to TG Bonney</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">4 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/7/4, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/7/4</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA7376" key="../nameregs/NA7376.xml">William Huggins</persName>
+               <date when="1883-12-21">21 December 1883</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA6474" key="../nameregs/NA6474.xml">Thomas George Bonney</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

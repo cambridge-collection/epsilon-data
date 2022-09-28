@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1214">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Clifton, [Bristol], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63176/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/61, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Clifton, Bristol</placeName>
+                    <date when="1800-05-15">15 May 1800</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for copy of "Flora [Britannica ?]"; glad to hear of Smith's improved health. His daughter [Mariamne Johnes] was ill whilst he was away but [Thomas] Beddoes [(1760-1808), chemist and physician] is "exceedingly attentive to her". Lord Lansdowne says that the Borghesi and two other "fine collections" are coming to England for sale, and that £6000 was asked for the "Gladiator".</p><p>Use of Latin terminology. Forgot to mention his promtion to the Lieutenancy. The patent is "working out" and he will have to go to London to "kiss hands". Has been made "quite comfortable" by the abolition of the auditorships in the last session of Parliament, as he has been placed on a similar footing with those who were appointed for life, for "no minister had ever any bowels". His sister frequently visits from Bath, [Somerset], and Mr Williams, [her husband ?] is in London: they have "been sadly cheated" but Smith's countryman, Sir George Chad, "behaved most handsomely" and got them out of a "a dreadful scrape".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

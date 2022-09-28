@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1937">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Bingley to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63741/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/20/86, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Bingley, William">William Bingley</persName>
+                    
+                    <date when="1799-02-01">[Feb 1799]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Account of his 3 month botanical trip in north Wales, from which he returned in October [1798]: travelled on foot; unable to meet [John Wynne] Griffith [(1763-1834)]; accompanied on his mountain excursions by a non-botanical clergyman with good local knowledge. Plants include: 'Cardamine petraea' notes and observations; specimens for Smith of the three rarer 'Arenaria', 'Polypodium lonchitis', 'Isoetes lacustris', and 'Subularia aquatica'; seed of 'Saxifraga palmata', 'Cerastium latifolium', 'Subularia aquatica', 'Cerastium alpinum', and 'Anthericum serotinum'; 'Formentilla ceptans' with flowers of the 'Formentilla' and 'Potentilla', [William] Withering thinks the two genera should be united. Apologises for not sending rare Welsh plants to [James] Sowerby as intended.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

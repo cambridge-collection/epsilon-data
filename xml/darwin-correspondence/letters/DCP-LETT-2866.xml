@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2866">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Emma Gärtner   14 July [1860]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1190</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2866 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2866.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2866.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+            <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <note type="postmark">JY 15 60</note>
+                <relatedItem type="publication">
+                    <bibl><hi rend="italic">Correspondence</hi> 8: 289</bibl>
+                </relatedItem>
+            </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Department of Special Collections, Kenneth Spencer Research Library, University of Kansas (KU MSS P87: 1)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_206.xml">Kenneth Spencer Research Library, Department of Special Collections</repository>
+                    <collection>MSS P87</collection>
+                    <idno>1</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Hartfield Down letterhead</placeName>
+                <date when="1860-07-14">14 July [1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1773.xml">Gärtner, Emma</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks for memoir of her father [G. Jäger, <hi rend="italic">Zum Andenken an Dr. C. F. von Gärtner</hi> (1851)] and engravings.</p> 
+            <p>Declines gift of CFvG’s collection of hybrid plants. Suggests Kew Herbarium.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#">Gärtner, Emma’s father</term>
+                <term type="people" ref="#subject_1774">Gärtner, K. F. von</term>
+                <term type="places" ref="#">Kew Herbarium</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">hybrids</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1556">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Vanbrugh Fields, [London], to Pleasance Smith, Lowestoft, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63628/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/109, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1819-06-10">10 Jun 1819</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Account of his time in London, including: trip to Eltham with Captain Sandham to try and find Sherard's tomb and remains of his garden; Sandham says James Munro died of failure in nervous constitution, saw his tomb at Greenwich; visited Deptford old church to see monuments of the Evelyns and Sir Richard Browne; called on Dr Baillie, who commended his looks, expects Smith to be on his prescription for a long time, Smith's bowel complaints and treatment; calls on or news of Mrs [Catherine] Lambert, Mrs Lochee, Mr Fuller Farr.</p><p>A meeting at Longman's, who declined purchasing copyright of his manuscript and suggested shares of the first edition; they promise to push his pamphlet [probably "A defence of the Church and Universities of England" (1819)]. Is to visit the Lamberts at Boyton, [Wiltshire], possibly followed by visits to Spring Grove, [Isleworth, Middlesex, home of Sir Joseph Banks], and Hall Place, [Berkshire, home of Sir William East]. Death of Mrs Fisher, née Clay, 4 years ago. Longman very keen for Smith to write a "Dictionary of Botany" and greatly approve of "English Flora", but he has to borrow £100-£200 whilst these are writing.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

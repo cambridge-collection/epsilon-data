@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1503">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward, Bungay, [Suffolk], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63449/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/62, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    <placeName>Bungay, Suffolk</placeName>
+                    <date when="1792-11-18">18 Nov 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received castor oil on same day as Smith's letter [of 31 October 1792]. Hopes Smith has found a way of "decently conveying" his zoology lectures to the Queen's [Charlotte of Mecklenburg-Strelitz (1744-1818)] and Princesses without having "shocked their delicacy". Asks whether his short paper on 'Fucus dasyphyllus' has been read at Linnean Society and whether it will be added to his other two species in "Linnean Transactions" vol 2.</p><p>[Samuel] Goodenough is ill with rheumatism or rheumatic gout, they both want to know what the 'Fucus palmotta' Smith received from Sir Thomas Frankland is; asks Smith to compare Linnaean herbarium specimens of 'Fucus foeniculaceus', 'F. abrotanifolius', and 'F. furcellatus' against Gmelin's and [William] Hudson's 'F. concatenatus', and 'F. rotundus'. Reminds Smith of his promise to look over his Scottish plants for 'Fucus inflatus' and 'F. furcellatus' for Goodenough.</p><p>Certificate signed by himself and Sir Thomas Cullum nominating [William] Mathew, of Bury, [Suffolk], who has sent rare plants to [James] Sowerby. Approves of enlargement of "English botany"; prefers 6 plates at 2s 6d to 3 at 1s, it will increase sales. Wishes he could get specimens of [James] Dickson's "curious" Scottish plants; wishes 'Linnaea borealis' could be found, as although it grows in "curious gardens" the name is a "most desirable addition to the British flora".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

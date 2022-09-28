@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Faraday0763">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">Faraday to Isambard Kingdom Brunel   17 February 1835<ref target="#foot.f1" resp="#mjhawkins"/></title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Faraday Project</authority>
+            <date when="2017-10-02">2 October 2017</date>
+         </publicationStmt>
+         <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. 2 (1993)</ab>
+            <ab type="url">http://digital-library.theiet.org/content/books/ht/pbsp029e</ab>
+        </seriesStmt>
+         <sourceDesc>
+            <bibl type="provenance">BrUL MS</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Faraday, Michael">Michael Faraday</persName>
+               <date when="1835-02-17">17 February 1835</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Brunel, Isambard Kingdom">Isambard Kingdom Brunel</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

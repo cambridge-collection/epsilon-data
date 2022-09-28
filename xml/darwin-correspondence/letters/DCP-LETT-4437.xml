@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4437">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Armand de Quatrefages   27 March [1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">13621</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4437 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4437.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4437.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+            <notesStmt>
+                <note type="description">LS</note>
+                <note type="physdesc">2pp</note>
+                <relatedItem type="publication">
+                    <bibl> <hi rend="italic">ML</hi> 1: 245</bibl>
+                </relatedItem>
+                <relatedItem type="publication">
+                    <bibl> <hi rend="italic">Correspondence</hi> 11: 269</bibl>
+                </relatedItem>
+                <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 147: 287</bibl></relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <bibl type="provenance">Bibliothèque nationale de France, département des Manuscrits (Manuscripts NAF 11824 ff. 76–7)</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository key="../repo/repo_658.xml">BnF</repository>
+                        <collection>MSS NAF</collection>
+                        <idno>11824 ff 76–7</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1863-03-27">27 Mar [1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3892.xml">Quatrefages de Bréau, J. L. A. de</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Specimens obtained from Charles Martins will be most interesting.</p> 
+<p>Comments on QdeB’s book [<hi rend="italic">Physiologie comparée</hi> (1862)].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Physiologie comparee</term>
+                <term type="people" ref="#subject_3197">Martins, C. F.</term>
+                <term type="rx" ref="#">Quatrefages de Bréau, J. L. A. de 1862</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

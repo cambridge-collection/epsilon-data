@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001551">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Guiseppe Lorenzo Bruni to Cromwell Mortimer, Secretary, Royal Society</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2005">2005</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">2 sides (Translation, 2 sides)</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/20/38, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/20/38</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA8055" key="../nameregs/NA8055.xml">Cromwell Mortimer</persName>
+               <date when="1743-10-11">11 October 1743</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA2407" key="../nameregs/NA2407.xml">Giuseppe Lorenzo Bruni</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

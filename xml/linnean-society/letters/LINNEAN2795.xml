@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2795">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Joseph Franz von Jacquin, Vienna, [Austria], to Sir James Edward Smith, at Messrs Longman, Hunt and Comp, Pasternoster Row, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61953/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/103, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Jacquin, Joseph Franz von">Joseph Franz von Jacquin</persName>
+                    <placeName>Vienna, Austria</placeName>
+                    <date when="1818-04-06">6 Apr 1818</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received chest of books and letter Smith sent on 6 March. Had hoped to send Smith the last fasciculus of "Eclogae" and "Supplementum Collectaneorum" but prevented by sickness of his father [Nikolaus Jospeh von Jacquin], now sending them with "Synopsis Stapeliarum" in a chest directed to Sir Joseph Banks. In settling their long book account observes the higher price of eighth fasicuclus of "Icones plantarum"; is sending "Supplementum Collectaneorum"; unaware that Smith already had "Oxalis"; a mistake by the bookseller is the reason for Smith not receieving the fourth volume of "Hort. Schöenb.", urges Smith to take the copy at Mr Boydell's. Itemised accounts for Smith and Jacquin. Requests [William] Sole's "Menthae" and Smith's edition of Linnaeus' "Journey to Lapland". Next summer publishing last fasciculus of his father's "Stapeliarum" and continuing publication of "Eclogae" and "Grasses" ["Eclogae graminum rariorum"]. Thanks for "Compendium Florae Britannicae", "a model of a flora as every country should have one". Enquires after "the only perfect copy existing" of ["De Materia Medica"] of Dioscorides [(c 40-90) Greek physician] that Nikolaus von Jacquin lent [John] Sibthorp in Vienna before his first trip to Greece, to be returned after his journey, and whether Smith could claim it at the executors. Explains that the notes in "Eclogae" were written in German to evade Bonaparte's higher import tax on Latin books. Defends the right of German botanists to write in their own language as the French and English do. Received "Flora Graeca". [Abraham] Rees' "Cyclopedia" is in Vienna but has not yet seen a copy.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA4870">
+   <persName>
+      <forename>John</forename>
+      <surname>Blaquiere</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>Baron de Blaquiere</roleName>
+   </persName>
+   <note type="dates">
+      <date>1732 - 1812</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 05 May 1732</p>
+      <p>Death: Bray, County Wicklow, Ireland (27 August 1812)</p>
+      
+      <p>Honours: KB 1774; Bt 1784; Baron 1800</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 13/01/1803</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll; DNB</p>
+   </note>
+</person>

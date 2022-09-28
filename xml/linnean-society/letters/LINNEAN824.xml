@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN824">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Martyn, Pertenhall, [Bedfordshire], to Sir Thomas Gery Cullum, Bury St Edmunds, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62786/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/22, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Martyn, Thomas">Thomas Martyn</persName>
+                    <placeName>Pertenhall, Bedfordshire</placeName>
+                    <date when="1813-06-02">2 Jun 1813</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>Bury St Edmunds, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Discusses Smith's candidature for Cambridge botany professorship: Sir Joseph [Banks'] illness was a great loss; thinks it curious that the dissenting Smith should be supported by two Bishops [presumably Bishops of Carlisle, Samuel Goodenough, and Ely, Bowyer Sparke (1759-1836); the Bishop of Winchester, Brownlow North, also pledged his support for Smith in August 1813], but concedes "Botany is of no sect"; hopes Smith will be his successor but supposes he would have to conform to the Establishment. Responded immediately to Smith's report of the canvassing but too much of a philsopher to care what happens at Cambridge. Recovered after a confinement of three months caused by typhus.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

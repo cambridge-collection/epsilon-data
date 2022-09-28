@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN844">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to Sir Thomas Gery Cullum, Richards Coffee House, Temple Bar, Fleet Street, [London]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62804/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/40, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1816-02-11">11 Feb 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Was surprised not to hear anything from Cullum during "the great stir" caused by [Thomas] Martyn's [erroneously reported] death; certain it has not damaged his campaign for the Cambridge botany professorship. The Duke of Bedford [John Russell, 6th Duke], Lord Hardwicke [Philip Yorke, 3rd Earl of Hardwicke (1757-1834)], Lord Spencer [George John Spencer, 2nd Earl Spencer], [Viscount] Althorp [John Charles Spencer (1782-1845)], [Marquess of] Tavistock [Francis Russell (1788-1861)], [Lord] John Thynne [(1772-1849)], Dean of Lincoln [George Gordon] and others have all come out in support of Smith. Will canvas at Cambridge for a week with Dr [Martin] Davy, and if the conditions are right and the vice-chancellor approves will ask Martyn to resign the professorship and hold the election. Edward [Hall] Alderson [(1787-1857)] of the Temple has a committee sitting for him. Will or has recently seen [William] Webb and [William] Kirby. Both the Bishop of Bristol [William Mansel] and Lord John Thynne convinced Smith will succeed. Plans to be at Linnean Society on 2 April to admit the Duke of Bedford a FLS.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

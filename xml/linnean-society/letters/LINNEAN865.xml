@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN865">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62770/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/6, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    
+                    <date when="1792-10-28">28 Oct 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Fears that [William] Hudson is dying after suffering a second paralytic stroke and losing the use of a leg. Spent five weeks of summer in Bath, [Somerset], followed by Weymouth, [Dorset], where he regularly saw the King and Queen [George III and Charlotte], though the weather was changeable. Asks whether 'Trifolium stellatum' and 'Trifolium maritimum' are the two distinct species of 'Trifolium', as he found [John] Ray's teasel-headed 'Trifolium' (Syn:p 329 n8) near Bristol, some think it distinct from 'Trifolium stellatum'. Could not find 'Vicia hybrida' at Weymouth; '[Vicia] lutea' common on the seashore and 'Vicia bythynica' in a hilly pasture with 'Ulex' and on Portland Island, compares the pods with 'Vicia lutea'. Recommends [William Lloyd] Baker and Thomas Ruggles as FLS. Intended to send [James] Sowerby Suffolk plants but weather too cold to botanise. 'Thesium linophyllum' and 'Cucubalus otites' still in flower. Coming to London at end of January.</p><p>New publications: Thunberg's "Flora Japonica"; Gaertner's "de Seminibus Plantarum"; Gmelin's "Systema Vegetabila" from 'Monandria' to 'Polyandria', including the genus 'Culhamia' and notes that an old way to spell Cullum was Culham; has heard there is a new edition of a "Species Plantarum"; saw Olivier's "Insecta Coleoptera"; with so many natural history books laments absence of a "Flora or Fauna Anglica". Further plants seen: field of nine inch high 'Orchis ustulata' at Bath; 'Trifolium maritimum' in low meadow near St Vincent's Rock, Bristol; 'Vicia lutea' at Weymouth; and 'Vicia bythinica'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

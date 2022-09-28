@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5840">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Ernst Haeckel<choice><seg type="original"><ref target="#foot.f1"/></seg><seg type="translation"><ref target="#foot_trans.f1"/></seg></choice>   [before 6 February 1868]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">5283</idno>
+            <date when="2008">2008</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5840 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5840.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5840.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="16">16</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp (German) damaged</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 166: 46</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>166: 46</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2048.xml">Haeckel, E. P. A.</persName>
+                <placeName>unstated</placeName>
+                <date notBefore="1809-01-01" notAfter="1868-02-05">[before 6 Feb 1868]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Describes his lectures on CD’s theory.</p> 
+<p>Thanks CD for copy of <hi rend="italic">Variation</hi>. Comments on book.</p> 
+            <p>Describes work of two protégés in Jena: Nicolas von Miklucho[-Maclay] and Anton Dohrn.</p>
+            <p>His cousin, Wilhelm Bleek, is sending an article about the origin of language.</p> 
+<p>Asks to keep book a few months longer but will return it if CD needs it [Webb and Berthelot, <hi rend="italic">Histoire naturelle des Îles Canaries</hi>, vol. 3, pt 1: <hi rend="italic">Géographie botanique</hi> (1840)].</p> 
+            <p>Describes research on Siphonophora.</p>
+            <p>Describes life in Jena. Mentions alpine accident during wedding trip.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Siphonophora</term>
+                <term type="health" ref="#">Other people</term>
+                <term type="it" ref="#">Histoire naturelle des iles Canaries: geographie botanique</term>
+                <term type="it" ref="#">Variation</term>
+                <term type="people" ref="#subject_488">Bleek, W. H. I.</term>
+                <term type="people" ref="#subject_1346">Dohrn, F. A.</term>
+                <term type="people" ref="#subject_3324">Miklukho-Maklai, N. N.</term>
+                <term type="people" ref="#subject_4992">Webb, P. B.</term>
+                <term type="places" ref="#">Jena</term>
+                <term type="rx" ref="#">Berthelot, Sabin 1840</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">communication</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmutation</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="scientific_terms" ref="#">wild vs domestic forms</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

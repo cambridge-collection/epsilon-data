@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1239">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Castle Hill, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63199/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/84, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Castle Hill</placeName>
+                    <date when="1808-12-18">18 Dec 1808</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Working hard to finish his literary work and constantly writes six sheets a week in preparation for spending the whole of next year visiting in the north. Confident Hafod House will be rebuilt [following a fire] and ready for habitation next September. Has long admired Smith's "bishop" [probably Samuel Goodenough, Bishop of Carlisle] from his speech on the "Catholic question" as it "effectually cuts off any further preferment"._x000D_</p><p>Discusses Laing's book, which shocked him. Has been told that "old Rose" is answering Mr Fox's book, he thinks this is a folly. Sorry [Nathaniel Edward] Kindersley did not call on him when travelling through this part of the country. Thanks to [Thomas] Beddoes [(1760-1808), chemist and physician] they are all "vastly well", though Mrs Johnes caught cold at St Paul's, when the "grandest sight" he ever saw of "the Charity Children took place". Beddoes has been exceedingly ill. Reminds Smith of 'Paeonia' seeds of Lady [Amelia] Hume he thought he could acquire.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

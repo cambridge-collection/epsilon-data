@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2754">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Charles Lyell   10 April [1860]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">206</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2754 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2754.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2754.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 146: 236</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 2: 300</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 8: 153</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">American Philosophical Society (Mss.B.D25.206)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_13.xml">APS</repository>
+                    <collection>Mss.B.D25.</collection>
+                    <idno>206</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1860-04-10">10 Apr [1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>W. B. Carpenter’s review of <hi rend="italic">Origin</hi> [in <hi rend="italic">Br. &amp; Foreign Med.-Chir. Rev.</hi> 25 (1860): 367–404] "very good and well balanced, but not brilliant".</p>  
+<p>"There is a brilliant review by Huxley" [<hi rend="italic">Westminster Rev.</hi> 17 (1860): 541–70].</p> 
+            <p>Asa Gray sends good case of selection producing black pigs in Virginia.</p>
+            <p>Great blow to CD that CL cannot admit potency of natural selection.</p> 
+<p>Owen’s review in <hi rend="italic">Edinburgh Review</hi> [111 (1860): 487–532] "extremely malignant, clever".</p>  
+<p>Patrick Matthew has published extract in <hi rend="italic">Gardeners’ Chronicle</hi> [7 Apr 1860] from his <hi rend="italic">Naval timber and arboriculture</hi> [1831], a complete but not developed anticipation of natural selection.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">pigs, black</term>
+                <term type="it" ref="#">Br. &amp; Foreign Med.-Chir. Rev.</term>
+                <term type="it" ref="#">Edinburgh Review</term>
+                <term type="it" ref="#">Gardeners’ Chronicle</term>
+                <term type="it" ref="#">Naval timber and arboriculture</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="it" ref="#">Westminster Rev.</term>
+                <term type="people" ref="#subject_1957">Gray, Asa</term>
+                <term type="places" ref="#">Virginia</term>
+                <term type="rx" ref="#">Carpenter, W. B. 1860b</term>
+                <term type="rx" ref="#">Huxley, T. H. 1860a</term>
+                <term type="rx" ref="#">Matthew, Patrick 1831</term>
+                <term type="rx" ref="#">Matthew, Patrick 1860</term>
+                <term type="rx" ref="#">Owen, Richard 1860b</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">positive criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

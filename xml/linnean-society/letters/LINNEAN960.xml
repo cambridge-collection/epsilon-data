@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN960">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall, Orbe, Canton de Berne, [Switzerland], to James Edward Smith, 12 Great Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62939/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/55, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                    <date when="1793-01-11">11 Jan 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His life completely secluded from contact with societies and individuals. Describes sudden death of his 84 year old aunt, and anecdote of a man who died with his cards still in hand. Glad of Smith's success with the Royal Family and hopes some reward will come of it.</p><p>Despite living as a hermit in September Lady [Lavinia] Spencer [(1762-1831)], the Duchess of Devonshire [Georgiana Cavendish (1757-1806)], and Lady [Henrietta] Duncannon [(1761-1821)] visited and he named the plants they had collected; the Duchess was rather indifferent as she prefers minerals to plants but Lady Spencer seriously intends to study Botany and Lady Duncannon has some aptitude, and he recommended Smith to them.</p><p>French politics: would like to see the establishment of a "reasonable &amp; virtuous liberty &amp; a state of things free from the abominable effects of intrigue &amp; corruption" but unsure if as a nation they are "capable of great things, they always run into extremes &amp; overshoot reason". Savoy peasants are forbidden from trading with Switzerland so must trade with the French for paper instead of money; "miserable as they were, many are still more so now".</p><p>Smith's pamphlets on slave trade: shocked by "the horrors practised on these unhappy men". Pleased with lichens and Smith's botanical instruction in his 9 November letter: will send more specimens of 'Linum tenuifolium' if requested. Pleased to hear of Afzelius and François [Borone] as the Berne Gazette has been reporting mortality and rebellion in Sierra Leone.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

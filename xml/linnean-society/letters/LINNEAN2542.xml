@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2542">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Withering, Edgbaston, [Warwickshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64371/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/26/66, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Withering, William">William Withering</persName>
+                    <placeName>Edgbaston, Warwickshire</placeName>
+                    <date when="1798-10-31">31 Oct 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Informs Smith he is "not quite implacable" on account of Smith's critique in preface to seventh volume of "English botany", and that he is not "intemperately [...] friendly to reform"; wishes Smith had kept him a little more detached "from the furious reformers of Germany, whose zeal has carried them to adopt measures which can never be defended". His only statement on subject is that it renders "the business of investigation more easy", for sake of the ladies who "cannot fail to be shocked at the abominable &amp; indelicate idea of the females riding the males".</p><p>Encloses specimen of "fungi parvi globosi" of "English botany"; observations. Asks that Smith delay figuring English 'Drosera' until he has sent specimens as he believes there are 5 species of that genus in the country. Encloses two Portugeuse species of 'Trifolium'; one may be 'T. angustifolium' [Smith annotation: "HL"] and the other belongs to subdivision of 'T. venicaria', if new suggests name 'T. umbellatum' [Smith annotation: "'resupinatum' HL"]; observations. In great hopes that 'Bromus diandrus' will prove valuable addition to agriculture, providing a much needed pasture in late March, though uncertain of expense of tillage; will send seed to any farming friend of Smith's.</p><p>Thanks for Smith's praise of his "Botanical Arranagement" and for the "many corrections which it owes to [Smith's] superior knowledge". Thanks for invitation to Norwich, but his health complaints do not allow him to travel, hopes Smith will visit him instead. "The very flourishing state of the Linn[ean] Soc[iety] must be highly flattering to its Founder".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

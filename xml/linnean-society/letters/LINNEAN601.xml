@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN601">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Ealing, Middlesex, to James Edward Smith, 14 Paradise Row, Chelsea, [London]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62547/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/3, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Ealing, Middlesex</placeName>
+                    <date when="1785-01-31">31 Jan 1785</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Encloses his list of desiderata [extant]. Natural history "an object of perpetual pleasure"; has collected and dried 3000 plant specimens. Believes he has all British species except those in his desiderata, offers Smith any specimens he may desire. His collection of lichens and mosses poor and unsatisfactorily arranged. Believes he has all of Hudson's species of 'Fucus'. Smith's purchase of Linnaean collections "sets Britain above all other nations in the Botanical empire".</p><p>[On separate folio] Goodenough's "Desiderata Hudsoniana", several marked by Smith: 'Campanula patula', 'Ornithogalum pyrenaicum', 'Juncus triglumis', 'Arbutus aplina', 'Euphorbia characias', 'Chelidonium hybridum', 'Chelidonium corniculatum', 'Lathraea squamaria', 'Subalaria aquatica', 'Vicca lathyroides', 'Hieracium paludosum', 'Gnaphalium supinum', 'Carex limosa', 'Lycopodium alpinum', 'Fucus cartilagineus', and 'Scirpus pauciflorus'. Smith has also noted "sent 'Lichen miniatus', 'Lichen olivaccus', 'Hypnum painetin', 'Hypnumn curpiratum', 'Isoetes lacustris', 'Phalaris phleoides', 'Agrostis littoralis', 'Lichen globiferus', and 'Lichen glaucus'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN708">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, [Carlisle, Cumberland], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62679/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/26, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1816-09-30">30 Sep 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Replying to Smith's letter of 29 August. Forwarded Smith's letter to [Elizabeth] Hill [(c 1760-1850), algologist]. A bad summer in Cumberland: very few flowers on their numerous carnations and for the first time he has ever known 'Lathyrus latifolius' also failed to flower, 'Orobus sylvaticus' and 'Cistus helianthemum' did flower. Vouches for Sir Thomas Frankland's reliability in condemning 'Carabus vulgaris'. Accepts Smith's offer to send new volume of "[Florae Graecae] Prodroumus" and new edition of "Compendium [florae Britannicae]". Knows nothing of Cambridge university politics and equates Smith's campaign [for botany professorship] to a game of chess; warns against moving the [Thomas] Martyn pawn at the wrong time [Martyn was the incumbent professor]. Pleased that Lord Exmouth Sir Edward Pellew, 1st Viscount Exmouth, (1757-1833)] ended the Algerian war "at a stroke" [ Bombardment of Algiers, 1816]. Very poor harvest in Goodenough's parish, only fifty acres of eleven square miles have been brought in. Has been employing the poor when he can, and not just buying their idleness with money as fears is mistakenly done in London.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1462">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Chelsea, [London], to Thomas Jenkinson Woodward</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63412/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/25, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1786-03-30">30 Mar 1786</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Encloses a pamphlet he has just printed [possibly "A dissertation on the sexes of plants" (1786)], requests Woodward's opinion. Requests accurate observations for Woodward's theory that 'Orobance [ramosa]' and 'Cuscuta' render barren the plants they parasitically attach to. Observations, from Linnaean herbarium, on 'Agrostis australis' and 'Milium lendigerum' being the same. Notes on 'Bromus erectus', 'Bromus racemosus', and 'Sisymbria murale' in Linnaeus' herbarium. Has learnt how to decipher most of Linnaeus' herbarium marks and has gone through the whole with Sir Joseph Banks.</p><p>[Botanical notes on address label on 'Cerastium latifolium', 'Sedum villosum', and 'Spergula pentandra', in Smith's hand]</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4510">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To A. R. Wallace   28 [May 1864]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1735</idno>
+            <date when="2001">2001</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4510 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4510.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4510.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="12">12</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">7pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 148: 210, DAR 148: 211</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 3: 89;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl>Marchant (1916) 1: 153</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 12: 216</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The British Library (Add. MS 46434: 39)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <idno>Add 46434</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1864-05-28">28 [May 1864]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4935.xml">Wallace, A. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Response to ARW’s papers on Papilionidae ["On the phenomena of variation and geographical distribution", <hi rend="italic">Trans. Linn. Soc. Lond.</hi> 25 (1866): 1–71; abstract in <hi rend="italic">Reader</hi> 3 (1864): 491–3],</p>  
+<p>and man ["The origin of human races", <hi rend="italic">J. Anthropol. Soc. Lond.</hi> 2 (1864): clviii–clxxxvi].</p> 
+            <p>The former is "really admirable" and will be influential.</p> 
+<p>The idea of the man paper is striking and new. Minor points of difference. Conjectures regarding racial differences; the possible correlation between complexion and constitution. His <hi rend="italic">Query to Army surgeons</hi> to determine this point. Offers ARW his notes on man, which CD doubts he will be able to use.</p> 
+            <p>On sexual selection in "our aristocracy"; primogeniture is a scheme for destroying natural selection.</p>
+            <p>[Letter incorrectly dated March by CD.]</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Papilionidae</term>
+                <term type="it" ref="#">J. Anthropol. Soc. Lond.</term>
+                <term type="it" ref="#">Trans. Linn. Soc. Lond.</term>
+                <term type="rx" ref="#">Wallace, A. R. 1864b</term>
+                <term type="rx" ref="#">Wallace, A. R. 1866</term>
+                <term type="scientific_terms" ref="#">constant varieties, races</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">physiology</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">sexual selection</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">variation</term>
+                <term type="social" ref="#">Darwin himself, domestic life</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">aristocracy</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

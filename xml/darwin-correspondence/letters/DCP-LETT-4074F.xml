@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4074F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To J. F. Lennard from the parishioners of Down, Kent<ref target="#foot.f1"/>   3 April 1863</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20906</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4074F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4074F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4074F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc">DS 2pp</note>
+            <relatedItem type="publication">
+                <bibl>Lion Heart Autographs</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Sotheby, London (24 July 1995)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_239.xml">Lion Heart</repository>
+                    <idno>Autographs</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <date when="1863-04-03">3 Apr 1863</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2887.xml">John Farnaby Lennard</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Testimony by the parishioners of Down, Kent, to the moral character and integrity of George Snow, District Surveyor. Signed by nearly fifty local residents, including CD.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="people" ref="#subject_4447">Snow, George</term>
+                <term type="places" ref="#">Down</term>
+                <term type="places" ref="#">Kent</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

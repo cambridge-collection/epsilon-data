@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11628">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Francis Darwin   24 and 25 July 1878</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">9327</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11628 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11628.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11628.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">AL incomplete</note>
+            <note type="physdesc" n="AL">inc †</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 162: 60, DAR 209.6: 198</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>209.6: 198,</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>162: 60</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1222.xml">Darwin, Francis</persName>
+                <placeName>Botanisches Institut, Würzburg</placeName>
+                <date when="1878-07-24">24 July 1878</date>
+                <date when="1878-07-25">25 July 1878</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Notes Julius Sachs’s opinion on the heliotropism of moulds: he can see no use in the response.</p>
+            <p>C. E. Stahl is working on swarm spores which can be made both helio- and apheliotropic.</p>
+            <p>Sachs has told him that some ferns sleep, and he suspects that some grasses may move.</p>
+            <p>Sachs also feels they may be working at bloom from a wrong point of view and suggests leaves may need to keep dry in order to keep their stomata open.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">ferns</term>
+                <term type="plants" ref="#">grasses</term>
+                <term type="plants" ref="#">moulds</term>
+                <term type="plants" ref="#">swarm spores</term>
+                <term type="people" ref="#subject_4143">Sachs, Julius von</term>
+                <term type="people" ref="#">Stahl, C. E.</term>
+                <term type="scientific_terms" ref="#">adaptation</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">bloom</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">wind and weather</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

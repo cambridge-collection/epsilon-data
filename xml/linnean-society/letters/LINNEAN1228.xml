@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1228">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Hafod, [Cardiganshire], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63189/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/74, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Hafod, Cardiganshire</placeName>
+                    <date when="1803-07-29">29 Jul 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 19 [July]. Pleased Smith's Liverpool lectures are so successful and hopes he will repeat annually. Thinks Liverpool is "one of the most liberal commercial towns", and that William Roscoe's "taste &amp; knowledge in Italian literature" has made it "fashionable". Pleased Roscoe has finished his "[Life and Pontificate of] Leo [X]"; supposes Roscoe used Lord Cork's "envious papers" of the period, he had nothing for Roscoe himself but Mr Shepherd found some "curious letters" of Poggio [Bracciolini (1380-1459), Italian scholar].</p><p>Mariamne [Johnes, his daughter] fonder of her gardens than ever and is in good health, and recently danced all evening. In "a most melancholy spectacle", Todd [his gardener], has become an "idiot" [after sustaining a head injury falling from his horse, see RelatedMaterial below] but is wasting away in spite of his appetite, so they hope he shall be quietly die. His farmyard narrowly escaped burning down, and only lost about £150 and no man, beast, or hay were damaged.</p><p>Yesterday had the "very considerable gain" of a lay estate in Cardigan, after settlement of a long running Chancery suit, and on selling his other estates shall be "too rich". Hopes his first volume [translation of Jean Froissart (c 1337-c 1405), French chronicler] will be printed by Christmas; there is to be folio edition of 20 and quatro of 300. Rained for the first time this month, does not remember a longer drought.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

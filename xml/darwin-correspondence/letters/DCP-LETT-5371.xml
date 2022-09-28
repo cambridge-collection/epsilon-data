@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-5371">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Alfred Newton   19 January [1867]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20300</idno>
+            <date when="2006">2006</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-5371 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5371.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-5371.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="15">15</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="endorsement" subtype="letter">Jan<hi rend="superscript">y</hi>. <formula><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>19</mn><mn>21</mn></mfrac></math></formula> /67. Answered Jan<hi rend="superscript">y</hi>. 21/67.</note>
+            <note type="physdesc" n="LS(A)">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 185: 87</bibl>
+            <bibl type="printedSource">&amp; Wollaston, A. F. R. 1921: 293</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>185: 87</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1867-01-19">19 Jan [1867]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3517.xml">Newton, Alfred</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Seeks explanation of the case of the <hi rend="italic">Rhynchaea</hi>, of which the female is more beautiful than the male, with the young resembling the latter. Wallace has told CD that at Nottingham AN explained this by the male being the incubator.</p> 
+            <p>Does the male black Australian swan, or the black and white S. American swan, differ from the female in colour of plumage?</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Rhynchaea</term>
+                <term type="animals" ref="#">swan</term>
+                <term type="people" ref="#subject_4935">Wallace, A. R.</term>
+                <term type="places" ref="#">America, S.</term>
+                <term type="places" ref="#">Australia</term>
+                <term type="places" ref="#">Nottingham</term>
+                <term type="scientific_terms" ref="#">eggs</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">nesting and other home-making or web-making behaviour</term>
+                <term type="scientific_terms" ref="#">parents</term>
+                <term type="scientific_terms" ref="#">physical ‘external’ characters</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="scientific_terms" ref="#">sex differences</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="scientific_terms" ref="#">transmission, ‘taking after’</term>
+                <term type="scientific_terms" ref="#">young, offspring</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

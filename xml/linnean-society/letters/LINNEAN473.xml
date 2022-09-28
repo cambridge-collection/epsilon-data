@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN473">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Henry Fox Talbot, London, to Sir James Edward Smith, at Prof Reeve's, Lowestoft, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62442/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/12, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Talbot, William Henry Fox">William Henry Fox Talbot</persName>
+                    <placeName>London</placeName>
+                    <date when="1826-08-31">31 Aug 1826</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Delaying his Ionian flora paper for Linnean Society until next spring as expects to go to Paris soon. Frustrated by botanical travellers who do not mention in their "Floras" what plants chiefly abound in a district; it is not the few rare flowers that characterise a region's vegetation. Lists the plants that are strikingly abundant on Corfu: 'Phlomis fruticosa'; 'Asphodelus ramosus'; 'Ornithogalum exscapum' Tenore, thinks it the 'Ornithogalum nanum' Sibthorp; 'Geranium umbrosum' Tenore; 'Scilla maritima'; 'Lycopsis variegata'; 'Scrophularia peregrina'; 'Phalaris [ariculata]'. On island of Zante: 'Salvia triloba'; 'Hedysarum humile'; 'Hedysarum caput-galli'; 'Chrysanthemum coronarium'; 'Cynara humilis'?; 'Anthericum graecum'; 'Poterium spinosum'; and 'Cistus salicifolius'.</p><p>Has discovered two varieties that may be new species: a 'Lithospermum orientale' which on Corfu always has white flowers, and 'Trifolium stellatum', which elsewhere has pink flowers but on Corfu bright yellow. Found specimen of 'Cytinus hypocistis', it resembles a wax model more than a living plant. An 'Umbelliferae' on Zante with a triangular stem, [Antonio] Bertoloni calls it 'Laserpitium triquetrum'. 'Staehelina chamaepeuce' grows on cliffs on Zante. Did not see 'Veronica chamaedrys' on Corfu but a 'Veronica' very like it. Also found two "very singular" 'Euphorbia', one described by [Felix de Avellar] Brotero [(1744-1828)] as 'Euphorbia [pterococca]' and 'Euphorbia sexangularis' by Sprengel, the other would have been new but it was discovered by [Giovanni] Gussone [(1787-1866)] in Sicily last year.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

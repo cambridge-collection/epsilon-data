@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN762">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to Samuel Goodenough</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62728/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/75, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1822-03-13">13 Mar 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Takes on advice in Goodenough's last letter on "English Flora": only explanations of generic names will be for those new to British readers; praises Goodenough's plan for accenting but decides to adopt a simpler system. Queries whether [Augustin] de Candolle's new term, "carpella", for the single grains of compound fruits should not be "carpiola". Adopting [Johann von] Schreber's [(1739-1810)] genus 'Spartina' for 'Dactylis stricta' but the French have called it 'Limnetis'. Fears [William] Swainson has not succeeded in his attempts for a British Museum post. Regrets that party politics should make men such as [Thomas William] Coke and Edmund Wodehouse [(1784-1855), politician] enemies; feels some alarm at difference in age between Coke and his new wife [fifty years his junior]. [William] Roscoe preparing a "very excellent distribution of the species of 'Canna'" for Linnean Society.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

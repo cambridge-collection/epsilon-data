@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3132">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Charles Lyell   4 October 1859<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14409</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3132 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3132.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3132.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Contemporary copy in hand of Mary Elizabeth Lyell and AL incomplete</note>
+            <note type="physdesc" n="AL inc">† CC 16pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 170: 81; The University of Edinburgh Centre for Research Collections (Notebook 241, pp. 75–90)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>170: 79</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_124.xml">Edinburgh</repository>
+                    <collection>Lyell</collection>
+                    <idno>Notebook 241: 75–90</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+                <placeName>unstated</placeName>
+                <date when="1859-10-04">4 Oct 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Response to <hi rend="italic">Origin</hi>. Praise for summary of chapter 10 and chapter 11.</p> 
+            <p>The dissimilarity of African and American species is ‘necessary result of “Creation” adapting new species to the pre-existing ones. Granting this unknown &amp; if you please miraculous power acting’.</p>
+            <p>C. T. Gaudin writes of Oswald Heer’s finding many species common between Miocene floras of Iceland and Switzerland. Interesting for CD’s migration theory.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">Miocene</term>
+                <term type="it" ref="#">Origin</term>
+                <term type="people" ref="#subject_1828">Gaudin, C. T.</term>
+                <term type="people" ref="#subject_2199">Heer, Oswald</term>
+                <term type="places" ref="#">Africa</term>
+                <term type="places" ref="#">America</term>
+                <term type="places" ref="#">Iceland</term>
+                <term type="places" ref="#">Switzerland</term>
+                <term type="scientific_terms" ref="#">adaptation</term>
+                <term type="scientific_terms" ref="#">creationism, religion</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">mineralogy, minerals</term>
+                <term type="scientific_terms" ref="#">number of species</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">reception of Darwinism</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

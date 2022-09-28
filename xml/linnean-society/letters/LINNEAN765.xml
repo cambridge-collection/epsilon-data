@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN765">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Rose Castle, Carlisle, [Cumberland], to Sir James Edward Smith, Lowestoft, [Suffolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62731/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/78, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Carlisle, Cumberland</placeName>
+                    <date when="1822-09-06">6 Sep 1822</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Since the death his daughter, Mrs Charlotte Lynn, Mr Lynn has not tried for pupils nor attempted to find a matron to superintend the management and education of his children. Praises character of the King [George IV (1762-1830)], who "has only to shew himself &amp; everyone must admire him", and blames his previous foolish practices on his tutors the Bishop of Worcester and Dr Arnold. Dislikes the "idle rumours" about the attempt or design to assassinate the Duke of Wellington [Arthur Wellesley (1769-1852), soldier and statesman]. Wonders the true reason for [Thomas William] Coke giving up his agicultural meetings; [John Christian] Curwen [(1756-1828)], a great agiculturist in Cumberland, has given up his political agricultural meetings after being elected for the county, his chief aim.</p><p>Goodenough's observations on insects and birds: there have been no wasps this year compared to the multitudes last year which ate all their fruit; the last swifts left at the beginning of August, and last week during violent storms no swallows or martins were seen but with calmer skies they have returned, in fewer numbers, having already arrived late and less numerous than usual.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

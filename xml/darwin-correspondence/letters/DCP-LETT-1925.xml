@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1925">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To James Dwight Dana   14 July [1856]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1150</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1925 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1925.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1925.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">8pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Yale University Library: Manuscripts and Archives (Dana Family Papers (MS 164) Series 1, Box 2, folder 44)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_446.xml">Yale Manuscripts</repository>
+                    <collection>Dana Family Papers (MS 164)</collection>
+                    <idno>Series 1, Box 2, folder 44</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1856-07-14">14 July [1856]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1190.xml">Dana, J. D.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Asks whether the blind cave animals described by B. Silliman Jr [<hi rend="italic">Am. J. Sci.</hi> 2d ser. 11 (1851): 332–9] belong to genera found only on the American continent.</p> 
+            <p>On geographical distribution of Crustacea, CD asks whether northern genera sent species to the Southern Hemisphere or did southern genera send species north?</p>
+            <p>Does he know of any author who has described fossil trees in South Shetland Islands?</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">Crustacea</term>
+                <term type="plants" ref="#">trees</term>
+                <term type="geology" ref="#">cave</term>
+                <term type="it" ref="#">Am. J. Sci.</term>
+                <term type="places" ref="#">American continent</term>
+                <term type="places" ref="#">Hemisphere, northern</term>
+                <term type="places" ref="#">hemisphere, southern</term>
+                <term type="places" ref="#">South Shetland Islands</term>
+                <term type="rx" ref="#">Silliman, Benjamin, Jr 1851</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">fossils</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">higher groupings (‘family’, ‘class’, ‘order’ etc)</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">mineralogy, minerals</term>
+                <term type="scientific_terms" ref="#">perception and sensation</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1653">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Liverpool, [Lancashire], to Pleasance Smith, Lowestoft, Suffolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63593/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/74, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                    <date when="1803-07-01">1 Jul 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Approves of Pleasance's arrangements as to the cook, Betty Laws; a joke about her size confounding Bonaparte's invasion plans. Account of his journey from London to Liverpool, via Northampton, Lichfield, Stafford, and Chester. On arrival in Liverpool received by his old friend Thomas Taylor, where he is staying, with Taylor's nephew, Meadows. Refreshing air of Liverpool. Delighted with [William] Roscoe; opinion of his person and character. Promised 100 subscribers to his lectures, paying 2 guineas each; after journey expects to clear £180. Has spent £70 on books of [Edmund] Davall; his library sold "very cheap"; lists books purchased. Leaves it to Pleasance to decide on being godmother to "little Wilkinson", though he dislikes "such ties". [John] Koster, a friend of Correa's, thinks the war ill-judged, and that Correa was made insane by his persecutors in Lisbon. His lectures.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

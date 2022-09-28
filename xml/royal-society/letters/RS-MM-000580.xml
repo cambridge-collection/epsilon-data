@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000580">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Charles Mason, Portsmouth, to the Rev Dr James Bradley</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">1 side</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/10/129, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/10/129</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA1244" key="../nameregs/NA1244.xml">Charles Mason</persName>
+               <date when="1761-01-25">25 January 1761</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8376" key="../nameregs/NA8376.xml">James Bradley</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7121">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From V. O. Kovalevsky   28 February [1870]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">17810</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7121 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7121.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7121.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp encl</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 169: 61</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>169: 61</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2751.xml">Kovalevsky, V. O.</persName>
+                <placeName>Munich</placeName>
+                <date when="1870-02-28">28 Feb [1870]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Describes his brother Alexander’s discovery of male of <hi rend="italic">Bonellia</hi>, a striking example of dimorphism. Encloses a plate with notes on his brother’s work.</p> 
+            <p>The difficulty his wife, Sofya Kovalevsky, has had as a woman in being admitted to Berlin University. Kirchow [Gustav Robert Kirchhoff], at Heidelberg, has taken an interest in her.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Bonellia</term>
+                <term type="people" ref="#subject_2711">Kirchhoff, G. R.</term>
+                <term type="people" ref="#subject_2749">Kovalevsky, A. O.</term>
+                <term type="people" ref="#subject_2750">Kovalevsky, Sophie</term>
+                <term type="places" ref="#">Heidelberg</term>
+                <term type="scientific_terms" ref="#">dimorphism</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">sex</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">University of Berlin</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

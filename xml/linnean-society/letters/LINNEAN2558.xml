@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2558">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir James Edward Smith, Norwich, [Norfolk], to James Yates, 14 Islington Row, Birmingham, [Warwickshire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64385/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/26/80, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1825-01-08">8 Jan 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Yates, James">James Yates</persName>
+                    <placeName>Birmingham, Warwickshire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Only recently received Yates' letter of 10 March [1824]; his ill health last summer and almost total interruption of his literary labours and correspondence have kept him in state of estrangement from many friends, and now he is recovered his work on "English Flora" takes all his time, he "cannot write books and letters too". Explains delay in receiving Yates' letter, caused by it getting caught up in his niece Martin's "drapery". Recollections of Yates' new area of residence in Birmingham.</p><p>His illness prevented him from going to London at all in 1824, having never missed a year before. Intends to go to London in April this year, hopes to see Yates' and Mrs James Yates there. Approves of [William] Roscoe's work [see RelatedMaterial below], hopes he can go on with it. Asks after his Birmingham friends the Corries and Dr Johnstone.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

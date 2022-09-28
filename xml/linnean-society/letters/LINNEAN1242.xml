@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1242">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Johnes, Castle Hill, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63202/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/16/87, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Johnes, Thomas">Thomas Johnes</persName>
+                    <placeName>Castle Hill</placeName>
+                    <date when="1810-05-06">6 May 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letters of 24 April and 3 May, his daughter [Mariamne Johnes] thanks Smith for the seeds. Has had a severe cold and fever and sprained his ankle in a fall. Asks Smith's brother the best place and persons to buy crimson serges from. Flattered by Smith's dedication [in his "Tour to Hafod" (1810)]; crossed out a few words in the preface for displaying "far too much vanity on my part, and alas this place has gained me enemies enough". Supposes it comes out the same time as his [Enguerrand de] Monstrelet [(1400-1453), French chronicler] translation, of which the entire edition has sold before publication. Impatient to go home but it will not be complete till the end of the month. Surprised by number of books he has saved from the fire or from being thieved; Smith's "Insects [of Georgia]" amongst them, and once all arranged expects to have a finer collection than before.</p><p>[In postscript] thanks Smith for wheat, which he sowed into the garden straight away.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

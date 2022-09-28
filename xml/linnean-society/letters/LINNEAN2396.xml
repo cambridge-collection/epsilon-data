@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2396">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roxburgh, 36 Bernard Street, Russell Square, [London], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64230/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/25/18, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roxburgh, William">William Roxburgh</persName>
+                    <placeName>London</placeName>
+                    <date when="1806-12-11">11 Dec 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's letter of 8 [December 1806] and Norfolk turkey. Sir Joseph [Banks] ill but will tell him what Smith said of 'Globba'; needs to find Smith's "Exotic botany" 177, suspects it is another of his proposed 'Colebrookia' species. Asks if the new genus Smith has selected for 'Colebrookia' is [Francis] Buchanan's 'Sussodia', as he has two species of that genus selected for his volume ["Plants of the Coast of Coromandel"]. Informs Smith he has already named a genus for Colonel [Thomas] Hardwicke in first number of his third volume ["Plants of the Coast of Coromandel"]; details. Efforts to name a genus after Buchanan in same volume.</p><p>Sending two seeds of 'Cycas circinalis', and one he dissected in order to provide figure, encloses sketch of the section [extant]. Has not yet compared Smith's 'Roxburghia' with his own, so uncertain how they came to be unalike, though may be due to sending Lady [Amelia] Hume the roots before it blossomed in Bengal.</p><p>Separate note with cross section of seed, in pencil, and pencil remarks explaining the drawing.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

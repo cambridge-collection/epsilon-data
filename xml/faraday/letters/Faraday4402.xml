@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Faraday4402">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:id="main_title">Thomas Romney Robinson to Faraday   16 November 1863</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Faraday Project</authority>
+            <date when="2017-10-02">2 October 2017</date>
+         </publicationStmt>
+         <seriesStmt>
+            <ab type="p"><hi rend="italic">The Correspondence of Michael Faraday</hi>, vol. 6 (2011)</ab>
+            <ab type="url">http://digital-library.theiet.org/content/books/ht/pbsp045e</ab>
+        </seriesStmt>
+         <sourceDesc>
+            <bibl type="provenance">LMA CLC/526/MS 30108/4/137</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Robinson, Thomas Romney">Thomas Romney Robinson</persName>
+               <date when="1863-11-16">16 November 1863</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Faraday, Michael">Michael Faraday</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

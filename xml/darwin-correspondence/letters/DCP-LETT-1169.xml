@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1169">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To H. T. De la Beche   7 April [1848]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3094</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1169 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1169.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1169.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+            <notesStmt>
+            <note type="physdesc" n="inc">&amp; damaged</note>
+                <relatedItem type="publication">
+                    <bibl> <hi rend="italic">Correspondence</hi> 4: 129</bibl>
+                </relatedItem>
+            </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">National Museum of Wales, Department of Natural Sciences (De la Beche)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_294.xml">NM Wales</repository>
+                    <collection>Dept of Natural Sciences</collection>
+                    <idno>De la Beche</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1848-04-07">7 Apr [1848]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1273.xml">De la Beche, H. T.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>CD discusses questions about his coral reef theory that were raised by HTDlaB [in his Geol. Soc. Anniversary Address (1848)].</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">coral</term>
+                <term type="geology" ref="#">reef</term>
+                <term type="rx" ref="#">De la Beche, H. T. 1848</term>
+                <term type="scientific_terms" ref="#">coral</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="societal" ref="#">Geol. Soc.</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

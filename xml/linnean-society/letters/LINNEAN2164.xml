@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2164">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Hardwicke, Calcutta, [India], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63976/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/22/84, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hardwicke, Thomas">Thomas Hardwicke</persName>
+                    <placeName>Calcutta, India</placeName>
+                    <date when="1811-02-08">8 Feb 1811</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 24 April [1810]. Suffering from severe headaches, for which he has just returned from a retreat in the upper provinces; was unable to pursue any natural history inclinations and has become a "much worse botanist" than when he left England; preparing to visit the Cape [of Good Hope] or St Helena for the headaches, and will also visit England if they persist. Whilst at Cawnpore found 'Rhododendrun boorans' for Calcutta Botanic Garden and Marquis of Blandford [George Spencer-Churchill]; [William] Roxburgh sending drawing taken from dried specimen. Also found: 'Berberris ilicifolia', 'Rubus' with yellow fruit, a 'Quercus', 'Pinus longifolia', and a 'Betula'. Transplanted a tree from Cawnpore to Calcutta Botanic Garden, Roxburgh thinks it a 'Humea'; observations.</p><p>Has a specimen of 'Breccia' or pudding stone, a mineral, for Sir Joseph Banks. Pleased to hear of Banks' desire to establish a Botanic Garden at Ceylon. Concerned to hear of [Robert] Brown's desertion of the Linnaean School.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1803">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Brodie, Brodiehouse, near Forres, [Elginshire], to James Edward Smith, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61549/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/75, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Brodie, James">James Brodie</persName>
+                    <placeName>Forres, Moray</placeName>
+                    <date when="1795-05-07">7 May 1795</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Writes in reference to 'Pyrola uniflora', specimens of which he once sent to [James] Hoy of Gordon Castle and which has since been included in a work of [James] Sowerby's, but believes Sowerby has not succeeded in correctly documenting it and will send more specimens for further attention. Relates that John Mackay [(1772-1802) employed at Dickson nursery, Edinburgh] has discovered many plants in north and west Scotland overlooked by [John] Lightfoot, list sent to Sowerby along with specimens of 'Eriocaulon decangulare', Mackay to send seeds of same shortly. Recommends Mackay as a collector. Has received from Dominica seeds and drawing of plant sent as the true 'Iecacuanha' but believes it to be 'Asclepias curassavica' as does [Daniel] Rutherford, will send specimen if desired.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1708">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Francis Buchanan, Luckipore, [Bengal, India], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61596/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/122, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hamilton, Francis">Francis Hamilton</persName>
+                    <placeName>Luckipore, Bengal, India</placeName>
+                    <date when="1796-10-02">2 Oct 1796</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has delivered a report on the botany of Burma to the East India Company, along with a set of specimens and loose duplicates, probably to be given to Sir Joseph Banks, hopes Banks will let Smith have duplicates. Has sent Smith a description and drawings of an animal and three plants with intention of inclusion in "Linnean Transactions". Asks Smith to look over and correct his "Enumeratio Plantarum" if the East India Company decide to publish any of it. Sending items to [William] Roxburgh. Arranging materials procured in Ava, Burma, for illustrating the geography of Eastern India. Has gathered materials on the religion and cosmogony of the Burma, Siamese and other eastern nations. Recommends if Smith and any friends have an interest in documents of the region see Sir John Murray who is returning to England with a collection of Burma, Siamese, Shan Palli and Kussay manuscripts.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

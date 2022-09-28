@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA1034">
+   <persName>
+      <forename>John</forename>
+      <surname>Campbell</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>1st Earl of Cawdor</roleName>
+   </persName>
+   <note type="dates">
+      <date>1790 - 1860</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: London, England (08 November 1790)</p>
+      <p>Death: Stackpole, Dyfed (07 November 1860)</p>
+      
+      <p>Honours: Viscount Emlyn of Emlyn 1827; Earl 1827</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 11/06/1812</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+   </note>
+</person>

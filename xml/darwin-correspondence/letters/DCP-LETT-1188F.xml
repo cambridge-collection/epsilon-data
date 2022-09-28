@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1188F">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John Russell   [10 July 1848]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">21410</idno>
+            <date when="2010">2010</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1188F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1188F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1188F.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="18">18-Supplement</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">Printed document</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Cambridge Pamphlets, Folio Series, vol. 4: CUL Cam.a.500.5/124</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>Cambridge Pamphlets, Folio Series, vol. 4:</collection>
+                    <idno>Cam.a.500.5/124</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent" subtype="personGrp">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <persName key="../nameregs/nameregs_6728.xml">Senior, N. W.</persName>
+                <persName key="../nameregs/nameregs_2235.xml">Henslow, J. S.</persName>
+                <persName key="../nameregs/nameregs_3836.xml">Powell, Baden</persName>
+                <persName key="../nameregs/nameregs_6556.xml">Price, Bonamy</persName>
+                <persName key="../nameregs/nameregs_6529.xml">Phillips-Jodrell, T. J.</persName>
+                <persName key="../nameregs/nameregs_5903.xml">Heywood, James</persName>
+                <persName key="../nameregs/nameregs_5877.xml">Head, E. W.</persName>
+                <persName key="../nameregs/nameregs_6631.xml">Robartes, T. J. A.</persName>
+                <persName key="../nameregs/nameregs_7101.xml">Breton, Philip le</persName>
+                <persName key="../nameregs/nameregs_5796.xml">Grenville, G. N.</persName>
+                <persName key="../nameregs/nameregs_3051.xml">Lyell, Charles</persName>
+                <persName key="../nameregs/nameregs_6924.xml">Verney, Harry, 2d baronet</persName>
+                <persName key="../nameregs/nameregs_6057.xml">King, P. J. L.</persName>
+                <persName key="../nameregs/nameregs_7069.xml">Yorke, H. G. R.</persName>
+                <persName key="../nameregs/nameregs_6032.xml">Kay, Joseph</persName>
+                <persName key="../nameregs/nameregs_6515.xml">Percival, E. F.</persName>
+                <persName key="../nameregs/nameregs_5952.xml">Horsman, Edward</persName>
+                <persName key="../nameregs/nameregs_1211.xml">Darwin, E. A.</persName>
+                <persName key="../nameregs/nameregs_5019.xml">Wedgwood, Hensleigh</persName>
+                <persName key="../nameregs/nameregs_1599.xml">Farrer, T. H.</persName>
+                <date when="1848-07-10">[10 July 1848]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4129.xml">Russell, John</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Ask JR to advise the Queen to issue Her Royal Commission of Inquiry into the best methods of securing the improvement of the Universities of Oxford and Cambridge.</p>
+        </abstract>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

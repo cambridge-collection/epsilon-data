@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1456">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Jenkinson Woodward to James Edward Smith, at Mrs Beveridge's, Patrick Street, Edinburgh</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63389/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/2, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    
+                    <date when="1782-05-20">20 May 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Edinburgh</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends coloured drawing of 'Lycoperdon coliforme' [extant] from [William] Withering's "Botanical Arrangement", found near Bungay, [Suffolk]; observations with reference to [John] Ray's and [Joseph Pitton de] Tournefort [(1656-1708)] figures and descriptions; differences between 'L. fornicatum' and 'L. stellatum'. Dissatisfaction at [Charles] Bryant's [(d 1799)] forthcoming 'Lycoperdon' monograph [see RelatedMaterial below]. Discusses 'L. pedunculatum' of [William] Hudson with reference to Ray, Tournefort, and [Albrecht von] Haller [(1708-1777)], and 'L. fraxineum', 'L. pisiformis', 'L. nigram', 'L. varialossum', 'L. fuscum', and 'L. epidendum'.</p><p>Thanks for the books Smith acquired for him, particularly the "Plantae Capenses"; his own recent sales and acquisitions. Accepts offers of Scottish pebbles and marbles. Recommends [John] Latham's "History of Birds"; comments on vastness of modern discoveries in ornithology. Possible visitors to Smith in Edinburgh. Directions for sending books and specimens of lichens, 'Fucus', and 'Conferveae'.</p><p>Drawing of 'Lycoperdon coliforme' [on verso of first folio]</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

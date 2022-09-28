@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3207">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Christiaan Hendrik Persoon, 533 Rue de Hyacinth. Paris, [France], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62261/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/8/46, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Persoon, Christiaan Hendrik">Christiaan Hendrik Persoon</persName>
+                    <placeName>Paris, France</placeName>
+                    <date when="1802-11-03">3 Nov 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's and [John] Pitchford's parcels of plants. Intends to send a paper on mosses, lichens and ferns for next "Linnean Transactions". Asks after "Flora Britannica" and [James] Sowerby's "English Fungi". Sends some grasses for Smith's judgement and requests specimens of others, Smith has marked those he sent from a longer list: 'Scirpus multicaulis', 'Poa procumbens', 'Dactylis striola', 'Festuca vivipara', 'Festuca uniglumis', 'Arundo calamagrostis', 'Triticum loliaceum', 'Juncus maritimus', 'Juncus spicatus', 'Carex loliacea', 'Carex filiformis', and 'Carex tomenstosa'. Note from Smith that he sent: 'Poa subcaerulea', 'Carex pauciflora', 'Carex chordorrhiza', 'Avena distichophylla', 'Phalaris ariculata', and 'Scirpus caespitosus'. Requests Smith to send back the drawings of fungus he sent [in 1795].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

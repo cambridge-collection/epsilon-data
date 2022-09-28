@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3361">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Olof Swartz, Stockholm, [Sweden], to James Edward Smith, Norwich, Norfolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62419/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/9/92, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Swartz, Olof Peter">Olof Peter Swartz</persName>
+                    <placeName>Stockholm, Sweden</placeName>
+                    <date when="1801-11-04">4 Nov 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Relief that the tension between Britain and Sweden has abated. Two parcels sent, the first contains: lichens from [Erik] Acharius; a second paper on 'Orchidea' inserted in a volume of transactions of [Swedish] Academy [of Sciences], in between the leaves of which he has inserted specimens of mostly new 'Carex' provided by [Georg] Wahlenberg [(1780-1851)]; specimens of 'Musci frondosi'; and copy of "Dispositio systematica muscorum frondosorum Sveciae". The second parcel contains: first two volumes of "Flora Indiae occidentalis"; [Carl Peter] Thunberg's "Icones pl. Japonicarum"; first 13 plates from "Icones plant. ind. occid."; and packs of West Indies grasses.</p><p>Asks if Smith knows 'Festuca arundinacea', it is almost a fascimile of 'Poa aquatica', and 'Arundo stricta'. Wahlenberg has gathered many plants from northern Lapland and also discovered a new 'Arenaria (sulcata)' and a 'Myosotis (related to virginica)', will send them next time. Wahlenberg is working on a "synopsis 'Caricum'" and planning another trip as far north as Nordcap. Asks Smith's opinion of his work on 'Orchidea', explains some of his observations, the papers are published in transactions of [Swedish] Academy [of Sciences]. He has also "laboured through" the ferns, the paper is published in [Heinrich Adolph] Schrader's "Journal [of Botany]". Asks Smith's opinion of [Christaan Hendrik] Persoon's "Synopsis fungorum", and if [Johann] Hedwig's posthumous "Species muscorum" and "Icones filicum" have appeared in England.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

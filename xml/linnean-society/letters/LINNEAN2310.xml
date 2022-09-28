@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2310">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Burgess McGarroch, Kirkmichael, [Scotland], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64109/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/24/3, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="McGarroch, James Burgess">James Burgess McGarroch</persName>
+                    <placeName>Kirkmichael, Scotland</placeName>
+                    <date when="1783-06-20">20 Jun 1783</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Glad to hear of recovery of Smith's health. Sending specimen of a variety of eel or other, found in stagnant waters and believed by the "vulgar" to be "an animated horsehair"; observations. Offers to send Smith a 'Gwiniad' [fish]. Unable to make anything of insects 'Cimex lacustris' and 'C. stagnorum' of Linnaeus. Has sent Smith 'Lichen furfuraceus'.</p><p>Reports on condition of local crops: oats in poor condition, the wheat is promising, and the barley likely to be destroyed by weeds, particularly 'Galeopsis tetrahit'. Fruit trees almost destroyed by small green worm, probably 'Lepidopterous' larvae; observations. All hawthorn flowers destroyed by 'Scurabens horticola', and ash, oak, fir, and plane trees similarly infertile; 'Prunus padus' and 'Ulmus campestris' the only trees to flourish. Meadows have an abundance of 'Trollius'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

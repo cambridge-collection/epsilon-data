@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1138">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Mary Watson-Wentworth to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63074/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/98, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Wentworth, Mary Watson-">Mary Watson- Wentworth</persName>
+                    
+                    <date when="1790-12-08">8 Dec [1790]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Requests introduction to [John] Fairbairn for her gardener, Grieg, to see Chelsea [Physic Garden] plants and the 'Heleconia' coming into flower, and for him to view Smith's Linnaean collections. Hopes [Joseph von] Jacquin will stay in England this winter "for I should think the troubles at Paris must interrupt all science, as well as pleasure", and if he stays till summer will arrange for him to visit her, Bulstrode [Park, Buckinghamshire, home of Duke of Portland], and Mrs North's and [Charles Bennet, 4th Earl of] Tankerville's [(1743-1822)] collections.</p><p>'Myrtus tomentosa' about to flower, will tell Smith for his book as it has never been figured ["Icones pictae plantarum rariorum..."]. Would like to see painting of 'Aralia' before given to Jacquin for his father [Nikolaus von Jacquin]; it is very tall and flowered on three branches this year compared to last year's five.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

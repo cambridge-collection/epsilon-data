@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001723">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Charles Rumker, with Professor Schumacher in Altona, to Davies Gilbert, President of the Royal Society, Somerset House, London </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2007">2007</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">4p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/67, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/67</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA3777" key="../nameregs/NA3777.xml">Karl Ludwig Christian Rumker</persName>
+               <date when="1830-03-05">5 March 1830</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Davies Gilbert, President of the Royal Society, Somerset House">Davies Gilbert, President of the Royal Society, Somerset House</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

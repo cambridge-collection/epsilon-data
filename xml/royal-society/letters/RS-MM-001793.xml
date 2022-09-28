@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001793">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Samuel Hunter Christie, the Royal Society, Somerset Place, Strand, to Thomas Glanville Taylor, Astronomer to the Honorable East India Company, Madras</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2022">2022</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 2p.</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/25/13, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/25/13</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Samuel Hunter Christie, the Royal Society, Somerset Place">Samuel Hunter Christie, the Royal Society, Somerset Place</persName>
+               <date when="1842-02-11">11 February 1842</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Company, Honorable East India">Honorable East India Company</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

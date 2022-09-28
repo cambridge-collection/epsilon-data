@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN952">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Edmund Davall, Orbe, Canton de Berne, [Switzerland]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62932/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/48, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1792-03-17">17 Mar 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Apologises for delay in sending lichens and can only send thirty for Davall's collection. Parcel of newspapers from [William] Este still waiting for Davall, the paper is now at an end and he is fled abroad for debt.</p><p>Asks Davall's opinion of "English Botany", which he now claims as his own and its aim "to make botany pleasing &amp; popular, so [Davall] must pardon trifling". Took more pains with "Flora Lapponica", especially the synonyms as he means to correct citation, so it requires more serious criticism. Sends [James] Dickson's third and fourth dried plant fascicules which completes the work, relieved to be free from its drudgery. Sends pamphlets on the slave trade, "a matter much talked of now". [Adam] Afzelius and François [Borone] have sailed [for Sierra Leone]. Sends capsule of 'Mesembryanthemum' from Cape of Good Hope, gives care instructions; a German professor has figured it as a flower under new genus 'Redeviva'. Arranging his shells. [William] Aiton [(1731-1793)] delighted with seed of 'Arenaria grandiflora'. Davall owes [James] Sowerby and Dickson money.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

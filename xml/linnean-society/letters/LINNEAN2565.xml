@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2565">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">José Francisco Corrêa de Serra, London, to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61723/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/100, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Serra, José Francisco Corrêa de">José Francisco Corrêa de Serra</persName>
+                    <placeName>London</placeName>
+                    <date when="1797-03-23">23 Mar 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has a diploma for Smith from the Lisbon Academy, who are also sending a gift of all their works. [John Theodore] Koster has written from Portugal asking if Smith thinks they are worth paying the high duty on books coming into England and adds that Sir Joseph Banks, who received a similar gift, is glad of having them all. Pleased to see from a letter sent to [Aylmer Bourke] Lambert that Smith has divided the 'Protea' family. He is currently in the middle of examining [Francis] Masson's [(1741-1805), Kew plant collector] collection of Cape [of Good Hope] 'Proteas'. Believes the flora of New Holland [Australia] and the Cape are "both fragments of a whole". Masson has two species of 'Styphelia' from the Cape. Makes observations on formation of 'Protea' flowers through comparison with 'Lambertia' and 'Tilia'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

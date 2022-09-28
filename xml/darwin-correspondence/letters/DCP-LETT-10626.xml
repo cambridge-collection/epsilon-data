@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-10626">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To John van der Weyde   29 September 1876</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">15011</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-10626 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10626.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-10626.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="24">24</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The New York Public Library. Astor, Lenox, and Tilden Foundations. Manuscripts and Archives Division. (Charles Robert Darwin miscellaneous file)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_303.xml">NYPL</repository>
+                    <idno>(C. R. Darwin misc. file)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1876-09-29">29 Sept 1876</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4857.xml">Van der Weyde, John</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks JVdW for photographs of fossils; [W. H.] Flower has identified them as <hi rend="italic">Toxodon</hi> and <hi rend="italic">Mylodon</hi>.</p> 
+            <p>Sends suggestions for collecting fossil mammals in Argentina and Uruguay.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">mammals</term>
+                <term type="animals" ref="#">Mylodon</term>
+                <term type="animals" ref="#">Toxodon</term>
+                <term type="people" ref="#subject_1670">Flower, W. H.</term>
+                <term type="places" ref="#">Argentina</term>
+                <term type="places" ref="#">Uruguay</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fossils</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">identification</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">scientific fieldwork/fieldtrips</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

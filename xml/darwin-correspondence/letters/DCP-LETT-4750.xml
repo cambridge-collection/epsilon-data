@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4750">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Alfred Russel Wallace   20 January 1865</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">8821</idno>
+            <date when="2002">2002</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4750 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4750.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4750.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="13">13</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 148: 405</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 13</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 106: B20–1</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>106: B20–1</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_4935.xml">Wallace, A. R.</persName>
+                <placeName>London, Westbourne Grove Terrace, 5</placeName>
+                <date when="1865-01-20">20 Jan 1865</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>His distress that his engagement has been broken off.</p> 
+<p>Sends copies of two papers ["On the parrots of the Malayan region", <hi rend="italic">Proc. Zool. Soc. Lond.</hi> (1864): 279–97;</p>  
+<p>"On the physical geography of the Malay Archipelago", <hi rend="italic">J. R. Geogr. Soc.</hi> 33 (1863): 217–34].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">parrots</term>
+                <term type="it" ref="#">J. R. Geogr. Soc.</term>
+                <term type="it" ref="#">Proc. Zool. Soc. Lond.</term>
+                <term type="places" ref="#">Malay Archipelago</term>
+                <term type="rx" ref="#">Wallace, A. R. 1863c</term>
+                <term type="rx" ref="#">Wallace, A. R. 1864</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">geology</term>
+                <term type="social" ref="#">engagement</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00066_files/8/0_0.jpg" width="2965px" height="5297px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00066_files/11/1_1.jpg" width="2965px" height="5297px"/>
+        <surface n="B:20r" xml:id="i66">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00066.jpg" width="2965px" height="5297px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00066_files/8/0_0.jpg" width="2965px" height="5297px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00066.dzi" width="2965px" height="5297px"/>
+        </surface>
+        <surface n="B:20v" xml:id="i67">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00067.jpg" width="2965px" height="5297px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00067_files/8/0_0.jpg" width="2965px" height="5297px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00067.dzi" width="2965px" height="5297px"/>
+        </surface>
+        <surface n="B:21r" xml:id="i68">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00068.jpg" width="2965px" height="5297px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00068_files/8/0_0.jpg" width="2965px" height="5297px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00068.dzi" width="2965px" height="5297px"/>
+        </surface>
+        <surface n="B:21v" xml:id="i69">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00069.jpg" width="2965px" height="5297px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00069_files/8/0_0.jpg" width="2965px" height="5297px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00106-000-00069.dzi" width="2965px" height="5297px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

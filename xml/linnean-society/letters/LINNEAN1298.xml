@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1298">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roscoe, Toxteth Park, [near Liverpool, Lancashire], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63367/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/136, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                    <date when="1825-02-16">16 Feb 1825</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends letter via Dr [William Jackson] and Mrs Hooker. Thanks for Smith's letter of 28 January; sorry to hear of death of his "excellent nephew" in India and comments on the "numerous instances" of similar losses of "our young &amp; adventurous friends in the Western world".</p><p>Overwhelmed by the literary work he has undertaken, even though he has almost finished work on [Alexander] Pope [(1688-1744), poet] and the third part on "penal jurisprudence". Third and fourth parts of his "Monandrian Plants" about to appear; notes on 'Maranta', 'Phrynium', and 'Thalia', settled by communications from West Indies; 'Myrosma' cultivated abundantly in Martinique and they expect it at [Liverpool] Botanic Garden, worries it might be a 'Phrynium'; an 'Alpinia auriculata' appearing in his next number, along with figure of [Robert] Brown's 'Hellenia cerulea'. Thanks for Smith's good wishes respecting his son, Thomas, who has settled indepently with his "little family" in Camden Town.</p><p>[Letter possibly incomplete: no signature or valediction]</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

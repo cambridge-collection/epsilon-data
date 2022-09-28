@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN39">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edward Forster and James Ebenezer Bicheno, Hale End, [Middlesex], to Sir James Edward Smith, Surry Street, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64416/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/ADD/29, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Forster, Edward">Edward Forster</persName>
+                    <placeName>Hale End, Middlesex</placeName>
+                    <date when="1824-11-05">5 Nov 1824</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Settles accounts with Smith, including from Gurney and [John] Latham. Smith will have to reduce 'Tilia' to three species, as Bicheno has found 'T. grandifolia', 'T. parvifolia', and 'T. europaea' in Stokenchurch Woods, proving duplication of species has occured in other works, including Ray and Dillenius; observations. Discussion of 'Rubus rhamnifolius'; glad Smith found [Robert] Brown "so correct", he has just returned from his trip to Italy "much pleased". [Alexander] Macleay is returned from Caithness with his lame son, fears he will always be a "cripple".</p><p>[Note in Bicheno's hand] confirms Forster's account of his discovery of three 'Tilia' species in Stokenchurch Woods.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

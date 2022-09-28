@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN959">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Edmund Davall, Orbe, Canton de Berne, [Switzerland]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62938/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/54, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1792-11-09">9 Nov 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Writing on gilt paper to express his joy at Davall's escape [from threatened invasion of Switzerland by French forces]. Hopes that France "will settle into that manly rational liberty at which they professed to aim", only wishing that they has "some principle of religion &amp; less debauchery". His lectures to the Royal Family: the Queen takes his notes to copy and asks questions, followed by half hour conversation, "nothing can be more easy, polite or pleasing".</p><p>Numbered comments on plants in Davall's sent July 1791: 'Geranium sanguineum biflorum', 'Pyrola secunda'; notes that 'Pyrola uniflora', Convallaria verticillata', 'Saxifraga cernua', 'Gentiana nivalis', and 'Stellaria cerastoides' have been found in Scotland; 'Mespilus amelanchia', '[Ranunculus] thora', 'Hypochaeris helvetica', 'Potamogeton marinum' H L, 'Veronica praecox' Allioni, 'Andropogon distachyon' and 'Andropogon ischaemum' extensive comments, 'Cerastium manticum' H L, 'Globularia cordiflora' H L, 'Thesium linophyllum' H L, 'Lotus angustissimus' H L, 'Cistus fumana' H L, 'Linum angustifolium', 'Linum tenuifolium' H L, 'Juncus bulbosus', 'Tussilago paradoxa', and 'Salix [incubacea]' [note H L probably signifies Herbarium Linnaeus].</p><p>Received faint congratulations from Sir Joseph Banks on his royal lectures. Wishes that if either of them should die their letters be returned to the other. [Adam] Afzelius and François [Borone] doing well in Sierra Leone and sending plants, bulbs and roots home but no specimens.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

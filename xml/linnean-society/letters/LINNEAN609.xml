@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN609">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Windsor, [Berkshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62581/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/37, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Windsor, Berkshire</placeName>
+                    <date when="1798-11-06">6 Nov 1798</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His principle studies and enjoyments are of divinity, natural history, and music. Requests specimens of 'Crocus neediflorus', 'Crocus sativus' the saffron crocus, new specimens from "English Botany", and cryptogamics. A report circulating that [Thomas] Pennant "is at last dead". Asks if Smith has 'Bromus' specimens, particularly of the affinities to 'B. mollis', 'B. secalinus', 'B. arvensis', and 'B. erectus'. Will send Smith the 'Scirpus' found on the Welsh hills, at present thinks it 'Scirpus capitatus' of Linnaeus. In going over [John] Lightfoot's herbarium surprised to find there is no 'Ulva', he has named some of the 'Fucus' from his paper and asks why they do not appear in "English Botany". Looking forward to peace and a renewed exchange of the arts and sciences in Europe following "our great and repeated victories" which are exposing "the folly of French principles".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

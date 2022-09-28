@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1251">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To A. A. Gould   20 August [1849]</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3072</idno>
+            <date when="1989">1989</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1251 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1251.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1251.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="04">4</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+            <note type="postmark">AU 20 1849</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Houghton Library, Harvard University (Augustus A. Gould papers, 1831–66 MS Am 1210: 229)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_180.xml">Harvard Houghton</repository>
+                    <collection>MS Am 1210: 229</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1849-08-20">20 Aug [1849]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1931.xml">Gould, A. A.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Thanks J. D. Dana for cirripede specimens. Describes his work. Comments on <hi rend="italic">Ibla</hi>. Would like to see AAG’s notes and figures on <hi rend="italic">Anatifa</hi>. Asks for references to cirripede descriptions by T. A. Conrad.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">cirripede</term>
+                <term type="people" ref="#subject_1190">Dana, J. D.</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

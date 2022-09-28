@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA4859">
+   <persName>
+      <forename>John</forename>
+      <surname>Stuart</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>1st Marquess of Bute</roleName>
+   </persName>
+   <note type="dates">
+      <date>1744 - 1814</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 30 June 1744</p>
+      <p>Death: 16 November 1814</p>
+      
+      <p>Education: Harrow School</p>
+      <p>Honours: Baron 1766; Marquess 1796</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 12/12/1799</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+   </note>
+</person>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2834">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Nicholas Gwyn, Ipswich, [Suffolk], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61877/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/27, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Gwyn, Nicholas">Nicholas Gwyn</persName>
+                    <placeName>Ipswich, Suffolk</placeName>
+                    <date when="1789-05-17">17 May 1789</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Introduces Lawton and Hasell who would like to see the Linnaean collections, recommending to show them table 11 of "Philosophia Botanica" and the method in which Smith keeps the specimens, and 'Vallisneria' and 'Nepenthes distillatoria', asks Smith to assist their access to Kew Gardens. Dr de Ramm will visit Smith in London. Remarks Smith has not yet got any cabinets for his "Conchylia". Has received shells from Mrs Jones "but most of them trash". Asks Smith to introduce [John] Sibthorp and [Joseph Franz] Jacquin to him in Ipswich. Thanks for opinion on 'Lupinus portegrifolius'. At Kew asks Smith to show Lawton and Hasell 'Geum montanum' and "flore aureo" of the Alps.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

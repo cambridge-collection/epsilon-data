@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2237">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Jackson Hooker, Glasgow, to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64012/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/23/6, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hooker, Sir William Jackson">Sir William Jackson Hooker</persName>
+                    <placeName>Glasgow</placeName>
+                    <date when="1821-07-31">31 Jul 1821</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for plants; had previously received some of the species from Nepal through [Nathaniel] Wallich, but unnamed. Comments on inconveniences of this "place of banishment", particularly there being no botanical library but his own, nor any botanical friends to consult with. Asks Smith to remember him should he receive interesting specimens; in return sending copy of his "Musci Exotici". Asks if he sent 'Lyellia crispa', and if Smith has seen 'Primula scotia', to be figured in "Flora Londinensis". Blackwood of Edinburgh keen for him to publish a periodical on exotic botany ["Exotic flora"]; requests access to [Francis] Buchanan's East India drawings.</p><p>His students have increased by 18 compared to last year, a total of 75 though only 52 were paying students. Expects [Robert] Graham [(1786-1845)] at Edinburgh to make over £1200 from his [botany] professorship, besides his practice as physician; they have formed a new garden of 14 acres, with stoves and greenhouses. Death of Dr Stuart.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA1020">
+   <persName>
+      <forename>George</forename>
+      <surname>Howard</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>6th Earl of Carlisle</roleName>
+   </persName>
+   <note type="dates">
+      <date>1773 - 1848</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: London, England (17 September 1773)</p>
+      <p>Death: Castle Howard, near Malton, Yorkshire (07 October 1848)</p>
+      <p>Burial: Mausoleum in the park of Castle Howard, Yorkshire</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 26/02/1795</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll; DNB</p>
+      <p>Notes: Known as Viscount Morpeth from 1773 to 1825, when he succeeded his father, the 5th Earl.</p>
+   </note>
+</person>

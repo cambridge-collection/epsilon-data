@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1664">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Bruton Street, [London], to Pleasance Smith, Wormleybury</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63603/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/84, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1810-05-05">5 May 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Pleasance">Pleasance Smith</persName>
+                    <placeName>Wormley, Hertfordshire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Account of his time in London: breakfasted with [Sir Abraham and Lady Amelia] Hume; Lord Dartmouth [George Legge, 3rd Earl of Dartmouth (1755-1810)] has promised a ticket for the "Antient Music"; came from Wormleybury, [Hertfordshire, home of the Humes], on Saturday, gave a lecture, and attended Royal Academy dinner, where William Smith introduced him to William Wilberforce [(1759-1833), abolitionist] and Duke of Bedford [John Russell, 6th Duke], sat next to [Samuel] Rogers [(1763-1855)] the poet; the exhibition poor; felt feverish the next day.</p><p>Requests copy of extracts from Fuseli's "Aphorisms". Resolved to not go further than reptiles in his lectures now, and will leave fish, insects, and worms for another year; course ends 16 May. Offered to make Lord Darmouth an Honorary Member of the Linnean Society, he deferred. Court party uneasy about the city agitations and dread Sir Fra[...]s's liberation. [Richard] Westall [(1765-1836), painter] exhibiting his pictures at his house; he is "very kind, as usual".</p><p>[Letter incomplete: small cropped section pasted over second folio, missing text presumed destroyed. Comparison of the paper of the two folios suggests this may have once been two separate letters]</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9383">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Albert Günther   [<hi rend="italic">c.</hi> 2 March 1874]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19743</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9383 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9383.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9383.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">2pp</note>
+            <relatedItem type="publication">
+                <bibl>Gunther (1975): 39</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Shrewsbury School, Taylor Library (39)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_386.xml">Shrewsbury School</repository>
+                    <collection>39</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml" resp="high">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1874-03-02">[<hi rend="italic">c.</hi> 2 Mar 1874]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1779.xml" resp="high">Günther, A. C. L. G.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Encloses a circular [<hi rend="doubleUnderline">9384</hi>?] to explain the predicament he is in. Asks whether AG can get anyone at the British Museum, other than Owen, to join J. E. Gray in signing.</p>  
+<p>Believes the account of the <hi rend="italic">Mallotus</hi> in <hi rend="italic">American Naturalist</hi> [5 (1871): 119] is trustworthy.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">9384</term>
+                <term type="it" ref="#">American Naturalist</term>
+                <term type="it" ref="#">Mallotus</term>
+                <term type="people" ref="#subject_1959">Gray, J. E.</term>
+                <term type="people" ref="#subject_3629">Owen, Richard</term>
+                <term type="deprecated_people_class" ref="#">Darwin himself, personal life</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="societal" ref="#">British Museum</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

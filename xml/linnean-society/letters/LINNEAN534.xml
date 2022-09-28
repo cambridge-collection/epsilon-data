@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN534">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Nathaniel Wallich, Botanic Garden, Calcutta, [India], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62498/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/68, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Wallich, Nathaniel">Nathaniel Wallich</persName>
+                    <placeName>Calcutta, India</placeName>
+                    <date when="1818-12-01">1 Dec 1818</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Box of 66 roots [listed at end of letter] and chest of 10 live plants from Nepal and north-west frontiers of Bengal [listed at end of letter] dispatched via Captain James Jackson, commanding the Charles Mills. A similar box of roots sent to Revd H H Norris, Hackney, London, by Bishop of Calcutta [Thomas Middleton (1769-1822)]. The Nepalese plants were collected by [Edward] Gardner [(b 1784), resident at Court of Rajah of Nepal at Katmandu]. Observations on each of the live plants, some in Latin.</p><p>Growing plants sent: 'Primula prolifera' Wallich; 'Cypripidium venustum' Wall.; 'Cypripidium insigne' Wall.; 'Lilium napalense' Wall.; 'Chrysobaphys roxburghii' Wall. ('Folium petolatum' Rumph. Amb. VI.93 t.41.f.3); 'Saxifraga ligulata' Wall.; 'Epidendrum procax' (Exot.Bot.II.p.73 t.97. Broughtonia?); 'Convallaria oppositifolia' Wall.; 'Acrostichum flagelliferum' Wall. ('Panna-Mara-Masauasa' Rheed. Mal.XII. 39.t.19); 'Paris polyphylla' Buch. (Sir J E Smith in Rees' "New Cyclopedia" in loco).</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1451">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To E. W. V. Harcourt<ref target="#foot.f1"/>   19 August [1856]<ref target="#foot.f2"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1087</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1451 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1451.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1451.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="06">6</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Houghton Library, Harvard University (Autograph File, D)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_180.xml">Harvard Houghton</repository>
+                    <collection>Autograph File, D</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1856-08-19">19 Aug [1856]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2102.xml">Harcourt, E. W. V.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Asks to borrow C. L. Brehm’s book [<hi rend="italic">Handbuch der Naturgeschichte aller Vögel Deutschlands</hi> (1831)]. Wants to see how far Brehm went in splitting species.</p> 
+            <p>Took finches from Madeira to British Museum.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">finches</term>
+                <term type="it" ref="#">Handbuch der Naturgeschichte aller Vogel Deutschlands</term>
+                <term type="places" ref="#">Madeira</term>
+                <term type="rx" ref="#">Brehm, C. L. 1831</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">specimens / samples</term>
+                <term type="scientific_terms" ref="#">systematics</term>
+                <term type="societal" ref="#">British Museum</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

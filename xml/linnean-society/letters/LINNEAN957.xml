@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN957">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62936/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/52, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    
+                    <date when="1792-10-12">12 Oct 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Thanks for Smith's works, "Spicililegium botanicum" and "Icones pictae". His health is still weak and digestion disordered. Explains that through his "ardent love of Botany" he has declined every opportunity conducive to his fortune and reduced his patrimony in forming his botanical library to the bare minimum and his study, friendship with Smith, and relationship with wife "are the three great &amp; only objects" which make him value his existence.</p><p>Concerns over war [threatened invasion of Switzerland by the French]: the Genevans have called on their allies and 1500 of Berne and 640 of Zurich have entered Geneva, which was proteseted against by the French resident before issuing a direct declaration of war, and French artillery now expected to commence firing on Geneva. The Swiss are marching on every frontier shared with France and if not for his wife would happily take up a musket in defence of his collections. Believes only reason to fear French is their immense numbers and the common people are strong and the German Swiss "are perfectly well armed, their artillery of the best sort" and 30-40,000 men are stirring. A young man who escaped from the massacre of the Swiss Guards at Paris was with him yesterday.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

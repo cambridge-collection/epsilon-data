@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9239">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To T. N. Staley   13 January [1874]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">8280</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9239 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9239.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9239.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+            <relatedItem type="publication">
+                <bibl>Plews (1980): 26</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The Hawaiian Historical Society (MS B St1)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_171.xml">Hawaiian HS</repository>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>London, Queen Anne St, 6 Down letterhead</placeName>
+                <date when="1874-01-13">13 Jan [1874]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_7361.xml">Staley, T. N.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Has read TNS’s article ["On the geography and recent volcanic eruption of the Sandwich Islands", <hi rend="italic">J. R. Geogr. Soc.</hi> 38 (1868): 361–9].</p> 
+            <p>Asks for information on decline in population and infanticide in the Sandwich Islands. Seeks corroboration of A. Bishop’s reports.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">J. R. Geogr. Soc.</term>
+                <term type="people" ref="#">Bishop, A.</term>
+                <term type="people" ref="#subject_4515">Staley, T. N.</term>
+                <term type="places" ref="#">Sandwich Islands</term>
+                <term type="rx" ref="#">Staley, T. N. 1868</term>
+                <term type="scientific_terms" ref="#">geography</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">killing</term>
+                <term type="scientific_terms" ref="#">number, increase and decrease</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">volcanoes and earthquakes</term>
+                <term type="scientific_terms" ref="#">young, offspring</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

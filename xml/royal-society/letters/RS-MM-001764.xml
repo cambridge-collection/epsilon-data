@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001764">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Francis Albert Eley Crew, Upton's Mill, Framfield, Sussex, to Reginald Crundall Punnett</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">On paper, 1p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/24/9, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/24/9</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA1878" key="../nameregs/NA1878.xml">Francis Albert Eley Crew</persName>
+               <date>27 January n.y. [c. 1965?]</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA8088" key="../nameregs/NA8088.xml">Reginald Crundall Punnett</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

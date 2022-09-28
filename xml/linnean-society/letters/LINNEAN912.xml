@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN912">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Edmund Davall, Orbe, Canton de Berne, [Switzerland]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62895/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/11, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1789-11-17">17/24 Nov 1789</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Surprised Davall did not mention his marriage in last letter; hopes his new wife is "no enemy to Flora". Growing friendship with Davall's friend, [Edward] Forster of Threadneedle Street. Following his introduction to Lady Rockingham by Davall received from her her six volumes of "Hortus Malabaricus"; presenting [Joseph von] Jacquin to her at Hillingdon. Linnean Society in good health; [Jonas] Dryander has submitted "excellent" paper on 'Begonia'.</p><p>Davall's 'Spartium decumbens' figured in [Nikolaus von] Jacquin's "Icones [plantarum rariorum]" vol 2 fasc 3 as 'Genista humifusa' of Linnaeus, thinks Davall's figure much better. Smith expects his new work to eclipse Jacquin's, who "falls off grievously". Sir Joseph Banks resentful of his and [James] Sowerby's ["Icones pictae plantarum rariorum"] as he would like Sowerby to contribute to similar work on Kew plants, but is otherwise on good terms with Banks and Dryander and they are thought the "best possible friends".</p><p>Gathered 'Carex tomentosa' for [James] Dickson and waiting for 'Lichen cucullatus'. Has misgivings over figuring of Davall's 'Gentiana' as 'Swertia carinthiaca' in [Nikolaus von] Jacquin's "Miscellanea Austriaca" and thinks Davall should publish it as 'Gentiana pendunculata'. Lady Rockingham gave Jacquin Sowerby's drawing of her 'Aralia', or 'Hedera'. Blunders caused by Murray's printing. Requests seeds of 'Stellaria cerastoides'. Received 'Cerastium alpinum' from [Jacob] Wyttenbach. 'Aquilegia alpina' growing from his seeds at Chelsea. Details of his next fasciculus. His joke that a 'Hastingia' sent to Banks by [Charles] Konig should be called 'Hastingia sanguinea' well received by Dryander and [Richard] Salisbury but Banks grave, thinks him "a mere toad eater to the King". Dickson returned from Scotland with many items. Received seeds of 'Smithia' and dried plants from East India [Company].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN531">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Nathaniel Wallich, Botanic Garden, Calcutta, [India], to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62495/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/65, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Wallich, Nathaniel">Nathaniel Wallich</persName>
+                    <placeName>Calcutta, India</placeName>
+                    <date when="1818-01-12">12 Jan 1818</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Encloses letters from Colonel [Thomas] Hardwicke and the Archdeacon of Calcutta [Henry Lloyd Loring (c 1784-1822)] introducing himself to Smith. Offers to send seeds and plants for Smith as well as papers for "Linnean Transactions", possible subjects include: [William] Roxburgh's 'Orchis picta' (his 'Chrysobaphus roxburghii', Rumphius' 'Folium petolatum'); two species of [Robert] Brown's 'Broughtonia' which possibly form a distinct genus, (one is Smith's 'Epidendrum praecox'); and his 'Begonia paniculata'. A parcel of seeds has been dispatched for Smith, containing capsules of Smith's 'Rhododendron arboreum'; a new "arborescent species with snow-white flowers"; and his 'Lida aurita'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9299A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To G. E. Shuttleworth   17 February [1874]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20560</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9299A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9299A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9299A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="22">22</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Wellcome Collection (MS.5134)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_437.xml">Wellcome</repository>
+                    <idno>MS.5134</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1874-02-17">17 Feb [1874]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_7353.xml">Shuttleworth, G. E.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>At the suggestion of Crichton-Browne CD writes on behalf of his son George, who is making a study of marriages between first cousins and of their offspring to determine the proportion of the latter who may be among the insane, deaf and dumb, idiotic, blind etc. Is GES willing to ask his patients [at the Royal Albert Asylum] for the information relevant to this study?</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="human_group" ref="#">blind</term>
+                <term type="human_group" ref="#">deaf and dumb</term>
+                <term type="human_group" ref="#">idiotic</term>
+                <term type="human_group" ref="#">insane</term>
+                <term type="human_group" ref="#">patients</term>
+                <term type="people" ref="#subject_677">Crichton-Browne, James</term>
+                <term type="people" ref="#subject_1224">Darwin, G. H.</term>
+                <term type="people" ref="#subject_4338">Shuttleworth, G. E.</term>
+                <term type="places" ref="#">Royal Albert Asylum</term>
+                <term type="scientific_terms" ref="#">breeding behaviour</term>
+                <term type="scientific_terms" ref="#">humanity</term>
+                <term type="scientific_terms" ref="#">information, data, scientific description</term>
+                <term type="scientific_terms" ref="#">mind, cognitive behaviour</term>
+                <term type="scientific_terms" ref="#">pathology, disease</term>
+                <term type="scientific_terms" ref="#">perception and sensation</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">social behaviour</term>
+                <term type="social" ref="#">Darwin family</term>
+                <term type="societal" ref="#">consanguineous marriages</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

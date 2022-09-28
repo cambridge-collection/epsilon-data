@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2696">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Hugh Davies, Beaumares, Anglesea, to James Edward Smith, Norwich, Norfolk</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61754/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/4/15, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davies, Hugh">Hugh Davies</persName>
+                    <placeName>Beaumares, Anglesea</placeName>
+                    <date when="1801-06-18">18 Jun 1801</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Inaccuracies in [William] Hudson's ["Flora Anglica"]. Hudson's '[Carex] inflata' is not Smith's '[Carex] laevigata', recalls Hudson taking specimens of what he now knows to be '[Carex] filiformis' and believes this may be Hudson's 'C. inflata'. Notes that Hudson's 'Carex tomentosa', [in brackets 'C. filiformis'], is introduced, along with others, in the appendix, entirely on the authority of [John] Lightfoot who was unaware that this plant was the same. The '[Carex] vesicaria' and '[Carex] inflata' of his first edition were both varieties of the same plant. Comments on the pressure Hudson was under to produce a second edition, which along with his poor state of health accounts for the inaccuracies. Thanks Smith for the specimen of 'Poa bulbosa'. Encloses specimen of 'Cerastium latifolium' "from Dr Richardson's own habitat". Complains that [James] Dickson is being "tedious" with his fourth part of "Fasiculus", laments that "emolument should at any time be the sole object of publication, as then it is too apt to promote multiplication of species". Notes a numbness in his right hip, knee and leg.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

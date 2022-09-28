@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN481">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Ottaviano Targioni Tozzetti, Florence, [Italy], to James Edward Smith, 14 Paradise Row, Chelsea, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62432/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/10/2, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fre">French</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Tozzetti, Ottaviano Targioni">Ottaviano Targioni Tozzetti</persName>
+                    <placeName>Florence, Italy</placeName>
+                    <date when="1788-03-18">18 Mar 1788</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Gratified that both Smith and Sir Joseph Banks think the seeds of Mr Fabbroni are 'Lathyrus sativus' and not 'Lathyrus cicera', is currently writing a paper on the subject. Flattered by invitation to join the Linnean Society. Sending seeds requested by Smith, and the delayed catalogue of seeds [from botanic garden of Santa Maria Nuova hospital, extant]. Asks if Smith can purchase and send [James] Petiver's [(c 1665-1718)] complete "Concordia Graminum" for him.</p><p>Catalogue of seeds [8pp], containing 1012 species.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

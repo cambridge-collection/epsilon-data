@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN705">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62676/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/12/23, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    
+                    <date when="1816-05-24">24 May [1816]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Reports from evening part of Linnean Society anniversary meeting: fifty-four members present, including: [Aylmer Bourke] Lambert, Lord [Edward Smith-]Stanley, [William George] Maton, Sir Thomas Cullum, [Thomas Andrew] Knight, Mr Greenough, two Forsters, Mr Simmonds, [James] Dickson, [Thomas] Hoy [(c 1750-1822)], Holmes, Mr Burchall, [Thomas] Rackett, and [William] Kirby. [Thomas] Marsham apologised by letter for not repaying the £100 as intended and proposed to repay the remainder in installments. Goodenough advised [Alexander] Macleay not to publicise this so as to avoid further disappointment. Marsham's name was not mentioned during the toasts at the dinner, and by accident Sir Joseph Banks and the honorary members were also overlooked.</p><p>President of the Horticultural Society [Thomas Andrew Knight] offended by [Patrick] Keith's treatment of him in "Physiology of Plants" ["A system of physiological botany"]. Shocked to see how old Kirby looks and how "amazingly distended" Hoy's chest is. Believes it would be better to reduce rather than increase number of FMLS, cites example of Royal Society who are reducing their foreign members to thirty; thinks forty is sufficiently large for Linnean Society, and proposes keeping ten spaces free for emergencies. In postscript states that whenever Marsham's name was mentioned there was silence.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1710">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Francis Buchanan, Bassaria, to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61598/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/124, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hamilton, Francis">Francis Hamilton</persName>
+                    <placeName>Bassaria</placeName>
+                    <date when="1802-03-03">3 Mar 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter and notes on specimens of 17 May 1801. For most of 1800-1801 employed by the Governor-General [Richard Colley Wellesley (1760-1842) 1st Marquess Wellesley] to investigate the state of agriculture, commerce and the arts in the dominions of Tippoo Sultaum [Tipu Sultan (1750-1799) ruler of kingdom of Mysore] and was organising his materials in Calcutta when ordered to the court of Nepal, as surgeon to Captain Knox, British Resident to Nepal.</p><p>Working on his journal from the Mysore trip, which will include appendix with descriptions and drawings of animals and plants. Remarks on the geography and recent history of Nepal. Found many European plants including 'Anagallis arvensis', 'Ervum hirsutum', 'Sonchus palustris', 'Fumaria officinalis', and 'Saponaria'. Given two stuffed wild sheep, descriptions of the species. Uncertain how long he will stay in Nepal, financial constraints prevent him from returning to England. Intends to produce a "Flora Indica".</p><p>Comments on the catalogue and plant specimens sent to Sir Joseph Banks from his expedition to Ava, Burma. Found another species of 'Vatica' in Mysore and numerous 'Vateria'. 'Dua banga' may be a 'Soneratia' although it is quite different from 'Soneratia acida'. Long Latin description of the genus he proposes calling 'Hopea', although [William] Roxburgh has since named another genus after Hope. Short Latin description of the fruit of the 'Vatica'. Frustrated by 'Eugenias' and 'Conyzas'. Comments on Smith's acquisition of [John] Sibthorp's materials. Alerts Smith to the fact that [John] Fleming [(1747-1829) physician, Indian Medical Service, Bengal] may return to England with Buchanan's descriptions and drawings of fish, asks Smith to assist in selection and correction of the work if published.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

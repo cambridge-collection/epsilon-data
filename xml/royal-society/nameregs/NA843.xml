@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA843">
+   <persName>
+      <forename>John</forename>
+      <surname>Campbell</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>4th Earl of Breadalbane </roleName>
+   </persName>
+   <note type="dates">
+      <date>1762 - 1834</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 1762</p>
+      <p>Death: 29 March 1834</p>
+      
+      <p>Honours: Baron 1806; Marquess 1831</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 19/02/1784</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+   </note>
+</person>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-3026">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To James Drummond   20 December [1860]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">1194</idno>
+            <date when="1993">1993</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3026 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3026.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3026.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="08">8</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">J. S. Battye Library of Western Australian History, State Library of Western Australia (Accession 2275A)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_34.xml">Battye</repository>
+                    <collection>Accession 2275A</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1860-12-20">20 Dec [1860]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1388.xml">Drummond, James (a)</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Responds to JD’s letter [<hi rend="doubleUnderline">2944</hi>]. Would like to know whether bees extract pollen from within the indusium of <hi rend="italic">Leschenaultia</hi>. He suspects they brush over and partly open the indusium while sucking nectar from the flower.</p> 
+            <p>Asks also about malvaceous plant that set seed although its flower never opened.</p> 
+<p>Has been watching the achenia of the plant sent by JD and, if Hooker agrees, will publish a note on it ["Achenia of <hi rend="italic">Pumilio argyrolepis</hi>", <hi rend="italic">Collected papers</hi> 2: 36–8].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">2944</term>
+                <term type="plants" ref="#">malvaceous plant</term>
+                <term type="it" ref="#">Collected papers</term>
+                <term type="it" ref="#">Pumilio argyrolepis</term>
+                <term type="people" ref="#subject_2357">Hooker, J. D.</term>
+                <term type="scientific_terms" ref="#">behaviour</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">food</term>
+                <term type="scientific_terms" ref="#">nectar</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">pollen</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">seeds</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1725">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Francis Buchanan, Walker's Hotel, 8 Princes Street, Edinburgh, to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61612/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/138, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hamilton, Francis">Francis Hamilton</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1816-11-24">24 Nov 1816</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's letter of 2 November. Disgusted with the treatment he has received from the Court of Directors of the East India Company and the difficulty of getting even the temporary use of the natural history materials he gave them, consequently considering abandoning publication. Shall live in Leny, Stirling, from May. Preparing an account of Assam and Nepal, and a description of the fish of the Ganges. Encourages Smith to make as much use as possible of his Nepalese flora materials. Glad that Smith thinks of publishing a Mantissa, will write to India House if Buchanan's collection there would prove useful. Will use the proceeds of his account of Assam and Nepal to fund the publishing of his account of the fish. Obliged to Smith's offer to assist him with Lord Moira [Francis Edward Rawdon-Hastings (1754-1826) 1st Marquess of Hastings, Governor-General of India, 1813-1823] who took 144 drawings of fish, 20 of quadrupeds, 241of birds and 130 of plants, will send copies of the correspondence.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

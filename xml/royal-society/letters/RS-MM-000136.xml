@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-000136">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Daines Barrington, King's Bench Walk, [to William Legge, 2nd Earl of Dartmouth]</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2004">2004</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">3 sides</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/3/78, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/3/78</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6141" key="../nameregs/NA6141.xml">Daines Barrington</persName>
+               <date when="1773-08-01">1 August 1773</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName n="NA257" key="../nameregs/NA257.xml">William Legge, 2nd Earl of Dartmouth</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

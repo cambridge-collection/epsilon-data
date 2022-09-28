@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2826">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gage, Castel a Mare, [Sicily], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61852/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/2, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Gage, Sir Thomas">Sir Thomas Gage</persName>
+                    <placeName>Castel a Mare, Sicily</placeName>
+                    <date when="1820-07-30">30 Jul 1820</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>The Prince de Butera, a Sicilian nobleman, desires to be an honorary member of the Linnean Society. Informed by the Prince of a good botanic garden at Palermo, Sicily, comments on complete disorder of Naples. Has not yet met [Michele] Tenore but he is publishing a "Crambe recota" of indiginous and foreign plants cultivated in his garden. Petayna, [Vincenzo ?] Stellati [(1780-1852)] and [Vincenzo ?] Briganti [(1766-1836)] are the only naturalists of note in his location and nothing is published. Has found 'Ophrys speculum' and 'Ophrys distoma' of Bivona. Recommends a "Flora of Rome" published by Sebastiani and Mauri. Difficulties of establishing botany; part of the garden at Farnesina has been given over for a botanic garden but not the means of putting it in order, when in England even Bury St Edmunds has one. Has collected around 2000 insects, comments on slow progress of entomology and implores [William] Kirby, [William] Spence [(c 1783-1860)], [Thomas] Marsham and McLane to rectify this. Laments death of Sir Joseph Banks. Feels secure "though living in the midst of a revolution" [failed 1820 movement against Bourbon government], comments on the "attention paid to public security".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

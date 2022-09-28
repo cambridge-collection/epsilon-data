@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2395">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roxburgh, 36 Bernard Street, Russell Square, [London], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64229/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/25/17, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roxburgh, William">William Roxburgh</persName>
+                    <placeName>London</placeName>
+                    <date when="1806-12-04">4 Dec 1806</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Regrets the accidents and misfortunes that have so far prevented him from meeting Smith; the climate here does not suit his "Indian constitution", intends to return there this spring. Just received a few ripe seeds of 'Cycas circinalis' from Calcutta, and were opened at Sir Joseph Banks' the other day, has reserved one for Smith to dissect.</p><p>Banks is to select the drawings for second number of third volume of his "Plants of Coromandel" tomorrow; he had intended to publish four species of his genus 'Colebrookia', but as Smith discovered 'C. bulbifera' to be 'Globba marantina' Linnaeus as published in "Exotic botany" asks whether they are all to be made 'Globba' and [Henry Thomas] Colebrooke [(1765-1837), administrator in India and scholar] given another genus, or be introduced under his old name.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

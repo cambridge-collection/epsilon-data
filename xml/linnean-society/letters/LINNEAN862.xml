@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN862">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Gery Cullum to Sir James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62821/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/13/57, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Cullum, Sir Thomas Gery">Sir Thomas Gery Cullum</persName>
+                    
+                    <date when="1817-04-27">27 Apr 1817</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Leaving for London tomorrow and will attend Horticultural Society anniversary meeting and Linnean Society monthly meeting. Satisfied with Smith's explanation that [Arabella] Rowland's 'Brusenia' should have been Schreber's 'Brasenia'. Determined that the herb "scathery" is the winter or summer savory, in English called "saverye or saveraye", and in Dutch "saturey", and said by Gerard to be good eaten with "Beanes and Peason and other windie pulses" Ger.Em.p.577; this confirms Professor [Thomas] Martyn's observation in [Philip] Miller's "[Gardener's and botanist's] Dictionary" that winter and summer savory and other pot herbs must have been cultivated a long time before spices from the East Indies were in common use.</p><p>Glad none of Smith's relations were involved in the "dreadful catastrophe" of the exploding steam engine on the boat. Sorry for his friend Mr Davies' credit that he has not done anything generous for friends or relations in his will. Looking forward to seeing Smith in London.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN77">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Marsham, Exchequer Loan Office, Royal Exchange, [London], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64450/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/ADD/63, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Marsham, Thomas">Thomas Marsham</persName>
+                    <placeName>London</placeName>
+                    <date when="1797-07-20">20 Jul 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Disappointed to see 18 people at the Linnean Society at recent evening meeting, "a very large number for a private night", account of the balloting: Smith's friend [Robert John] Thornton [(c 1768-1837)] rejected with three blackballs, and two blackballs each against [James Webbe] Tobin [(d 1814)] and Revd [Henry Peter] Stacey, which is a new system they are starting; [Samuel] Goodenough's motion received 14 votes to 3 against, and [William] Pilkington's [(1758-1848)] amendment received 3 votes to 14. Lists those in attendance. Society business. Has since been informed that more people would have attended and blackballed Thornton had they known he was proposed.</p><p>Goodenough found 'Salix rubra' but [William] Curtis lost both cuttings and specimens.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

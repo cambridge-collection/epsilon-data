@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-361B">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. S. Henslow to the Chancellor of the Exchequer, Thomas Spring Rice   21 June 1837</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">25002</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-361B by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-361B.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-361B.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+            <seriesStmt>
+                <title level="s">The Correspondence of Charles Darwin</title>
+                <biblScope unit="vol" n="02">2</biblScope>
+            </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 2: 26–7</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">The National Archives (TNA) (T1/4524 paper 25824)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_285.xml">The National Archives</repository>
+                    <idno>T1/4524 paper 25824</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2235.xml">Henslow, J. S.</persName>
+                <placeName>Cambridge</placeName>
+                <date when="1837-06-21">21 June 1837</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4506.xml">Spring Rice, Thomas</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Encloses CD’s letter and documents [see <hi rend="doubleUnderline">360a</hi> and <hi rend="doubleUnderline">361a</hi>] with request that they be reviewed by the Chancellor personally.</p> 
+            <p>He would also like to discuss Cambridge politics if an interview can be arranged.</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="b" ref="#">360a</term>
+                <term type="b" ref="#">361a</term>
+                <term type="business" ref="#">Darwin himself, publications</term>
+                <term type="people" ref="#subject_881">Chancellor of the Exchequer</term>
+                <term type="people" ref="#subject_1">Darwin, C. R.</term>
+                <term type="places" ref="#">Cambridge</term>
+                <term type="social" ref="#">Darwin himself, personal life</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="social" ref="#">politics</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

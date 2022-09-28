@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA218">
+   <persName>
+      <forename>John Smith De</forename>
+      <surname>Burgh</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>11th Earl of Clanricarde</roleName>
+   </persName>
+   <note type="dates">
+      <date>1720 - 1782</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: 1720</p>
+      <p>Death: 21 April 1782</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 8/02/1753</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+   </note>
+</person>

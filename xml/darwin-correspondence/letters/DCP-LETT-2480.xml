@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-2480">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To A. R. Wallace   9 August 1859</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">14948</idno>
+            <date when="1992">1992</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2480 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2480.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2480.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="07">7</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">6pp †</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 148: 203</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 2: 161;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl>Marchant (1916) 1: 137</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 7: 323</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">The British Library (Add MS 46434)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_43.xml">The British Library</repository>
+                    <collection>Add MS 46434</collection>
+                    <idno/>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1859-08-09">9 Aug 1859</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_4935.xml">Wallace, A. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Will forward ARW’s "<hi rend="italic">admirable</hi>" paper to Linnean Society ["On the zoological geography of the Malay Archipelago", <hi rend="italic">J. Linn. Soc. Lond. (Zool.)</hi> 4 (1860): 172–84].</p> 
+            <p>Discusses geographical distribution of animals in the Malay Archipelago; relation of distribution to depth of sea between islands.</p>
+            <p>Relation of Celebes to Africa almost passes belief.</p>
+            <p>Differs wholly from ARW on colonisation of oceanic islands; does not believe in Forbes’s great continental extensions.</p>
+            <p>Anticipates Owen’s opposition to their views, but "he is a poor reasoner &amp; deeply considers the good opinion of the world, especially the aristocratic world".</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">J. Linn. Soc. Lond. (Zool.)</term>
+                <term type="people" ref="#subject_3629">Owen, Richard</term>
+                <term type="places" ref="#">Africa</term>
+                <term type="places" ref="#">Celebes</term>
+                <term type="places" ref="#">Malay Archipelago</term>
+                <term type="places" ref="#">oceanic islands</term>
+                <term type="rx" ref="#">Wallace, A. R. 1860</term>
+                <term type="scientific_terms" ref="#">continuous or ‘broken’ land</term>
+                <term type="scientific_terms" ref="#">dispersion</term>
+                <term type="scientific_terms" ref="#">exclamations</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">isolation, islands</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">negative criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">positive criticism of correspondent</term>
+                <term type="scientific_terms" ref="#">sea, sea-currents</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">aristocratic world</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Linnean Society</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

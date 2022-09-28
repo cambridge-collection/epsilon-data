@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-11666">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To William Ogle   17 August 1878</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">19094</idno>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-11666 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11666.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-11666.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="26">26</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc">Printed &amp; ADraftS 2pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Ogle trans. 1878, pp. v–vi</bibl>
+            <bibl type="printedSource">Kerner, A. J. 1878: v-vi</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>202: 74</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Barlaston</placeName>
+                <date when="1878-08-17">17 Aug 1878</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_3579.xml">Ogle, William</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Is glad WO is undertaking the editing of Anton Kerner’s book [<hi rend="italic">Schutzmittel der Blüthen gegen unberufene Gäste</hi> (1876)], which appears to open out "highly original &amp; curious fields of research". [Used as prefatory letter to Kerner, <hi rend="italic">Flowers and their unbidden guests</hi>, The translation revised and edited by W. Ogle (1878).]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Flowers and their unbidden guests</term>
+                <term type="it" ref="#">Schutzmittel der Bluthen gegen unberufene Gaste</term>
+                <term type="languages" ref="#">English</term>
+                <term type="rx" ref="#">Kerner von Marilaun, A. J. 1876</term>
+                <term type="rx" ref="#">Ogle, William 1878</term>
+                <term type="scientific_terms" ref="#">adaptation</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">parasites</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">predators</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00220_files/8/0_0.jpg" width="4283px" height="5808px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00220_files/11/1_1.jpg" width="4283px" height="5808px"/>
+        <surface n="74:1r" xml:id="i220">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00220.jpg" width="4283px" height="5808px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00220_files/8/0_0.jpg" width="4283px" height="5808px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00220.dzi" width="4283px" height="5808px"/>
+        </surface>
+        <surface n="74:1v" xml:id="i221">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00221.jpg" width="4283px" height="5808px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00221_files/8/0_0.jpg" width="4283px" height="5808px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00221.dzi" width="4283px" height="5808px"/>
+        </surface>
+        <surface n="74:2r" xml:id="i222">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00222.jpg" width="4283px" height="5808px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00222_files/8/0_0.jpg" width="4283px" height="5808px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00222.dzi" width="4283px" height="5808px"/>
+        </surface>
+        <surface n="74:2v" xml:id="i223">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00223.jpg" width="4283px" height="5808px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00223_files/8/0_0.jpg" width="4283px" height="5808px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00223.dzi" width="4283px" height="5808px"/>
+        </surface>
+        <surface n="75:1r" xml:id="i224">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00224.jpg" width="3672px" height="6238px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00224_files/8/0_0.jpg" width="3672px" height="6238px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00224.dzi" width="3672px" height="6238px"/>
+        </surface>
+        <surface n="75:1v" xml:id="i225">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00225.jpg" width="3672px" height="6238px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00225_files/8/0_0.jpg" width="3672px" height="6238px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00202-000-00225.dzi" width="3672px" height="6238px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

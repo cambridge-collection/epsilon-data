@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2752">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Fitt Drake, 6 Chapel Place, Cavendish Square, [London], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61805/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/4/66, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Drake, William Fitt">William Fitt Drake</persName>
+                    <placeName>London</placeName>
+                    <date when="1805-04-19">19 Apr 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Account of journey from Norwich, Norfolk, to London, where he is staying with [Archibald] Menzies. Sir Joseph Banks is to attend the Duke of Sussex [Prince Augustus Frederick (1773-1843)] at the installation of the Knights of the Garter. Subscription prices for the [Royal] Institution have risen. Ran Smith's errands, including going to see [Aylmer Bourke] Lambert but he was away at the Marquess of Blandford's. Unable to see Mr Savage at the Royal Institution but did see Humphry Davy. Visited [John Boydell's] "Shakespeare Gallery", description and critique of some of the pictures there including those by James Northcote; Sir Joshua Reynolds; Richard Westall, who is "superior" to William Hamilton and Robert Smirke; and Benjamin West, who "exhibits all of the extravagance without possessing the genius of [Henry] Fuseli". Regrets that "this complete illustration of the plays of our excellent poet should not be deposited in a public museum" [after falling into financial difficulties Boydell's entire business was disposed of in a lottery]. Description of attending a performance of "Douglas" [tragedy by John Home, first performed in Edinburgh in 1756] at the Drury Lane Theatre, including a near stampede for seats and review of [William Betty's] performance as Young Norval. [William Henry West Betty (1791-1874), also known as the Young Roscius or the Boy, was a talented child actor who first appeared at Drury Lane in 1804]. Menzies says that attendance at the Royal Institution often amounts to 1100 or 1200 persons.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

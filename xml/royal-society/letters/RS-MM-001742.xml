@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001742">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from John Gay Davis, Assistant Editor of the Sunday Times to W E van Heyningen, Sir William Dunn School of Pathology, University of Oxford, Oxford</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2017">2017</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">1p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/97, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/97</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="John Gay Davis, Assistant Editor of the Sunday Times">John Gay Davis, Assistant Editor of the Sunday Times</persName>
+               <date when="1959-03-12">12 March 1959</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="W E van Heyningen, Sir William Dunn School of Pathology, University of Oxford">W E van Heyningen, Sir William Dunn School of Pathology, University of Oxford</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

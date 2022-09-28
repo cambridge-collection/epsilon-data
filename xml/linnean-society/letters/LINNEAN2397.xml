@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2397">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roxburgh, 36 Bernard Street, Russell Square, [London], to James Edward Smith, Surry Street, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64231/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/25/19, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roxburgh, William">William Roxburgh</persName>
+                    <placeName>London</placeName>
+                    <date when="1807-02-07">7 Feb 1807</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Expects to depart for Bengal next month. Almost finished his work on third volume of ["Plants of the Coast of Coromandel"]; appearance of the next depends much on Sir Joseph Banks' health; has withdrawn his 'Colebrookia oppositifolia' in consequence of Smith's remarks about 'Sussodia' and intending it for "Exotic botany", but still including the other species 'C. ternifolia', and 'Buchananica', despite having searched in vain for the 'Ava launzan' Smith said was already named for him. Smith's 'Globba racemosa' not one of his and does not know Smith's 'Leucosceptrum canum'. Doubts his ability to obtain the original 'Roxburghia' on account of its distance from Calcutta.</p><p>Praises turkey received from Smith. Two seeds of the 'Cycas cirinalis' he sent Lady [Amelia] Hume are growing; hopes Smith's are similarly successful.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

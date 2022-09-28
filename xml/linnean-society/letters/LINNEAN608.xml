@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN608">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62580/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/36, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    
+                    <date when="1797-02-21">21 Feb 1797</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Visited by [Charles] Sutton, who showed him 'Orobanche purpurea', a new species, and 'Orobanche ramosa'. Asks Smith to getting specimens of these as well as 'Robanche major' which grows in cornfields on 'Diadelphous' plants. Introduced Sir Thomas Frankland to the Linnean Society.</p><p>Thinks [Richard] Salisbury's nonemclature "improper not to say ridiculous" and sorry that he has persisted and even printed "his errors". [Jonas] Dryander and Salisbury are in dispute over the issue [renaming heath plants with new names based on differences between them] ['Species of 'Erica'', "Linnean Transactions"]. Smith correct the corolla of 'Agrostis littoralis', he has corresponded with [William] Withering on the issue it but believes he printed before Smith's observations were known, blames [Carl Peter] Thunberg for "this curious superficial daubing". Discussion of 'Carduus': after comparison of sessiles and calyx had already decided that [William] Curtis' 'Carduus tenuiflorus' was not 'Carduus pycnocephalus', nor does he think it 'Carduus australis' of [Linnaeus the younger's] "Supp[lementum]"; reassures Smith that he can trust him with his "difficulties".</p><p>Struggling with 'Potamogeton', particularly 'P. serratum', 'P. gramineum' (Smith's 'P. pectinatum'), [William] Hudson's 'P. pectinatum', and 'P. setaceum'; believes the latter three may be varieties of the same plant, has examined Sir Joseph Banks' specimens. Asks if 'P. serratum' is a species and whether 'P. setaceum' is a variety of 'P. pusillum'. Eager to hear when ["Linnean Transactions"] is printing; thinks [James] Sowerby has failed in his drawing of 'Fucus haliformis' [for Goodenough and Thomas Woodward's paper 'Observations on the British Fucus']. Jokes about an invasion by the French.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

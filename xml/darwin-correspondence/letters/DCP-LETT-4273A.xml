@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4273A">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From Hugh Falconer   24 August [1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3467</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4273A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4273A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4273A.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">3pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">DAR 164: 16</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>164</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1585.xml">Falconer, Hugh</persName>
+                <placeName>unstated</placeName>
+                <date when="1863-08-24">24 Aug [1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Sends information about Pliocene fauna of the "Forest Bed" of the Norfolk coast.</p>
+            <p>A genus described as extinct by Owen is found by E. A. I. H. Lartet to exist in Russia.</p> 
+<p>Edouard Suess attributes to Oswald Heer and HF the generalisation "That the time during which a new species is formed, is (as a rule) very short in comparison with the time during which it persistently presents the same peculiar specific characters". [Edouard Suess, "Über die Verschiedenheit und die Aufeinanderfolge der tertiären Landfaunen in der Niederung von Wien", <hi rend="italic">Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien</hi> (Math-naturw. Klasse) 47 (1863): 306–31.] [See <hi rend="doubleUnderline">4277</hi>.]</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="geology" ref="#">"Forest Bed"</term>
+                <term type="geology" ref="#">Pliocene</term>
+                <term type="people" ref="#subject_2199">Heer, Oswald</term>
+                <term type="people" ref="#subject_2819">Lartet, E. A. I. H.</term>
+                <term type="people" ref="#subject_3629">Owen, Richard</term>
+                <term type="people" ref="#subject_4612">Suess, Eduard</term>
+                <term type="places" ref="#">Norfolk coast</term>
+                <term type="places" ref="#">Russia</term>
+                <term type="scientific_terms" ref="#">extinction</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">geographical distribution</term>
+                <term type="scientific_terms" ref="#">geological time, epochs</term>
+                <term type="scientific_terms" ref="#">higher groupings (‘family’, ‘class’, ‘order’ etc)</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">time, ‘inorganic’ (geological, historical)</term>
+                <term type="scientific_terms" ref="#">type and morphology</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00060_files/8/0_0.jpg" width="3548px" height="5939px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00060_files/11/1_1.jpg" width="3548px" height="5939px"/>
+        <surface n="16:1r" xml:id="i60">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00060.jpg" width="3548px" height="5939px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00060_files/8/0_0.jpg" width="3548px" height="5939px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00060.dzi" width="3548px" height="5939px"/>
+        </surface>
+        <surface n="16:1v" xml:id="i61">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00061.jpg" width="3589px" height="5939px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00061_files/8/0_0.jpg" width="3589px" height="5939px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00061.dzi" width="3589px" height="5939px"/>
+        </surface>
+        <surface n="16:2r" xml:id="i62">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00062.jpg" width="3548px" height="5939px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00062_files/8/0_0.jpg" width="3548px" height="5939px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00062.dzi" width="3548px" height="5939px"/>
+        </surface>
+        <surface n="16:2v" xml:id="i63">
+            <graphic decls="#downloadImageRights #download" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00063.jpg" width="3589px" height="5939px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00063_files/8/0_0.jpg" width="3589px" height="5939px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00063.dzi" width="3589px" height="5939px"/>
+        </surface>
+        <surface n="16:1v-2r" xml:id="i64">
+            <graphic decls="#downloadImageRights #download" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00064.jpg" width="6519px" height="5676px"/>
+            <graphic decls="#thumbnail" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00064_files/8/0_0.jpg" width="6519px" height="5676px"/>
+            <graphic decls="#display" rend="landscape" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00164-000-00064.dzi" width="6519px" height="5676px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

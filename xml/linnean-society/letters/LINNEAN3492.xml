@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3492">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Lowestoft, [Suffolk], to James Sowerby, 2 Mead Place, Lambeth, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64725/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/JS/8, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Lowestoft, Suffolk</placeName>
+                    <date when="1802-08-29">29 Aug 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Sowerby, James">James Sowerby</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His health much better since coming here, though still cannot read or write for more than half an hour at a time. Sowerby made a mistake in ordering the indexes sheet of "English botany" to be printed now as he had enough for September. Intends to spend a week with [Dawson] Turner at Yarmouth, [Norfolk], shortly. Requests copies of "English botany" from no 81 onwards, for an American friend.</p><p>Would like to help Sowerby with his intended book on minerals but has "never attended much to that part of Natural History", and concerned it will delay Sowerby in his work with "Flora Graeca", which the executors want finished as quickly as possible; Smith will never consent to any other artist being employed, though [Thomas] Platt [(d 1842), one of John Sibthorp's executors, supervised the publication of "Flora Graeca"] thinks Sowerby is not progressing as fast as he might. Suggests new wording for Sowerby's advertisement for a mineralogist.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-4255">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Friedrich Hildebrand   28 July [1863]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">13398</idno>
+            <date when="1999">1999</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-4255 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4255.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-4255.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="11">11</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 145: 119</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 3: 305</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 11: 567</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Courtesy of Eilo Hildebrand (photocopy) (Original, previously owned by Klaus Groove, sold by Venator and Hanstein, Cologne (dealers), 16 March 2018.)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_629.xml">Venator and Hanstein</repository>
+                    <collection>16 Mar 2018</collection>
+                    <idno>538</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1863-07-28">28 July [1863]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_2283.xml">Hildebrand, F. H. G.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Comments on FH’s paper ["Fruchtbildung der Orchideen", <hi rend="italic">Bot. Ztg.</hi> 21 (1863): 329–33, 337–45]. <hi rend="italic">Annals and Magazine of Natural History</hi> will publish it in September [3d ser. 12 (1863): 169–74].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="plants" ref="#">orchids</term>
+                <term type="it" ref="#">Annals and Magazine of Natural History</term>
+                <term type="it" ref="#">Bot. Ztg.</term>
+                <term type="rx" ref="#">Hildebrand, F. H. G. 1863a</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

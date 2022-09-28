@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2845">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Sibthorp, Göttingen, [Germany], to James Edward Smith, 10 Windmill Street, Piccadilly, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61887/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/37, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Sibthorp, John">John Sibthorp</persName>
+                    <placeName>Göttingen, Germany</placeName>
+                    <date when="1785-01-01">1 Jan 1785</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Congratulates Smith on acquisition of the Linnaean collections. Informs Smith the sale was settled with [Johan Gustaf] Acrel for 900 guineas just before Sibthorp offered 1000 guineas. Swedes angry with Acrel selling the collection. Recommends Smith visits Göttingen. Asks Smith to send [Joseph] Black's "Lectures on [the elements of] Chemistry". Requests catalogue of Linnaeus' books. Message for [Jonas] Dryander that Sir Joseph [Banks] could acquire much of his desiderata at an upcoming auction by Professor Spielman in Strasbourg. Message for [John] Lightfoot that he has almost a complete collection of the terrestrial and fresh water shells of Switzerland to send to the Duchess of Portland [Margaret Cavendish Bentinck (1715-1785) wife of 2nd Duke of Portland].</p><p>Botanical news: asks if [James Dickson] has published his "Lyncean discoveries"; informed by [Pierre Marie Auguste] Broussonet of a 'Rosa unifolia' from Ispahan, Persia, in the Paris garden; presumes first part of L'Héritier's "Plant. Rarior" is almost ready; [Carl Peter] Thunberg has been examining 'Bohun upas' which he believes to be a species of 'Sideroxylon'; believes Ferber will succeed to chair of Bergman; [Johann Christian Daniel von] Schreber is writing monograph on 'Aster' and dissertation on 'Boletus suaveolens'; flora and fauna of Lombardy expected from [Giovanni Antonio] Scopoli; [Werner de] Lachenal [(1736-1800)] and [Horace Bénédict de] Saussure [(1740-1799)] collecting materials for a natural history of Switzerland. Is in Göttingen as a practitioner and observing use of medicinal plants including experimenting with 'Caryophyllata' and as the hospital is run by "a pupil of Vienna" so 'Cicuta', 'Arnica', and 'Pulsatilla' are in constant use.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SOMERVILLE592">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">From Adolphe Quetelet to William Somerville   26 Sep 1827</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="somerville">The Somerville Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Brigitte Stenhouse</authority>
+                <date when="2022-02-26">2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="provenance">MSQ 1 / 1, Dep. c. 372, Bod, MS</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Quetelet, Adolphe">Adolphe Quetelet</persName>
+                    
+                    <date when="1827-09-26">26 Sep 1827</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Somerville, William">William Somerville</persName>
+                    <placeName>Monsieur le docteur Somerville
+de la societe royal \&amp;c
+
+[crossed out: hospital de Chelsea \`a Londres]
+
+[in pencil: 6 Curzon Street]</placeName>
+                </correspAction>
+            </correspDesc>
+            
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

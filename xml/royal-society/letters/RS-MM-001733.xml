@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001733">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from John Henry Gaddum, Department of Pharmacology, University New Buildings, Teviot Place, Edinburgh, to Maurice M Rapport,  444 East 68th Street, New York 21, New York, USA</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2008">2008</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">Paper, 1p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/80, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/80</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA1826" key="../nameregs/NA1826.xml">John Henry Gaddum</persName>
+               <date when="1951-10-26">26 October 1951</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Maurice M Rapport, 444 East 68th Street, New York 21, New York, USA">Maurice M Rapport, 444 East 68th Street, New York 21, New York, USA</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

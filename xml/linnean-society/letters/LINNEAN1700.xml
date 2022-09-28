@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1700">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Butt, Trentham, [Staffordshire], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61589/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/2/115, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Butt, Thomas">Thomas Butt</persName>
+                    <placeName>Trentham, Staffordshire</placeName>
+                    <date when="1813-06-28">28 Jun 1813</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>As "English Botany" is almost finished asks Smith to reconsider the genus 'Circaea', encloses a specimen from a Yorkshire plant and a 'Circaea alpina'. Through comparison with Linnaeus, [Carl Ludwig] Willdenow, and [William] Withering, believes 'Circaea alpina', 'Circaea intermedia' and 'Circaea lutetiana' are all distinct. Contests the validity of separate genera for 'Potentilla' and 'Tormentilla' when 'Potentilla reptans' and 'Tormentilla reptans' have the same flower. Thinks that 'Geranium lancastriense' and 'Geranium sanguineum' are distinct, his observations. Would like to be introduced to [George] Don's successor. List of rare British plants, hopes for assistance from Smith's friends in acquisition, [some of the names are marked by circles with dots in the middle].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

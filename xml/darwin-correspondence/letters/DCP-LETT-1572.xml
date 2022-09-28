@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-1572">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">From J. D. Hooker   [24 June 1854]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">2353</idno>
+            <date when="1990">1990</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1572 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1572.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1572.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="05">5</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="physdesc" n="ALS">4pp †, CD note 2pp</note>
+            <relatedItem type="publication">
+                <bibl>Huxley (1918) 1: 445</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">Correspondence</hi> 5: 196</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 104: 202–4</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_106.xml">CUL</repository>
+                    <collection>DAR</collection>
+                    <idno>104: 202–4</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_2357.xml">Hooker, J. D.</persName>
+                <placeName>Hitcham</placeName>
+                <date when="1854-06-24">[24 June 1854]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>Birth of JDH’s second child.</p>
+            <p>Asks CD’s view of "highness" and "lowness" in animals. Gives his own for plants; extent of deviation from type, e.g., floral parts deviating from leaf.</p> 
+<p>Reading B. C. Brodie’s <hi rend="italic">Psychological inquiries</hi> [1854].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Psychological inquiries</term>
+                <term type="people" ref="#subject_2354">Hooker, H. A.</term>
+                <term type="people" ref="#">Hooker, J. D.’s second child</term>
+                <term type="rx" ref="#">Brodie, B. C. 1854</term>
+                <term type="scientific_terms" ref="#">archetypes</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">flowers and buds</term>
+                <term type="scientific_terms" ref="#">highness and lowness</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">queries / requests</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">Other people</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00405_files/8/0_0.jpg" width="2862px" height="4622px"/>
+        <graphic decls="#preview-tile-zoomed" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00405_files/11/1_1.jpg" width="2862px" height="4622px"/>
+        <surface xml:id="i1" n="202r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00405.jpg" rend="portrait" width="2862px" height="4622px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00405_files/8/0_0.jpg" width="2862px" height="4622px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00405.dzi" width="2862px" height="4622px"/>
+        </surface>
+        <surface xml:id="i2" n="202v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00406.jpg" rend="portrait" width="2862px" height="4622px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00406_files/8/0_0.jpg" width="2862px" height="4622px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00406.dzi" width="2862px" height="4622px"/>
+        </surface>
+        <surface xml:id="i3" n="203r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00407.jpg" rend="portrait" width="2862px" height="4622px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00407_files/8/0_0.jpg" width="2862px" height="4622px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00407.dzi" width="2862px" height="4622px"/>
+        </surface>
+        <surface xml:id="i4" n="203v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00408.jpg" rend="portrait" width="2862px" height="4622px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00408_files/8/0_0.jpg" width="2862px" height="4622px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00408.dzi" width="2862px" height="4622px"/>
+        </surface>
+        <surface xml:id="i5" n="204r">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00409.jpg" rend="portrait" width="3072px" height="4622px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00409_files/8/0_0.jpg" width="3072px" height="4622px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00409.dzi" width="3072px" height="4622px"/>
+        </surface>
+        <surface xml:id="i6" n="204v">
+            <graphic decls="#downloadImageRights #download" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00410.jpg" rend="portrait" width="3072px" height="4622px"/>
+            <graphic decls="#thumbnail" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00410_files/8/0_0.jpg" width="3072px" height="4622px"/>
+            <graphic decls="#display" rend="portrait" url="https://images.lib.cam.ac.uk/content/images/MS-DAR-00104-000-00410.dzi" width="3072px" height="4622px"/>
+        </surface>
+    </facsimile>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

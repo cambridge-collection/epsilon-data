@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2950">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Aylmer Bourke Lambert, Castle Bourke, Tuam, Mayo, [Ireland], to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61995/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/6/20, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Lambert, Aylmer Bourke">Aylmer Bourke Lambert</persName>
+                    <placeName>Tuam, Mayo, Ireland</placeName>
+                    <date when="1790-05-01">[May 1790]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Plants found in the last month in Westport, County Mayo, [Ireland]: 'Andromeda daboecia', 'Empetrum nigrum', and 'Saxifraga umbrosa', remarking of the latter "the London Pride not in Hudson" ["Flora Anglica"]. Hopes to send an account of Mayo plants. Met Patrick Browne [(c 1720-1790) Irish botanist], "quite a cripple with old age" who showed him a copy of his "Flora Hibernica", believes it not much more than a catalogue [this remained unpublished until 1995]. Browne discussed Jamaican plants [Browne's "The civil and natural history of Jamaica"] and his correspondence with Linnaeus. At Lord Altamont's saw a "true Irish wolf dog", the seven Altamont owns are the only ones left in Ireland. The sheets of a botanical work left with Smith are from [Walter] Wade's intended "Flora Dubliniensi". Parliament have given £300 for Wade's campaign to establish Dublin botanic garden. Wade would like to correspond with Linnean Society and establish an Irish counterpart, requests copy of rules. Hopes [John] Fairbairn received West Indies seeds he sent. Will return to County Mayo for a few more months. Found 'Andromeda polifolia' growing in a bog near Althone.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

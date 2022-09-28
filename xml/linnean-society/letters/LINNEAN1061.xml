@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1061">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Sir Thomas Frankland, Morris's Hotel, Oxford Street, [London], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63004/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/15/28, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Frankland, Sir Thomas">Sir Thomas Frankland</persName>
+                    <placeName>London</placeName>
+                    <date when="1805-04-17">17 Apr 1805</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>His son's success at Oxford. Sir Joseph Banks doing better than last year and "hobbles up and down stairs on every occassion without sparing himself". The Institution flourishes and is thronged every day but has not been able to hear Mrs Sidney Smith's "Essays on good jokes" yet. His brother to have "the fatigue of being [...] the Cannister to the Duke of Clarence's Tail at the Installation", received his "beautiful little work on the blight in wheat".</p><p>Notes on [Aylmer Bourke] Lambert's "A description of the genus Pinus" and errors with Balm of Gilead fir; Dr Hardname, librarian at Sir Joseph Banks' [Jonas Dryander] admitted it was wrong. Encloses a handbill ["Advertisement of the exhibition of a living Llama at Brooke's Menagerie, 242, Piccadilly", see RelatedMaterial below] on the "pacos" of Linnaeus, his own observations: it is not the llama which is the larger species, about seven months old, has many beautiful points with "fine eyes, &amp; much affection in its manners", and it spits when teased but its saliva is not corrosive; includes small ink sketch of back of its head and neck and profile.</p><p>Relates an experiment of July 1803 on cut branches of young oaks smeared with Forsyth's ointment; till summer of 1804 there was no attempt renew the bark and concludes that amputation early in the season is necessary for success. Latest volume of "Linnean Transactions" "most respectably engraved".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

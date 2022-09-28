@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN924">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Edmund Davall, Orbe, Canton de Berne, [Switzerland]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62906/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/22, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1790-07-11">11/14 Jul 1790</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    <placeName>Orbe, Switzerland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Smith writes on 11 July: Suffered a slight pleuratic attack. [Edward] Forster's wife's sister, Mrs Wishaw, is dying after being improperly managed by Mrs Williams following birth of her child, eating beef steaks and drinking wine not being permitted to suckle her child; the abundance of milk has induced a milk fever and is now in hopeless state.</p><p>Thanks for Davall's assistance in determining 'Geranium molle', 'Geranium pyrenaicum', 'Geranium puscillum', and 'Geranium rotundifolium'. Responds to points in Davall's previous letters: happy to keep 'Schoenus ferrugineus'; 'Lamium laevigatum' not yet in seed; Davall can say what he pleases about 'Phaca alpina'; Davall's 'Stellaria biflora' correct, and also correct about [Anders Jahan] Retzius' [(1742-1821)] 'Tassilago'; will get hold of 'Onopordum dettoides' for him; Lady Rockingham recovered; [Jacques] Dorthes busy taking a degree.</p><p>Smith writes on 14 July: thanks for Davall's packet [mentioned in his letter of 31 May 1790] containing books, views, and plants. Responds to points in Davall's letter of 29 June 1790: all the names for his plates acceptable and [James] Sowerby has commenced work on them; has done nothing with 'Phytenma' so returning it; approves of Davall's title for his book; approves of Davall's differentia specifica; exhorts Davall to publish as soon as possible and before [Jacob] Wyttenbach and [Albrecht von] Haller [(1758-1823)] [new edition of the elder Haller's "Icones plantarum Helvetiae"]; fears [Werner de] Lechanel's letter to him has been lost. Mrs Wishaw, Forster's sister, has died, and Miss Lee has returned home to die of a "deep consumption".</p><p>Numbered observations on remainder of Davall's former packet: 'Cistus marifolius' HL, 'Anemone sulphurea', 'Mentha aquatica', 'Galeopris villosa' Hudson, 'Sonchus plumierii', 'Hypochaeris helvetica', 'Achillea moschata', 'Micropus erectus', 'Betula incana', 'Quercus cerris', and 'Fontinalis pennata'.</p><p>Numbered observations on packet of plants just received: 'Inula oculus-christi', 'Thymus vulgaris', 'Galeopsis villosa' Hudson, 'Aria flexuosa', 'Mespilus cotoneaster', 'Carduus crispus' HL, 'Carduus rivularis' Jacquin, 'Lathyrus latifolius' HL, 'Sisymbrium tanacetifolium', 'Dentaria pinnata', 'Draba fladnizensis' Jacquin, '[Dentaria] verna', 'Androsace villosa', 'Androsace lactea', 'Androsace obtusifolia' Allioni, 'Dianthus glaucus' Hudson, 'Tribulus terrestris', fungus on 'Euphorbia', 'Euphorbia', 'Carex argentea', 'Cheiranthus fruticulosus' HL, 'Lamium maculatum', and 'Euphorbia palustris' HL.</p><p>Numbered observations on packet of plants of 27 February 1790: 'Valeriana montana', 'Crocus vernus', 'Scirpus supinus', 'Phalaris alpina', 'Aria subspicata' HL, 'Briza eragrostis' HL, 'Poa eragrostis' HL, '[Festuca] duriuscula', 'Stipa juncea', 'Stipa capillata', 'Avena versicolor', 'Potamogeton retusum', 'Cerinthe minor', 'Lonicera nigra', 'Lonicera caerulea' HL, 'Lonicera symphoricarpos', 'Chenopodium atriplicis', 'Chenopodium murale', 'Bupleurum angulosum' or 'B. ranunculoides', 'Selinum chabraei', 'Laserpitium', 'Aethusa bunius' HL, 'Pencedanum silars', 'Juncus pediformis' Villars, 'Rumex lunaria' HL, 'Rumex aurens' J Banks, 'Saxifraga sedoides', 'Saxifraga biflora' Allioni, 'Sedum saxatile' Wiggers, 'Cerastiums', '[Euphorbia] gerardiana', 'Prunus padus', 'Crataegus chamaemespilus', 'Potentilla aurea', 'Potentilla minima' Davall, 'Potentilla subacaulis', and 'Papaver alpinum'.</p><p>Davall's 'Carex' is published as 'Carex bellardi' in [James] Dickson's "dried plants" and it would vex [Carlo Antonio] Bellardi to change it. Distributed Davall's seeds amongst [John] Fairbairn, Dickson, [James] Lee, [William] Curtis, and [Samuel] Goodenough, but forgot [William] Aiton; desperate to make peace with him as Aiton is secretely jealous of his ["Icones pictae plantarum rariorum..."]. Sending seeds of 'Angelica archangelica'; bulbs of 'Dentaria bulbifera' from Dickson; 'Cineraria palustris', 'Artemisia carerulescens', 'Smyrnium olusatrum', and 'Holosteum umbellatum' from [Edward] Forster; and second fasciculi of Dickson's dried plants and ["Fasciculus plantarum cryptogamicarum Britannia"]. For forseeable future must labour for his support as he is too much of a burden for his "most indulgent father" who thinks physic would be more profitable, he himself knows "nothing is to be got by a young physician in London". Sending spare copy of Burman's "[Specimen botanicum] de Geraniis".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

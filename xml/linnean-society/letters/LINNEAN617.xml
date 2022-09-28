@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN617">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough, Deanery, [Rochester, Kent], to James Edward Smith, at Dr Williams, Corpus Christ College, Oxford, [Oxfordshire]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62588/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/44, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    <placeName>Rochester, Kent</placeName>
+                    <date when="1803-05-11">11 May 1803</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Oxford, Oxfordshire</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>A disagreement at Oxford involving Dr [George] Williams and a new professorship [possibly the Aldrichian chair of anatomy and physiology, founded 1803]. It is opposed by his son, [Edmund Goodenough (1785-1845), headmaster and dean of Wells], but he has written to him pledging his own support for Williams. Unsure of his son's objection unless it is the wish of the Dean of Christ Church, whom he generally has to second on account of multiple kindnesses shown to him.</p><p>Smith's forty-five 'Salix' species make him impatient for the remained of "Flora [Britannica]". Nobody interested in botany in Rochester and the dryness of the area is not favourable for the fructification of mosses; however there are "great tracts of wood" and Lord and Lady Darnley have a hothouse, greenhouse, and "an idea of an arboretum". Found a new plant in a hothouse called "Egyptain 'Amaryllis'" which flowered in February to be a 'Pancratium' "caule biflora", refers to [Johan Jacon] Dillenius' "Hortus Elthamensis". [Thomas] Marsham wrote suggesting to leave him out of the Linnean Society Council and vice-presidentship for next year; happy to comply as long as he is not "let down improperly". Hopes Smith's reception at Frogmore [the Queen's country house in Berkshire] will be followed with fresh invitations.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

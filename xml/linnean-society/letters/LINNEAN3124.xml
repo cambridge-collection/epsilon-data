@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3124">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Friedrich Albrecht Anton Meyer, Göttingen, [Germany], to James Edward Smith, 12 Marlborough Street, London</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62170/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/72, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Meyer, Friedrich Albrecht Anton">Friedrich Albrecht Anton Meyer</persName>
+                    <placeName>Göttingen, Germany</placeName>
+                    <date when="1793-07-04">4 Jul 1793</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Requests information on the new species of 'Hystrix' [ie. Echidna] from New South Wales, no information in Captain [John] Hunter's "Voyages to New Holland". Using [Arthur] Phillip's and [John] White's "voyages" and [John] Latham's "Index ornithologicus" to communicate zoological finds from New Holland to his colleagues; details of a German translation of latter work. Smith's desciption of 'Bradypus ursinus' published by de Luc in "Rozier's Physical Journal" May 1792; [Jean-Claude] de la Métherie has made a poor figure of it in his ["Journal de Physique"], requests further descriptions of it. Smith's "disciple" Townson said there is a new Swedish edition of Linnaeus' "Fauna Suecica", asks if Smith is working on it and whether he is including the new insects from the Linnaean collections published in [Dietrich Heinrich] Stoever's biography of Linnaeus. Himself and [Heinrich Adolph] Schrader had planned a German translation of "Linnean Transactions" but preempted by Dr Reich of Leipzig, who has no zoological or botanical knowledge.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

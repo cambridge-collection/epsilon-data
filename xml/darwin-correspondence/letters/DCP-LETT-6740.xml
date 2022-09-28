@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-6740">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Linnean Society, President and Council   10 May 1869</title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">3725</idno>
+            <date when="2009">2009</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6740 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6740.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6740.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="17">17</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS(A)</note>
+            <note type="physdesc" n="LS(A)">1p</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Linnean Society of London (SP.57)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_238.xml">Linnean Society</repository>
+                    <collection>SP.</collection>
+                    <idno>57</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date when="1869-05-10">10 May 1869</date>
+            </correspAction>
+            <correspAction type="received">
+                <orgName key="../nameregs/nameregs_238.xml">President and council, Linnean Society</orgName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Recommends publication of Mrs Barber’s paper on a rare case of fertilisation of a plant by one kind of insect alone, with access of others prevented by a mechanical obstacle [Mary Elizabeth Barber, "On the fertilisation and dissemination of <hi rend="italic">Duvernoia adhatodoides</hi>", <hi rend="italic">J. Linn. Soc. Lond. (Bot.)</hi> 11 (1869): 469–72].</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">insect</term>
+                <term type="it" ref="#">Duvernoia adhatodoides</term>
+                <term type="it" ref="#">J. Linn. Soc. Lond. (Bot.)</term>
+                <term type="rx" ref="#">Barber, M. E. 1869</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">fertilisation and generation</term>
+                <term type="scientific_terms" ref="#">flora</term>
+                <term type="scientific_terms" ref="#">movements and habits of plants</term>
+                <term type="scientific_terms" ref="#">plant physiology</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">relation of organism to organism</term>
+                <term type="scientific_terms" ref="#">structural characters</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

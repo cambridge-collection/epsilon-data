@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3521">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Norwich, [Norfolk], to Nathaniel Winch, Newcastle upon Tyne, Northumberland</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64778/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/MS321/2, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                    <date when="1810-10-18">18 Oct 1810</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Winch, Nathaniel John">Nathaniel John Winch</persName>
+                    <placeName>Newcastle upon Tyne, Northumberland</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Winch's letter of 1 June [1810] via [James] Sowerby; uncertain whether it was lost in his "multifarious museum". He has been working on the 'Lichen' part of his fourth volume [of "Flora Britannica"] but cannot begin it for the press until [William Jackson] Hooker comes to a conclusion with his 'Jungermanniae' ["British Jungermanniae" (1816)].</p><p>Numbered observations on Winch's plants: 1. 'Lichen rupestris'; 2. 'L. pruinosus'; 3. 'Hypnum rugosum'; 4. 'Gymnostonum'; 5-9. marked doubtfully by [Dawson] Turner, not confident of any of them. Uncertain who told them that 'Pyrola media' was found at Studley, [Warwickshire]; they must always be on guard against such erroneous information and mistaken species; determined to admit nothing into the sequel to his "Flora" of which he has not a specimen himself to examine and keep as an authority. 11. 'Chironia littoralis'; 12. a 'Juncus', possibly his 'J. maritimus'; 13. 'J. campestris'; 14. 'Agrostis fascicularis' Curtis; 'A. pumila', does not think it a species.</p><p>Turner, Hooker, and himself all "truly concerned" that Winch should have any "gloom" in his prospects, and hope they soon brighten.</p><p>[On recto of second folio] List of 15 plants sent 10 June 1810, corresponds with Smith's observations above [in Winch's hand].</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

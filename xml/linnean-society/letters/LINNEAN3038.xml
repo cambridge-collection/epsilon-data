@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Martyn, Park Prospect, to James Edward Smith, Great Marlborough Street, [London]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62099/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/1, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Martyn, Thomas">Thomas Martyn</persName>
+                    <placeName>Park Prospect</placeName>
+                    <date when="1793-03-14">14 Mar [1793]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sent copies of his "glossary"' ["Language of Botany"] to Smith and Linnean Society, includes: from "Hortus Kewensis" 'Achillea squarrosa', and from [Carlo] Allioni 'Achillea herba-rota', 'Achillea ligustica', and 'Achillea tanacetifolia'. Asks if Smith knows "'Achillea lutea' Krocker siles n. 1443". Difficulties with 'Achras' species in "Hort. Malab. vol 3 tab 29, 30, 31" [Rheede van Draakenstein's "Hortus Indicus Malabaricus"?] and between 'Achras' and [Olof] Swartz' 'Bumelia'. Asks what 'Achras balata' of Gmelin "Syst. 574.5" is. Preparing 'Aconitum' for press, asks for any of Smith's observations especially 'Aconitum lycotonum'.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

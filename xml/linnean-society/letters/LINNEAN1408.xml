@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1408">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">William Roscoe, Liverpool, [Lancashire], to Sir James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63327/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/17/96, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Roscoe, William">William Roscoe</persName>
+                    <placeName>Liverpool, Lancashire</placeName>
+                    <date when="1814-12-24">24 Dec 1814</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Describes his journey after leaving Smith at Narford [home of Andrew Fountaine], travelling from Ely to Cambridge, before journeying on to Allerton [Hall, Lancashire] through a tremendous storm which on returning home he found had ripped up trees of 60 or 80 years growth. At Cambridge dined with Professor [William] Smyth [(1765-1849), historian] and recommended Smith to him [for his Cambridge botany professorship candidature] but he is under a "promise"; hears from multiple sources that Smith is considered the best qualified for the position, but rivals have either been ahead of Smith in their applications or are taking advantage of "supposed indecision" on Smith's part; St John's College the most adverse to Smith, but he believes if Smith maintains his high ground he will either succeed or "attach no small share of disgrace to the university".</p><p>Will send Smith tracings of [Charles] Plumier's [(1646-1704), botanist] drawings, but only copy two of the 'Scitamineae' not given in [Nikolaus von] Jacquin's "Fragmenta". Thanks Smith for the visits to Holkham and Narford [homes of Thomas William Coke and Andrew Fountaine, respectively]; on his return found his wife in much better health.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

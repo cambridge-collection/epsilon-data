@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN993">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Edmund Davall to James Edward Smith [unfinished]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62969/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/14/85, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Davall, Edmund">Edmund Davall</persName>
+                    
+                    <date when="1798-02-13">[13 Feb 1798]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>In red ink at top of first folio: "Mr Davall's last unfinished letter".</p><p>Revived by Smith's letter of 17 January 1798. His health totally destroyed, intellect affected and faculty of speech impaired at age of 35 by "frequent attacks of one of the most terrible" convulsive disorders. Fears he was too copiously bled on 2 February 1797, losing 150 ounces between that date and end of March and blisters applied to his leg caused violent cramps and tortured his nerves. Attended by a too young doctor trained at Pavia who thinks his ills come from an obstinate constipation caused by too frequent use of purgatives. Has taken a deluge of 'Valerian officinalis', 'Cinchona officinalis', flores zinci, 'Moschus', 'Viscum album', and since 10 January wholly on milk diet.</p><p>Letter unfinished and unsent, enclosed in Henriette Davall's letter of 10 October 1798 informing Smith of Edmund's death.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

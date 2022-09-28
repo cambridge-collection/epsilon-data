@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3368">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Olof Swartz, Stockholm, [Sweden], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62426/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/9/99, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Swartz, Olof Peter">Olof Peter Swartz</persName>
+                    <placeName>Stockholm, Sweden</placeName>
+                    <date when="1812-06-01">1 Jun 1812</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has sent parcels for Smith and Sir Joseph Banks with Professor [Jöns Jacob] Berzelius, [(1779-1848)], chemist, who is coming to England. Smith's parcel contains: third volume of "Flora Ind. occidentalis"; "transactions" of the Royal Academy of Sciences from 1809 to 1811; his "Synopsis filicum" for either [William Jackson] Hooker or Smith; and six volumes of "Swedish Botany", a gift of the Academy to the Linnean Society. Hopes Hooker received the letter he sent before he left Europe [abandoned plans for travelling to Ceylon with Sir Robert Brownrigg]. Curious to know how far [Robert] Brown's "Prodromus florae Novae Hollandiae" has advanced, hopes to establish an exchange with him. Swedish Academy of Sciences, of which he is now the secretary, is keen to have full set of "Linnean Transactions" and the second part of Brown's "Flora". [Erik] Acharius has published his "Lichenographia universalis" and has still not received any thanks for the collection he sent to the Linnean Society.</p><p>[Georg] Wahlenberg's recently published "Flora Lapponica" has doubled the number of plants described in Linnaeus' "Flora Lapponica", it includes 30 plates and a large botanico-geographical map. [Alexander von] Humboldt, von Bruhl and W have proceeded on similar principals and plans for their own works. Asks after progress of "Flora Graeca", "English Botany", and [Dawson] Turner's "Historia fucorum".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

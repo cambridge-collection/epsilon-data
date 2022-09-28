@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001688">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from George Gilbert Scott, 20 Spring Gardens, to John Dunn Gardner</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2006">2006</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="physdesc">1p</note>
+         </notesStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/25, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="George Gilbert Scott, 20 Spring Gardens">George Gilbert Scott, 20 Spring Gardens</persName>
+               <date when="1852-10-26">26 October 1852</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Gardner, John Dunn">John Dunn Gardner</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

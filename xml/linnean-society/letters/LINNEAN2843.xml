@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2843">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">John Hawkins, 6 Crescent, Bognor, [Sussex], to James Edward Smith, Norwich, [Norfolk]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61885/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/5/35, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Hawkins, John">John Hawkins</persName>
+                    <placeName>Bognor, Sussex</placeName>
+                    <date when="1806-12-06">6 Dec [1806]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Comments on errors in the first half volume of "Flora Graeca", including different trivial names for the same plant in plate 31 and the corresponding text; error in spelling 'Minae' for 'Mainae' and 'Messenae' for 'Messenia'; omission of vulgar Greek name of 'Cyperus'; Smith's misleading manner of setting habitats for ubiquitous plants such as 'Phillyrea', wild olive, Manna ash, 'Gladiolus communis', 'Iris sisyrinchium', and 'Iria bulbacodium'. Regrets Smith did not apply to him more for particular information, presumed he had [John] Sibthorp's journals but but suspects this was not the case. From his own edition of the journals disputes attribution of a 'Valeriana tuberosa' and comments on other plants mentioned in the journal including a new 'Valeriana', a new 'Salvia', 'Salvia argentia' and 'Salvia sibthorpii'. Has found 'Campanula hederacea' in Sussex.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

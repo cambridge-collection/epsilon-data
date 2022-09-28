@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1495">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, London, to Thomas Jenkinson Woodward</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63442/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/18/55, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                    <date when="1792-03-20">20 Mar 1792</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Woodward, Thomas Jenkinson">Thomas Jenkinson Woodward</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Sends second number of "Icones pictae" and "Spicilegium botanicum"; Woodward's account. Tasted "the horrors of the damned" after "Icones pictae" was advertised in last number of "English botany" before it was ready and being repeatedly harassed by his friends for it. Sends missing sheet of "Flora Lapponica"; sent it as sheets supposing Woodward's bookbinders less corrupt than his. Delay in admitting Woodward's two nominations to Linnean Society.</p><p>The Reviews "very civil" towards "Linnean Transactions" vol 1, especially his "Introductory discourse", which has met with many compliments, including from Scarpa of Pavia who informs him of its translation into Italian by Father Fontana, professor of mathematics at Pavia University, and brother to Abbè Fontana; his own opinion of his discourse. Confirms that [Robert] Batty's [(1763-1849), apothecary] shop was destroyed by collapse of the Pantheon following a fire, his shop was under the stage. François [Borone] and [Adam] Afzelius had embarked [for Sierra Leone] but their ship had an accident at Deal, [Kent], and is being refitted. Can accommodate Woodward for anniversary meeting, though his brother, John, may also be in London.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

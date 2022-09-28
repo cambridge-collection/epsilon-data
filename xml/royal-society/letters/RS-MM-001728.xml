@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="RS-MM-001728">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter  from Andrew Leith Adams, Malta, to William Sharpey, Atheneum Club, London</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Royal Society</authority>
+            <pubPlace>London</pubPlace>
+            <date when="2008">2008</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="provenance">MM/22/73, Royal Society</bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository key="../../dcp-data/repo/repo_364.xml">Royal Society</repository>
+                  <idno>MM/22/73</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName n="NA6416" key="../nameregs/NA6416.xml">Andrew Leith Adams</persName>
+               <date when="1865-02-11">11 February 1865</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="William Sharpey, Atheneum Club">William Sharpey, Atheneum Club</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body><div/></body>
+   </text>
+</TEI>

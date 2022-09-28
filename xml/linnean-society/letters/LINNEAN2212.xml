@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2212">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Charles Konig to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/64043/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/23/37, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Konig, Charles Dietrich Eberhard">Charles Dietrich Eberhard Konig</persName>
+                    
+                    <date when="1804-11-26">26 Nov 1804</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Received Smith's paper on "difficult set of plants" [for "Annals of Botany"]; wishes Smith had added specific characters to Andrew's species; agrees that 'Anotium' constitutes a genus but there are errors in referencing. Asks if attached specimen from Kew [extant] is a new species of 'Gompholobium'. Discusses 'Chorizema' [in reference to Smith's paper]; advises Smith to quote French original of Labillardiére's "Voyage"; a new species of 'Chorizema' with juster claim to name 'C. ilicifolium', encloses leaf [extant] to illustrate. Discusses drawings of fructification of Smith's genus. Mislaid his notes on the new gynandrous genus but will publish it as 'Ventenatia' at first opportunity.</p><p>A drawing of 'Ipomopsis elegans' by Mrs Delany is at Sir Joseph Banks'. In reference to Smith's paper, Banks' points out that is [Daniel] Solander had lived he would have arranged the plants in question, and that the two Forsters have never been at New Holland. Wonders who "this Caley" is, as he is not the Botany Bay [George] Caley [(1770-1829), botanist].</p><p>Specimen, possible 'Gompholobium'.</p><p>Small fragment of a plant, labelled "'Daviesia acicularis'?".</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

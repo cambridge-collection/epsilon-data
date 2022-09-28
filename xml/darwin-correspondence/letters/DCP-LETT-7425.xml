@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-7425">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Francis Darwin   [after 21 January 1871]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">20314</idno>
+            <date when="2012">2012</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-7425 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7425.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-7425.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="19">19</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">incomplete<ref target="#foot.f12"/></note>
+            <note type="physdesc" n="ALS">** 5pp</note>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Sotheby’s (dealers) (28 March 1983)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_395.xml">Sotheby’s</repository>
+                    <collection>28 Mar 1983</collection>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1871-01-22" notAfter="1882-12-31">[after 21 Jan 1871]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1222.xml">Darwin, Francis</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract> 
+<p>Responds to Mivart’s <hi rend="italic">Genesis of species</hi>. "I complain of his incessently speaking as if I trusted exclusively to natural selection … Mivart speaks in many places as if I entirely ignored the direct action of external conditions". Answers some of Mivart’s particular criticisms. Suggests FD read the letter to Marlborough Robert Pryor, as Pryor will never be able to read it himself.</p> 
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="it" ref="#">Genesis of species</term>
+                <term type="people" ref="#subject_3350">Mivart, St G. J.</term>
+                <term type="rx" ref="#">Mivart, St G. J. 1871</term>
+                <term type="scientific_terms" ref="#">climate and conditions</term>
+                <term type="scientific_terms" ref="#">negative attitude/assessment</term>
+                <term type="scientific_terms" ref="#">origin</term>
+                <term type="scientific_terms" ref="#">selection</term>
+                <term type="scientific_terms" ref="#">species, speciation</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                
+                <term type="tag" ref="#conduct_of_debate">Conduct Of Debate</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>

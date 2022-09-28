@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="NA171">
+   <persName>
+      <forename>John</forename>
+      <surname>Murray</surname>
+   </persName>
+   <persName type="additional" subtype="title">
+      <roleName>4th Duke of Atholl</roleName>
+   </persName>
+   <note type="dates">
+      <date>1755 - 1830</date>
+   </note>
+   <sex value="M"/>
+   <note type="biography">
+      <p>Birth: Dunkeld, Perthshire, Scotland (30 June 1755)</p>
+      <p>Death: 29 September 1830</p>
+      
+      <p>Honours: KT 1800</p>
+      
+      <p>Membership: Fellow</p>
+      <p>Election Date: 9/11/1780</p>
+   </note>
+   <note type="sources">
+      <p>Sources: Bulloch's Roll</p>
+      <p>Obituaries: Proc Roy Soc 1830-1831 No 1 p 10</p>
+   </note>
+</person>

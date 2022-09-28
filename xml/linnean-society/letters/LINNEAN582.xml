@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN582">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Samuel Goodenough to James Edward Smith, Great Marlborough Street, [London]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62556/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/11/12, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Goodenough, Samuel">Samuel Goodenough</persName>
+                    
+                    <date when="1789-11-23">23 Nov 1789</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has just returned from Oxford. Already has a copy of second edition of [Johann Daniel] Leers [(1727-1774)] but asks Smith to look out for a first edition. Arrangements for purchasing L'Heritier's "Sertum Anglicum". Asks if Smith has a spare copy of [Johann Christian Daniel von] Schreber's "Grasses" [ "Beschreibung der Graesser"?]. Asks after progress of Smith's next fasciculus and for Smith to send it him as soon as ready. Argues the value of giving a preface to every fasiculus for saying something upon the nature of work; additional remarks on previously published plants; and prepatory annotations on forthcoming plants. Saw at Oxford Smith's friend Dr [William] Thomson [(c 1760-1806), mineralogist and physician]; persuaded him to give him the plants Smith provided for his abandoned "Materia Medica". Also saw [John] Sibthorp who gave him Cyrpus wine and Hymettian honey and gave him a tour of the rarities of the Sherardian library and garden. Next time Sibthorp is in London intends to compare all the Sherardian collection with Sir Joseph [Banks'] or Smith's collections. Sibthorp's thousand drawings "very excellent" and he has added Linnean names to the Sherardian and Morrisonian collections in his keeping; the garden is superior to the one at Cambridge.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

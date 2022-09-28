@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN2652">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Simon de Roxas Clemente y Rubio, London, to James Edward Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/61699/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/3/76, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Rubio, Simon de Roxas Clemente y">Simon de Roxas Clemente y Rubio</persName>
+                    <placeName>London</placeName>
+                    <date when="1802-10-24">24 Oct 1802</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Has come to England partly to see the Linnaean collections but frustrated by the distance Smith lives from London; sends five specimens for Smith's opinion that he would have consulted about in person if it was possible. Requests a specimen of 'Hypnum myosuroides'. Leaving England in a month to visit Morocco, from where he will attempt to reach the interior of Africa with Domingo Badia [Ali Bey al-Abbasi (1766-1818), Spanish explorer]; author of a plan for finding new discoveries in Africa commissioned by Spanish government. [Antonio José] Cavanilles hoped Clemente would be able to visit Smith, desirous of some remark if this is agreeable.</p><p>Smith has annotated "the lichens were 'pollinarius', 'subfuseus' on walls, 'vinellus', 'cerinus' &amp; 'saxicola'" and one near 'paellus' which could not be determined.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

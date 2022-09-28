@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN3058">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">Thomas Martyn, Pertenhall, [Bedfordshire], to James Edward Smith, Mrs Wiggins', Craven Hill, Bayswater, Middlesex</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/62110/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/7/12, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Martyn, Thomas">Thomas Martyn</persName>
+                    <placeName>Pertenhall, Bedfordshire</placeName>
+                    <date when="1814-06-24">24 Jun 1814</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Bayswater, Middlesex</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Smith's candidature for Botany Professorship at Cambridge University. [Richard] Relhan has enquired after a report that [Martyn] is resigning in Smith's favour. Smith right in gaining support from outside Cambridge. Discusses process of Cambridge elections and reiterates Dr [Richard] Walker's [(1679-1764) founder of Cambridge Botanic Garden] provision in his gift of the lectureship that a foreigner may be elected if sufficiently qualified.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

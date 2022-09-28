@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1640">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Geneva, [Switzerland], to James Smith, Market Place, Norwich, [Norfolk], Angletérre</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63581/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/62, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Geneva, Switzerland</placeName>
+                    <date when="1787-08-27">27 Aug 1787</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    <placeName>Norwich, Norfolk</placeName>
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Hopes his father received his letter of 4 August [1787]. Kindness of Messrs Malanot and Maghit; their regard for his father. His calls on cloth merchants and investigations into silk production. Mr Malanot so excessively hospitable as to make him uneasy. Invited by de Sousa, the Portuguese ambassador, to meet all the corps diplomatique. Has met a Milanese boy who is "such a treasure" he intends to bring him back to England, and is so clever he intends to "make him earn" what he costs [François Borone]. Account of a botanical excursion he made to Mount Cenis with de Sousa and other botanists and natural philosophers. Account of his arrival in Geneva, which "swarms with English people"; so far has only met Professor Zimmerman; meeting Mr Bonnet tomorrow. After Geneva will visit the glaciers, Lausanne, Berne, Basle, and Strasbourg, before reaching Paris.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

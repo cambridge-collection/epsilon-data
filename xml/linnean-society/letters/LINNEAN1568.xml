@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LINNEAN1568">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="main_title">James Edward Smith, Edinburgh, to James Smith</title>
+            </titleStmt>
+            <editionStmt>
+                <edition n="James Edward Smith">The James Edward Smith Collection</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>The Linnean Society of London</authority>
+                <ptr type="projectItem" target="http://linnean-online.org/63531/"/>
+                <date when="2021-07-20">2021</date>
+            </publicationStmt>
+            <seriesStmt>
+                <ab type="p"><hi rend="italic">The Correspondence of Sir James Edward Smith</hi>, The Linnean Society's Archive Catalogue</ab>
+                <ab type="url">http://www2.calmview.co.uk/Linnean/record.aspx?src=CalmView.Catalog&amp;id=GB-110/JES</ab>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl type="provenance">GB-110/JES/COR/19/12, The Linnean Society of London</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="Smith, Sir James Edward">Sir James Edward Smith</persName>
+                    <placeName>Edinburgh</placeName>
+                    <date when="1782-04-15">15 Apr 1782</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Smith, James">James Smith</persName>
+                    
+                </correspAction>
+            </correspDesc>
+            <abstract><p>Their letters generally take 5 days travelling. No longer anxious about his expenses following his father's words. Resolved to learn Pharmacy in Edinburgh in the summer and go to London in the winter of 1784, before graduating at Edinburgh. Hopes for better times with change of Ministry; Mrs Beveridge [his landlady] "furious" in her attachment to the old Ministry. Most backward spring in Edinburgh known to memory. Death of Mr Patterson, head of the Medical, Physical, and Speculative Societies.</p><p>He and 4 or 5 friends have lately formed a society for the study of natural history, for which Dr Walker, the new professor, offered his museum for them to meet in. Dr [John] Hope an honorary member and 7 other young men have since joined, and the Earls of Glasgow and Ancram, and Lord Dare, have all petitioned to join; particulars of the society. Dr Walker told him he has studied more natural history than anybody he before met with in Scotland. His acquaintance with Dr Hutton; his character; he is an excellent mineralogist. Does not intend to study mineralogy any more than absolutely necessary, contenting himself with strict line of his profession and the "first two kingdoms of nature by way of relaxation"; benefits his small knowledge of this has already brought him. His acquaintances, particularly intimate with [William] Thomson [(c 1760-1806), mineralogist and physician] and [Robert] Batty; their characters. Sorrow at departing of friends.</p></abstract>
+        </profileDesc>
+        
+    </teiHeader>
+    <text>
+        <body><div/></body>
+    </text>
+</TEI>

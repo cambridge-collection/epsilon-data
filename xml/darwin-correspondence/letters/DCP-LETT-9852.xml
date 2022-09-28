@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-LETT-9852">
+    <teiHeader>
+        <fileDesc>
+        <titleStmt>
+            <title xml:id="main_title">To Anton Dohrn   [after 7 February 1875]<ref target="#foot.f1"/></title>
+        </titleStmt>
+        <publicationStmt>
+            <authority>Darwin Correspondence Project</authority>
+            <publisher>Cambridge University Press</publisher>
+            <pubPlace>Cambridge</pubPlace>
+            <idno type="lognum">16348</idno>
+            <date when="2015">2015</date>
+            <availability xml:id="rights" status="restricted">
+                <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9852 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9852.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9852.xml</ref>.</licence>
+            </availability>
+        </publicationStmt>
+        <seriesStmt>
+            <title level="s">The Correspondence of Charles Darwin</title>
+            <biblScope unit="vol" n="23">23</biblScope>
+        </seriesStmt>
+        <notesStmt>
+            <note type="description">LS</note>
+            <note type="physdesc" n="LS">4pp</note>
+            <relatedItem type="copy" subtype="CUL"><bibl>CUL DAR 143: 403</bibl></relatedItem>
+            <relatedItem type="publication">
+                <bibl>Groeben (1982): 62;</bibl>
+            </relatedItem>
+            <relatedItem type="publication">
+                <bibl> <hi rend="italic">LL</hi> 3: 198</bibl>
+            </relatedItem>
+        </notesStmt>
+        <sourceDesc>
+            <bibl type="provenance">Bayerische Staatsbibliothek München (Ana 525. Ba 1120)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_36.xml">Bayerische Staatsbibliothek</repository>
+                    <idno>(Ana 525. Ba 1120)</idno>
+                </msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName key="../nameregs/nameregs_1.xml">Darwin, C. R.</persName>
+                <placeName>Down</placeName>
+                <date notBefore="1875-02-08" notAfter="1875-02-28">[after 7 Feb 1875]</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName key="../nameregs/nameregs_1346.xml">Dohrn, F. A.</persName>
+            </correspAction>
+        </correspDesc>
+        <abstract>
+            <p>The Zoological Station has already resulted in "capital work" by F. M. Balfour and Ray Lankester. G. J. Romanes is coming next year.</p>
+            <p>CD will be interested in AD’s ancestry of vertebrates. "I shall be very sorry to give up the ascidians."</p>
+        </abstract>
+        <textClass>
+            <keywords>
+                <term type="animals" ref="#">ascidians</term>
+                <term type="animals" ref="#">vertebrates</term>
+                <term type="people" ref="#subject_258">Balfour, F. M.</term>
+                <term type="people" ref="#subject_2814">Lankester, E. R.</term>
+                <term type="people" ref="#subject_4071">Romanes, G. J.</term>
+                <term type="scientific_terms" ref="#">assessments</term>
+                <term type="scientific_terms" ref="#">descent</term>
+                <term type="scientific_terms" ref="#">experiment, scientific observation</term>
+                <term type="scientific_terms" ref="#">fauna</term>
+                <term type="scientific_terms" ref="#">positive attitude/assessment</term>
+                <term type="scientific_terms" ref="#">theory (including philosophy)</term>
+                <term type="social" ref="#">Other people</term>
+                <term type="societal" ref="#">Naples Zoological Station</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+    
+    </teiHeader>
+    <text>
+    <body><div/></body>
+    </text>
+</TEI>
