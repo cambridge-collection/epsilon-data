@@ -12,6 +12,7 @@
             <pubPlace>Cambridge</pubPlace>
             <idno type="lognum">13924</idno>
             <date when="2015">2015</date>
+            <ptr type="projectItem" target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9874.xml"/>
             <availability xml:id="rights" status="restricted">
                 <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-9874 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9874.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-9874.xml</ref>.</licence>
             </availability>
@@ -25,8 +26,13 @@
             <note type="physdesc" n="LS">2pp</note>
         </notesStmt>
         <sourceDesc>
-            <bibl type="provenance">Max Rambod (dealer) December 2001</bibl>
-            <bibl type="printedSource">Rambod, Max</bibl>
+            <bibl type="provenance">Max Rambod (dealer) (December 2001)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_700.xml">Rambod, Max (dealer)</repository>
+                    <collection>Dec 2001</collection>
+                </msIdentifier>
+            </msDesc>
         </sourceDesc>
     </fileDesc>
     <profileDesc>

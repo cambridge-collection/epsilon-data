@@ -43,7 +43,7 @@
                 <idno/>
             <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=68"/></publicationStmt>
             <sourceDesc>
-<bibl type="provenance">Fonds André-Marie Ampère chemise 331, Archives de l'Académie des
+<bibl type="provenance" sameAs="../../website-pages/repo/EP-REPO-7.xml">Fonds André-Marie Ampère chemise 331, Archives de l'Académie des
                             sciences, Paris</bibl>
 
                 <msDesc type="original_manuscrit">
@@ -111,5 +111,9 @@
         </profileDesc>
         
     </teiHeader>
-    <text type="correspondance" decls="#ampere_corr_L1801-10-00-a"><body><div/></body></text>
+    <text type="correspondance" decls="#ampere_corr_L1801-10-00-a">
+        
+<body><div/></body>
+        
+    </text>
 </TEI>

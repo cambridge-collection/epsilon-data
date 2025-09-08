@@ -12,6 +12,7 @@
             <pubPlace>Cambridge</pubPlace>
             <idno type="lognum">21253</idno>
             <date when="2010">2010</date>
+            <ptr type="projectItem" target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2346H.xml"/>
             <availability xml:id="rights" status="restricted">
                 <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-2346H by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2346H.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2346H.xml</ref>.</licence>
             </availability>
@@ -22,8 +23,13 @@
         </seriesStmt>
         
         <sourceDesc>
-            <bibl type="provenance">Ronald Levine, Modern 1st Editions</bibl>
-            <bibl type="printedSource">Ronald Levine</bibl>
+            <bibl type="provenance">Ronald Levine, Modern 1st Editions (dealer) (no date)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_236.xml">Ronald Levine</repository>
+                    <collection>no date</collection>
+                </msIdentifier>
+            </msDesc>
         </sourceDesc>
     </fileDesc>
     <profileDesc>

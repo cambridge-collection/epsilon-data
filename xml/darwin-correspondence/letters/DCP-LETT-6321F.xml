@@ -12,6 +12,7 @@
             <pubPlace>Cambridge</pubPlace>
             <idno type="lognum">21192</idno>
             <date when="2008">2008</date>
+            <ptr type="projectItem" target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6321F.xml"/>
             <availability xml:id="rights" status="restricted">
                 <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-6321F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6321F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-6321F.xml</ref>.</licence>
             </availability>
@@ -24,8 +25,13 @@
             <note type="description">incomplete<ref target="#foot.f4"/></note>
         </notesStmt>
         <sourceDesc>
-            <bibl type="provenance">Lionheart (dealer)</bibl>
-            <bibl type="printedSource">Lionheart (dealer) (1998)</bibl>
+            <bibl type="provenance">Lion Heart (dealer) (1998)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_239.xml">Lion Heart (dealer)</repository>
+                    <collection>1998</collection>
+                </msIdentifier>
+            </msDesc>
         </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -43,7 +43,7 @@
                 <idno/>
             <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=1181"/></publicationStmt>
             <sourceDesc>
-<bibl type="provenance">N.A.F. ms 14605, f° 76-81 [note A. Robinet], Bibliothèque nationale de France, Paris</bibl>
+<bibl type="provenance" sameAs="../../website-pages/repo/EP-REPO-106.xml">N.A.F. ms 14605, f° 76-81 [note A. Robinet], Bibliothèque nationale de France, Paris</bibl>
 
                 <msDesc type="original_manuscrit">
                     <msIdentifier xml:id="ampere_corr_L1810-06-17-a">
@@ -106,5 +106,10 @@
         </profileDesc>
         
     </teiHeader>
-    <text type="correspondance" decls="#ampere_corr_L1810-06-17-a"><body><div/></body></text>
+    <text type="correspondance" decls="#ampere_corr_L1810-06-17-a">
+        
+<body><div/></body>
+        
+        
+    </text>
 </TEI>

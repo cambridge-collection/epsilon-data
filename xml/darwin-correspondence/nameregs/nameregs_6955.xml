@@ -3,7 +3,10 @@
 <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-IDENT-6955" status="released">
     <persName>
         <forename>Annie</forename>
-        <surname>Wallace</surname>
+        <choice>
+            <seg><surname notBefore="1848" notAfter="1866">Mitten</surname></seg>
+            <seg><surname notBefore="1866" notAfter="1914">Wallace</surname></seg>
+        </choice>
     </persName>
     
     <note type="dates"><date>1848–1914</date></note>
@@ -11,7 +14,7 @@
     <note type="biography">
         <p>Eldest daughter of William Mitten. Married Alfred Russel Wallace in 1866.</p></note>
     <note type="sources">
-        <p><ref target="../bibliographies/bibl_5211.xml">Marchant ed. 1916</ref>, 2: 252–3.</p>
+        <p>Marchant ed. 1916, 2: 252–3.</p>
     </note>
     <note type="volume">13,14,16,18,19,28</note>
 </person>

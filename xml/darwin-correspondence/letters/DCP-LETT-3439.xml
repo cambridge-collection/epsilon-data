@@ -12,6 +12,7 @@
             <pubPlace>Cambridge</pubPlace>
             <idno type="lognum">1538</idno>
             <date when="1997">1997</date>
+            <ptr type="projectItem" target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3439.xml"/>
             <availability xml:id="rights" status="restricted">
                 <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3439 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3439.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3439.xml</ref>.</licence>
             </availability>
@@ -30,11 +31,17 @@
             </relatedItem>
         </notesStmt>
         <sourceDesc>
-            <bibl type="provenance">Cleveland Health Sciences Library (Robert M. Stecher collection), 19th Century rare Book and Photograph Shop (dealer) (March 2014)</bibl>
+            <bibl type="provenance">Cleveland Health Sciences Library (Robert M. Stecher collection); 19th Century Shop (dealer) (March 2014)</bibl>
             <msDesc>
                 <msIdentifier>
                     <repository key="../repo/repo_93.xml">Cleveland</repository>
                     <idno>and Ralph Colp</idno>
+                </msIdentifier>
+            </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_289.xml">19th Century Shop</repository>
+                    <collection>Mar 2014</collection>
                 </msIdentifier>
             </msDesc>
         </sourceDesc>

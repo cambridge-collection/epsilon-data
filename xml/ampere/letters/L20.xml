@@ -46,7 +46,7 @@
             <idno/>
          <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=20"/></publicationStmt>
          <sourceDesc>
-<bibl type="provenance">Fonds André-Marie Ampère chemise 393 quarto, Archives de l'Académie des sciences, Paris</bibl>
+<bibl type="provenance" sameAs="../../website-pages/repo/EP-REPO-7.xml">Fonds André-Marie Ampère chemise 393 quarto, Archives de l'Académie des sciences, Paris</bibl>
 
             <msDesc type="original_manuscrit">
                <msIdentifier xml:id="ampere_corr_L1799-03-03-a">
@@ -109,5 +109,9 @@
       </profileDesc>
       
    </teiHeader>
-   <text type="correspondance" decls="#ampere_corr_L1799-03-03-a"><body><div/></body></text>
+   <text type="correspondance" decls="#ampere_corr_L1799-03-03-a">
+      
+<body><div/></body>
+      
+   </text>
 </TEI>

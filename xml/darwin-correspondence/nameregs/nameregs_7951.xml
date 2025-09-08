@@ -3,7 +3,10 @@
 <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-IDENT-7951" status="released">
     <persName>
         <forename>Mary</forename>
-        <surname>Butler</surname>
+        <choice>
+            <seg><surname notBefore="1846" notAfter="1863">Kendall</surname></seg>
+            <seg><surname notBefore="1863" notAfter="1927">Butler</surname></seg>
+        </choice>
     </persName>
     
     <note type="dates"><date>1846–1927</date></note>
@@ -11,7 +14,7 @@
     <note type="biography">
         <p>Daughter of Nicholas Kendall, chaplain of the Cornwall county gaol at Bodmin, and his wife Sophia Ann Colenso, a sister of John William Colenso, bishop of Natal. Married Spencer Percival Butler in 1863.</p></note>
     <note type="sources">
-        <p><ref target="../bibliographies/bibl_9153.xml" resp="#mjhawkins"><hi rend="italic">BMD</hi></ref> (<hi rend="italic">Birth, Marriage, Death index</hi>)</p>
+        <p><hi rend="italic">BMD</hi> (<hi rend="italic">Birth, Marriage, Death index</hi>)</p>
         <p>Census returns of England and Wales 1851 (The National Archives: Public Record Office HO107/1904/396/4)</p>
         <p><hi rend="italic">England &amp; Wales, national probate calendar</hi> (<hi rend="italic">index of wills and administrations</hi>), <hi rend="italic">1858–1966</hi> (Ancestry.com, accessed 5 May 2015)</p>
         <p><hi rend="italic">England &amp; Wales, non-conformist and non-parochial registers, 1567–1970</hi> (Ancestry.com, accessed 21 May 2015)</p>
@@ -20,4 +23,5 @@
     <note type="keywords">
         <term type="occupation"/>
     </note>
+    
 </person>

@@ -2,7 +2,7 @@
 <?xml-model href="../../schema/identified-entities.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-IDENT-6808" status="released">
     <persName>
-        <forename>Mr.</forename>
+        <roleName type="honorific">Mr</roleName>
         <surname>Stewart</surname>
     </persName>
     
@@ -10,7 +10,7 @@
     <note type="biography">
         <p>Printer. Partner in Stewart and Murray. Related to Alexander Elder of Smith, Elder, &amp; Company.</p></note>
     <note type="sources">
-        <p><ref target="../bibliographies/bibl_2063.xml" resp="#mjhawkins"><hi rend="italic">DNB</hi></ref> s.v. Smith, George (1824–1901).</p>
+        <p><hi rend="italic">DNB</hi> s.v. Smith, George (1824–1901).</p>
     </note>
     <note type="volume">13</note>
     

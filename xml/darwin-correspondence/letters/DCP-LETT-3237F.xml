@@ -12,6 +12,7 @@
             <pubPlace>Cambridge</pubPlace>
             <idno type="lognum">20912</idno>
             <date when="2002">2002</date>
+            <ptr type="projectItem" target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3237F.xml"/>
             <availability xml:id="rights" status="restricted">
                 <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-3237F by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3237F.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3237F.xml</ref>.</licence>
             </availability>
@@ -24,8 +25,13 @@
             <note type="physdesc" n="ALS">** 2pp</note>
         </notesStmt>
         <sourceDesc>
-            <bibl type="provenance">Remember When Antiquities (Catalogue 28)</bibl>
-            <bibl type="printedSource">Remember When Antiquities Cat. 28</bibl>
+            <bibl type="provenance">Remember When Antiquities (dealers) (Catalogue 28)</bibl>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_350.xml">Remember When Antiquities</repository>
+                    <collection>Cat 28</collection>
+                </msIdentifier>
+            </msDesc>
         </sourceDesc>
     </fileDesc>
     <profileDesc>

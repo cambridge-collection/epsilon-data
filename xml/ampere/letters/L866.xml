@@ -45,7 +45,7 @@
                 <idno/>
             <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=866"/></publicationStmt>
             <sourceDesc>
-<bibl type="provenance">HS. l. 395, Archives de la Royal Society, Londres</bibl>
+<bibl type="provenance" sameAs="../../website-pages/repo/EP-REPO-364.xml">HS. l. 395, Archives de la Royal Society, Londres</bibl>
 
                 <msDesc type="original_manuscrit">
                     <msIdentifier xml:id="ampere_corr_L1827-09-06-a">
@@ -86,5 +86,9 @@
         </profileDesc>
         
     </teiHeader>
-    <text type="correspondance" decls="#ampere_corr_L1827-09-06-a"><body><div/></body></text>
+    <text type="correspondance" decls="#ampere_corr_L1827-09-06-a">
+        
+<body><div/></body>
+        
+    </text>
 </TEI>

@@ -3,7 +3,10 @@
 <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-IDENT-1933" status="released">
     <persName>
         <forename>Elizabeth</forename>
-        <surname>Gould</surname>
+        <choice>
+            <seg><surname notBefore="1804" notAfter="1829">Coxen</surname></seg>
+            <seg><surname notBefore="1829" notAfter="1841">Gould</surname></seg>
+        </choice>
     </persName>
     
     <note type="dates"><date>1804–41</date></note>
@@ -11,7 +14,7 @@
     <note type="biography">
         <p>Natural history artist. Born Elizabeth Coxen. Married John Gould in 1829. Visited Australia, 1838–40, and executed hundreds of drawings for her husband’s publications.</p></note>
     <note type="sources">
-        <p><ref target="../bibliographies/bibl_256.xml" resp="#mjhawkins"><hi rend="italic">Aust. dict. biog</hi></ref>.</p>
+        <p><hi rend="italic">Aust. dict. biog</hi>.</p>
     </note>
     <note type="volume">2,24</note>
     <note type="keywords">

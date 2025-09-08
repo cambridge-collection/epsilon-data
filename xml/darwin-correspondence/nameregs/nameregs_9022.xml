@@ -3,7 +3,10 @@
 <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-IDENT-9022" status="released">
     <persName>
         <forename>Elizabeth</forename>
-        <surname>Hall</surname>
+        <choice>
+            <seg><surname notBefore="1725" notAfter="1751">Darwin</surname></seg>
+            <seg><surname notBefore="1751" notAfter="1800">Hall</surname></seg>
+        </choice>
     </persName>
     
     <note type="dates"><date>1725–1800</date></note>
@@ -12,7 +15,7 @@
         <p>Daughter of Robert Darwin (1682–1754). Sister of Erasmus Darwin (1731–1802). Married Thomas Hall in 1751.
         </p></note>
     <note type="sources">
-        <p><ref target="../bibliographies/bibl_1822.xml" resp="#mjhawkins"><hi rend="italic">Darwin pedigree</hi></ref></p>
+        <p><hi rend="italic">Darwin pedigree</hi></p>
         
     </note>
     <note type="volume">27</note>

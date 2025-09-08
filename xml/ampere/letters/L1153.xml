@@ -45,7 +45,7 @@
                 <idno/>
             <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=1153"/></publicationStmt>
             <sourceDesc>
-<bibl type="provenance">chemise 261, Archives de l'Académie des sciences, Paris</bibl>
+<bibl type="provenance" sameAs="../../website-pages/repo/EP-REPO-7.xml">chemise 261, Archives de l'Académie des sciences, Paris</bibl>
 
                 <msDesc type="original_manuscrit">
                     <msIdentifier xml:id="ampere_corr_L1812-08-05-a">
@@ -118,5 +118,9 @@
         </profileDesc>
         
     </teiHeader>
-    <text type="correspondance" decls="#ampere_corr_L1812-08-05-a"><body><div/></body></text>
+    <text type="correspondance" decls="#ampere_corr_L1812-08-05-a">
+        
+<body><div/></body>
+        
+    </text>
 </TEI>

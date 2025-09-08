@@ -43,7 +43,7 @@
             <idno/>
          <ptr type="projectItem" target="http://www.ampere.cnrs.fr/correspondance/corr_ampere_affi_lettre.php?table=ampere_corr_main&amp;bookId=298"/></publicationStmt>
          <sourceDesc>
-<bibl type="provenance">Fonds André-Marie Ampère chemise 359 (la localisation donnée par Louis DE LAUNAY dans
+<bibl type="provenance" sameAs="../../website-pages/repo/EP-REPO-7.xml">Fonds André-Marie Ampère chemise 359 (la localisation donnée par Louis DE LAUNAY dans
                      la Correspondance du Grand Ampère est aujourd'hui
                      erronée), Archives de l'Académie des sciences, Paris</bibl>
 
@@ -111,5 +111,9 @@
       </profileDesc>
       
    </teiHeader>
-   <text type="correspondance" decls="#ampere_corr_L1806-09-14-a"><body><div/></body></text>
+   <text type="correspondance" decls="#ampere_corr_L1806-09-14-a">
+      
+<body><div/></body>
+      
+   </text>
 </TEI>

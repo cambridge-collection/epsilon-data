@@ -12,6 +12,7 @@
             <pubPlace>Cambridge</pubPlace>
             <idno type="lognum">12136</idno>
             <date when="1989">1989</date>
+            <ptr type="projectItem" target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1241.xml"/>
             <availability xml:id="rights" status="restricted">
                 <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1241 by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1241.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1241.xml</ref>.</licence>
             </availability>
@@ -31,7 +32,7 @@
             </relatedItem>
         </notesStmt>
         <sourceDesc>
-            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 145: 63</bibl>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 145: 63 and Bernard Quaritch (dealers) (2023)</bibl>
             <msDesc>
                 <msIdentifier>
                     <repository key="../repo/repo_106.xml">CUL</repository>
@@ -39,8 +40,15 @@
                     <idno>145: 63</idno>
                 </msIdentifier>
             </msDesc>
+            <msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_334.xml">Quaritch</repository>
+                    <collection>(dealers)</collection>
+                    <idno>2023</idno>
+                </msIdentifier>
+            </msDesc>
         </sourceDesc>
-    </fileDesc>
+        </fileDesc>
     <profileDesc>
         <correspDesc>
             <correspAction type="sent">

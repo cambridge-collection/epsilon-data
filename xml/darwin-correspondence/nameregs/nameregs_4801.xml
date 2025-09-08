@@ -3,7 +3,10 @@
 <person xmlns="http://www.tei-c.org/ns/1.0" xml:id="DCP-IDENT-4801" status="released">
     <persName>
         <forename>Auguste</forename>
-        <surname>Treviranus</surname>
+        <choice>
+            <seg><surname notBefore="1785" notAfter="1826">Langguth</surname></seg>
+            <seg><surname notBefore="1826" notAfter="1864">Treviranus</surname></seg>
+        </choice>
     </persName>
     
     <note type="dates"><date>1785/6–1864</date></note>
@@ -11,7 +14,7 @@
     <note type="biography">
         <p>Daughter of Christian August Langguth, professor at the University of Wittenberg. Married Ludolf Christian Treviranus in 1826.</p></note>
     <note type="sources">
-        <p><ref target="../bibliographies/bibl_7817.xml" resp="#mjhawkins">Treviranus 1866</ref></p>
+        <p>Treviranus 1866</p>
         <p>Stadtarchiv Bonn.</p>
     </note>
     <note type="volume">12</note>
@@ -22,4 +25,5 @@
         <term type="societal">University of Wittenberg</term>
         <term type="place">Wittenberg</term>
     </note>
+    
 </person>

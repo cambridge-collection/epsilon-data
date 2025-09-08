@@ -12,6 +12,7 @@
             <pubPlace>Cambridge</pubPlace>
             <idno type="lognum">20366</idno>
             <date when="1990">1990</date>
+            <ptr type="projectItem" target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1472A.xml"/>
             <availability xml:id="rights" status="restricted">
                 <licence target="https://creativecommons.org/licenses/by-nc/4.0/">DCP-LETT-1472A by <ref target="https://www.darwinproject.ac.uk">The Darwin Correspondence Project</ref> is licensed under a <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>. Based on a work at <ref target="https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1472A.xml">https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-1472A.xml</ref>.</licence>
             </availability>
@@ -28,12 +29,17 @@
             </relatedItem>
         </notesStmt>
         <sourceDesc>
-            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 221.5: 19 photocopy &amp; John Wilson (dealer) Cat. 56</bibl>
+            <bibl type="provenance" resp="#mjhawkins" cert="high">DAR 221.5: 19 photocopy; John Wilson (dealer) (Catalogue 56)</bibl>
             <msDesc>
                 <msIdentifier>
                     <repository key="../repo/repo_106.xml">CUL</repository>
                     <collection>DAR</collection>
-                    <idno>221.5: 19 photocopy &amp; John Wilson Cat. 56</idno>
+                    <idno>221.5: 19 photocopy</idno>
+                </msIdentifier>
+            </msDesc><msDesc>
+                <msIdentifier>
+                    <repository key="../repo/repo_441.xml">Wilson, John</repository>
+                    <collection>Cat. 56</collection>
                 </msIdentifier>
             </msDesc>
             
